@@ -1,0 +1,9 @@
+{Thaumcraft:[
+	{keep-one:[[blockWoodenDevice],[8]]};
+	{keep:[[*Candle,*Egg],[0]]};
+	{_hide:[block,[ArcaneFurnace,Warded,Hole],[]]};
+],
+ThaumicTinkerer:[
+	{_hide:[[forcefield,gaseousLight,nitorGas,gaseousShadow],[]]};
+]
+}

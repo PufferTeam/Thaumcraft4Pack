@@ -1,0 +1,13 @@
+name = "Hardcore Wither"
+filename = "Hardcore Wither-1.7.10-1.1.3-21-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2361ec06984c217cd63260989ac0835c975f05e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2282681
+project-id = 237407

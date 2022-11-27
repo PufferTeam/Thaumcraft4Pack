@@ -1,0 +1,13 @@
+name = "LegibleNei"
+filename = "legiblenei_1.7.10-1.6.7.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b79cf3f6d23d3ce012f22dcef9d3c4275b937c00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2542340
+project-id = 252373

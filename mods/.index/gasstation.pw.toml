@@ -1,0 +1,14 @@
+name = "GasStation"
+filename = "00gasstation-mc1.7.10-0.4.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "a188e0be21523ccfd76eabbba70e2951b54d6b4a"
+
+[update]
+[update.curseforge]
+file-id = 4059562
+project-id = 667409

@@ -1,0 +1,13 @@
+name = "NewThaum"
+author = "Jerome226"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f9e01aee855429668b521bae4549e8c7689287cca6fbc10f63f1de2ec8e5e5e8"
+
+[versions]
+forge = "10.13.4.1614-1.7.10"
+minecraft = "1.7.10"

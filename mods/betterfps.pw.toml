@@ -1,0 +1,13 @@
+name = "BetterFps"
+filename = "BetterFps-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f95cfaac2c48448be48150105e735323b6697a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2244002
+project-id = 229876

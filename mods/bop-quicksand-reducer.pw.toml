@@ -1,0 +1,13 @@
+name = "BoP Quicksand Reducer"
+filename = "quicksandreducer.v.1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3c3ff1e8c9bbbf5d3e011725366384865bf9a24"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2963253
+project-id = 385125

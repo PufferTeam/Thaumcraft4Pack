@@ -1,0 +1,13 @@
+name = "FalsePatternLib"
+filename = "falsepatternlib-mc1.7.10-0.10.13.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "429fa5d191509031c0b4db54d8ba3eb737d9f0a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4015197
+project-id = 665627

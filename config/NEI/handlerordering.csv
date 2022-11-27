@@ -1,0 +1,48 @@
+# Each line in this file should either be a comment (starts with '#') or an ordering.
+# Ordering lines are <handler ID>,<ordering number>.
+# Handlers will be sorted in order of number ascending, so smaller numbers first.
+# Any handlers that are missing from this file will be assigned to 0.
+# Negative numbers are fine.
+# If you delete this file, it will be regenerated with all registered handler IDs.
+aroma1997.core.recipes.nei.ShapedAromicRecipeHandler,0
+aroma1997.core.recipes.nei.ShapelessAromicRecipeHandler,0
+codechicken.nei.recipe.BrewingRecipeHandler,0
+codechicken.nei.recipe.FireworkRecipeHandler,0
+codechicken.nei.recipe.FuelRecipeHandler,0
+codechicken.nei.recipe.FurnaceRecipeHandler,0
+codechicken.nei.recipe.ShapedRecipeHandler,0
+codechicken.nei.recipe.ShapelessRecipeHandler,0
+com.djgiannuzz.thaumcraftneiplugin.nei.recipehandler.ArcaneShapedRecipeHandler,0
+com.djgiannuzz.thaumcraftneiplugin.nei.recipehandler.ArcaneShapelessRecipeHandler,0
+com.djgiannuzz.thaumcraftneiplugin.nei.recipehandler.CrucibleRecipeHandler,0
+com.djgiannuzz.thaumcraftneiplugin.nei.recipehandler.InfusionRecipeHandler,0
+com.jaquadro.minecraft.storagedrawers.integration.notenoughitems.UpgradeItemRecipeHandler,0
+com.pam.harvestcraft.GardenRecipeHandler,0
+connor135246.campfirebackport.client.compat.nei.NEICampfireRecipeHandler,0
+connor135246.campfirebackport.client.compat.nei.NEICampfireStateChangerHandler,0
+ganymedes01.etfuturum.NEI_EtFuturum_Config$NEI_Recipes_BlastFurnace,0
+ganymedes01.etfuturum.NEI_EtFuturum_Config$NEI_Recipes_Smoker,0
+mrtjp.projectred.core.libmc.recipe.PRShapedRecipeHandler,0
+mrtjp.projectred.core.libmc.recipe.PRShapelessRecipeHandler,0
+ru.timeconqueror.tcneiadditions.nei.AspectCombinationHandler,0
+ru.timeconqueror.tcneiadditions.nei.AspectFromItemStackHandler,0
+ru.timeconqueror.tcneiadditions.nei.TCNACrucibleRecipeHandler,0
+ru.timeconqueror.tcneiadditions.nei.TCNAInfusionRecipeHandler,0
+ru.timeconqueror.tcneiadditions.nei.arcaneworkbench.ArcaneCraftingShapedHandler,0
+ru.timeconqueror.tcneiadditions.nei.arcaneworkbench.ArcaneCraftingShapelessHandler,0
+tconstruct.plugins.nei.RecipeHandlerAlloying,0
+tconstruct.plugins.nei.RecipeHandlerCastingBasin,0
+tconstruct.plugins.nei.RecipeHandlerCastingTable,0
+tconstruct.plugins.nei.RecipeHandlerDryingRack,0
+tconstruct.plugins.nei.RecipeHandlerMelting,0
+tconstruct.plugins.nei.RecipeHandlerToolMaterials,0
+team.chisel.compat.nei.RecipeHandlerChisel,0
+tonius.neiintegration.mods.harvestcraft.RecipeHandlerApiary,0
+tonius.neiintegration.mods.harvestcraft.RecipeHandlerChurn,0
+tonius.neiintegration.mods.harvestcraft.RecipeHandlerOven,0
+tonius.neiintegration.mods.harvestcraft.RecipeHandlerPresser,0
+tonius.neiintegration.mods.harvestcraft.RecipeHandlerQuern,0
+tonius.neiintegration.mods.mcforge.RecipeHandlerFluidRegistry,0
+tonius.neiintegration.mods.mcforge.RecipeHandlerOreDictionary,0
+witchinggadgets.client.nei.NEIInfernalBlastfurnaceHandler,0
+witchinggadgets.client.nei.NEISpinningWheelHandler,0
