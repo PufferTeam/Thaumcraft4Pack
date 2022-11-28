@@ -1194,12 +1194,8 @@ hash = "2bb6d0cd4d3b22ee4b26ec6786575094d7bca79eca75650c6a5dd7dd3f4678e5"
 metafile = true
 
 [[files]]
-file = "mods/neodymium-1.7.10-0.1.5.jar"
-hash = "c7119ae0a1f194ef2403a9bd66e6d2c5ef35289a987ce23b752144628bca9f07"
-
-[[files]]
 file = "mods/neodymium.pw.toml"
-hash = "6450249f54e547c6ff6066436675d7df5e646dd5ac9b4e74bf3d2359367ea171"
+hash = "840a443c8b754a4447c7b0306ed4015e2b705751e07551a3a06d47882b470b85"
 metafile = true
 
 [[files]]
