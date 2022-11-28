@@ -1,0 +1,8 @@
+name = "Neodymium"
+filename = "neodymium-1.7.10-0.1.5.jar"
+side = "client"
+
+[download]
+url = "https://github.com/Jerome226/Thaumcraft4Pack/blob/main/mods/neodymium-1.7.10-0.1.5.jar?raw=true"
+hash-format = "sha1"
+hash = "30b54be2cdfcd3e66edd696b8ebb7ae846c6ecf3"
