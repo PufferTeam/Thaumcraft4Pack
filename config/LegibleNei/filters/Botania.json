@@ -2,7 +2,7 @@
 Botania:[
 	{keep:[[customBrick],[0,1,2,3,4]]};
 	{keep:[[altar,manaBeacon,pavement,unstableBlock,flightTiara],[0]]};
-	{hide:[[stone,stone0*,stone2*,stone3*,stone9*,stone10*,stone11*,stone8,doubleFlower*,mushroom,buriedPetals,manaFlame,fakeAir,gaiaHeadBlock,quartzType*,
-		*SlabFull,brewFlask,brewVial,craftPattern,ancientWill],[]]};
+	{hide:[[stone,stone0*,stone2*,stone3*,stone9*,stone8*,stone1*,stone10*,stone11*,stone8,mushroom,buriedPetals,manaFlame,fakeAir,gaiaHeadBlock,quartzType*,
+		*SlabFull,craftPattern,ancientWill],[]]};
 	]
 }

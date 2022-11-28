@@ -10,7 +10,7 @@ hash = "e389dcd715b573bead04fa0740ca64d58725780df43b40f1c1f0ba9dcd1fb54f"
 
 [[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
-hash = "cda099e8be94add27c7c74521de2eda34b1551a8fe0c7dc86dd1f24228e5d314"
+hash = "cb4518c311e65b05234940d04819e6b607e85e10b1aa060749e5a1f197dbe4b3"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
@@ -170,7 +170,7 @@ hash = "8c106a12e39b43ba1f33847a7d3887e577830a47c715725f6d19c9aa683f37a5"
 
 [[files]]
 file = "config/LegibleNei/filters/Botania.json"
-hash = "120dd2c5bd0afde51c0b43dee824551827518424c001723e1970f69bc83a0e30"
+hash = "966e17a1ca3391b05de7fb3895f579ac77e8d5b6be9c2302ae47422dbf0b727c"
 
 [[files]]
 file = "config/LegibleNei/filters/Buildcraft.json"
@@ -213,6 +213,10 @@ file = "config/LegibleNei/filters/Mekanism.json"
 hash = "1d7dfea9de49c21bb7da7f1b398fa1cfdc201a091f23ecda6751c5e1e6bf23f7"
 
 [[files]]
+file = "config/LegibleNei/filters/Netherlicious.json"
+hash = "3340a2defe8f4a8b9174afbd3388a3e1fd3e1a4556c473d3b4d0cc08b71c97c9"
+
+[[files]]
 file = "config/LegibleNei/filters/Openblock.json"
 hash = "a558bdd881e2e7049553add144a831f47bdaf00ef0bea2303b3f432b17db5704"
 
@@ -222,7 +226,11 @@ hash = "0df16722a4bb43282cf0295841c0ada7b9b47576e3f23ed3f711fe23684e2f3b"
 
 [[files]]
 file = "config/LegibleNei/filters/Thaumcraft.json"
-hash = "0771eae7c7cb8be89a68c4994a129e9d05c0d4d9338b46f6ddaf5bd3a2ee950d"
+hash = "21f782dabd1a89515b5cc9cd2a3a80d52709981f3c6e19d3fb13e132195cf36f"
+
+[[files]]
+file = "config/LegibleNei/filters/ThaumicEnergistics.json"
+hash = "a0c683ce501c96eb564aff1a87bb1c9fa297697703cce2368fa64e9d004a0c1a"
 
 [[files]]
 file = "config/LegibleNei/filters/Thermal.json"
@@ -231,6 +239,10 @@ hash = "0a5e32eb2a6112400b8c5689fbf2727ab47cdc08511a2cea7590295eb06713c9"
 [[files]]
 file = "config/LegibleNei/filters/Tinker.json"
 hash = "e109823daca3a569a4794bc1ef5f273654bab3f1cca563a53bd879323b7b9891"
+
+[[files]]
+file = "config/LegibleNei/filters/VillageNames.json"
+hash = "789e69dfe1a779b833d8445c31615dcab89fcde61b1029c7388f5bba1e5cbc2d"
 
 [[files]]
 file = "config/LegibleNei/filters/Yegamol.json"
@@ -242,11 +254,11 @@ hash = "7968d2629e094dc556e0b302eb3ce377a00a482018e9d9310a99ae7b7d0ee15a"
 
 [[files]]
 file = "config/LegibleNei/filters/appliedenergistics2.json"
-hash = "2dca8fb51c5893339725adda5328c488eb0e9b206494eb659032ec8dab2f70b5"
+hash = "eb288ca3a5e77d0ce71966f8174ffaf974fc03bd6767f9b538d8aaab6e7c97b6"
 
 [[files]]
 file = "config/LegibleNei/filters/minecraft.json"
-hash = "44a5ccf2b9316d18b7ec88ae264bcef3759c806e93ecd9280efcc7c1ba928b7a"
+hash = "ebb88fcedf78e8a0d053fe19425da888d123ac80ebf05e1fcb5bea9a1553eecd"
 
 [[files]]
 file = "config/MCFrames.cfg"
@@ -270,7 +282,7 @@ hash = "b08ce6882a21a2ec535dbcf476e42965dddcd97683ff597e4697706fcd38783a"
 
 [[files]]
 file = "config/NEI/client.cfg"
-hash = "acba1ac3e07c51d01bffba9b21986428f42f952dba0b0e0986563e163833f7b2"
+hash = "7fb102265c63ad8aa24b87fcb3f50b9d1d343bfa6bb29826cb46130828960cda"
 
 [[files]]
 file = "config/NEI/handlerordering.csv"
@@ -925,11 +937,6 @@ file = "config/wailaplugins.cfg"
 hash = "bf6f3b9345bb612f0e9ce7197f74b0faa4f1925adab82810320aad0c986667be"
 
 [[files]]
-file = "mods/.index/gasstation.pw.toml"
-hash = "a25b4d90127b56a9a74d7d172427f29fe7ca5859cd4ac2eea94f73543a2d9e3b"
-metafile = true
-
-[[files]]
 file = "mods/1.7.10/Baubles-1.7.10-1.0.1.14.jar"
 hash = "350aadfa23bdb058426e5f8e4a3fd490b8eda41c3fad0d43501361fcd2797ccc"
 
@@ -1153,6 +1160,10 @@ hash = "724751bd967d40471d72cba2e6529af82da0bf7f18f615f54ea536386be4ed88"
 metafile = true
 
 [[files]]
+file = "mods/inventorytweaks-1.7.10-1.5.15.jar"
+hash = "3e5dfe185c446697f021328061814fc35146d3e1c3d633e98656f0135a8f84ec"
+
+[[files]]
 file = "mods/ivtoolkit.pw.toml"
 hash = "1d8ad50e19e6b029a62379e8bb82d45d520bfdc4a01ed7280b30aa7903b3dbb6"
 metafile = true
@@ -1284,4 +1295,4 @@ hash = "ce593957f4637aa25481d668c41569f565d0469b2ee91068de1bb03587486fab"
 
 [[files]]
 file = "scripts/removeunusedshit.zs"
-hash = "43424267667d12d0f07ea920b224ba19816949136bbf513af30cd23724f03763"
+hash = "8de3f901c1cc594bcf479aa6dfe9f7bb056e1e71402c455acd8b0484d331f387"
