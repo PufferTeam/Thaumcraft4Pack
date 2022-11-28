@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "ef46e36669b8ab8a43d955d0fefcf9c9666173a83057c0b6ef578761f4aeb6ab"
+
+[[files]]
 file = "config/AppleCore.cfg"
 hash = "e389dcd715b573bead04fa0740ca64d58725780df43b40f1c1f0ba9dcd1fb54f"
 
@@ -19,362 +23,6 @@ hash = "4ce990cbd2c69fd40013c6a888d00fb8bd9767dd55dd001365252ce5d117ae1f"
 [[files]]
 file = "config/AppliedEnergistics2/VersionChecker.cfg"
 hash = "be152c0288d15b4d09ca73a6b2114d2e3b05dae456e88b9f093a6fa08085e91f"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/README.html"
-hash = "2a202aef81062dc03b29b41fbcac3df04b88ef15dd23f44bd5e0d59e0d8030ea"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/aliases.recipe"
-hash = "4df8d9a1ad27a6af5c97de2a5562f677abf740fd850a4f84b95ffd9932ebbe58"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/decorative/certus.recipe"
-hash = "a4d6d85f1d57993649871db6c9a454ae13588833882a43a92ada241bb6f7faa6"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/decorative/crystals.recipe"
-hash = "c208741caceb55514946e0f4676c1ecdc08e7d70bd24e566cc63ca1d2757133e"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/decorative/fixtures.recipe"
-hash = "bf9ee968b1097912f675d16dc366373af44927f1c541e2984555b9879acbae67"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/decorative/index.recipe"
-hash = "7c86b8f6fc7cf82a2557112f6131a474db796050258dbb8121648b21bc2320c1"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/decorative/quartzglass.recipe"
-hash = "89e80037568d8b40db6a4626a1ae730b984bc101b9ee6bcfe9f868561221c407"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/decorative/skystone.recipe"
-hash = "9ab0fc78b3cad7dc3c14da80ae56fe802a43f482324ea4c2a325fc2c2c4229b4"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/decorative/slabs.recipe"
-hash = "c1be36275750bc01602358ee1d0774b14c3391e9a654753ff5afd5f886f8765f"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/decorative/stairs.recipe"
-hash = "549a0ca92412924d8912d340d2029121cc5f7a7d97630f0930904af43a441016"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/groups.recipe"
-hash = "a72a842f440b117a1542b696f421cf4c8bc6458aa31e0ebac80ccc25299ec9ec"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/index.recipe"
-hash = "d9a0c7b13f8f23fae9a27d6521a3277cb54da0a699b9289cb0cde7caf3673f37"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/materials/cards.recipe"
-hash = "534e3adf6cef6907261c717cb7ada48d79042f5b3b575970b8b0498daf50127e"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/materials/circuits.recipe"
-hash = "374fcd8b9948a97d4a3b636b957d17c00afeafbe772b7896cf07379f7f60a210"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/materials/cores.recipe"
-hash = "9a05441cf39caa821551ffb46367a5c197fb78ba6b72e34c6df1a5c56af01270"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/materials/index.recipe"
-hash = "1d47d0fcbfcaa2522f19a2fc0751dc736f9a1484b597617668df24c272c2e59e"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/materials/presses.recipe"
-hash = "99b27606ada1d532dbfd1fcc47a20236d8acc3b8bc4e29d97fc26973e2bc74e0"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/materials/processors.recipe"
-hash = "594f6b1f34e85ec1adf0fc8bb50d2bb955dad8b40dd40edca092cd9700f14ce5"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/misc/chests.recipe"
-hash = "52fa564c79b37741cbbc74c9648ed951b54aa2ad916df788133d86fbe3668b77"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/misc/deconstruction.recipe"
-hash = "72fcd158514372dbc81a55064e7a14d9c5b1d488521f5e6470f224ed4fe97c09"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/misc/fluixpearl.recipe"
-hash = "8fa7ea046966755426e4858403d08aa3a46f85b0e0b38d52225c6c017c422d02"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/misc/grindstone.recipe"
-hash = "706af3578beb16e282439e44fac46ac985035c1c04c662a862f302df1d256ef2"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/misc/index.recipe"
-hash = "59ca32599425cd1f7a603ab20b1d16240da451e58af74fd1bdc64656e6055afc"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/misc/meteors.recipe"
-hash = "b97cb4a29e0b777e6449226aa23f7c0235519c6e7fa7e1d6d8b431921f0c8204"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/misc/seeds.recipe"
-hash = "1c3ccf346d85a96fdc9a0bad52416ca88247ec868a6d799490ec5611a5626bd8"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/misc/tinytnt.recipe"
-hash = "75dd656e7510c7f601e955a9fbf4766aa911eb8323fc1c035742f7cc720a0e1e"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/misc/vanilla.recipe"
-hash = "19454b7f2d8d376b388195d0f957bf1aaa8d44152fb38e98c517911832f58727"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/blocks/cellworkbench.recipe"
-hash = "3d7e0efc69b87730fcd3e118a151a2bc2334988e2fb2f38222fbe6a99aaa6766"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/blocks/controller.recipe"
-hash = "8e907aae86e7c9d021519e654ce5d793879242e4b7474e3541e15c4ce640b18d"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/blocks/crystal-processing.recipe"
-hash = "e46799ec455856d57effd6063ac553a83b8cc3e2f7785598af0d159fd12fbf27"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/blocks/energy.recipe"
-hash = "7f03478296a32990e139b18b95b9327a2c0d7e6285f46c414e0877ea8c1ad97b"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/blocks/index.recipe"
-hash = "b7b4906bfe730612c1c2f658cea6b02f8a3ad5c554a2ee6205f9532c7401c29e"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/blocks/inscribers.recipe"
-hash = "a1c9a1ff513af4ebc49cd1763978e4f6c85a002cba819e05a90d372b2919b376"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/blocks/interfaces.recipe"
-hash = "13dc2299233a4a044b39610df311eb4b46eddad3d5b02c0edd78039a015f5852"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/blocks/io.recipe"
-hash = "d4fdbada417ef2d6a31a3416b76cc51061b8c3665b3c94377fcb1f61d3c05bc1"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/blocks/quantum.recipe"
-hash = "fd3b13a5472db8368a238c51524157deb1e5698531ae6a9e3c930f4d5ee6eaa1"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/blocks/security.recipe"
-hash = "c29dafcd9cc035ba0e455572a2889c5e39500b6dafdad5f65973727fbe3b9ec0"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/blocks/spatial-io.recipe"
-hash = "4adcfe2e8fbb7ce180268d93b3dd476d7e7dfb0773b2466aaa8a0276dc2d83e2"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/blocks/storage.recipe"
-hash = "47a3c9ddf904a89a7fac09eb54cb67b344fc4dbf8b8918f38d2ecbdd16fc02e8"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/cables/covered.recipe"
-hash = "078b580ed860d5be9ec347ce17db3296e37963d298b81835e1c77b118d211963"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/cables/dense-covered.recipe"
-hash = "ea2fd9b4a3487d65be469f8ffeeefe27decc64502f2a50c1394fa49af9722df0"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/cables/dense.recipe"
-hash = "4aea666eb3b1fb9b9b73e42cbd7992376640907b102671c54628510d85c7c825"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/cables/glass.recipe"
-hash = "30108561ede237861cedb5abe4ed0866c049a167a443c81217777ed5255bf068"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/cables/index.recipe"
-hash = "b1194b2f8096cf842af3167840bda117a28cb3a062d7f7da6c71d0076e019eab"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/cables/smart.recipe"
-hash = "4bdfb88f8a4e2aa79bae69a6822e4cc5b45dd737ac67db6b3459e2e726ac2782"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/cables/udense-covered.recipe"
-hash = "bbfc9ccd8b0761b6366cd8951ce371b8eab4974ae301d087805c155ce6c5239c"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/cables/udense.recipe"
-hash = "39bb045d8f8b3a84ba16fd976db36e634483e2bc61c9f3bc8ffe35e27cbcbd2d"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/cells/empty.recipe"
-hash = "106d6cdc0faacc6c4f7b234bc601d65551fde1be3592d4a7ae0e5e0d3356fe6e"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/cells/index.recipe"
-hash = "971a23f42ffdd06a3a382aaa7aa8516ca69a5aaff652d0d92c88cbefcea624ce"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/cells/spatial-components.recipe"
-hash = "f836002fd50d0e4ef0c78c6ce578a6309df697b51e9fbc6dd783c0333c4c1f19"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/cells/spatial.recipe"
-hash = "c72e560e0ceb0cece74f85559935f58dfc645197632a9bb5004a453965f63770"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/cells/storage-components.recipe"
-hash = "a897a5fcec808c1b135d181d89a782bb4a8880c00cefce8c342177a9afeb8ca3"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/cells/storage.recipe"
-hash = "299370a2827411863b32961c38184c83466518172ecb7593b68077a165ceecbf"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/cells/view.recipe"
-hash = "c0191641ab0111f8f4affd91990dfacdeea72f1d169ec8306b4a71b0936410f5"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/crafting/assembler.recipe"
-hash = "343edd101e538908a4482f05c420052b9dc37eb8318d70458bd810b22b09e301"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/crafting/cpu.recipe"
-hash = "b28bf64c5e0d4c1fb1c4aa1ab27d7b481cb2b97c69d1e295cf71a10833a784dc"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/crafting/index.recipe"
-hash = "1b77d68ad77d66a2f22644bd0c140cb70bd46ae7e3395cdce1916364c6efecf3"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/crafting/patterns.recipe"
-hash = "a3aefbb3f67c31e6452c5299cabbc7070f05b64a99b4cde482b742b0a3af81e1"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/index.recipe"
-hash = "07d6f61b2be1650acb78d436d6c6095fdda7f235a484cb9d290059d71c378746"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/parts/cable-anchor.recipe"
-hash = "e165be9c2c8fb77043ef80252153c90d20a7b1edf1076fa45414087b3657b557"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/parts/emitters.recipe"
-hash = "d6b9ecd164863b10206025b53e86b578999f9edf2d05b11d3ec333135a3c3697"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/parts/index.recipe"
-hash = "3b75c7b4e4f2224593cdc5683c49ad8b660a36af5d7188bd05f3e1c92e0be1b1"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/parts/io-buses.recipe"
-hash = "9ffcea64985f7ee2edbb71f73843523cdfe2b66e2cccb85ff482d98ef4bc6508"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/parts/monitors.recipe"
-hash = "3187f473c9da28beb5679934d226127bd928707b8f3ed174e9514cab18054ea3"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/parts/panels.recipe"
-hash = "44c3c44ed1df30c2b9ab5dcfd93eaef8e93040f9483a6cc73236058b85b6ba8c"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/parts/planes.recipe"
-hash = "f9a28fc690f5a4dc5d3d731f0c88b1f7696b68705c6d354ab89e280dd0f6e321"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/parts/quartz-fiber.recipe"
-hash = "6bee6c17f779a03a7613a9491c3303dd90c86ed7dfd73fda51ed24d195543ad5"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/parts/terminals.recipe"
-hash = "d062048c1de8b03c1ecd8de1141a71dcfbaae61efc7767bd869ef3493de0e5c2"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/parts/toggle-buses.recipe"
-hash = "ec117bd6bedb31c602273742a7707f119218dfd165224ba7bb86e913472ee15a"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/parts/tunnels.recipe"
-hash = "d278e129081765f4f669e10c6c3d051a0eb1a1ee20aee853c6b36cb680bcaab5"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/network/wireless.recipe"
-hash = "12cbf7e265ef4d07de5182b8be359f4b5bcdee3c555341f0bc38f3545098645a"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/oredict.recipe"
-hash = "50e1dae6d6a63af2cde411bf988e56327b9270f762fe078d25d9bdda5ae0c6ad"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/processing/factorization.recipe"
-hash = "936fa3b4a3e34a6d6dc0dafffa5738633b5dd8640fcaae93ab3f405bdb230bde"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/processing/grind.recipe"
-hash = "122d0dfca75ec76e74fcb216f541dd957a2bfc8e6b61aca16d100dbe61d34a1f"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/processing/hydraulicraft.recipe"
-hash = "16f15feaa214a71801792c817f1de5f414a2ecc3218e4687746dd01b29b9dea3"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/processing/ic2.recipe"
-hash = "05f9221883ef63896c04997245b6e24e1b0861724b255f3b336c4793d12c45ac"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/processing/index.recipe"
-hash = "6c2958aa52268b899f7e22e2a38898287a1b1681d415cfd7b612487112a1048e"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/processing/mekanism.recipe"
-hash = "7be9936077cb605516da304add3b9f478bc2a66983f2269410dfe2c99e883785"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/processing/rotarycraft.recipe"
-hash = "b1943ac83d44fa99dace3f0475fa70f88ca45403175188bad5262bb0b5514c38"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/processing/te.recipe"
-hash = "5d839ce0eb0957d14cd713c2aed9305d2cb3e1af7763c97db989df2df94d886b"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/processing/vanilla.recipe"
-hash = "ca8fb4a985f8516390d441d1022c59ccf55c068957f514688609d4953415efdc"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/tools/certus-quartz.recipe"
-hash = "db5b0d6d7cfc9075fe0cbcea3374cf9bca7cbfb1554885208ac0366a791d1127"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/tools/index.recipe"
-hash = "4412beb56f99a71aedc2dab82c0efed8829b0e6262ffadbf49666b2448100111"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/tools/matter-cannon.recipe"
-hash = "f2b9f7f137372c4dca0cf3c6d4536ca7896808f1a7eec657c7f237f75bb12c34"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/tools/misctools.recipe"
-hash = "c5bdf286f4170f3b2007cb70eec920c6259d06042bcc55d074c31cbe8669872f"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/tools/nether-quartz.recipe"
-hash = "f44f4d866bc6aecc29664e706e2a068249671d1f11014929bd9fb629fbcbc554"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/tools/network.recipe"
-hash = "0f07b148a13d7d44c79963f8ec6f71a4b65cf79b42b5987504466465452d1482"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/generated/tools/paintballs.recipe"
-hash = "435e81a6e26199378dd9cb5aaf96544651d7546602e72a041ddbcc1dd11b27af"
-
-[[files]]
-file = "config/AppliedEnergistics2/recipes/items.csv"
-hash = "b1b2c7cd7b233e53fd641ca6a84b10a1a0b73ccc3cd7fbbe1e3b4357e47afec3"
 
 [[files]]
 file = "config/AquaTweaks.cfg"
@@ -495,18 +143,6 @@ hash = "b8d8b808de99c2e5d85d64da0606ced87af2c04c828c6de3416dcf496cbe5380"
 [[files]]
 file = "config/HardcoreEnderExpansion.clientsave.cfg"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/IguanaTinkerTweaks/Modules.cfg"
-hash = "08beccb6d5292654b70a9209bd1133b8626b49fccdb13d50253100b3e0140fee"
-
-[[files]]
-file = "config/IguanaTinkerTweaks/main.cfg"
-hash = "146da6157b33f9a0f09fc58995a4cb825a8df357ad0d2a9c69c009720437d5ba"
-
-[[files]]
-file = "config/IguanaTinkerTweaks/restrictions.cfg"
-hash = "4c63d1d3fb04e16908905d51d1c1ebfa7388b991704eb49bfd3d043c75e667a0"
 
 [[files]]
 file = "config/InfernalMobs.cfg"
@@ -1001,10 +637,6 @@ file = "config/WitchingGadgets.cfg"
 hash = "28c4862d860c7933ac468b4a6ac983eb604d4dd6c83ecef51d8cda68c2db4536"
 
 [[files]]
-file = "config/aether/AetherI.cfg"
-hash = "d4b46db7c517a919f34ac7afdba35c08c23b4fed3c595a26a64ec4b49a3b3984"
-
-[[files]]
 file = "config/archaicfix.cfg"
 hash = "186515ce213970bd6bdf1865a5275bc6fb3a0ac77b6bae5921016305c3467a71"
 
@@ -1225,14 +857,6 @@ file = "config/mixingasm/transformer_inclusion_list_default.txt"
 hash = "c3eeec5571ab725b754509a1b5720c3cc1119c90d0442fc92acc531244fb3f3a"
 
 [[files]]
-file = "config/mjutils.cfg"
-hash = "def968a184cdeb6f6494530886aef8d705fe2a9b233aec02767dddef958d21b2"
-
-[[files]]
-file = "config/mjutils_disabled_hooks.txt"
-hash = "6722cf7b2adfb8349ee1e9917bc9276c41e4169bdbbf2dcd5465129bb2a92421"
-
-[[files]]
 file = "config/mowziesmobs.cfg"
 hash = "9619ce35806098b2b9e0f7e5db9889d802909eea0130f8f83cc5fa0e4f0c0c7f"
 
@@ -1301,10 +925,6 @@ file = "config/wailaplugins.cfg"
 hash = "bf6f3b9345bb612f0e9ce7197f74b0faa4f1925adab82810320aad0c986667be"
 
 [[files]]
-file = "config/watermod.cfg"
-hash = "2f39ac48c5399a4432dad1ea617fb2cf01103d5e46fc78293a709a6f52b03481"
-
-[[files]]
 file = "mods/.index/gasstation.pw.toml"
 hash = "a25b4d90127b56a9a74d7d172427f29fe7ca5859cd4ac2eea94f73543a2d9e3b"
 metafile = true
@@ -1340,6 +960,10 @@ hash = "4147ddba739bdf2242f5529b90773b337f818b345c252bf62ffb4c2aff309c21"
 [[files]]
 file = "mods/NEIIntegration-1.7.10-1.2.3.jar"
 hash = "e09c470a64a1b2a2b9ff97cbc2864aa5edcfd7bc20053256b15959f53c06fa4f"
+
+[[files]]
+file = "mods/OptiFine_1.7.10_HD_U_D6.jar"
+hash = "415cba487ea5eddca981c6a00a5426236f8df36c635f5808aba227ad96d1b478"
 
 [[files]]
 file = "mods/StorageDrawers-1.7.10-1.11.19-GTNH.jar"
@@ -1419,6 +1043,11 @@ hash = "d2ef0245eac12bb25282309c4f9f594a8898d0535cc9d17315a19de5de23d197"
 metafile = true
 
 [[files]]
+file = "mods/backhand.pw.toml"
+hash = "68917d26dd0931744e8abfafbec3572a270a586efe7dc9f447a62f1ba4a2d038"
+metafile = true
+
+[[files]]
 file = "mods/betterfps.pw.toml"
 hash = "1d7be9acf687897e75921e34c3236d3a78364d140c13b6c9ac4c4293635a6ebc"
 metafile = true
@@ -1458,12 +1087,17 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "8bc2748fd0198006b462e861e80b039371c8af5a181fd8179abc3dda6da9e19f"
+hash = "f5b1228d52bc48ba33e17c1c061ba923dc2002a452668027319e2aa6c3bcd6a0"
 metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "bf52436734de014ef98d387f42c00622fdbe5e6e526e41787909abda33383c70"
+metafile = true
+
+[[files]]
+file = "mods/default-world-generator.pw.toml"
+hash = "660b1f3290f0bc62c70bf3fc9e014c32a0a9ae73943f2e0ed38255130795f3b1"
 metafile = true
 
 [[files]]
@@ -1487,7 +1121,7 @@ metafile = true
 
 [[files]]
 file = "mods/flying-cullers.pw.toml"
-hash = "a3a834ee7c224c31213353aafd4d4b4a0d039a14b62e7cbbadf2bf4b52ae080c"
+hash = "48ac8d4251adfc854577dc8d4e7dc2a527910a96011a2e68ee71bf7e676edf9c"
 metafile = true
 
 [[files]]
@@ -1498,6 +1132,11 @@ metafile = true
 [[files]]
 file = "mods/fplib.pw.toml"
 hash = "217669f2050d795bdc1850d2e7a82687ddbbb76802e65ec12bf24a04d81cd61d"
+metafile = true
+
+[[files]]
+file = "mods/fullscreen-windowed-borderless-for-minecraft.pw.toml"
+hash = "2e61fd567c10e346687f6a2a337723bf5d17fb4059fdb82ec50ab6dc7508ab05"
 metafile = true
 
 [[files]]
@@ -1540,7 +1179,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "c849632fd2348967eb369eaecd93f65de371cd9110650f828f995a4929166ae3"
+hash = "249a426c0e7b86b0fb22be99c328e2db9ece689561018257b3fa6f03927defca"
 metafile = true
 
 [[files]]
@@ -1563,13 +1202,13 @@ hash = "98ef053e1bdb2a1ab8afd61a94cb93224e1f033939176321952ac7477aee8873"
 metafile = true
 
 [[files]]
-file = "mods/optifine-by-optifine-net.pw.toml"
-hash = "fc09927f2e5c075263506d131b78bec859d8c201f28dc3c08e3ed248c5828c21"
+file = "mods/project-74246.pw.toml"
+hash = "dae0b8839f62a9b3c1d1c2f8a6ee4854ef45eba405852a85b9d3b2a6e2e45091"
 metafile = true
 
 [[files]]
-file = "mods/project-74246.pw.toml"
-hash = "dae0b8839f62a9b3c1d1c2f8a6ee4854ef45eba405852a85b9d3b2a6e2e45091"
+file = "mods/reauth.pw.toml"
+hash = "80007fd661fdc9046023b343d5795cc26b0e6c7a5bc3354048b0e323df99b5a8"
 metafile = true
 
 [[files]]
@@ -1631,6 +1270,14 @@ hash = "2ad4b559de0357ec11843111222f95e50d5364de6e0b0e681a176879d0aebbe6"
 [[files]]
 file = "optionsof.txt"
 hash = "477ea60bd089664056c760a685daa2bc457002983ec6a8eafdc1b71b3900650e"
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "b61220834664057d221eb9f448a1fa00caa2e6c658f20e28873b59bb7bef9bb4"
 
 [[files]]
 file = "scripts/BotaniaAspects.zs"

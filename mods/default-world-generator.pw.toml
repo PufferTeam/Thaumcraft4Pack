@@ -1,0 +1,13 @@
+name = "Default World Generator"
+filename = "DefaultWorldGenerator-1.7.10-0.1-b13-universal.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "13e8a97e1216461ed6a88a4c92844431db990dfd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2225179
+project-id = 226188
