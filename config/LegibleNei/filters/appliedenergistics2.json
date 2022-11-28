@@ -7,6 +7,5 @@ appliedenergistics2:[
 	{_hide:[tile.Block,[MatrixFrame,CableBus,Paint],[]]};
 	{_hide:[[item.ItemEncodedPattern],[]]};
 	{hide:[[item.ItemMultiPart],[0-15,20-35,40-55,60-75,440,380,29,55,54]]};
-	{hide:[[tile.BlockInterface],[]]};
 	]
 }

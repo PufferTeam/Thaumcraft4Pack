@@ -24,7 +24,6 @@ recipes.remove(<Botania:stone9Slab:*>);
 recipes.remove(<Botania:stone10Slab:*>);
 recipes.remove(<Botania:stone11Slab:*>);
 
-recipes.remove(<appliedenergistics2:tile.BlockInterface>);
 recipes.remove(<appliedenergistics2:item.ItemMultiPart:440>);
 recipes.remove(<appliedenergistics2:item.ItemMultiPart:380>);
 recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:29>);

@@ -230,7 +230,7 @@ hash = "21f782dabd1a89515b5cc9cd2a3a80d52709981f3c6e19d3fb13e132195cf36f"
 
 [[files]]
 file = "config/LegibleNei/filters/ThaumicEnergistics.json"
-hash = "a0c683ce501c96eb564aff1a87bb1c9fa297697703cce2368fa64e9d004a0c1a"
+hash = "43a870618212d635b84b0781c7481ebec2160330833b51ae19d8e1e16f6abc19"
 
 [[files]]
 file = "config/LegibleNei/filters/Thermal.json"
@@ -254,7 +254,7 @@ hash = "7968d2629e094dc556e0b302eb3ce377a00a482018e9d9310a99ae7b7d0ee15a"
 
 [[files]]
 file = "config/LegibleNei/filters/appliedenergistics2.json"
-hash = "eb288ca3a5e77d0ce71966f8174ffaf974fc03bd6767f9b538d8aaab6e7c97b6"
+hash = "a53dc7c9a9fb595ca0cabe6c846465f75ff0ee8bad492fa3a2df883379f1f23f"
 
 [[files]]
 file = "config/LegibleNei/filters/minecraft.json"
@@ -1295,4 +1295,4 @@ hash = "ce593957f4637aa25481d668c41569f565d0469b2ee91068de1bb03587486fab"
 
 [[files]]
 file = "scripts/removeunusedshit.zs"
-hash = "8de3f901c1cc594bcf479aa6dfe9f7bb056e1e71402c455acd8b0484d331f387"
+hash = "c4dac798da5291a91275f957f12b1809203288c4fccef087dc84f07184275395"
