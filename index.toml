@@ -10,7 +10,7 @@ hash = "e389dcd715b573bead04fa0740ca64d58725780df43b40f1c1f0ba9dcd1fb54f"
 
 [[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
-hash = "cb4518c311e65b05234940d04819e6b607e85e10b1aa060749e5a1f197dbe4b3"
+hash = "cb00032c18f318c5ea136de8aa346e63d3fdd4b9b728f6a262cd6c57f46bf1db"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
@@ -42,7 +42,7 @@ hash = "cd2a3592706e2f95284310f271a6e85f85cb0a4049b89f5ebf74ce0100c63d5c"
 
 [[files]]
 file = "config/Botania.cfg"
-hash = "7f67130441d5c7c76ced93c5891ec1eb1ec0da4531124c107437af6d415bca9b"
+hash = "a5f535195d1c74c2778d9ca57ced8785c364c8588fc6a1ed6bf4f349eef63a76"
 
 [[files]]
 file = "config/CarpentersBlocks.cfg"
