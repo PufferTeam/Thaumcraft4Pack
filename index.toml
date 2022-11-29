@@ -1137,11 +1137,6 @@ hash = "217669f2050d795bdc1850d2e7a82687ddbbb76802e65ec12bf24a04d81cd61d"
 metafile = true
 
 [[files]]
-file = "mods/fullscreen-windowed-borderless-for-minecraft.pw.toml"
-hash = "2e61fd567c10e346687f6a2a337723bf5d17fb4059fdb82ec50ab6dc7508ab05"
-metafile = true
-
-[[files]]
 file = "mods/gadomancy-1.7.10-1.0.8.3.jar"
 hash = "d052a324284be064ca71ec5e496f322c6b8efc119a7e8682f3e69b9b7128db5c"
 
