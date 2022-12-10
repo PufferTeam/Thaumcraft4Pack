@@ -1,0 +1,13 @@
+name = "Witchery Master Patch"
+filename = "witchery-1.7.10-0.25.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98113723d9dc56de4de87d35c71ff18f481ec796"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3068428
+project-id = 402125

@@ -1,0 +1,13 @@
+name = "JourneyMap QOL Additions"
+filename = "JourneyMapQol_1.7.10-0.8.9.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "f0bf59eb5bc1b0dd81c73b27ec244dee38b59807"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3966316
+project-id = 621947

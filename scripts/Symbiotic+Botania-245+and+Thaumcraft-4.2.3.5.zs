@@ -273,15 +273,6 @@ val pickaxeOfTheCore = <Thaumcraft:ItemPickaxeElemental:*>;
 val voidMetal = <Thaumcraft:ItemResource:16>;
 val voidMetalSeed = <Thaumcraft:ItemResource:17>;
 
-
-
-
-//VANILLA
-mods.botania.Lexicon.addCraftingPage("botania.page.thermalily2", "botania.entry.thermalily", 2, [blazeRod * 4], [[[thermalily, balancedShard]]]);
-game.setLocalization("en_US", "botania.page.thermalily2", "Melting shards into &1Blaze Rods&0");
-recipes.addShapeless(blazeRod * 4, [thermalily, balancedShard]);
-
-
 //BOTANIA
 mods.botania.Lexicon.removePage("botania.entry.dreamwoodSpreader", 1);
 mods.botania.Lexicon.addCraftingPage("botania.page.dreamwoodSpreader1", "botania.entry.dreamwoodSpreader", 1, [elvenManaSpreader], [
@@ -482,13 +473,13 @@ recipes.addShaped(table, [
 mods.thaumcraft.Research.refreshResearchRecipe("TABLE");
 
 
-mods.botania.Lexicon.addCraftingPage("botania.page.nightshade2", "botania.entry.nightshade", 2, [greatwoodSapling], [[[pastureSeed, nightshade, saplings]]]);
+mods.botania.Lexicon.addCraftingPage("botania.page.nightshade2", "botania.entry.nightshade", 2, [greatwoodSapling], [[[pastureSeed, silverwoodSapling]]]);
 game.setLocalization("en_US", "botania.page.nightshade2", "Creating &1Greatwood Saplings&0");
-recipes.addShapeless(greatwoodSapling, [pastureSeed, nightshade, saplings]);
+recipes.addShapeless(greatwoodSapling, [pastureSeed, silverwoodSapling]);
 
-mods.botania.Lexicon.addCraftingPage("botania.page.daybloom3", "botania.entry.daybloom", 3, [silverwoodSapling], [[[pastureSeed, daybloom, saplings]]]);
+mods.botania.Lexicon.addCraftingPage("botania.page.daybloom3", "botania.entry.daybloom", 3, [silverwoodSapling], [[[pastureSeed, greatwoodSapling]]]);
 game.setLocalization("en_US", "botania.page.daybloom3", "Creating &1Silverwood Saplings&0");
-recipes.addShapeless(silverwoodSapling, [pastureSeed, daybloom, saplings]);
+recipes.addShapeless(silverwoodSapling, [pastureSeed, greatwoodSapling]);
 
 mods.thaumcraft.Arcane.removeRecipe(mirroredGlass);
 mods.thaumcraft.Arcane.addShapeless("BASICARTIFACE", mirroredGlass, "ordo 5", 
@@ -605,18 +596,6 @@ recipes.removeShaped(<Botania:terrasteelHelmReveal>);
 
 
 //THAUMCRAFT RESEARCH NODES
-
-//ResearchKey, TabKey, AspectList, X, Y, Complexity, ItemStack
-mods.thaumcraft.Research.addResearch("SYMBIOTICBOTANIA", "BASICS", "terra 1, ordo 1", 0, -1 as int, 0, <Botania:lexicon>);
-mods.thaumcraft.Research.setRound("SYMBIOTICBOTANIA", true);
-mods.thaumcraft.Research.setAutoUnlock("SYMBIOTICBOTANIA", true);
-mods.thaumcraft.Research.addPage("SYMBIOTICBOTANIA", "tc.research_page.SYMBIOTICBOTANIA.1");
-mods.thaumcraft.Research.addCraftingPage("SYMBIOTICBOTANIA", greatwoodSapling);
-mods.thaumcraft.Research.addCraftingPage("SYMBIOTICBOTANIA", silverwoodSapling);
-game.setLocalization("en_US", "tc.research_name.SYMBIOTICBOTANIA", "Botania");
-game.setLocalization("en_US", "tc.research_text.SYMBIOTICBOTANIA", "Symbiotic Botania and Thaumcraft");
-game.setLocalization("en_US", "tc.research_page.SYMBIOTICBOTANIA.1", "All those pretty flower patches around seem to harness some kind of magical energies similar to that of aura nodes.<BR>You've determined that you can use these flowers to make elemental shards and even transform saplings into Greatwood and Silverwood saplings.<BR>It also seems that some more advanced Botanical objects can be created with Thaumaturgical items, and vice versa. With more experience you're sure you'll unlock these secrets some day.");
-
 
 mods.thaumcraft.Research.addResearch("SYMBIOTICBOTANIAINFUSION", "ARTIFICE", "terra 1, herba 1, arbor 1, praecantatio 1", -4 as int, 6, 8, <Botania:pylon>);
 //mods.thaumcraft.Research.setSpikey("SYMBIOTICBOTANIAINFUSION", true);

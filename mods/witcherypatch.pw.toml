@@ -1,0 +1,13 @@
+name = "WitcheryPatch"
+filename = "WitcheryPatch-1.7.10-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cab602f48279df46fb0c4aec0af735502c7b315d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2340610
+project-id = 253015
