@@ -1113,6 +1113,11 @@ hash = "de54728a0bf92a822da85b7d55b84fe73986b9b09917151d02e20ca9b0db2315"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "ebf34f60e49eed9b85a3bf4b1253c7aa35ab841d8f444ff8670dfdf2c59d4d01"
+metafile = true
+
+[[files]]
 file = "mods/fastcraft.pw.toml"
 hash = "1142a07dbc3c00b5eb5a7509d68e75a8b2ba63566d39d8e17de1163ea3409cbb"
 metafile = true
