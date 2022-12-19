@@ -1293,7 +1293,7 @@ metafile = true
 
 [[files]]
 file = "mods/tc4tweaks.pw.toml"
-hash = "2e85133a087da7aeef9a898ee356f2fba46705c6520484bcfa91dcbb056cfb20"
+hash = "c6f5c4322d127dab95c0bf821518bd88a2c6cb9b361d02aac8a0132775a598c1"
 metafile = true
 
 [[files]]
