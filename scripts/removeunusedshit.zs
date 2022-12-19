@@ -33,3 +33,9 @@ recipes.remove(<appliedenergistics2:item.ItemViewCell>);
 
 recipes.remove(<thaumicenergistics:storage.essentia:*>);
 recipes.remove(<thaumicenergistics:storage.component:*>);
+
+recipes.remove(<StorageDrawers:upgradeTemplate>);
+recipes.addShaped(<StorageDrawers:upgradeTemplate>, [
+	[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],
+	[<ore:stickWood>, <ore:blockGlassColorless>, <ore:stickWood>],
+	[null, <ore:stickWood>, <ore:stickWood>]]);
