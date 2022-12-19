@@ -38,4 +38,4 @@ recipes.remove(<StorageDrawers:upgradeTemplate>);
 recipes.addShaped(<StorageDrawers:upgradeTemplate>, [
 	[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],
 	[<ore:stickWood>, <ore:blockGlassColorless>, <ore:stickWood>],
-	[null, <ore:stickWood>, <ore:stickWood>]]);
+	[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>]]);
