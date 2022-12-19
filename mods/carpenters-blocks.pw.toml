@@ -1,0 +1,13 @@
+name = "Carpenter's Blocks"
+filename = "Carpenter's Blocks v3.3.8.2 - MC 1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a237288349d19459fdd99e8cc1df10ddc3f2ffc0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2719376
+project-id = 228932

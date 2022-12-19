@@ -1,0 +1,13 @@
+name = "Damage Tilt"
+filename = "DamageTilt-1.7.10-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d9049a2f3683276b4a3279b8d5377bd60ad3b786"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3097543
+project-id = 411705

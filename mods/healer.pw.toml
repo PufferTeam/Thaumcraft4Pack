@@ -1,0 +1,13 @@
+name = "Healer"
+filename = "Healer-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e30d35978614eb34336869f6ab0b27d97e0d8e3d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3568545
+project-id = 554840

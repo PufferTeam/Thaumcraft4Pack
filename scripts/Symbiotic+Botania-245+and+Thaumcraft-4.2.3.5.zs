@@ -493,13 +493,6 @@ mods.thaumcraft.Arcane.addShaped("INFUSION", runicMatrix, "ordo 40", [
 	[arcaneStoneBlock, shards, arcaneStoneBlock]]);
 mods.thaumcraft.Research.refreshResearchRecipe("INFUSION");
 
-mods.thaumcraft.Arcane.removeRecipe(golemAnimationCore);
-mods.thaumcraft.Arcane.addShaped("COREGATHER", golemAnimationCore, "ordo 10, ignis 10", [
-	[null, brick, null],
-	[brick, pixieDust, brick],
-	[null, brick, null]]);
-mods.thaumcraft.Research.refreshResearchRecipe("COREGATHER");
-
 mods.botania.Lexicon.removePage("botania.entry.pylon", 1);
 mods.botania.Lexicon.addCraftingPage("botania.page.pylon1", "botania.entry.pylon", 1, [manaPylon], [
 	[[null, gold, null],
@@ -591,6 +584,52 @@ mods.thaumcraft.Crucible.addRecipe("ELDRITCHMINOR", voidMetalSeed, terraSteelNug
 mods.thaumcraft.Research.refreshResearchRecipe("ELDRITCHMINOR");
 
 
+mods.thaumcraft.Infusion.removeRecipe(<ThaumicTinkerer:enchanter>);
+
+mods.thaumcraft.Research.orphanResearch("ENCHANTER");
+mods.thaumcraft.Research.removeResearch("ENCHANTER");
+
+mods.thaumcraft.Research.orphanResearch("TTENCH_AUTO_SMELT");
+mods.thaumcraft.Research.removeResearch("TTENCH_AUTO_SMELT");
+
+mods.thaumcraft.Research.orphanResearch("TTENCH_FINAL");
+mods.thaumcraft.Research.removeResearch("TTENCH_FINAL");
+
+mods.thaumcraft.Research.orphanResearch("TTENCH_TUNNEL");
+mods.thaumcraft.Research.removeResearch("TTENCH_TUNNEL");
+
+mods.thaumcraft.Research.orphanResearch("TTENCH_SHATTER");
+mods.thaumcraft.Research.removeResearch("TTENCH_SHATTER");
+
+mods.thaumcraft.Research.orphanResearch("TTENCH_SLOW_FALL");
+mods.thaumcraft.Research.removeResearch("TTENCH_SLOW_FALL");
+
+mods.thaumcraft.Research.orphanResearch("TTENCH_DISPERSED");
+mods.thaumcraft.Research.removeResearch("TTENCH_DISPERSED");
+
+mods.thaumcraft.Research.orphanResearch("TTENCH_ASCENT_BOOST");
+mods.thaumcraft.Research.removeResearch("TTENCH_ASCENT_BOOST");
+
+mods.thaumcraft.Research.orphanResearch("TTENCH_DESINTEGRATE");
+mods.thaumcraft.Research.removeResearch("TTENCH_DESINTEGRATE");
+
+mods.thaumcraft.Research.orphanResearch("TTENCH_POUNCE");
+mods.thaumcraft.Research.removeResearch("TTENCH_POUNCE");
+
+mods.thaumcraft.Research.orphanResearch("TTENCH_QUICK_DRAW");
+mods.thaumcraft.Research.removeResearch("TTENCH_QUICK_DRAW");
+
+mods.thaumcraft.Research.orphanResearch("TTENCH_VAMPIRISM");
+mods.thaumcraft.Research.removeResearch("TTENCH_VAMPIRISM");
+
+mods.thaumcraft.Research.orphanResearch("TTENCH_FOCUSED");
+mods.thaumcraft.Research.removeResearch("TTENCH_FOCUSED");
+
+mods.thaumcraft.Research.orphanResearch("TTENCH_SHOCKWAVE");
+mods.thaumcraft.Research.removeResearch("TTENCH_SHOCKWAVE");
+
+mods.thaumcraft.Research.orphanResearch("TTENCH_VALIANCE");
+mods.thaumcraft.Research.removeResearch("TTENCH_VALIANCE");
 
 recipes.removeShaped(<Botania:terrasteelHelmReveal>);
 

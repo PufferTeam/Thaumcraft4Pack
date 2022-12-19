@@ -42,7 +42,7 @@ hash = "cd2a3592706e2f95284310f271a6e85f85cb0a4049b89f5ebf74ce0100c63d5c"
 
 [[files]]
 file = "config/Botania.cfg"
-hash = "a5f535195d1c74c2778d9ca57ced8785c364c8588fc6a1ed6bf4f349eef63a76"
+hash = "86bf5ca3e64244a8d0987a6c0b30cb5eeabc187398b8badb9037b311135073a3"
 
 [[files]]
 file = "config/CarpentersBlocks.cfg"
@@ -122,7 +122,7 @@ hash = "8d33003873be9c410aa449f58f386a3921ebf4747dd203fe4965536a0ca9dfe3"
 
 [[files]]
 file = "config/ForbiddenMagic.cfg"
-hash = "868b08ccbd36b24941a6d84eb388a0744c530facfc0094cf5c734204e239ffeb"
+hash = "059c2dfcdfdb201bd20a0132b29736fa5da8d35ccfbc26a59cebb83dbc27cac3"
 
 [[files]]
 file = "config/ForgeRelocation.cfg"
@@ -166,11 +166,11 @@ hash = "9deed12b5fc1dc838e0da6015d1bf7db7c65af0b650dd19aedb58c812a815739"
 
 [[files]]
 file = "config/LegibleNei/filters/BloodMagic.json"
-hash = "8c106a12e39b43ba1f33847a7d3887e577830a47c715725f6d19c9aa683f37a5"
+hash = "fedad109f4dbf1d05283805ffdf79524354a7a576049214110e308f9c1c8f8a7"
 
 [[files]]
 file = "config/LegibleNei/filters/Botania.json"
-hash = "966e17a1ca3391b05de7fb3895f579ac77e8d5b6be9c2302ae47422dbf0b727c"
+hash = "f258dc0edd7a5ccf85a0fc51119e6009978cb9ae33abaaee57732fb3cd4a5dcb"
 
 [[files]]
 file = "config/LegibleNei/filters/Buildcraft.json"
@@ -187,6 +187,10 @@ hash = "38b5fc0fd52f450865d5a922df1a87e7696ae9695507def077a72bd1886b608e"
 [[files]]
 file = "config/LegibleNei/filters/EnderIO.json"
 hash = "390eaf2eb66d04682f8e4026f56ad8f1524868dffa0d841c8ebb795534e236bc"
+
+[[files]]
+file = "config/LegibleNei/filters/EtFuturum.json"
+hash = "ad00f861693920d6a54eac2d6a4cf956ed8888721122070017af56f5fdb4422f"
 
 [[files]]
 file = "config/LegibleNei/filters/Extrautilities.json"
@@ -378,7 +382,7 @@ hash = "44fecda1488e703bb0c4d6b00ce803a4564211ed65d820269e855e3ae063575e"
 
 [[files]]
 file = "config/TaintedMagic.cfg"
-hash = "9f0b4600a4222cbb7255f628030dcf369178d2db4dcacdad3bf2c5998ea70095"
+hash = "686254481515ac82bce5c9f05387f6ff43bf9a3528122d6c6c2c118c20419867"
 
 [[files]]
 file = "config/Thaumcraft.cfg"
@@ -526,7 +530,7 @@ hash = "cde6cbc89e3898463d2c53b52a1747530fb6cbcaddb62cd546dd01864faf4c94"
 
 [[files]]
 file = "config/ThaumicExploration.cfg"
-hash = "830f1160ebec6511f2e8617d9d14e13aca5c57b3aa96eefa74804bb19b348902"
+hash = "d15f811bcfacbbe9f1091fe16dda6924f84bb71e1d739564cea25e0336c0036d"
 
 [[files]]
 file = "config/ThaumicHorizons.cfg"
@@ -534,7 +538,7 @@ hash = "4a0d38fec0c50c2504e58f33d9759f371a4dc008048a13e2dcd2d5e118cf8904"
 
 [[files]]
 file = "config/ThaumicTinkerer.cfg"
-hash = "8dc645ebaa54f34ecb0b2d455e3409e2549161f3468a9adba36f8151e4316697"
+hash = "5ad30a9a9d419d96c343ed62b51ee0fb60debbc4c2f6f10b388fb77c84eac6e3"
 
 [[files]]
 file = "config/TravellersGear.cfg"
@@ -809,6 +813,10 @@ file = "config/flyingcullers.cfg"
 hash = "38c473474fc7bff1f77fd1f6cd7084431c81aa3d3eb6599da9614fdf82ff52a9"
 
 [[files]]
+file = "config/foamfix.cfg"
+hash = "1ec1a8b1761318e956308170d786cd1f20a3ba23454474410c666d6098277a5e"
+
+[[files]]
 file = "config/forge.cfg"
 hash = "56acf28c2653e1d5d159648edbbbd9bc86832bd956a8a4e7be7adf7c558a5c7e"
 
@@ -874,7 +882,7 @@ hash = "7cbe89ea0dde73cb1355c1996696fc02530b33f3b9ded4161ef72ba0a82aa9b6"
 
 [[files]]
 file = "config/neiintegration.cfg"
-hash = "9d1281e43aa482643f0f734f62df4338dfb4c83372ed3702e271e162acbcd3a5"
+hash = "3a806d8b07e357f89af21f25951f60a4665c026190c411a568f6ecc9e67d4777"
 
 [[files]]
 file = "config/neodymium.cfg"
@@ -887,10 +895,6 @@ hash = "038e33c87bf5b33e3854e1fca336576b163017e2ae1c8e05335d094ca502f8e3"
 [[files]]
 file = "config/roguelike_dungeons/roguelike.cfg"
 hash = "e1de18ae4b61be9bd335abc9d6e1e0dc5cf9de7699cc00eee291813956145565"
-
-[[files]]
-file = "config/satchels.cfg"
-hash = "b526385ff7c651eb1fc0a610874fbb58cb270f73c0a45f97b970aad3627d0565"
 
 [[files]]
 file = "config/sloppydeploader.cfg"
@@ -925,10 +929,6 @@ file = "config/thaumicenergistics.cfg"
 hash = "11adc0a866b89482a2bd712832239a91df535abb77b26df88befb0c318360953"
 
 [[files]]
-file = "config/thejungleMod.cfg"
-hash = "3d1e66fc03db642e5174a41e9c7101bf8a9ebee7a7624bd5844e9f88484e2244"
-
-[[files]]
 file = "config/wailaplugins.cfg"
 hash = "bf6f3b9345bb612f0e9ce7197f74b0faa4f1925adab82810320aad0c986667be"
 
@@ -939,6 +939,10 @@ hash = "350aadfa23bdb058426e5f8e4a3fd490b8eda41c3fad0d43501361fcd2797ccc"
 [[files]]
 file = "mods/1.7.10/CodeChickenLib-1.7.10-1.1.5.5.jar"
 hash = "06ab607dc62f1037d3e73d188e7a5a399b0dd76393b505c3183a7b42120d6a7c"
+
+[[files]]
+file = "mods/Botania-1.7.10-1.9.11-GTNH.jar"
+hash = "ada9ada2e9081447be20e86a6e594648bb45b4a727639342b0b98a10eaf04ef1"
 
 [[files]]
 file = "mods/CodeChickenCore-1.7.10-1.1.5.jar"
@@ -1066,13 +1070,13 @@ hash = "2d7dbddc1946ebede8db6161e9f57b49bdcd2124bed41486e9e509330b6e631f"
 metafile = true
 
 [[files]]
-file = "mods/botania.pw.toml"
-hash = "671de8e68e89cefde9a64d2be0bccd68623236101579cc5d1be0bde9b2b7755f"
-metafile = true
-
-[[files]]
 file = "mods/bugtorch-1.7.10-1.1.8.jar"
 hash = "e35d79488808c5397be228fffc044e117e83993bf247016591f93e43d9cf60f5"
+
+[[files]]
+file = "mods/carpenters-blocks.pw.toml"
+hash = "a06f7789e0fd9aef2378f6000af1832e95407a0c854b30ba67d74d53a8146b8e"
+metafile = true
 
 [[files]]
 file = "mods/chisel-1.7.10-2.10.4-GTNH.jar"
@@ -1094,6 +1098,11 @@ hash = "bf52436734de014ef98d387f42c00622fdbe5e6e526e41787909abda33383c70"
 metafile = true
 
 [[files]]
+file = "mods/damage-tilt.pw.toml"
+hash = "6b47fad7fa3daf138529b6c5cb753344a372e4ebcda68ebd72345603adc450ee"
+metafile = true
+
+[[files]]
 file = "mods/default-world-generator.pw.toml"
 hash = "660b1f3290f0bc62c70bf3fc9e014c32a0a9ae73943f2e0ed38255130795f3b1"
 metafile = true
@@ -1109,7 +1118,7 @@ metafile = true
 
 [[files]]
 file = "mods/falsetweaks.pw.toml"
-hash = "de54728a0bf92a822da85b7d55b84fe73986b9b09917151d02e20ca9b0db2315"
+hash = "2d94d6457b6e0f8859b0bf265d1f3fda35c0e085f04bd13258e3f0defee976ce"
 metafile = true
 
 [[files]]
@@ -1128,6 +1137,11 @@ hash = "48ac8d4251adfc854577dc8d4e7dc2a527910a96011a2e68ee71bf7e676edf9c"
 metafile = true
 
 [[files]]
+file = "mods/foamfix-optimization-mod.pw.toml"
+hash = "ebf47c9a73c76fe73c392f4cb8a45d7799e95069eea4f37260cf5e2d128a9877"
+metafile = true
+
+[[files]]
 file = "mods/forgotten-relics.pw.toml"
 hash = "69fcb68808aa6472302007c67d33957cc2ca069b6ef5102556decb8b9662e399"
 metafile = true
@@ -1143,7 +1157,7 @@ hash = "d052a324284be064ca71ec5e496f322c6b8efc119a7e8682f3e69b9b7128db5c"
 
 [[files]]
 file = "mods/gasstation.pw.toml"
-hash = "df5879eb8771dcb4b63b280a9fb2968f5c1a216f1a610e1c4c3c37b87a6e47e5"
+hash = "f9a0107007403d4c87a0b1ee0a6d97a9978dba475398b06bf4dda5be8898632f"
 metafile = true
 
 [[files]]
@@ -1153,6 +1167,11 @@ hash = "cc02e4b0290766b86ce8f17c84f2c8ea83222ed5ea96502113b0f84cf3547cb4"
 [[files]]
 file = "mods/hardcore-wither.pw.toml"
 hash = "724751bd967d40471d72cba2e6529af82da0bf7f18f615f54ea536386be4ed88"
+metafile = true
+
+[[files]]
+file = "mods/healer.pw.toml"
+hash = "ccdb20786109ad32b45ff5c6524f2514a29f8942fbb2e5692c969d8a249d6f1e"
 metafile = true
 
 [[files]]
@@ -1323,7 +1342,7 @@ hash = "577d2618eed0ec0753728c40a6f0f5ddbba38aa3242e7c2a652239116b88878b"
 
 [[files]]
 file = "scripts/Symbiotic+Botania-245+and+Thaumcraft-4.2.3.5.zs"
-hash = "7e0fe99011bea11afbebda35e9f878778fd574160697ba461fdc14fb7252f31b"
+hash = "734bbe6b88339bd7deb0564b546ed170b2e0935a43d834a243334221c28a0499"
 
 [[files]]
 file = "scripts/removeunusedshit.zs"
