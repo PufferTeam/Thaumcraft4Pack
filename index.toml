@@ -222,7 +222,7 @@ hash = "1d7dfea9de49c21bb7da7f1b398fa1cfdc201a091f23ecda6751c5e1e6bf23f7"
 
 [[files]]
 file = "config/LegibleNei/filters/Netherlicious.json"
-hash = "7a67bc1478f5b32f217e793cc7ac7592506810d7b468829ca60731e6d7df4de2"
+hash = "5896cb639f48b5c5e9f8661a88511615a22863d81496f00c075a62fe43602cf1"
 
 [[files]]
 file = "config/LegibleNei/filters/Openblock.json"
