@@ -1278,7 +1278,7 @@ metafile = true
 
 [[files]]
 file = "mods/resource-loader.pw.toml"
-hash = "7138d783b24cafd013c434c8443b4fa9bb108d264cde2ffd4ca90c59077ebd79"
+hash = "8403c11fa2595992f363b50488e3c96d8736831c9c63a1d34caab16e25eb1d1f"
 metafile = true
 
 [[files]]
