@@ -1,6 +1,6 @@
 {
 netherlicious:[
 	{hide:[[Nugget],[0]]};
-	{hide:[[*SignStanding,*SignWall,doorcrimson,doorwarped,doorfoxfire],[]]};
-	]
+	{hide:[[*SignStanding,*SignWall,doorcrimson,doorwarped,doorfoxfire,*DoubleSlab,*DoubleSlab2],[]]};
+	] ,
 }

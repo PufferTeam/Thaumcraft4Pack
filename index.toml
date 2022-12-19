@@ -165,6 +165,10 @@ file = "config/LegibleNei/filters/Bibliocraft.json"
 hash = "9deed12b5fc1dc838e0da6015d1bf7db7c65af0b650dd19aedb58c812a815739"
 
 [[files]]
+file = "config/LegibleNei/filters/BiomesOPlenty.json"
+hash = "eac910fe7e338f85b3aff7c0f8d081bfb8b3d2c9905120b3cba4c3b3edbdcec0"
+
+[[files]]
 file = "config/LegibleNei/filters/BloodMagic.json"
 hash = "fedad109f4dbf1d05283805ffdf79524354a7a576049214110e308f9c1c8f8a7"
 
@@ -190,7 +194,7 @@ hash = "390eaf2eb66d04682f8e4026f56ad8f1524868dffa0d841c8ebb795534e236bc"
 
 [[files]]
 file = "config/LegibleNei/filters/EtFuturum.json"
-hash = "ad00f861693920d6a54eac2d6a4cf956ed8888721122070017af56f5fdb4422f"
+hash = "4a72f9afac18119cb50f7d3d57e730d48ee9fb79dcdce1aa2997b38fa340b109"
 
 [[files]]
 file = "config/LegibleNei/filters/Extrautilities.json"
@@ -218,7 +222,7 @@ hash = "1d7dfea9de49c21bb7da7f1b398fa1cfdc201a091f23ecda6751c5e1e6bf23f7"
 
 [[files]]
 file = "config/LegibleNei/filters/Netherlicious.json"
-hash = "3340a2defe8f4a8b9174afbd3388a3e1fd3e1a4556c473d3b4d0cc08b71c97c9"
+hash = "7a67bc1478f5b32f217e793cc7ac7592506810d7b468829ca60731e6d7df4de2"
 
 [[files]]
 file = "config/LegibleNei/filters/Openblock.json"
@@ -230,7 +234,7 @@ hash = "0df16722a4bb43282cf0295841c0ada7b9b47576e3f23ed3f711fe23684e2f3b"
 
 [[files]]
 file = "config/LegibleNei/filters/Thaumcraft.json"
-hash = "21f782dabd1a89515b5cc9cd2a3a80d52709981f3c6e19d3fb13e132195cf36f"
+hash = "ea928a9e31ac059b3d58500faa2f95f02139a33f1b6e39286d03b6f67011d0cc"
 
 [[files]]
 file = "config/LegibleNei/filters/ThaumicEnergistics.json"
@@ -249,6 +253,10 @@ file = "config/LegibleNei/filters/VillageNames.json"
 hash = "789e69dfe1a779b833d8445c31615dcab89fcde61b1029c7388f5bba1e5cbc2d"
 
 [[files]]
+file = "config/LegibleNei/filters/Witchery.json"
+hash = "489ccc742766cfb63914da11956cdeb03f19373ca2ffa445f074aed1271cb0a3"
+
+[[files]]
 file = "config/LegibleNei/filters/Yegamol.json"
 hash = "ac1b088f385647717669e5356acddc50bc1f918e37c3c673faacaee76d454911"
 
@@ -258,7 +266,7 @@ hash = "7968d2629e094dc556e0b302eb3ce377a00a482018e9d9310a99ae7b7d0ee15a"
 
 [[files]]
 file = "config/LegibleNei/filters/appliedenergistics2.json"
-hash = "a53dc7c9a9fb595ca0cabe6c846465f75ff0ee8bad492fa3a2df883379f1f23f"
+hash = "d45450b7b8f8946f7f39abafeadbabfcbf8697ffa468456341414eeec3840793"
 
 [[files]]
 file = "config/LegibleNei/filters/minecraft.json"
@@ -286,7 +294,7 @@ hash = "b08ce6882a21a2ec535dbcf476e42965dddcd97683ff597e4697706fcd38783a"
 
 [[files]]
 file = "config/NEI/client.cfg"
-hash = "7fb102265c63ad8aa24b87fcb3f50b9d1d343bfa6bb29826cb46130828960cda"
+hash = "16e3f2e5a6a2e18a20cbd64f4298edc4f7f8143b1b8aaacc5ac755444a2a8efb"
 
 [[files]]
 file = "config/NEI/handlerordering.csv"
@@ -766,7 +774,7 @@ hash = "f3defeab1e72c75f0dbce970409c296dacbec2e10f14966111f1d5cea86bf6a6"
 
 [[files]]
 file = "config/endercore/endercore.cfg"
-hash = "21c6a7232b249efa976a15f2176cc3d9c8dd9acf2a03470fbf480e06447dac62"
+hash = "0c907c69986c879f1687013c80983db4eb0ddf3ca3422abc2f96fbf91b6982e2"
 
 [[files]]
 file = "config/etfuturum/blocksitems.cfg"
@@ -1031,7 +1039,7 @@ hash = "5c01e7b1c3e634be361df96b977d160730f92905f31ca8fb39ae23c488000cd9"
 
 [[files]]
 file = "mods/archaicfix.pw.toml"
-hash = "f03cd1e11879fa7651835f904c0092fa46a552633705bcb3259270920e649e56"
+hash = "58d3fbc2e4543ebfcb261c5d55cafc6da43ce5e51db94cabc339fcbef8f64d5c"
 metafile = true
 
 [[files]]
@@ -1061,7 +1069,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "551475a7a334de875cb9ce983b633234057f83749ab660643a75955d3b4c8da4"
+hash = "ad0d8412898c36d5dea25e42733516a1800c97100b70c6a7c638e5246a6e118a"
 metafile = true
 
 [[files]]
@@ -1079,6 +1087,11 @@ hash = "a06f7789e0fd9aef2378f6000af1832e95407a0c854b30ba67d74d53a8146b8e"
 metafile = true
 
 [[files]]
+file = "mods/cartload.pw.toml"
+hash = "455218c61652e397c01e52fdda0af8eafe18fdd9f6a9e4bf80e4d54624bcd73f"
+metafile = true
+
+[[files]]
 file = "mods/chisel-1.7.10-2.10.4-GTNH.jar"
 hash = "7bbfb05278df8aa9731ea60675ae743fb48b157bb7d772453dadbe3de128df9f"
 
@@ -1089,7 +1102,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "f5b1228d52bc48ba33e17c1c061ba923dc2002a452668027319e2aa6c3bcd6a0"
+hash = "355ee94c6fdd9039f134f1a0bc525c90a0f30c173ac385415a7d167d5803fe2c"
 metafile = true
 
 [[files]]
@@ -1110,6 +1123,11 @@ metafile = true
 [[files]]
 file = "mods/endercore-1.7.10-1.0.jar"
 hash = "6b784917955167dac27a1adf0be9da7fbe5c6df886e1fbe58c15996ad6d07cae"
+
+[[files]]
+file = "mods/erde.pw.toml"
+hash = "52475efc6d526e7195216bd9cd65a04860b15b6c4aebfb14d144d9f28c1cfd1c"
+metafile = true
 
 [[files]]
 file = "mods/et-futurum-requiem.pw.toml"
@@ -1225,7 +1243,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherlicious.pw.toml"
-hash = "b9ade0b331d78ec8086239c0275e54bb82ff09560b3e6e08257b4ac12fefc298"
+hash = "3fdfcf054332079919f65c48ea37e0254038f9485273645fc6826b5f2ea59f0a"
 metafile = true
 
 [[files]]
@@ -1240,7 +1258,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "98ef053e1bdb2a1ab8afd61a94cb93224e1f033939176321952ac7477aee8873"
+hash = "4a431c943f6421a3665a9e951369dce9cb83a683af856ccc7fc9dfa27f8603ed"
 metafile = true
 
 [[files]]
@@ -1259,13 +1277,23 @@ hash = "cb0b74ad558cff8eb32e1f7d9ab93a3f2000f28fccac706e0231978644be11cc"
 metafile = true
 
 [[files]]
+file = "mods/resource-loader.pw.toml"
+hash = "7138d783b24cafd013c434c8443b4fa9bb108d264cde2ffd4ca90c59077ebd79"
+metafile = true
+
+[[files]]
 file = "mods/roguelike-dungeons.pw.toml"
 hash = "8d894465e7ad48de25bdd47187ff0a649a1d7fc71e68cc9ad273c34a6f67af5f"
 metafile = true
 
 [[files]]
+file = "mods/tabfaces.pw.toml"
+hash = "ff45a1ad09f8dfcb0fe9c7b7f554781c5d3d351ca393a22af2a4c5729cda2201"
+metafile = true
+
+[[files]]
 file = "mods/tc4tweaks.pw.toml"
-hash = "44a52baed49d212bda81726c7cf638183a773c712c1283677aa4571101413bc1"
+hash = "2e85133a087da7aeef9a898ee356f2fba46705c6520484bcfa91dcbb056cfb20"
 metafile = true
 
 [[files]]
@@ -1342,7 +1370,7 @@ hash = "577d2618eed0ec0753728c40a6f0f5ddbba38aa3242e7c2a652239116b88878b"
 
 [[files]]
 file = "scripts/Symbiotic+Botania-245+and+Thaumcraft-4.2.3.5.zs"
-hash = "734bbe6b88339bd7deb0564b546ed170b2e0935a43d834a243334221c28a0499"
+hash = "b74d207c720748206d86e18f4ce58a6375c971e80f4aa83f52b832a486a5ec19"
 
 [[files]]
 file = "scripts/removeunusedshit.zs"

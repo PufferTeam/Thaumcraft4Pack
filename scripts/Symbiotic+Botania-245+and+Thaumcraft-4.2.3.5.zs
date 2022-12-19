@@ -449,11 +449,6 @@ game.setLocalization("en_US", "botania.page.manaAlchemy26", "Creating &1Alumentu
 //mods.thaumcraft.Crucible.removeRecipe(alumentum);
 mods.botania.ManaInfusion.addAlchemy(alumentum, coal, 2000);
 
-mods.botania.Lexicon.addAlchemyPage("botania.page.manaAlchemy27", "botania.entry.manaAlchemy", 27, [nitor], [glowstone], [2000]);
-game.setLocalization("en_US", "botania.page.manaAlchemy27", "Creating &1Nitor&0");
-//mods.thaumcraft.Crucible.removeRecipe(nitor);
-mods.botania.ManaInfusion.addInfusion(nitor, glowstone, 2000);
-
 mods.botania.Lexicon.addConjurationPage("botania.page.manaConjuration12", "botania.entry.manaConjuration", 12, [bathSalt * 2], [bathSalt], [250000]);
 game.setLocalization("en_US", "botania.page.manaConjuration12", "Conjuring &1Purifying Bath Salts&0");
 mods.botania.ManaInfusion.addConjuration(bathSalt * 2, bathSalt, 250000);	//250,000 is half a mana pool
@@ -578,58 +573,58 @@ mods.thaumcraft.Infusion.removeRecipe(arcaneBore);
 mods.thaumcraft.Infusion.addRecipe("ARCANEBORE", piston, [greatwoodPlanks, greatwoodPlanks, manaLensBore, manaLensPhantom, manaLensForce], "perfodio 16, machina 16, lux 8", arcaneBore, 1);
 mods.thaumcraft.Research.refreshResearchRecipe("ARCANEBORE");
 
-
 mods.thaumcraft.Crucible.removeRecipe(voidMetalSeed);
 mods.thaumcraft.Crucible.addRecipe("ELDRITCHMINOR", voidMetalSeed, terraSteelNugget, "alienis 2, tenebrae 8, vacuos 8");
 mods.thaumcraft.Research.refreshResearchRecipe("ELDRITCHMINOR");
 
+//mods.thaumcraft.Research.orphanResearch("ENCHANTER");
+//mods.thaumcraft.Research.removeResearch("ENCHANTER");
 
 mods.thaumcraft.Infusion.removeRecipe(<ThaumicTinkerer:enchanter>);
+mods.thaumcraft.Infusion.addRecipe("ENCHANTER", <minecraft:enchanting_table>, [<TaintedMagic:ItemMaterial:6>, <TaintedMagic:ItemMaterial:6>, <ThaumicTinkerer:spellCloth>, <Thaumcraft:ItemResource:15>], "praecantatio 50, alienis 40, potentia 30, machina 30, cognitio 10", <ThaumicTinkerer:enchanter>, 23);
+mods.thaumcraft.Research.refreshResearchRecipe("ENCHANTER");
 
-mods.thaumcraft.Research.orphanResearch("ENCHANTER");
-mods.thaumcraft.Research.removeResearch("ENCHANTER");
+//mods.thaumcraft.Research.orphanResearch("TTENCH_AUTO_SMELT");
+//mods.thaumcraft.Research.removeResearch("TTENCH_AUTO_SMELT");
 
-mods.thaumcraft.Research.orphanResearch("TTENCH_AUTO_SMELT");
-mods.thaumcraft.Research.removeResearch("TTENCH_AUTO_SMELT");
+//mods.thaumcraft.Research.orphanResearch("TTENCH_FINAL");
+//mods.thaumcraft.Research.removeResearch("TTENCH_FINAL");
 
-mods.thaumcraft.Research.orphanResearch("TTENCH_FINAL");
-mods.thaumcraft.Research.removeResearch("TTENCH_FINAL");
+//mods.thaumcraft.Research.orphanResearch("TTENCH_TUNNEL");
+//mods.thaumcraft.Research.removeResearch("TTENCH_TUNNEL");
 
-mods.thaumcraft.Research.orphanResearch("TTENCH_TUNNEL");
-mods.thaumcraft.Research.removeResearch("TTENCH_TUNNEL");
+//mods.thaumcraft.Research.orphanResearch("TTENCH_SHATTER");
+//mods.thaumcraft.Research.removeResearch("TTENCH_SHATTER");
 
-mods.thaumcraft.Research.orphanResearch("TTENCH_SHATTER");
-mods.thaumcraft.Research.removeResearch("TTENCH_SHATTER");
+//mods.thaumcraft.Research.orphanResearch("TTENCH_SLOW_FALL");
+//mods.thaumcraft.Research.removeResearch("TTENCH_SLOW_FALL");
 
-mods.thaumcraft.Research.orphanResearch("TTENCH_SLOW_FALL");
-mods.thaumcraft.Research.removeResearch("TTENCH_SLOW_FALL");
+//mods.thaumcraft.Research.orphanResearch("TTENCH_DISPERSED");
+//mods.thaumcraft.Research.removeResearch("TTENCH_DISPERSED");
 
-mods.thaumcraft.Research.orphanResearch("TTENCH_DISPERSED");
-mods.thaumcraft.Research.removeResearch("TTENCH_DISPERSED");
+//mods.thaumcraft.Research.orphanResearch("TTENCH_ASCENT_BOOST");
+//mods.thaumcraft.Research.removeResearch("TTENCH_ASCENT_BOOST");
 
-mods.thaumcraft.Research.orphanResearch("TTENCH_ASCENT_BOOST");
-mods.thaumcraft.Research.removeResearch("TTENCH_ASCENT_BOOST");
+//mods.thaumcraft.Research.orphanResearch("TTENCH_DESINTEGRATE");
+//mods.thaumcraft.Research.removeResearch("TTENCH_DESINTEGRATE");
 
-mods.thaumcraft.Research.orphanResearch("TTENCH_DESINTEGRATE");
-mods.thaumcraft.Research.removeResearch("TTENCH_DESINTEGRATE");
+//mods.thaumcraft.Research.orphanResearch("TTENCH_POUNCE");
+//mods.thaumcraft.Research.removeResearch("TTENCH_POUNCE");
 
-mods.thaumcraft.Research.orphanResearch("TTENCH_POUNCE");
-mods.thaumcraft.Research.removeResearch("TTENCH_POUNCE");
+//mods.thaumcraft.Research.orphanResearch("TTENCH_QUICK_DRAW");
+//mods.thaumcraft.Research.removeResearch("TTENCH_QUICK_DRAW");
 
-mods.thaumcraft.Research.orphanResearch("TTENCH_QUICK_DRAW");
-mods.thaumcraft.Research.removeResearch("TTENCH_QUICK_DRAW");
+//mods.thaumcraft.Research.orphanResearch("TTENCH_VAMPIRISM");
+//mods.thaumcraft.Research.removeResearch("TTENCH_VAMPIRISM");
 
-mods.thaumcraft.Research.orphanResearch("TTENCH_VAMPIRISM");
-mods.thaumcraft.Research.removeResearch("TTENCH_VAMPIRISM");
+//mods.thaumcraft.Research.orphanResearch("TTENCH_FOCUSED");
+//mods.thaumcraft.Research.removeResearch("TTENCH_FOCUSED");
 
-mods.thaumcraft.Research.orphanResearch("TTENCH_FOCUSED");
-mods.thaumcraft.Research.removeResearch("TTENCH_FOCUSED");
+//mods.thaumcraft.Research.orphanResearch("TTENCH_SHOCKWAVE");
+//mods.thaumcraft.Research.removeResearch("TTENCH_SHOCKWAVE");
 
-mods.thaumcraft.Research.orphanResearch("TTENCH_SHOCKWAVE");
-mods.thaumcraft.Research.removeResearch("TTENCH_SHOCKWAVE");
-
-mods.thaumcraft.Research.orphanResearch("TTENCH_VALIANCE");
-mods.thaumcraft.Research.removeResearch("TTENCH_VALIANCE");
+//mods.thaumcraft.Research.orphanResearch("TTENCH_VALIANCE");
+//mods.thaumcraft.Research.removeResearch("TTENCH_VALIANCE");
 
 recipes.removeShaped(<Botania:terrasteelHelmReveal>);
 

@@ -1,0 +1,13 @@
+name = "TabFaces"
+filename = "tabfaces-0.0.17-mc1.7.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dGxC0qey/versions/jLeKskrJ/tabfaces-0.0.17-mc1.7.10.jar"
+hash-format = "sha1"
+hash = "2df6a65218c7563b0366e1094f45ec1dcbed2ec0"
+
+[update]
+[update.modrinth]
+mod-id = "dGxC0qey"
+version = "jLeKskrJ"

@@ -1,5 +1,5 @@
 {
 etfuturum:[
-	{hide:[[sign*,wall*],[]]};
+	{hide:[[sign*,wall*,double_*],[]]};
 	]
 }
