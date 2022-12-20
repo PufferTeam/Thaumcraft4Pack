@@ -989,6 +989,10 @@ file = "mods/StorageDrawersBop-1.7.10-1.11.17-GTNH.jar"
 hash = "fb97428bf11ac0f3dc643c03923dfdf36307f6cd2dbfdaff09105d716c85f3c4"
 
 [[files]]
+file = "mods/StorageDrawersMisc-1.7.10-1.11.17-GTNH.jar"
+hash = "f5123bb35cc67177354174efb10e07afbdd2347ea9851980b1e74ebf014ffdc2"
+
+[[files]]
 file = "mods/Tainted-Magic-1.7.10-8.1.1.1-GTNH.jar"
 hash = "d8336a53a6c3d3b0c3aada845fc272e7240d5988a86face08b69decea0a8bfc0"
 
@@ -1013,6 +1017,10 @@ file = "mods/ThaumicTinkerer-1.7.10-2.6.5LE-5-gab5e365.dirty.jar"
 hash = "5f69dee9ebdbca6e1c7dec76d87566a4cea1d3b0e18e1cf1908472adb1dc0a91"
 
 [[files]]
+file = "mods/TwilightForest-1.7.10-2.3.8.17.jar"
+hash = "f308fc12709965291f304f2a900ab0d832d3dab5fb3823c7768b8ef852416213"
+
+[[files]]
 file = "mods/WAILAPlugins-1.7.10-0.2.5.jar"
 hash = "269fee4ed9d677ee0334a57f775b03e36890a95167e44506a4fad0ffc6c40a78"
 
@@ -1027,6 +1035,11 @@ hash = "e91766c81986c692ec853926c03cf675709f62bfc96e3f3269d0586f4ad4ba2c"
 [[files]]
 file = "mods/WitchingGadgets-1.7.10-1.2.9LE.jar"
 hash = "07c8f42b37dcf4e097069a6fdf2b7a70af2ca3c37c4e904f405e5c1582c3f8bf"
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "47a74c4201cea07c638284a42da4ead090856ecfde1e1c29137856bbf2bcd72a"
+metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
