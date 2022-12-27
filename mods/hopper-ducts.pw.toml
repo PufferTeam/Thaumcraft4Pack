@@ -1,0 +1,13 @@
+name = "Hopper Ducts"
+filename = "hopperductmod-1.7.10-1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "caf1c64444de14666d9155c32952df73edd84861"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2211247
+project-id = 72210

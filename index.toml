@@ -1197,6 +1197,11 @@ hash = "ccdb20786109ad32b45ff5c6524f2514a29f8942fbb2e5692c969d8a249d6f1e"
 metafile = true
 
 [[files]]
+file = "mods/hopper-ducts.pw.toml"
+hash = "c6bf4dff87466a221451cb9094d200c5795a8484a53142ef53ffebcd071e43e3"
+metafile = true
+
+[[files]]
 file = "mods/inventorytweaks-1.7.10-1.5.15.jar"
 hash = "3e5dfe185c446697f021328061814fc35146d3e1c3d633e98656f0135a8f84ec"
 
