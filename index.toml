@@ -977,10 +977,6 @@ file = "mods/NEIIntegration-1.7.10-1.2.3.jar"
 hash = "e09c470a64a1b2a2b9ff97cbc2864aa5edcfd7bc20053256b15959f53c06fa4f"
 
 [[files]]
-file = "mods/OptiFine_1.7.10_HD_U_D6.jar"
-hash = "415cba487ea5eddca981c6a00a5426236f8df36c635f5808aba227ad96d1b478"
-
-[[files]]
 file = "mods/StorageDrawers-1.7.10-1.11.19-GTNH.jar"
 hash = "e948ec9e36ab87ac8f5df28045c115dc99a0f1e57bd79f0457c964e3e0953656"
 
@@ -1031,6 +1027,11 @@ hash = "e91766c81986c692ec853926c03cf675709f62bfc96e3f3269d0586f4ad4ba2c"
 [[files]]
 file = "mods/WitchingGadgets-1.7.10-1.2.9LE.jar"
 hash = "07c8f42b37dcf4e097069a6fdf2b7a70af2ca3c37c4e904f405e5c1582c3f8bf"
+
+[[files]]
+file = "mods/advanced-botany.pw.toml"
+hash = "4abd6e57d315cb137e99a9fa469f63b4ca5b65f80c15cfc37293be07c075992e"
+metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -1179,7 +1180,7 @@ hash = "d052a324284be064ca71ec5e496f322c6b8efc119a7e8682f3e69b9b7128db5c"
 
 [[files]]
 file = "mods/gasstation.pw.toml"
-hash = "f9a0107007403d4c87a0b1ee0a6d97a9978dba475398b06bf4dda5be8898632f"
+hash = "3f48129eb8d9998d88ac340e3d2167a5a359d98418e8717f02bd9249e2de36ce"
 metafile = true
 
 [[files]]
@@ -1268,6 +1269,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
 hash = "4a431c943f6421a3665a9e951369dce9cb83a683af856ccc7fc9dfa27f8603ed"
+metafile = true
+
+[[files]]
+file = "mods/optifine.pw.toml"
+hash = "d97cc25600779f3840154a0f044614b60d83df16a612d661f6ba2d75afef9f65"
 metafile = true
 
 [[files]]

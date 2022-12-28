@@ -1,13 +1,13 @@
 name = "GasStation"
-filename = "00gasstation-mc1.7.10-0.4.1.jar"
+filename = "00gasstation-mc1.7.10-0.5.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e158559e78fc14c093713229b05832908277e628"
+hash = "235d4a24d7a1eb8cc5cf03b8eacee9aa88d22900"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4173695
+file-id = 4249663
 project-id = 667409

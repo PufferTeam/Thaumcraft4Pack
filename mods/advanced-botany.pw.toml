@@ -1,0 +1,13 @@
+name = "Advanced Botany"
+filename = "Advanced Botany 1.3.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "44d4cd395e6a13fdcac784080a0db6d6e92f4e6a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3862595
+project-id = 575841
