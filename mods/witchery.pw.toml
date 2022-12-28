@@ -1,0 +1,13 @@
+name = "Witchery"
+filename = "witchery-1.7.10-0.24.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3f02f7049eedef71ebd7ad192c3cc23cf1268c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2234410
+project-id = 69673

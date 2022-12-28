@@ -1354,8 +1354,8 @@ hash = "3ae8c57ac318b67606f8f366f1aa5ce1371ade83cb8bb279b48e4eaf89022c5d"
 metafile = true
 
 [[files]]
-file = "mods/witchery-bypassed.pw.toml"
-hash = "e043de8c7de5021a353d055c8c0db856962873b5fcf61152204943bbe0eb60ce"
+file = "mods/witchery.pw.toml"
+hash = "470e898ee9d795438bed629c7e5de4ae4d6eb608a685818d3c5460aa7b37a294"
 metafile = true
 
 [[files]]
