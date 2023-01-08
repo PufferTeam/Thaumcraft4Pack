@@ -1,0 +1,13 @@
+name = "TileEntity Reset Fix"
+filename = "TileEntityResetFix-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cKitwCSu/versions/pscDLGeI/TileEntityResetFix-1.0.1.jar"
+hash-format = "sha1"
+hash = "1aa66c5f01daed569223bc849fcd18bb104c6506"
+
+[update]
+[update.modrinth]
+mod-id = "cKitwCSu"
+version = "pscDLGeI"

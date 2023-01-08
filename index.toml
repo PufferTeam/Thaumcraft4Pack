@@ -162,7 +162,7 @@ hash = "4be899b8e37fd323e541bfa6a8b20251f52025ab6ede7275abf79f6b6c3de3d9"
 
 [[files]]
 file = "config/LegibleNei/filters/Bibliocraft.json"
-hash = "9deed12b5fc1dc838e0da6015d1bf7db7c65af0b650dd19aedb58c812a815739"
+hash = "e4e4553fb32a088078d81ffff3a2a18d06bf65f3e1a96738542fd4ddcccdc005"
 
 [[files]]
 file = "config/LegibleNei/filters/BiomesOPlenty.json"
@@ -386,7 +386,7 @@ hash = "77bb4484293f15f0017b1bd6e9ee0c6ce143bf225d5004e4ea84fb2e6d35c2de"
 
 [[files]]
 file = "config/StorageDrawers.cfg"
-hash = "44fecda1488e703bb0c4d6b00ce803a4564211ed65d820269e855e3ae063575e"
+hash = "d8871fa0060460eee62a1695fec63b7812532fad0ba2aa63dd80664b3e225432"
 
 [[files]]
 file = "config/TaintedMagic.cfg"
@@ -1351,6 +1351,11 @@ hash = "c41d53b00a71c30b976697f81706aa4939398c4d4789ec34a8546ac8caa90940"
 [[files]]
 file = "mods/the-disenchanter-mod.pw.toml"
 hash = "e6a5f3eb8f2a242f880771e283ba4e60ff6e8d27a9a4960e69405f152626fed6"
+metafile = true
+
+[[files]]
+file = "mods/tileentity-reset-fix.pw.toml"
+hash = "a852c802e545814b5c44e90bd7c090effb8852e1ad5b02b0137a0c9d92648922"
 metafile = true
 
 [[files]]
