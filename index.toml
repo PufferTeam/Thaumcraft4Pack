@@ -1068,6 +1068,16 @@ hash = "1d7be9acf687897e75921e34c3236d3a78364d140c13b6c9ac4c4293635a6ebc"
 metafile = true
 
 [[files]]
+file = "mods/bibliocraft-bibliowoods-biomes-oplenty-edition.pw.toml"
+hash = "52aa3336f337795bbb73c840a0b98f68e0ba22e461a63616d9928422e1a22ea2"
+metafile = true
+
+[[files]]
+file = "mods/bibliocraft.pw.toml"
+hash = "348cdb59de511d7b3385418ceeaaf0332075d4e5edd9fd8f354f205c284bde3e"
+metafile = true
+
+[[files]]
 file = "mods/biome-decoration-fix.pw.toml"
 hash = "47b24da5cc3263445b3aaf0f8f2131903adb419c5ddf456584ed5ca948745c36"
 metafile = true
@@ -1141,7 +1151,7 @@ metafile = true
 
 [[files]]
 file = "mods/falsetweaks.pw.toml"
-hash = "2d94d6457b6e0f8859b0bf265d1f3fda35c0e085f04bd13258e3f0defee976ce"
+hash = "6ed8edd941e06a2059a9049fcfa809571e1e27a52364b1c1b7117b80ba4efa00"
 metafile = true
 
 [[files]]
@@ -1171,7 +1181,7 @@ metafile = true
 
 [[files]]
 file = "mods/fplib.pw.toml"
-hash = "217669f2050d795bdc1850d2e7a82687ddbbb76802e65ec12bf24a04d81cd61d"
+hash = "20e11d11f502af25944016c8862871e153fbaeba1b3f276e65b9ff6cc62f1d43"
 metafile = true
 
 [[files]]

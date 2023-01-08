@@ -1,0 +1,13 @@
+name = "BiblioCraft: BiblioWoods Biomes O'Plenty Edition"
+filename = "BiblioWoods[BiomesOPlenty][v1.9].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24d481d8b9722b0da67eaa4bd14cee43f1b92736"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2229577
+project-id = 228362
