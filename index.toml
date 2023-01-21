@@ -1044,7 +1044,7 @@ hash = "5c01e7b1c3e634be361df96b977d160730f92905f31ca8fb39ae23c488000cd9"
 
 [[files]]
 file = "mods/archaicfix.pw.toml"
-hash = "58d3fbc2e4543ebfcb261c5d55cafc6da43ce5e51db94cabc339fcbef8f64d5c"
+hash = "5cf50cce0744a8019b17ab9d3777bf9893e450d78f5c14ff0f79c8d8b823a733"
 metafile = true
 
 [[files]]
@@ -1146,12 +1146,12 @@ metafile = true
 
 [[files]]
 file = "mods/et-futurum-requiem.pw.toml"
-hash = "0695be704b090423fc93428c226fbcec55e0bc14503d8f70842f965a8b0e3ae1"
+hash = "4d95db356ef49b63ca085e5690c2ea5f3dcee8e7e2990776db7057f5717f311e"
 metafile = true
 
 [[files]]
 file = "mods/falsetweaks.pw.toml"
-hash = "6ed8edd941e06a2059a9049fcfa809571e1e27a52364b1c1b7117b80ba4efa00"
+hash = "2f635cd1a5a0e142306282c5612f3ec3c0375fe6da6b8d045bc88ecaf7ffecdc"
 metafile = true
 
 [[files]]
