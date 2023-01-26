@@ -662,7 +662,7 @@ hash = "28c4862d860c7933ac468b4a6ac983eb604d4dd6c83ecef51d8cda68c2db4536"
 
 [[files]]
 file = "config/archaicfix.cfg"
-hash = "186515ce213970bd6bdf1865a5275bc6fb3a0ac77b6bae5921016305c3467a71"
+hash = "a5c185c0a586ad5c20a56e979312cc86348256893cc5780e5d91b18d7c23019a"
 
 [[files]]
 file = "config/aroma1997/Aroma1997Core.cfg"
@@ -810,7 +810,7 @@ hash = "76c4a54d966717dd4b0df5912840912f621b60e9b110231695b3b6340ea127d6"
 
 [[files]]
 file = "config/falsetweaks.cfg"
-hash = "e4af440b4ba9e9d98d07766d7f329aa962fce4eaa4f8bc5c1aa6fa4731886d37"
+hash = "570f77652febcf5f1e551c7d80c0c274ea160cf8a4fcc1c43034dcac604e26c8"
 
 [[files]]
 file = "config/fastcraft.ini"
@@ -959,6 +959,14 @@ hash = "91b21f9b098ed64a385acf961889c20bfa14124abf955471cb458757df7831aa"
 [[files]]
 file = "mods/CoreTweaks-1.7.10-0.2.6_3+nomixin.jar"
 hash = "eaf6ba9a3ff993f221d6792a1709237d3d4c6e440f7b44f2c129b70a2e79eb28"
+
+[[files]]
+file = "mods/FTBLib-1.7.10-1.0.18.5-GTNH.jar"
+hash = "063734f929a4b039ff19d5360ca5916eb6589ce652867397a34f16c44a24d7c7"
+
+[[files]]
+file = "mods/FTBUtilities-1.7.10-1.0.18.7-GTNH.jar"
+hash = "a4f26dbabe71c7931822cdb261c59eba2412e674223cbb34aa7df59060fafcc8"
 
 [[files]]
 file = "mods/Forbidden.Magic-1.7.10-0.6-GTNH.jar"
