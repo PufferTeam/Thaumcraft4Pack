@@ -1,8 +1,8 @@
 name = "Neodymium"
-filename = "neodymium-1.7.10-0.1.5.jar"
+filename = "neodymium-1.7.10-0.1.6.jar"
 side = "client"
 
 [download]
-url = "https://github.com/makamys/Neodymium/releases/download/0.1.5/neodymium-1.7.10-0.1.5.jar"
+url = "https://github.com/makamys/Neodymium/releases/download/0.1.6/neodymium-1.7.10-0.1.6.jar"
 hash-format = "sha1"
-hash = "30b54be2cdfcd3e66edd696b8ebb7ae846c6ecf3"
+hash = "b9fe1fe0cd06e709c712fa3087f2786bed0c3e57"

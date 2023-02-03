@@ -678,7 +678,15 @@ hash = "9f6d3c1dd724cd25540b171b665be028b492e53b1ca96fd600ef8fb068cc08af"
 
 [[files]]
 file = "config/bbm/AI_Improvements.cfg"
-hash = "6f5906deab8573023f5b5c34c4979f182e24187350b6c053ffa8035c3fe4d1f0"
+hash = "295633cb5fb36b393deb7266817bc274902dcbcb7eb1586f9be3814159c834d4"
+
+[[files]]
+file = "config/bbm/overrides/minecraft.attack.arrow.cfg"
+hash = "ecd62b194f6e1f363eac07129c8442d8ef209325e455ad80c3f84e748232415f"
+
+[[files]]
+file = "config/bbm/overrides/minecraft.attack.collide.cfg"
+hash = "342cd8f89666b2f6174bf8fde70ab19d42cbf50d817da397a0748c046e83cd84"
 
 [[files]]
 file = "config/biomesoplenty/biomegen.cfg"
@@ -718,7 +726,7 @@ hash = "c716efb4ef330b678af416d11406d7a3a91b3e815928d384ecc7ea7a079aec65"
 
 [[files]]
 file = "config/bugtorch/mixins.cfg"
-hash = "c80db139e06c63f2f1c0f95834f49442889189083be33e5099e6133e0ba2f854"
+hash = "cd7c00479e141808cd4f6c0b4300628778d454d50c35b25907d5a75be1d30a0f"
 
 [[files]]
 file = "config/bugtorch/mixinsModSupport.cfg"
@@ -806,7 +814,7 @@ hash = "c033fa81d3ee444e82ae7d05941f393631e5c57cf17704cfff3de87bc8da985a"
 
 [[files]]
 file = "config/falsepatternlib.cfg"
-hash = "76c4a54d966717dd4b0df5912840912f621b60e9b110231695b3b6340ea127d6"
+hash = "d5aec86ddcfea592c5b9635f684c92e5fac6485c896879643a30897ba278d527"
 
 [[files]]
 file = "config/falsetweaks.cfg"
@@ -826,7 +834,7 @@ hash = "1ec1a8b1761318e956308170d786cd1f20a3ba23454474410c666d6098277a5e"
 
 [[files]]
 file = "config/forge.cfg"
-hash = "56acf28c2653e1d5d159648edbbbd9bc86832bd956a8a4e7be7adf7c558a5c7e"
+hash = "517b7936cae33f3b4295767d097d59796b7e6060da66389009da7a18ae3c7db9"
 
 [[files]]
 file = "config/forgeChunkLoading.cfg"
@@ -894,7 +902,7 @@ hash = "3a806d8b07e357f89af21f25951f60a4665c026190c411a568f6ecc9e67d4777"
 
 [[files]]
 file = "config/neodymium.cfg"
-hash = "86203b3f2197862b4b801c7ca21630d132c7d1703db965341b06dbf79eddd035"
+hash = "8f8fcdce93bbf8897e7ee306f049c27a5c299640c693699a7a68d269f6eddf53"
 
 [[files]]
 file = "config/reccomplex.cfg"
@@ -1144,6 +1152,11 @@ hash = "660b1f3290f0bc62c70bf3fc9e014c32a0a9ae73943f2e0ed38255130795f3b1"
 metafile = true
 
 [[files]]
+file = "mods/dmod.pw.toml"
+hash = "28ab80d295ccce2285afb6ea663fa74df3bb4c8789c7ebdd301e5607b38c7b39"
+metafile = true
+
+[[files]]
 file = "mods/endercore-1.7.10-1.0.jar"
 hash = "6b784917955167dac27a1adf0be9da7fbe5c6df886e1fbe58c15996ad6d07cae"
 
@@ -1266,7 +1279,7 @@ metafile = true
 
 [[files]]
 file = "mods/neodymium.pw.toml"
-hash = "840a443c8b754a4447c7b0306ed4015e2b705751e07551a3a06d47882b470b85"
+hash = "55dbe01b23db4d38706892d1b65e8ba27e79aa3f8d413188ea0b9973f3acfd8f"
 metafile = true
 
 [[files]]
