@@ -138,7 +138,7 @@ hash = "5bbe8a20dd76de46f29d5be3ffbbb3e9d3b3b1c28abe1a61ac6a1b1ef422cc68"
 
 [[files]]
 file = "config/HardcoreEnderExpansion.cfg"
-hash = "b8d8b808de99c2e5d85d64da0606ced87af2c04c828c6de3416dcf496cbe5380"
+hash = "4d2e4eee9bdb73da13badbc6711fee19757d1e5133a9d34f409b1721beb9f845"
 
 [[files]]
 file = "config/HardcoreEnderExpansion.clientsave.cfg"
@@ -726,11 +726,11 @@ hash = "c716efb4ef330b678af416d11406d7a3a91b3e815928d384ecc7ea7a079aec65"
 
 [[files]]
 file = "config/bugtorch/mixins.cfg"
-hash = "cd7c00479e141808cd4f6c0b4300628778d454d50c35b25907d5a75be1d30a0f"
+hash = "b7d45c6f4ecb9062a467ce7fd0d52878a50f6704caded3aa026fae50bab837e8"
 
 [[files]]
 file = "config/bugtorch/mixinsModSupport.cfg"
-hash = "cf862fc1941fdd01571863e473377a48f7972bb52595e35235fdd3a22d5f0420"
+hash = "c850288cfa81ddc458f2a87a91722a85a7499eb618fb89f4f4812c41cfbdf37a"
 
 [[files]]
 file = "config/bugtorch/modSupport.cfg"
@@ -1040,10 +1040,6 @@ hash = "e91766c81986c692ec853926c03cf675709f62bfc96e3f3269d0586f4ad4ba2c"
 [[files]]
 file = "mods/WarpTheory-1.7.10-1.2.11-GTNH.jar"
 hash = "841fbb7107ea7a0442957833a317919f0d5db58e6312cb797065f133a2e10609"
-
-[[files]]
-file = "mods/WitchingGadgets-1.7.10-1.2.9LE.jar"
-hash = "07c8f42b37dcf4e097069a6fdf2b7a70af2ca3c37c4e904f405e5c1582c3f8bf"
 
 [[files]]
 file = "mods/WitchingGadgets-v1.2.9LE.dirty.jar"
@@ -1421,15 +1417,11 @@ hash = "c3c8e97f34f1edd10c75f6db9a39c339108d13aff19f7ca526789a6065b65601"
 
 [[files]]
 file = "optionsof.txt"
-hash = "2b9709f98657affbb3ba9e9954077f03afa0cfc1bc830798843e6e6d1ae55574"
+hash = "4e0d7909db04eb199f118c0903c9afb83202f1b215f5a7a836a7945a0cea4466"
 
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "packwiz-installer.jar"
-hash = "b61220834664057d221eb9f448a1fa00caa2e6c658f20e28873b59bb7bef9bb4"
 
 [[files]]
 file = "scripts/BotaniaAspects.zs"
