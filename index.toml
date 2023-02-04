@@ -953,16 +953,13 @@ file = "mods/1.7.10/Baubles-1.7.10-1.0.1.14.jar"
 hash = "350aadfa23bdb058426e5f8e4a3fd490b8eda41c3fad0d43501361fcd2797ccc"
 
 [[files]]
-file = "mods/1.7.10/CodeChickenLib-1.7.10-1.1.5.5.jar"
-hash = "06ab607dc62f1037d3e73d188e7a5a399b0dd76393b505c3183a7b42120d6a7c"
+file = "mods/1.7.10/codechickenlib-unofficial.pw.toml"
+hash = "b8dfe87b2ad62ebbf2d1212a5b0579ae95dd84205466524bac0f8f3156acddc5"
+metafile = true
 
 [[files]]
-file = "mods/Botania-1.7.10-1.9.11-GTNH.jar"
-hash = "ada9ada2e9081447be20e86a6e594648bb45b4a727639342b0b98a10eaf04ef1"
-
-[[files]]
-file = "mods/CodeChickenCore-1.7.10-1.1.5.jar"
-hash = "91b21f9b098ed64a385acf961889c20bfa14124abf955471cb458757df7831aa"
+file = "mods/Botania-1.7.10-1.9.14-GTNH.jar"
+hash = "d0199db9a3901e833b5e5757030681560da98daccadd91c05a88fa236edb57db"
 
 [[files]]
 file = "mods/CoreTweaks-1.7.10-0.2.6_3+nomixin.jar"
@@ -1001,8 +998,8 @@ file = "mods/StorageDrawersBop-1.7.10-1.11.17-GTNH.jar"
 hash = "fb97428bf11ac0f3dc643c03923dfdf36307f6cd2dbfdaff09105d716c85f3c4"
 
 [[files]]
-file = "mods/StorageDrawersMisc-1.7.10-1.11.17-GTNH.jar"
-hash = "f5123bb35cc67177354174efb10e07afbdd2347ea9851980b1e74ebf014ffdc2"
+file = "mods/StorageDrawersMisc-1.7.10-1.11.18-GTNH.jar"
+hash = "0de88bcd969d6bb89a344e3b8e7c1579e1997537f57bf6a82bf7f6ab51f940f5"
 
 [[files]]
 file = "mods/Tainted-Magic-1.7.10-8.1.1.1-GTNH.jar"
@@ -1033,16 +1030,24 @@ file = "mods/WAILAPlugins-1.7.10-0.2.5.jar"
 hash = "269fee4ed9d677ee0334a57f775b03e36890a95167e44506a4fad0ffc6c40a78"
 
 [[files]]
-file = "mods/Waila-1.7.10-1.5.21.jar"
-hash = "ab67f95ccebc5698d4d1ca4ead451a26a46e02d8410487f4218377b057a56372"
+file = "mods/Waila-1.7.10-1.5.22.jar"
+hash = "c7691fccf153c08703e99b42b873434a9f5250d4329c86f07cd5a7b7f04b666f"
 
 [[files]]
 file = "mods/WailaHarvestability-1.7.10-1.1.10-GTNH.jar"
 hash = "e91766c81986c692ec853926c03cf675709f62bfc96e3f3269d0586f4ad4ba2c"
 
 [[files]]
+file = "mods/WarpTheory-1.7.10-1.2.11-GTNH.jar"
+hash = "841fbb7107ea7a0442957833a317919f0d5db58e6312cb797065f133a2e10609"
+
+[[files]]
 file = "mods/WitchingGadgets-1.7.10-1.2.9LE.jar"
 hash = "07c8f42b37dcf4e097069a6fdf2b7a70af2ca3c37c4e904f405e5c1582c3f8bf"
+
+[[files]]
+file = "mods/WitchingGadgets-v1.2.9LE.dirty.jar"
+hash = "3bcc21432ac09d666216f4138aed2c9c6de589da3685e378f144316fbfa05b77"
 
 [[files]]
 file = "mods/advanced-botany.pw.toml"
@@ -1052,6 +1057,11 @@ metafile = true
 [[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "dccc35405344ffb6c22fc7f9a0181be2270361314b63c52e75fa35a8e19493cc"
+metafile = true
+
+[[files]]
+file = "mods/alchemy-grate.pw.toml"
+hash = "95b82c66e4c416f40fb812fc1e01ba0a216523c02a2df8a1007806ae9692eeb9"
 metafile = true
 
 [[files]]
@@ -1109,8 +1119,9 @@ hash = "2d7dbddc1946ebede8db6161e9f57b49bdcd2124bed41486e9e509330b6e631f"
 metafile = true
 
 [[files]]
-file = "mods/bugtorch-1.7.10-1.1.8.jar"
-hash = "e35d79488808c5397be228fffc044e117e83993bf247016591f93e43d9cf60f5"
+file = "mods/bugtorch.pw.toml"
+hash = "bd4d622aa8231156f21dbcc128ec9625d90c2b3e2f37a99b1092c820416d7038"
+metafile = true
 
 [[files]]
 file = "mods/carpenters-blocks.pw.toml"
@@ -1125,6 +1136,11 @@ metafile = true
 [[files]]
 file = "mods/chisel-1.7.10-2.10.4-GTNH.jar"
 hash = "7bbfb05278df8aa9731ea60675ae743fb48b157bb7d772453dadbe3de128df9f"
+
+[[files]]
+file = "mods/codechickencore-unofficial.pw.toml"
+hash = "7f0b1416bdc89f9d7ae82ea3d82f85f55df0309e674e5e7a32f4d64c0fbbf842"
+metafile = true
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
@@ -1299,7 +1315,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "4a431c943f6421a3665a9e951369dce9cb83a683af856ccc7fc9dfa27f8603ed"
+hash = "f96692850687c45ea8374987712cf7f86d88ee08d3a6be5b9fdcfaf7aac73f39"
 metafile = true
 
 [[files]]
