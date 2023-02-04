@@ -117,10 +117,6 @@ file = "config/DLDungeonsJBG/themes/volcanic.cfg"
 hash = "8665efda6b4af737d9a83c1400eee5e602bf2696ece7f620db6c9f24a05b8205"
 
 [[files]]
-file = "config/ExtraTiC.cfg"
-hash = "8d33003873be9c410aa449f58f386a3921ebf4747dd203fe4965536a0ca9dfe3"
-
-[[files]]
 file = "config/ForbiddenMagic.cfg"
 hash = "059c2dfcdfdb201bd20a0132b29736fa5da8d35ccfbc26a59cebb83dbc27cac3"
 
@@ -311,14 +307,6 @@ hash = "1c2a9a181be635d5fb81f25c22e214bff38fbd94c98d05d308527432f57171df"
 [[files]]
 file = "config/NEIAddons.cfg"
 hash = "2270095ad8cce7ed1c75d48997d3ac7a201fb6dd42add7c2988262789fd3ce92"
-
-[[files]]
-file = "config/Natura-Dynamic.json"
-hash = "f9a3d3cc035455cce9b04c502333d60aefcfbba583d009a56b99661fdae37413"
-
-[[files]]
-file = "config/Natura.cfg"
-hash = "8ce7f6e761a28cfa845ed7b7ac6861c97a6210ae0aca4f472eeb0c565eb0fec4"
 
 [[files]]
 file = "config/Netherlicious/Armor_Tool_Configuration.cfg"
@@ -770,7 +758,7 @@ hash = "e1e5b243979c45720ab9904f00288abc3fa4ce31725525b534de48bfa62a1d29"
 
 [[files]]
 file = "config/dmod.cfg"
-hash = "ec8348459a86570e5d8ee720a255da56e8923255838796345fbac1891e633abd"
+hash = "f767bc859bbfc73ee775b55a5475e79bb4e99649696b4e7ee3529d94a3e24dac"
 
 [[files]]
 file = "config/dsurround/dsurround.cfg"
@@ -942,7 +930,7 @@ hash = "eb1645862895fde7569b92671e2eb75484dbb70bc5c21d64ddbcb2ccc47444f5"
 
 [[files]]
 file = "config/thaumicenergistics.cfg"
-hash = "11adc0a866b89482a2bd712832239a91df535abb77b26df88befb0c318360953"
+hash = "e083cc08e28a3eb74db2839d5f9edb66915884f102f65ac6b119b311c9e57206"
 
 [[files]]
 file = "config/wailaplugins.cfg"
