@@ -443,12 +443,6 @@ mods.botania.Lexicon.addRunePage("botania.page.runeAltar12", "botania.entry.rune
 mods.botania.RuneAltar.removeRecipe(manaRune); 
 mods.botania.RuneAltar.addRecipe(manaRune, [balancedShard, manaSteel, manaSteel, manaSteel, manaSteel, manaSteel], 8000);
 
-
-mods.botania.Lexicon.addAlchemyPage("botania.page.manaAlchemy26", "botania.entry.manaAlchemy", 26, [alumentum], [coal], [2000]);
-game.setLocalization("en_US", "botania.page.manaAlchemy26", "Creating &1Alumentum&0");
-//mods.thaumcraft.Crucible.removeRecipe(alumentum);
-mods.botania.ManaInfusion.addAlchemy(alumentum, coal, 2000);
-
 mods.botania.Lexicon.addConjurationPage("botania.page.manaConjuration12", "botania.entry.manaConjuration", 12, [bathSalt * 2], [bathSalt], [250000]);
 game.setLocalization("en_US", "botania.page.manaConjuration12", "Conjuring &1Purifying Bath Salts&0");
 mods.botania.ManaInfusion.addConjuration(bathSalt * 2, bathSalt, 250000);	//250,000 is half a mana pool
