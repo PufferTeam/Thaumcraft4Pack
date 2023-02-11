@@ -966,8 +966,8 @@ file = "mods/Forbidden.Magic-1.7.10-0.6-GTNH.jar"
 hash = "80118c7587f437dedd401fbb3b9b469bbf09bf1677e004e56bd0852139fd936b"
 
 [[files]]
-file = "mods/HardcoreEnderExpansion-MC-1.7.10-v1.8.8-GTNH.jar"
-hash = "de55516d25ac00980d66266e5f5d065adb5b7f8898924f01d06ab0ed7d1579f1"
+file = "mods/HardcoreEnderExpansion-1.7.10-1.9.7-GTNH.jar"
+hash = "d3e2c33f174676408a5506fec63862af4938373633768014cc7e18a4ac925294"
 
 [[files]]
 file = "mods/NEIAddons-1.7.10-1.12.22.jar"
@@ -1006,8 +1006,8 @@ file = "mods/Thaumic-Exploration-.1.7.10.1.1.83-LE-0.jar"
 hash = "cfdc3424d15a08364b5763134dd3d0bf4005953179dd87e875370f050c65e3d3"
 
 [[files]]
-file = "mods/ThaumicHorizons-1.7.10-1.2.1.8.jar"
-hash = "47de6f623b1f1d336a46b1233b1e4e0b93c61af25e3e0af8af87dbc226254ec3"
+file = "mods/ThaumicHorizons-1.2.1.12.jar"
+hash = "5f9c0d288ab02546856851ba759e86037d516ed64d80b911e879491555e7de30"
 
 [[files]]
 file = "mods/ThaumicTinkerer-1.7.10-2.6.5LE-5-gab5e365.dirty.jar"
@@ -1018,16 +1018,16 @@ file = "mods/WAILAPlugins-1.7.10-0.2.5.jar"
 hash = "269fee4ed9d677ee0334a57f775b03e36890a95167e44506a4fad0ffc6c40a78"
 
 [[files]]
-file = "mods/Waila-1.7.10-1.5.22.jar"
-hash = "c7691fccf153c08703e99b42b873434a9f5250d4329c86f07cd5a7b7f04b666f"
+file = "mods/Waila-1.5.23.jar"
+hash = "504363dc9191b9f4f05282db3406a0cd2eb5ed6d1dfe6b51d0fe0b181a29ffc4"
 
 [[files]]
 file = "mods/WailaHarvestability-1.7.10-1.1.10-GTNH.jar"
 hash = "e91766c81986c692ec853926c03cf675709f62bfc96e3f3269d0586f4ad4ba2c"
 
 [[files]]
-file = "mods/WarpTheory-1.7.10-1.2.11-GTNH.jar"
-hash = "841fbb7107ea7a0442957833a317919f0d5db58e6312cb797065f133a2e10609"
+file = "mods/WarpTheory-1.2.12-GTNH.jar"
+hash = "650b32551d0ecc0b3728ec2f61e50eb5b056a706ed5eb2764f4223be5bac1fdf"
 
 [[files]]
 file = "mods/WitchingGadgets-v1.2.9LE.dirty.jar"
@@ -1253,6 +1253,11 @@ hash = "7d9c2e07b193696eec1af8bd02666f9e11660e75cef796d6976ef158a66c868d"
 metafile = true
 
 [[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "0e80cdacc83090e71279777fa04cad4df6228e99828051307674f10f766186a9"
+metafile = true
+
+[[files]]
 file = "mods/legiblenei.pw.toml"
 hash = "2d1f098694fde06fbbd12a79c2af5ef44e58ebbd8d82b29bc70687f855d5f0d5"
 metafile = true
@@ -1343,8 +1348,8 @@ hash = "c6f5c4322d127dab95c0bf821518bd88a2c6cb9b361d02aac8a0132775a598c1"
 metafile = true
 
 [[files]]
-file = "mods/tcneiadditions-1.7.10-1.1.1.7.dirty.jar"
-hash = "7927368ae970c7876d94a4cb56a04476aa3e094bbe18cae50f3fe705d9887eeb"
+file = "mods/tcneiadditions-1.1.1.10.jar"
+hash = "d88ec2eb3fccf544c1467b3d43a35876a5266da95e2f5ca1fd9424ac395c240c"
 
 [[files]]
 file = "mods/tcnodetracker-1.7.10-1.1.6.jar"

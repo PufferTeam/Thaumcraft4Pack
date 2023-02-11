@@ -1,0 +1,13 @@
+name = "KleeSlabs"
+filename = "kleeslabs-mc1.7.10-1.2.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0787db1e30d71b65486f82c5fd36ffa19b9b9329"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2284547
+project-id = 241895
