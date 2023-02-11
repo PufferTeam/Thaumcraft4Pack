@@ -954,6 +954,10 @@ file = "mods/CoreTweaks-1.7.10-0.2.6_3+nomixin.jar"
 hash = "eaf6ba9a3ff993f221d6792a1709237d3d4c6e440f7b44f2c129b70a2e79eb28"
 
 [[files]]
+file = "mods/Et_Futurum_Requiem-2.4.3+nomixin.jar"
+hash = "fcccc9af23c3ca0a7f5c753888905e9570aeeb2942d48bd3a22e9e9b54769490"
+
+[[files]]
 file = "mods/FTBLib-1.7.10-1.0.18.5-GTNH.jar"
 hash = "063734f929a4b039ff19d5360ca5916eb6589ce652867397a34f16c44a24d7c7"
 
@@ -1163,11 +1167,6 @@ hash = "6b784917955167dac27a1adf0be9da7fbe5c6df886e1fbe58c15996ad6d07cae"
 [[files]]
 file = "mods/erde.pw.toml"
 hash = "52475efc6d526e7195216bd9cd65a04860b15b6c4aebfb14d144d9f28c1cfd1c"
-metafile = true
-
-[[files]]
-file = "mods/et-futurum-requiem.pw.toml"
-hash = "00fba674f9e245053a8b68ec6e1d723a0035b0a5d0c2580228025ae37d2e0abd"
 metafile = true
 
 [[files]]
