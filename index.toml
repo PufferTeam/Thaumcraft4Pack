@@ -1405,11 +1405,11 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c3c8e97f34f1edd10c75f6db9a39c339108d13aff19f7ca526789a6065b65601"
+hash = "1be1f0acdd226e280d7b5550e04fa9a625030a642491922a2457ce78c388def3"
 
 [[files]]
 file = "optionsof.txt"
-hash = "4e0d7909db04eb199f118c0903c9afb83202f1b215f5a7a836a7945a0cea4466"
+hash = "bd2476f32e46ef8598dd4660e5c06b7fbcbc974c338288e88e66ffdf88883468"
 
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
