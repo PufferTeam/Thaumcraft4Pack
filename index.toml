@@ -1218,6 +1218,11 @@ file = "mods/gravestone-1.7.10-1.1.0.jar"
 hash = "cc02e4b0290766b86ce8f17c84f2c8ea83222ed5ea96502113b0f84cf3547cb4"
 
 [[files]]
+file = "mods/gtnhlib.pw.toml"
+hash = "73ac914b7b9625fef2cd237853f04a65592d93b900db20c1efd40cf61a9bd050"
+metafile = true
+
+[[files]]
 file = "mods/hardcore-wither.pw.toml"
 hash = "724751bd967d40471d72cba2e6529af82da0bf7f18f615f54ea536386be4ed88"
 metafile = true
