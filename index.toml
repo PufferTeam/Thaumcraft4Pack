@@ -18,7 +18,7 @@ hash = "bd1d28407ab783c0f162fa7282700d566d7c4f31146e6671242feaf4ca6d007c"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
-hash = "4ba7fe8e40703fb2d29e821098ebea048e098ed33fac56391fcf5021c7f77d27"
+hash = "99c584a74a9a06767e48cf6ce89cf7a4702def835d015b67d7678ebfee8b2c8b"
 
 [[files]]
 file = "config/AppliedEnergistics2/Facades.cfg"
@@ -162,7 +162,7 @@ hash = "f29a5ed973e39cacda8f2abef31d762497d6cae006aba652dd2caf749a073878"
 
 [[files]]
 file = "config/InvTweaks.cfg"
-hash = "8ae8af8e4eeb721f276e2a170629bf06635cf1452c3393f34087d240e7d0fe49"
+hash = "39bdbcaa3e130499122a2e9464234b8257c67fecc64137a2282e25b9e3923d0b"
 
 [[files]]
 file = "config/InvTweaksRules.txt"
@@ -182,7 +182,7 @@ hash = "c731b068396167294cd22235620e68e63bfd3efeeac4e53e1c0cc5291c3b1904"
 
 [[files]]
 file = "config/LegibleNei/LegibleNei.log"
-hash = "197155d29e94a27572342aa42876eca6c2b3e3c6bd562646019d0ee523784a29"
+hash = "49c3903a1170c99acc11615b90c8b0ff0868f9be04ad6e67518a6595ecfb087a"
 
 [[files]]
 file = "config/LegibleNei/filters/Bibliocraft.json"
@@ -310,7 +310,7 @@ hash = "7fb132078d78461a9dde309797c85302c48eb378e6c8b8dc1030e1505d2248b4"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "659e2bdc2d318b5dda2a6fe184d60cdbefae73e0cde1e38dbf44b2a3e1a8e8ac"
+hash = "2a56a5d625d1001c5adab7176067ab278189d90fff5a85076402dc7cb5d5200e"
 
 [[files]]
 file = "config/MrTJPCore.cfg"
@@ -802,7 +802,7 @@ hash = "6c7215195f91d309630e8a0cc3d289ddc669b212b5fde31c67f87580b8f0b1c9"
 
 [[files]]
 file = "config/coretweaks.cfg"
-hash = "8f76bd17ea6fe324b2b5f9f29677fb47df3f675f49ec8de5ec2eeccb7792d8c9"
+hash = "5f7e486f40ae0b7330fe2374e26c4f17e295ea8f9d742f277d95c41cd88a11fb"
 
 [[files]]
 file = "config/damagetilt.cfg"
@@ -866,11 +866,11 @@ hash = "1250c6109ccb72cba94dee0ef0c87d95e9d38635d7d30f08d6e4e2dc31b6dfd1"
 
 [[files]]
 file = "config/falsepatternlib.cfg"
-hash = "d5aec86ddcfea592c5b9635f684c92e5fac6485c896879643a30897ba278d527"
+hash = "eb7c70c2b60930b18000af5ad4d45695f813c2c099f9c860dd73f825ba15432e"
 
 [[files]]
 file = "config/falsetweaks.cfg"
-hash = "297c7688c837faac188364826cdcdc88c58f922ab5a9e65c929a48d8c3091802"
+hash = "2eeefa7e19f7494710b13afc629078ae10d69848d643728d3279a578b2b6165f"
 
 [[files]]
 file = "config/falsetweaks_userspecific.cfg"
@@ -878,7 +878,7 @@ hash = "31f80bd071aaeea4db45991eac88f2cf064fe372ab9e41b1264a07be2aabfd64"
 
 [[files]]
 file = "config/fastcraft.ini"
-hash = "79627cf9048c98444e5a9b891a71284c3060ea57dcbdb842e6244dfc85040984"
+hash = "0c97288626224847444d5a0ade3873a5f8400347dffa2081e47909bf0137eb2d"
 
 [[files]]
 file = "config/fastleafdecay.cfg"
@@ -966,7 +966,7 @@ hash = "3a806d8b07e357f89af21f25951f60a4665c026190c411a568f6ecc9e67d4777"
 
 [[files]]
 file = "config/neodymium.cfg"
-hash = "8f8fcdce93bbf8897e7ee306f049c27a5c299640c693699a7a68d269f6eddf53"
+hash = "9c2fea3f39cd00c743dd0c88af7f70977416be2f332463c90eab123231d1a99c"
 
 [[files]]
 file = "config/reccomplex.cfg"
@@ -986,7 +986,7 @@ hash = "e5e3f6dfb7deebbe932f03735a407fa87e967c85bf92dcaa23371f0a4e039719"
 
 [[files]]
 file = "config/splash.properties"
-hash = "7f990ccc473cbc13e7fc46478428129af91c1ff2883cd56f5d6927888bdb8e2a"
+hash = "1ef5d4a59553e1e446a1b516e012769e853dd98166ab3a08efbe2a4fffce175f"
 
 [[files]]
 file = "config/tabfaces.cfg"
@@ -1046,8 +1046,8 @@ file = "mods/Botania-1.10.5-GTNH.jar"
 hash = "f71feab85e48132b0325536a95124940948738ad5f1e70cf1ab4c7e35010ed92"
 
 [[files]]
-file = "mods/CoreTweaks-1.7.10-0.2.6_3+nomixin.jar"
-hash = "eaf6ba9a3ff993f221d6792a1709237d3d4c6e440f7b44f2c129b70a2e79eb28"
+file = "mods/CoreTweaks-1.7.10-0.3.3.2+nomixin.jar"
+hash = "2b5aff22ab605da145fe664c6952a52e1010d8159052c61a40f7bcc4024549c7"
 
 [[files]]
 file = "mods/FTBLib-1.7.10-1.0.18.5-GTNH.jar"
@@ -1303,7 +1303,7 @@ metafile = true
 
 [[files]]
 file = "mods/fplib.pw.toml"
-hash = "8a025965dcce9e7a79a982bc8ea51289d80a391c66b8b1fe5ea9b3ffbab331fc"
+hash = "d61f272fb7a33c3a7b47f99547861d5d0ad3d51b73a55d1ea37b9f1bffc0f8ba"
 metafile = true
 
 [[files]]

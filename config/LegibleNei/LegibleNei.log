@@ -15,9 +15,9 @@ keep: |default|default|MASK|default|default|MASK|MASK|MASK|MASK|
 keep-onei: |oneid|oneid|default|oneid|oneid|default|default|default|default|
 show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 ----------------------------------------------------
-2914 items registered
+2913 items registered
 27 filters loaded
-235 items matched in 461 ms
+235 items matched in 113 ms
 ----------------------------------------------------
 
 - appliedenergistics2 :
