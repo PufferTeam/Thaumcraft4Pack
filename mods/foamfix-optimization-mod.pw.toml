@@ -1,13 +1,13 @@
 name = "Foam​Fix"
-filename = "FoamFix-1.7.10-universal-1.0.2.jar"
+filename = "FoamFix-1.7.10-universal-1.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d390bede5faf6b7a701b34f6e82f9562ae662514"
+hash = "a32624a456d2fab26241df30c1612558710202f3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4054718
+file-id = 4473363
 project-id = 278494

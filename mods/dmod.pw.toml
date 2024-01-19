@@ -1,13 +1,13 @@
 name = "D-Mod"
-filename = "DMod-1.7.10-1.0.3.4.jar"
+filename = "DMod-1.7.10-1.0.3.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "32f2e7488002364cec6c0501f68dec879ef7fe32"
+hash = "799fc45c730a35103772bc20b989f1a51671c9f5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4262699
+file-id = 4523625
 project-id = 513764

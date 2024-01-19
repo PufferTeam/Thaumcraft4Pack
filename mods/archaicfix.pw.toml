@@ -1,13 +1,13 @@
 name = "ArchaicFix"
-filename = "archaicfix-mc1.7.10-0.4.1.jar"
+filename = "archaicfix-0.7.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "623198e147b7d0530dde48765a3d72cc83c26a08"
+hash = "6423df3115a89923fc26ae37645dbacc8f82f492"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4336147
+file-id = 5010801
 project-id = 677782

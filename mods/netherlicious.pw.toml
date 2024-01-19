@@ -1,13 +1,13 @@
 name = "Netherlicious"
-filename = "netherlicious-3.2.6.jar"
+filename = "netherlicious-3.2.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b8a1a66ce2efe51f6e572ebc61e19af8d789c0c3"
+hash = "94b167c17730c244f95cd1602e3e16d6e70d6678"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4119166
+file-id = 4363437
 project-id = 385860

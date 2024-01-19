@@ -1,0 +1,13 @@
+name = "Et Futurum Requiem [1.7.10 ONLY]"
+filename = "Et_Futurum_Requiem-2.5.1+nomixin.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b573ebd18f72e8dd3b872ce96fd09c73b13a106"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4769524
+project-id = 441392
