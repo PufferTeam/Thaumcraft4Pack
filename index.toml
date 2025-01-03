@@ -13,22 +13,6 @@ file = "config/AppleCore.cfg"
 hash = "e389dcd715b573bead04fa0740ca64d58725780df43b40f1c1f0ba9dcd1fb54f"
 
 [[files]]
-file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
-hash = "bd1d28407ab783c0f162fa7282700d566d7c4f31146e6671242feaf4ca6d007c"
-
-[[files]]
-file = "config/AppliedEnergistics2/CustomRecipes.cfg"
-hash = "99c584a74a9a06767e48cf6ce89cf7a4702def835d015b67d7678ebfee8b2c8b"
-
-[[files]]
-file = "config/AppliedEnergistics2/Facades.cfg"
-hash = "4ce990cbd2c69fd40013c6a888d00fb8bd9767dd55dd001365252ce5d117ae1f"
-
-[[files]]
-file = "config/AppliedEnergistics2/VersionChecker.cfg"
-hash = "a7500137128413eb1f1600fa07dce082de1fbc07a43fbece47168a9c0606a91b"
-
-[[files]]
 file = "config/AquaTweaks.cfg"
 hash = "ceeb4476bfcc0c25cf9442ed49e482a61e038008a4d983c0124726f21c7e74ce"
 
@@ -46,7 +30,7 @@ hash = "cd2a3592706e2f95284310f271a6e85f85cb0a4049b89f5ebf74ce0100c63d5c"
 
 [[files]]
 file = "config/Botania.cfg"
-hash = "60ac2a9f82e51972733aca8acf4a10a17eca15a8d85bb250b21bacfffbf86589"
+hash = "b05af4addb0832c423e09c0022de38bec0d8522f3c9edcb5dba69302c89f7365"
 
 [[files]]
 file = "config/CarpentersBlocks.cfg"
@@ -162,7 +146,7 @@ hash = "f29a5ed973e39cacda8f2abef31d762497d6cae006aba652dd2caf749a073878"
 
 [[files]]
 file = "config/InvTweaks.cfg"
-hash = "39bdbcaa3e130499122a2e9464234b8257c67fecc64137a2282e25b9e3923d0b"
+hash = "95415f7814b3820e9b5848ff4f8893728701c290ef52e1c7a53bc06dbbdfb6e1"
 
 [[files]]
 file = "config/InvTweaksRules.txt"
@@ -310,7 +294,7 @@ hash = "7fb132078d78461a9dde309797c85302c48eb378e6c8b8dc1030e1505d2248b4"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "2a56a5d625d1001c5adab7176067ab278189d90fff5a85076402dc7cb5d5200e"
+hash = "ba257358906807af9732f84f6bc08da5ee3b3f0bb906c546a077bbc1b13d1560"
 
 [[files]]
 file = "config/MrTJPCore.cfg"
@@ -318,7 +302,15 @@ hash = "b08ce6882a21a2ec535dbcf476e42965dddcd97683ff597e4697706fcd38783a"
 
 [[files]]
 file = "config/NEI/client.cfg"
-hash = "a921379f63f73ef164a576ac872043801e8e928b6750d5d76278754b12f26771"
+hash = "068a1718c9de8beb8f55b504a0b725e8f3902f6d842670d404fbae52f965c75a"
+
+[[files]]
+file = "config/NEI/enableautofocus.cfg"
+hash = "0e23694895239e786f0f839dd4083c3c34cad26ffd9bb15588c2203cd4c751da"
+
+[[files]]
+file = "config/NEI/guidfilters.cfg"
+hash = "e3cae81087e2b1b13d0b9e002f7ffd4c1bed4c90b58abc22f7e8f4665ff3a1d3"
 
 [[files]]
 file = "config/NEI/handlerordering.csv"
@@ -329,12 +321,20 @@ file = "config/NEI/heighthackhandlers.cfg"
 hash = "6ac2eec3cd79da5f8f3dc79a4ae4a2db73fdd2e40b8be2df3fe8416b3984a88d"
 
 [[files]]
+file = "config/NEI/hiddenhandlers.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/NEI/hiddenitems.cfg"
+hash = "b2d13e2897e1c7a3eed2299980bda49bf4108d6649449aa7dc18c10635dff37f"
+
+[[files]]
 file = "config/NEI/serialhandlers.cfg"
 hash = "1c2a9a181be635d5fb81f25c22e214bff38fbd94c98d05d308527432f57171df"
 
 [[files]]
 file = "config/NEIAddons.cfg"
-hash = "2270095ad8cce7ed1c75d48997d3ac7a201fb6dd42add7c2988262789fd3ce92"
+hash = "0d3927a6f2b98d1ff1bd6b95693ab97e7fcc8a47698548ff344d24ad069b3c01"
 
 [[files]]
 file = "config/Netherlicious/Armor_Tool_Configuration.cfg"
@@ -402,11 +402,11 @@ hash = "77bb4484293f15f0017b1bd6e9ee0c6ce143bf225d5004e4ea84fb2e6d35c2de"
 
 [[files]]
 file = "config/StorageDrawers.cfg"
-hash = "d8871fa0060460eee62a1695fec63b7812532fad0ba2aa63dd80664b3e225432"
+hash = "ab583658b44bf20960a4f6c12fae0acb898101d068069f7547f609ff93d1b05d"
 
 [[files]]
 file = "config/TaintedMagic.cfg"
-hash = "686254481515ac82bce5c9f05387f6ff43bf9a3528122d6c6c2c118c20419867"
+hash = "3aea46ddf41afd13cba453199651ac15a91cb04c0c0e2e744921af54b9b9313a"
 
 [[files]]
 file = "config/Thaumcraft.cfg"
@@ -466,7 +466,7 @@ hash = "3a684d141c2ed48d1ad179837f0782150a815b85aafd24c8fdff3344c251209a"
 
 [[files]]
 file = "config/ThaumcraftMobAspects/TaintedMagic.cfg"
-hash = "2f8607250748dd6c21e1ac94dac8b521bfc3cb2a9d07209ddc2f81f3b8e2f465"
+hash = "4132a9ac54826ff944b59e1a6e1f6bab4b0634fff4cb06f7126683617e494a94"
 
 [[files]]
 file = "config/ThaumcraftMobAspects/Thaumcraft.cfg"
@@ -545,6 +545,10 @@ file = "config/ThaumcraftMobAspects/netherlicious.cfg"
 hash = "92310e7cd759a5c1b02d21e9432303ff57d9856431c16d0a5d9bd14f05147f12"
 
 [[files]]
+file = "config/ThaumcraftMobAspects/notenoughpets.cfg"
+hash = "a6d10da94695d026040d10278cc0a1de9eed2853ad05ae386c20a7e9da9e8c97"
+
+[[files]]
 file = "config/ThaumcraftMobAspects/thejungle.cfg"
 hash = "c928f22ca15d58e8a042e8e61551e5ea357a93b42b6e58ea1d3ef90ae4db0784"
 
@@ -574,7 +578,7 @@ hash = "4a0d38fec0c50c2504e58f33d9759f371a4dc008048a13e2dcd2d5e118cf8904"
 
 [[files]]
 file = "config/ThaumicTinkerer.cfg"
-hash = "5ad30a9a9d419d96c343ed62b51ee0fb60debbc4c2f6f10b388fb77c84eac6e3"
+hash = "1d0f4e62e806d1340c47673f44fb4512b114c772b9a94b2eb83f6af10387bdb1"
 
 [[files]]
 file = "config/TravellersGear.cfg"
@@ -586,7 +590,7 @@ hash = "d4556abb51467e569681b4cccb3059caf6043378c921afffa0d8ea31d2bd82d1"
 
 [[files]]
 file = "config/TwilightForest.cfg"
-hash = "e7148d880e78b282e7219e3dc2febd9845ae10cf64e12ea3c218bbb3e3f021c6"
+hash = "6d171f1f10ad7e76f92927d5b6a9d227d2746bea202ac79196aa99856861c37f"
 
 [[files]]
 file = "config/UniDict.cfg"
@@ -598,7 +602,7 @@ hash = "25976176cc4d53567ec8579bba58a3c413ea18678964b3d0b6616a7e032e04ad"
 
 [[files]]
 file = "config/VillageNames4/general.cfg"
-hash = "6ff6049b82c7f434929a7f0ed6c2aab11599f65cdf6de35c7565bda9b54a85e5"
+hash = "482fb7edeabe95acd8b8bc5851cf367a8f39004fe5617f3a2a733542cbd1f946"
 
 [[files]]
 file = "config/VillageNames4/namepieces/alien.cfg"
@@ -674,11 +678,11 @@ hash = "419290e0bffcadae3a6ed8b70cfdbbdc7c3073f2848c5e3247905425b36adda3"
 
 [[files]]
 file = "config/VillageNames4/newvillages/village_gen.cfg"
-hash = "e63477853f13aa647c078e651fc7409ad99b2601f2c91bbc789c3adaaf4e473a"
+hash = "52e814ece2ac3a96f1b10d73ec4bdee3792c88411f640c8f2342e7f081db0fb0"
 
 [[files]]
 file = "config/Waila.cfg"
-hash = "781a1b6832e1ccfb4b165efabe7baf546900d898d16f65a20c51ae7f77a442ee"
+hash = "b4accc0c28e3b7048b554333141288a18c96cb90e761b9284a81e05bab725d62"
 
 [[files]]
 file = "config/WailaHarvestability.cfg"
@@ -693,8 +697,12 @@ file = "config/WitchingGadgets.cfg"
 hash = "28c4862d860c7933ac468b4a6ac983eb604d4dd6c83ecef51d8cda68c2db4536"
 
 [[files]]
+file = "config/aether/AetherI.cfg"
+hash = "b32c3f5e686fa55b7c1d949771714873ceb9db852c9f5e9de1ce0c0504033789"
+
+[[files]]
 file = "config/archaicfix.cfg"
-hash = "1f9b897b51bff378c43088ea086a2e26abdcc731b77f79bbe68e12bd92f56c43"
+hash = "e5a71d9a000d2625b453294f681e518eb8037ee3fb396ca5c1e7de3f088b739b"
 
 [[files]]
 file = "config/aroma1997/Aroma1997Core.cfg"
@@ -754,15 +762,15 @@ hash = "ca85e0cdbeeff14922730ad1e4840ffcfedf9b33f4393e7aa34c6d1860429d55"
 
 [[files]]
 file = "config/bugtorch/base.cfg"
-hash = "d3a86fcfc34b1fc9718bb9cc4b748edf843c9563c8e783d6044249f37ffce232"
+hash = "22c7c400ad4d4f05483546c3aa8322f54461c65a913d04c4755c099498ee07c1"
 
 [[files]]
 file = "config/bugtorch/mixins.cfg"
-hash = "a0ca41dbb720fb67eb11fddd52ff3748eea400676bfcf08d9c5f69e1a6ee5278"
+hash = "bb0e378e364dcabdcde553c595d6f773e25f5fa2ac9c4bf88ce1d6f625ead362"
 
 [[files]]
 file = "config/bugtorch/mixinsModSupport.cfg"
-hash = "e1c5238a0faabe244d175e58aec30f8a56231f195355594169f00f44d2fd3d7a"
+hash = "bb45db1cfe2f1cec810905f5d0d4ccd74094581ae9e507059ff912a7f904b2a1"
 
 [[files]]
 file = "config/bugtorch/modSupport.cfg"
@@ -770,15 +778,15 @@ hash = "3152bce064cf30a7bddfd46d632880ade0e7ec0aabaebacb2c2c10f213cc3a41"
 
 [[files]]
 file = "config/campfirebackport.cfg"
-hash = "3d5783a9ccab3355a8d0b2e181dd37bd69ee86cd3b33ab2679ecba506aabab3a"
+hash = "dd63d2c1305e80c1a38a67f5fb58ca503df2f585d2bab984a03c4117ad4bbcde"
 
 [[files]]
 file = "config/campfirebackportmixins.cfg"
-hash = "e30b7bcc29107424fd60ec15c8bf8ed4f4afb9cac181b3462fb384c95e25680c"
+hash = "50ef80924dd80062c0f221caf6f7459879d2a63b44ab9a282c5cad4e8e228264"
 
 [[files]]
 file = "config/chisel.cfg"
-hash = "2faa0a4f2353bf8046ee435c815241dc509cb8c42ace844d02fc318c1f9b38df"
+hash = "a04c374dd47d9dd39dd6bfbd2e14f4c970091b25e5ad4f1ba607b6ea0c7be56c"
 
 [[files]]
 file = "config/cofh/core/client.cfg"
@@ -830,7 +838,7 @@ hash = "750f833c9b80c4eef2a797a34bf2c70a8cbb97549b12dd621ef53386575e0308"
 
 [[files]]
 file = "config/etfuturum/blocksitems.cfg"
-hash = "a32e29e5be2dc7adc7388da63d27b2e14d41d3c83e7789ac4063972e50a9a7a6"
+hash = "c44c97c42bc5d6a2b80a94b2f10cf8c3b23c4f09a054d6d0e357d55ceb921b1d"
 
 [[files]]
 file = "config/etfuturum/enchantspotions.cfg"
@@ -838,19 +846,23 @@ hash = "4a4e923d6ee3bfc989a62de24b7a93bdfb210dae652abc6bff0eb239b1ca52a7"
 
 [[files]]
 file = "config/etfuturum/entities.cfg"
-hash = "798267aa84201ccb643d71d61e9e4a58d7e34ffabe8b5eeb145babdac52ae281"
+hash = "8c5a02672793400ce9bd705d0f2f1496715871af0293f865761b3b628f1672b5"
+
+[[files]]
+file = "config/etfuturum/experiments.cfg"
+hash = "dc35ab9d35af27e0974fe17c586910f7e18a9f794fcf769a89e74d845177dd75"
 
 [[files]]
 file = "config/etfuturum/functions.cfg"
-hash = "74cd0e93afdebf53be6efcc2174e7c79d6452febf309a46283ed1e75968594b1"
+hash = "551fbe57d03af56230cfeb2f1c34cc8587ca4db200884a07de3a5a0509d8fd0a"
 
 [[files]]
 file = "config/etfuturum/mixins.cfg"
-hash = "bf9d2d4db6b940520d5996b24472e468a387c48f0b8a87cc189e91857ad3ba58"
+hash = "b5aee58ca0e5e9f29a0ae467d59f4229ad8345db92766dca0c02eff210b69eac"
 
 [[files]]
 file = "config/etfuturum/modcompat.cfg"
-hash = "4248c1c4c51458ec90451214e0cf279300f0a8486f48856ff2654f0f0c90713a"
+hash = "c5660cec066e8ddada514ebc6e39a75904557da4eebec3b9e3f7b902b635b398"
 
 [[files]]
 file = "config/etfuturum/sounds.cfg"
@@ -858,27 +870,31 @@ hash = "442ba1a6efd64419eb42a204c5b29768b3e07a8809cb5ec4ed42c9d7edeee9eb"
 
 [[files]]
 file = "config/etfuturum/tweaks.cfg"
-hash = "bb624f7dbeb7b96e0a6d9450ee2adc85571355f3dc0350d65a8e593bdfbe41d8"
+hash = "35b669c41faa4fb36fb33fe20aa32f7d7a25e75b9af2b7b30893535a37baee14"
 
 [[files]]
 file = "config/etfuturum/world.cfg"
-hash = "1250c6109ccb72cba94dee0ef0c87d95e9d38635d7d30f08d6e4e2dc31b6dfd1"
+hash = "f238e843a6cde55c2247db4f5017ce1c953766b7e09846d6d13016138c7ddbd7"
+
+[[files]]
+file = "config/falsepatternlib-early.json"
+hash = "11c067b28898b602e642cb020e432a8fd4aa78b320654aa9f981416773e67aa9"
 
 [[files]]
 file = "config/falsepatternlib.cfg"
-hash = "eb7c70c2b60930b18000af5ad4d45695f813c2c099f9c860dd73f825ba15432e"
+hash = "e029979ab0ba20280268ca8b1e1d3110310f9914a03a9998d5f93b1cbec4935f"
 
 [[files]]
 file = "config/falsetweaks.cfg"
-hash = "2eeefa7e19f7494710b13afc629078ae10d69848d643728d3279a578b2b6165f"
+hash = "0d9b87cdb565a68970156eaed8c3f688615af4c0094672537da7d83bb7e92cfa"
 
 [[files]]
 file = "config/falsetweaks_userspecific.cfg"
-hash = "31f80bd071aaeea4db45991eac88f2cf064fe372ab9e41b1264a07be2aabfd64"
+hash = "41b47997662b3eb42f6a520e4067595fdfd58b7181e27929fe63d8b42071053f"
 
 [[files]]
 file = "config/fastcraft.ini"
-hash = "0c97288626224847444d5a0ade3873a5f8400347dffa2081e47909bf0137eb2d"
+hash = "80d0c1da5eabcda3adc8a3e2b2c17d05f4af3fdd513b6a3feddb6f8f1d0a5faf"
 
 [[files]]
 file = "config/fastleafdecay.cfg"
@@ -902,7 +918,7 @@ hash = "b087cd110f6de99f89a3cecd6351611360bcad69f8f4995fe6faace2f70f497c"
 
 [[files]]
 file = "config/gadomancy.cfg"
-hash = "4159879d1f1c1c138418704c6fb0ba9ccc59e1305722843a4b1abd21ef9b7824"
+hash = "c0dab2b3e63238db147bed0efe00e20bd53f9612bc8197ff8fe3e62b58d0de65"
 
 [[files]]
 file = "config/gravestone.cfg"
@@ -966,7 +982,11 @@ hash = "3a806d8b07e357f89af21f25951f60a4665c026190c411a568f6ecc9e67d4777"
 
 [[files]]
 file = "config/neodymium.cfg"
-hash = "9c2fea3f39cd00c743dd0c88af7f70977416be2f332463c90eab123231d1a99c"
+hash = "aacfff3521785eb1426a793885831ff0b53b71b123e8753d07116057ef0c2335"
+
+[[files]]
+file = "config/notenoughpets.cfg"
+hash = "d604676ae4e12196453289a86613fe79117f93e30f711a6543209d4ff79a43b6"
 
 [[files]]
 file = "config/reccomplex.cfg"
@@ -986,7 +1006,7 @@ hash = "e5e3f6dfb7deebbe932f03735a407fa87e967c85bf92dcaa23371f0a4e039719"
 
 [[files]]
 file = "config/splash.properties"
-hash = "1ef5d4a59553e1e446a1b516e012769e853dd98166ab3a08efbe2a4fffce175f"
+hash = "c3f914d721207368b1bf45a31a38752726f03b4237242afa3e966b9cb82ce0f5"
 
 [[files]]
 file = "config/tabfaces.cfg"
@@ -994,7 +1014,7 @@ hash = "3ebe3ba003ea3341b0406184e3010b599ef3cbe486459642bbf0d9e73ebb0147"
 
 [[files]]
 file = "config/tc4tweak.cfg"
-hash = "390d66db8311f2f9435a47251854c4c64c24b4029b0ce8a4428a34eebedd5120"
+hash = "3bd23ac694a0364512355671a564d41d3967261eaf3ee6c995ad03924a9d3f7f"
 
 [[files]]
 file = "config/tcneiadditions.cfg"
@@ -1014,7 +1034,7 @@ hash = "e083cc08e28a3eb74db2839d5f9edb66915884f102f65ac6b119b311c9e57206"
 
 [[files]]
 file = "config/unimixins.properties"
-hash = "31c16da8645a88382aa55aba929a388096272d1252e6da02b7a5d489cdd3c37e"
+hash = "350884e3ccf46194eef318bec5f9b2b1e74f9b3067b3b8abafcbaeffe42029ad"
 
 [[files]]
 file = "config/wailaplugins.cfg"
@@ -1038,12 +1058,16 @@ hash = "350aadfa23bdb058426e5f8e4a3fd490b8eda41c3fad0d43501361fcd2797ccc"
 
 [[files]]
 file = "mods/1.7.10/codechickenlib-unofficial.pw.toml"
-hash = "b8dfe87b2ad62ebbf2d1212a5b0579ae95dd84205466524bac0f8f3156acddc5"
+hash = "f68c436801bb4cca5c0fb8a172badea975d5c98d969affa1ea2d7ffa8c8d71de"
 metafile = true
 
 [[files]]
-file = "mods/Botania-1.10.5-GTNH.jar"
-hash = "f71feab85e48132b0325536a95124940948738ad5f1e70cf1ab4c7e35010ed92"
+file = "mods/Botania-1.12.4-GTNH-pre.jar"
+hash = "01a106f985c58c049222e698845e4af69739d416b1744c6db29d592cdc46f52d"
+
+[[files]]
+file = "mods/CarpentersBlocks-3.7.0-GTNH.jar"
+hash = "61d7adbb94e57063f9e1279d557bd1986d0a32e6e4f9787060a0841d76afe387"
 
 [[files]]
 file = "mods/CoreTweaks-1.7.10-0.3.3.2+nomixin.jar"
@@ -1058,80 +1082,81 @@ file = "mods/FTBUtilities-1.7.10-1.0.18.7-GTNH.jar"
 hash = "a4f26dbabe71c7931822cdb261c59eba2412e674223cbb34aa7df59060fafcc8"
 
 [[files]]
-file = "mods/Forbidden.Magic-1.7.10-0.6-GTNH.jar"
-hash = "80118c7587f437dedd401fbb3b9b469bbf09bf1677e004e56bd0852139fd936b"
+file = "mods/Forbidden.Magic-0.8.0-GTNH.jar"
+hash = "7ef2d9682cb32a299120b0975ab5685b5d07d180a657a5a281f670e1f9b36d0b"
 
 [[files]]
-file = "mods/HardcoreEnderExpansion-1.7.10-1.9.7-GTNH.jar"
-hash = "d3e2c33f174676408a5506fec63862af4938373633768014cc7e18a4ac925294"
+file = "mods/HardcoreEnderExpansion-1.12.1-GTNH.jar"
+hash = "cdabd65d74516ab1c1024bdcffa1821a6c22db8b8a98b502e16eaee0ff0cb96f"
 
 [[files]]
-file = "mods/NEIAddons-1.7.10-1.12.22.jar"
-hash = "4147ddba739bdf2242f5529b90773b337f818b345c252bf62ffb4c2aff309c21"
+file = "mods/NEIAddons-1.16.0.jar"
+hash = "3ab0e3286b21887887920728f8e0164dd7e8c7e7c104cd95135588d3e080a768"
 
 [[files]]
-file = "mods/NEIIntegration-1.7.10-1.2.3.jar"
-hash = "e09c470a64a1b2a2b9ff97cbc2864aa5edcfd7bc20053256b15959f53c06fa4f"
+file = "mods/NEIIntegration-1.4.0.jar"
+hash = "484cabee25950ca2b6d3d34722242b85638d271397d4dac5d5c6a87f8f3f019c"
 
 [[files]]
-file = "mods/StorageDrawers-1.7.10-1.11.19-GTNH.jar"
-hash = "e948ec9e36ab87ac8f5df28045c115dc99a0f1e57bd79f0457c964e3e0953656"
+file = "mods/StorageDrawers-2.1.0-GTNH.jar"
+hash = "7f996a1c3b83c65ae20bdf301dc63d60cb26b8464ede937139e9fcb5f2978ef8"
 
 [[files]]
-file = "mods/StorageDrawersBop-1.7.10-1.11.17-GTNH.jar"
-hash = "fb97428bf11ac0f3dc643c03923dfdf36307f6cd2dbfdaff09105d716c85f3c4"
+file = "mods/Tainted-Magic-7.6.14.jar"
+hash = "262bda4848b8af7734e6d02108cb0d60dff47c478c6537c990dee5d1c1feefef"
 
 [[files]]
-file = "mods/StorageDrawersMisc-1.7.10-1.11.18-GTNH.jar"
-hash = "0de88bcd969d6bb89a344e3b8e7c1579e1997537f57bf6a82bf7f6ab51f940f5"
-
-[[files]]
-file = "mods/Tainted-Magic-1.7.10-8.1.1.1-GTNH.jar"
-hash = "d8336a53a6c3d3b0c3aada845fc272e7240d5988a86face08b69decea0a8bfc0"
-
-[[files]]
-file = "mods/ThaumcraftMobAspects-1.7.10-1.0.0-GTNH.jar"
-hash = "3620985cdec789c66e6701c4bb2d59787d5e79a64a1a810fe7056b86c385e9d3"
+file = "mods/ThaumcraftMobAspects-1.1.2-GTNH.jar"
+hash = "1212792defe3451f0308c6c0377b659b1ad0d4c01495dec329e5fccb4d2870ac"
 
 [[files]]
 file = "mods/Thaumic-Dyes-.1.7.10.1.10.6-0.jar"
 hash = "c06c217618b9edca22b9bc199a6034c58bd7d3c9d9c9edb0110e3c7b21c62c9b"
 
 [[files]]
-file = "mods/Thaumic-Exploration-.1.7.10.1.1.83-LE-0.jar"
-hash = "cfdc3424d15a08364b5763134dd3d0bf4005953179dd87e875370f050c65e3d3"
+file = "mods/Thaumic-Exploration-0721f58.jar"
+hash = "1b6308d8e186c96acc043d41ba3dd249b98858b927b678cb7c7cc6babf446ec0"
 
 [[files]]
 file = "mods/ThaumicHorizons-1.2.1.12.jar"
 hash = "5f9c0d288ab02546856851ba759e86037d516ed64d80b911e879491555e7de30"
 
 [[files]]
-file = "mods/ThaumicTinkerer-1.7.10-2.6.5LE-5-gab5e365.dirty.jar"
-hash = "5f69dee9ebdbca6e1c7dec76d87566a4cea1d3b0e18e1cf1908472adb1dc0a91"
+file = "mods/ThaumicTinkerer-2.6.5LE-master.13+6caf012426.jar"
+hash = "87c402b1a2f495c2ac87e74636a83618f24fe1e6b50971540447a2c7be03fa9a"
 
 [[files]]
-file = "mods/WAILAPlugins-1.7.10-0.2.5.jar"
-hash = "269fee4ed9d677ee0334a57f775b03e36890a95167e44506a4fad0ffc6c40a78"
+file = "mods/TwilightForest-2.7.1.jar"
+hash = "f41e5cd958dce05ed9f6cec61a06a7e9fb5756d977911e933c9a4f8e1e161ab2"
 
 [[files]]
-file = "mods/Waila-1.5.23.jar"
-hash = "504363dc9191b9f4f05282db3406a0cd2eb5ed6d1dfe6b51d0fe0b181a29ffc4"
+file = "mods/WAILAPlugins-0.6.0.jar"
+hash = "f96982b5916cf3090aaa9031ab6a9463de5ad0c53466b8285c9137a09933e045"
 
 [[files]]
-file = "mods/WailaHarvestability-1.7.10-1.1.10-GTNH.jar"
-hash = "e91766c81986c692ec853926c03cf675709f62bfc96e3f3269d0586f4ad4ba2c"
+file = "mods/Waila-1.8.2.jar"
+hash = "b8e12f85ba9ef199820a93383c7cf5977b344b0dba23da814a5226e793a6caaa"
+
+[[files]]
+file = "mods/WailaHarvestability-1.2.1-GTNH.jar"
+hash = "5abf01e3a460d71cf3d6dc0e6649df5ae5ef75d0a3f2af510c9c773b7bae5ae4"
 
 [[files]]
 file = "mods/WarpTheory-1.2.12-GTNH.jar"
 hash = "650b32551d0ecc0b3728ec2f61e50eb5b056a706ed5eb2764f4223be5bac1fdf"
 
 [[files]]
-file = "mods/WitchingGadgets-v1.2.9LE.dirty.jar"
-hash = "3bcc21432ac09d666216f4138aed2c9c6de589da3685e378f144316fbfa05b77"
+file = "mods/WitchingGadgets-v1.3.0-LE.jar"
+hash = "23c7947706bee6867aeeb56148516ef63f53df95e00391f4ccbc85cc1e3f7f73"
 
 [[files]]
 file = "mods/advanced-botany.pw.toml"
 hash = "4abd6e57d315cb137e99a9fa469f63b4ca5b65f80c15cfc37293be07c075992e"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "670741015654345950c70790266014983717c46663930fbfd03103b9f175cee7"
 metafile = true
 
 [[files]]
@@ -1145,12 +1170,8 @@ hash = "95b82c66e4c416f40fb812fc1e01ba0a216523c02a2df8a1007806ae9692eeb9"
 metafile = true
 
 [[files]]
-file = "mods/appliedenergistics2-1.7.10-rv3-beta-118-GTNH.jar"
-hash = "5c01e7b1c3e634be361df96b977d160730f92905f31ca8fb39ae23c488000cd9"
-
-[[files]]
 file = "mods/archaicfix.pw.toml"
-hash = "7cdfce1e74291f1305ea4b9d9790ec02f06623c69ce9afdbfa44e2cb715339cd"
+hash = "92e0ab3a1611367df378c257cb1e8867b0bf571f64f7e1ddc2e249d608753f39"
 metafile = true
 
 [[files]]
@@ -1200,17 +1221,17 @@ metafile = true
 
 [[files]]
 file = "mods/bugtorch.pw.toml"
-hash = "2b9fe60796061e3d3bf71877a886e883ec92e2ea88572ed43173291e6145820c"
+hash = "ffe150e7f44feed5dcdb72b70b0e6393813e69607f18e6053b180e62ae8ae838"
 metafile = true
 
 [[files]]
 file = "mods/campfire-backport.pw.toml"
-hash = "0e7219a151bc8c5dfe131d0287189f3d02b90e81feea3cbbcb7524ab574ef4ed"
+hash = "760f9a6172aa82dd0499342ec7954d5f4dd698ae2e0a6bf3f1f5f66c7d2315ba"
 metafile = true
 
 [[files]]
-file = "mods/carpenters-blocks.pw.toml"
-hash = "a06f7789e0fd9aef2378f6000af1832e95407a0c854b30ba67d74d53a8146b8e"
+file = "mods/careful-cast-corrector-ccc.pw.toml"
+hash = "86a19332a3d8a6e3e47fa70b4ca4014c3c1ef64c0b4156611ffff53299cfa6fb"
 metafile = true
 
 [[files]]
@@ -1219,12 +1240,12 @@ hash = "455218c61652e397c01e52fdda0af8eafe18fdd9f6a9e4bf80e4d54624bcd73f"
 metafile = true
 
 [[files]]
-file = "mods/chisel-1.7.10-2.10.4-GTNH.jar"
-hash = "7bbfb05278df8aa9731ea60675ae743fb48b157bb7d772453dadbe3de128df9f"
+file = "mods/chisel-2.16.1-GTNH.jar"
+hash = "ad4846b8e31988fbabd5350da618364784dfdf95863b529adaa5c3244ef7f34d"
 
 [[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
-hash = "2eda3ae9293dd804e9866d72aa1ae88d0afc9917375a2b30a99fb7d401f92e63"
+hash = "0a06fbd955806370085b0945aebd87aa046240ed4616c8537c3c959462fb079c"
 metafile = true
 
 [[files]]
@@ -1234,7 +1255,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "355ee94c6fdd9039f134f1a0bc525c90a0f30c173ac385415a7d167d5803fe2c"
+hash = "324ddde2478e75da52c6f0b90a3af263351152768fded099ff6f62dd0c12114d"
 metafile = true
 
 [[files]]
@@ -1268,12 +1289,12 @@ metafile = true
 
 [[files]]
 file = "mods/et-futurum-requiem.pw.toml"
-hash = "aeaf4c9393280d469d18aadcd9bd285cbf5f945c9c88557bf68443f4fe5c1717"
+hash = "a8dd902a4b0939e4b2917a542a5b35ccb76f85b5d9ca8b11e5d78bcef358d789"
 metafile = true
 
 [[files]]
 file = "mods/falsetweaks.pw.toml"
-hash = "b55efeaf0f8892069a858d98c72250c96de976063205982c2dc15c73c8abe33d"
+hash = "ee6628af8958906d8eecb3ef5408c36edd23be699590bb1cd858414d01250cf1"
 metafile = true
 
 [[files]]
@@ -1283,7 +1304,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastcraft.pw.toml"
-hash = "1142a07dbc3c00b5eb5a7509d68e75a8b2ba63566d39d8e17de1163ea3409cbb"
+hash = "422af561be79850d7b301261b133bfc8ddcf7eab4c9d2e3934ded3f6fa72bf58"
 metafile = true
 
 [[files]]
@@ -1303,20 +1324,20 @@ metafile = true
 
 [[files]]
 file = "mods/fplib.pw.toml"
-hash = "d61f272fb7a33c3a7b47f99547861d5d0ad3d51b73a55d1ea37b9f1bffc0f8ba"
+hash = "6ac20ef98c003c51fbe910096c61d26b8fcba65475a1e85d37ffbf8a5af490d7"
 metafile = true
 
 [[files]]
-file = "mods/gadomancy-1.7.10-1.0.8.3.jar"
-hash = "d052a324284be064ca71ec5e496f322c6b8efc119a7e8682f3e69b9b7128db5c"
+file = "mods/gadomancy-1.4.2.jar"
+hash = "a1b84ae30b31b38f3466492e4bed0bb80f5831130604b7acfc614cbda26574c9"
 
 [[files]]
 file = "mods/gravestone-1.7.10-1.1.0.jar"
 hash = "cc02e4b0290766b86ce8f17c84f2c8ea83222ed5ea96502113b0f84cf3547cb4"
 
 [[files]]
-file = "mods/gtnhlib-0.0.12.jar"
-hash = "bdc98e4f5905adb9a37c4e53772a2207bee91c21ba6888329a7a3e373baabab9"
+file = "mods/gtnhlib-0.6.0.jar"
+hash = "69b0da33b5fff88a50b52406a888c9330cd2df624f965bac950d44b2c08943e8"
 
 [[files]]
 file = "mods/hardcore-wither.pw.toml"
@@ -1344,12 +1365,12 @@ metafile = true
 
 [[files]]
 file = "mods/journey-map-qol.pw.toml"
-hash = "204a783273e0ae99b746bc94cb86089803476a01cc031948e06069347317078f"
+hash = "07cb6b7d1541498d69e6b02b92f9c1f1c8390794bae5b4e7db08966f5e64c9b8"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "7d9c2e07b193696eec1af8bd02666f9e11660e75cef796d6976ef158a66c868d"
+hash = "c73b1a61180b5b9549aa14a40efce18ebd330a7ab4eae1dff42db823d1d943fd"
 metafile = true
 
 [[files]]
@@ -1383,8 +1404,8 @@ hash = "2bb6d0cd4d3b22ee4b26ec6786575094d7bca79eca75650c6a5dd7dd3f4678e5"
 metafile = true
 
 [[files]]
-file = "mods/neodymium.pw.toml"
-hash = "1a8025f3486cee6e0dcb103d7658fb5cf00c84855a9b8f05358a3a0d2fa122f3"
+file = "mods/nd1710.pw.toml"
+hash = "6dd45e8549a288aa42bd00bc9ccb30904d086b25fbb0fddc62a3c0deb268cfba"
 metafile = true
 
 [[files]]
@@ -1403,8 +1424,13 @@ hash = "47fe283e676069e6f896242eeb41c275d31f11389fd9b5381eeee5ddde1236ee"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-pets.pw.toml"
+hash = "bee2ffd35b74433e5e0a16464485abc63252c5a2c3647f237abdf3f7ddf27904"
+metafile = true
+
+[[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "c881655a74e7cb494240a42e21b159f5c91e0844e58065caa7474458336a736b"
+hash = "05458861b875db52b4874f6ab3f78a3729a3f55a30dd7ce61150aeb835e95ac5"
 metafile = true
 
 [[files]]
@@ -1444,16 +1470,16 @@ metafile = true
 
 [[files]]
 file = "mods/tc4tweaks.pw.toml"
-hash = "8e9e3ea95b1532b742d21a7185d75b2b25d377620a233955faeea0a42463f406"
+hash = "5cf08b0eb709df780cc5523b5cc80b4e1bb47ea64afdae5c648c621458a31e76"
 metafile = true
 
 [[files]]
-file = "mods/tcneiadditions-1.1.1.10.jar"
-hash = "d88ec2eb3fccf544c1467b3d43a35876a5266da95e2f5ca1fd9424ac395c240c"
+file = "mods/tcneiadditions-1.4.2.jar"
+hash = "e01cbf3d1324a01701e7273e3ec5e49f0bf2a37310e3d92ddda0e3521950cd91"
 
 [[files]]
-file = "mods/tcnodetracker-1.7.10-1.1.6.jar"
-hash = "4a507d3d7aedbb23877b1906a90b2157ccd1e63b3236fdaee3fe8d0b15d41490"
+file = "mods/tcnodetracker-1.3.2.jar"
+hash = "5e96144ad709d0856c626fae6ca9e0c816387826f9b891990ac04f32210b4ebe"
 
 [[files]]
 file = "mods/thaumcraft-inventory-scanning.pw.toml"
@@ -1469,10 +1495,6 @@ metafile = true
 file = "mods/thaumcraft.pw.toml"
 hash = "f0b23db33db035ffb866e3f09a39dc7019a0de90fe32069bbc48df2ad9dc1a68"
 metafile = true
-
-[[files]]
-file = "mods/thaumicenergistics-1.7.10-1.3.21-GTNH.jar"
-hash = "c41d53b00a71c30b976697f81706aa4939398c4d4789ec34a8546ac8caa90940"
 
 [[files]]
 file = "mods/the-disenchanter-mod.pw.toml"
@@ -1491,12 +1513,12 @@ metafile = true
 
 [[files]]
 file = "mods/unimixins.pw.toml"
-hash = "c0cfdb42c7b28f3a6d1020b54d1b1cf9e7dc53c57eae2ad2ec8c08a4b3392ff9"
+hash = "2308d4b5f92c002d294ca1835f22748ffcbb5c58d1f9ddd8349d0d95a2e5a505"
 metafile = true
 
 [[files]]
 file = "mods/village-names.pw.toml"
-hash = "dcbd4c50071820fcd97bcae0f6c713d1614e461b9bdb8822a9b48119b14fb16a"
+hash = "f7a197c58edc5ea16efab551d000c28ab5283e9856a74c8ce99dfe21ea2162aa"
 metafile = true
 
 [[files]]

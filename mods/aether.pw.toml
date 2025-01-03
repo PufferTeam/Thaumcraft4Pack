@@ -1,0 +1,13 @@
+name = "The Aether"
+filename = "aether-1.7.10-v1.1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YhmgMVyu/versions/sDnmimXy/aether-1.7.10-v1.1.2.5.jar"
+hash-format = "sha1"
+hash = "1a8423455e0dc93b548b051e18df9011c23c2fe5"
+
+[update]
+[update.modrinth]
+mod-id = "YhmgMVyu"
+version = "sDnmimXy"

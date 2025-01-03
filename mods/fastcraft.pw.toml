@@ -1,13 +1,13 @@
 name = "FastCraft"
-filename = "fastcraft-1.23.jar"
+filename = "fastcraft-1.25.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a4a7fd7593aff312567ea3cfd6232783a4d875f4"
+hash = "196ebe3d9bb2085e000f0cc6be177d30d0b7190d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 2292386
+file-id = 2522249
 project-id = 242677

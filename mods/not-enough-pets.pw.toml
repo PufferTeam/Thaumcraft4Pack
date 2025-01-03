@@ -1,0 +1,13 @@
+name = "Not Enough Pets"
+filename = "NotEnoughPets-1.7.10-2.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/flsPN5I7/versions/fPvFAVAb/NotEnoughPets-1.7.10-2.4.1.jar"
+hash-format = "sha1"
+hash = "1762183e174ff247b0058e10f83f8a421555d32c"
+
+[update]
+[update.modrinth]
+mod-id = "flsPN5I7"
+version = "fPvFAVAb"

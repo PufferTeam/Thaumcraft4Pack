@@ -1,8 +1,0 @@
-name = "Neodymium"
-filename = "neodymium-1.7.10-0.1.6.jar"
-side = "client"
-
-[download]
-url = "https://github.com/makamys/Neodymium/releases/download/0.2/neodymium-1.7.10-0.2+nomixin.jar"
-hash-format = "sha1"
-hash = "dfa331d76d5d902128eec2b1cfee3dc0d682311c"
