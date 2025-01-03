@@ -1,8 +1,0 @@
-name = "OptiFine"
-filename = "OptiFine_1.7.10_HD_U_D6.jar"
-side = "client"
-
-[download]
-url = "https://github.com/Jerome226/Files/releases/download/optifine1.7.10/OptiFine_1.7.10_HD_U_D6.jar"
-hash-format = "sha1"
-hash = "5e9327dd05a1e762c23c3c0227445d90f193922f"

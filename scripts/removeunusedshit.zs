@@ -24,16 +24,6 @@ recipes.remove(<Botania:stone9Slab:*>);
 recipes.remove(<Botania:stone10Slab:*>);
 recipes.remove(<Botania:stone11Slab:*>);
 
-recipes.remove(<appliedenergistics2:item.ItemMultiPart:440>);
-recipes.remove(<appliedenergistics2:item.ItemMultiPart:380>);
-recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:29>);
-recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:55>);
-recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:54>);
-recipes.remove(<appliedenergistics2:item.ItemViewCell>);
-
-recipes.remove(<thaumicenergistics:storage.essentia:*>);
-recipes.remove(<thaumicenergistics:storage.component:*>);
-
 recipes.remove(<StorageDrawers:upgradeTemplate>);
 recipes.addShaped(<StorageDrawers:upgradeTemplate>, [
 	[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],

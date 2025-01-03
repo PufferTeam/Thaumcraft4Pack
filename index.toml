@@ -701,8 +701,20 @@ file = "config/aether/AetherI.cfg"
 hash = "b32c3f5e686fa55b7c1d949771714873ceb9db852c9f5e9de1ce0c0504033789"
 
 [[files]]
+file = "config/angelica-compat.cfg"
+hash = "8d2860b58a599496e12e5b6c7314420a7652da02d36d701feb0cea25bca71cb4"
+
+[[files]]
+file = "config/angelica-modules.cfg"
+hash = "183a29a2c2614fd423517d03c8b4e756aa845c573b0d6d5fb04c84eb335a02f1"
+
+[[files]]
+file = "config/angelica-options.json"
+hash = "4be4b8d959fea872614306a1bc32457263b451d5bac361a917caae0faa4a27cf"
+
+[[files]]
 file = "config/archaicfix.cfg"
-hash = "e5a71d9a000d2625b453294f681e518eb8037ee3fb396ca5c1e7de3f088b739b"
+hash = "4666d15e34505e59fb768dbc007229ff51a80d342d8a8c8f1ce9ed21de8daede"
 
 [[files]]
 file = "config/aroma1997/Aroma1997Core.cfg"
@@ -877,26 +889,6 @@ file = "config/etfuturum/world.cfg"
 hash = "f238e843a6cde55c2247db4f5017ce1c953766b7e09846d6d13016138c7ddbd7"
 
 [[files]]
-file = "config/falsepatternlib-early.json"
-hash = "11c067b28898b602e642cb020e432a8fd4aa78b320654aa9f981416773e67aa9"
-
-[[files]]
-file = "config/falsepatternlib.cfg"
-hash = "e029979ab0ba20280268ca8b1e1d3110310f9914a03a9998d5f93b1cbec4935f"
-
-[[files]]
-file = "config/falsetweaks.cfg"
-hash = "0d9b87cdb565a68970156eaed8c3f688615af4c0094672537da7d83bb7e92cfa"
-
-[[files]]
-file = "config/falsetweaks_userspecific.cfg"
-hash = "41b47997662b3eb42f6a520e4067595fdfd58b7181e27929fe63d8b42071053f"
-
-[[files]]
-file = "config/fastcraft.ini"
-hash = "80d0c1da5eabcda3adc8a3e2b2c17d05f4af3fdd513b6a3feddb6f8f1d0a5faf"
-
-[[files]]
 file = "config/fastleafdecay.cfg"
 hash = "5a8c5caee6f90244b51ae5d56d7fa9fbdd98506cb04804092e1536c6b341535b"
 
@@ -933,6 +925,14 @@ file = "config/harvestcraft.cfg"
 hash = "44e3805f4503b173d3953f66b32cbf2ebf13dbe343f596e968935ee4f921151e"
 
 [[files]]
+file = "config/hodgepodge.cfg"
+hash = "2e3fa2d37533164b5fef7c4943d7123bcb31dbf6a65b881869fce276058d7232"
+
+[[files]]
+file = "config/hodgepodgeEarly.properties"
+hash = "73a719cc06fc3dde0653f64f39b2df615071787d9c6eb75961ce11537a49a84a"
+
+[[files]]
 file = "config/immersive_snow.cfg"
 hash = "603901245d3d5c8c7e227087e467699b41c3201fa197633a7e25e8e053fb8487"
 
@@ -953,16 +953,28 @@ file = "config/kleeslabs.cfg"
 hash = "dd720dc71805fdf9208a5b00c04553d7eb4b6ee8a063dfce4fb59122be0cfafc"
 
 [[files]]
+file = "config/lwjgl3ify-early.json"
+hash = "be06b1bc735ac9f18909f2fd22a2430b955dc07f6d0fe404a9f6bfee62793aa1"
+
+[[files]]
+file = "config/lwjgl3ify.cfg"
+hash = "6cf15ac0c638c4832e36cfafba101872c3dac4116ffab99dcec1b2f051a06769"
+
+[[files]]
+file = "config/mcpatcherforge.cfg"
+hash = "98c031ebcfec8403b9afc145372a81fba982fd066fd93eed217b97e7f21a3db1"
+
+[[files]]
 file = "config/microblocks.cfg"
 hash = "b90a381d5c8cc61c802b67270f4b072bca1681199148ed4dbf1bf25a29954021"
 
 [[files]]
 file = "config/mixingasm/transformer_exclusion_list.txt"
-hash = "bde37420083ee5f2ac604240f01cb61390001c88269932ca8f692651f4f6f729"
+hash = "261c3c0fd863923371aad3676766d81c0bfc2a527b88e479166dfd59efaed3af"
 
 [[files]]
 file = "config/mixingasm/transformer_inclusion_list.txt"
-hash = "16ed4e14e97fd7d53492af09714040e1241dcb3a3babce3604fa85d64544b00c"
+hash = "9b747b0e71125a99a70237f549d3c275e2fb3dc5c1e74b426992fd4cc5fc6b75"
 
 [[files]]
 file = "config/mixingasm/transformer_inclusion_list_default.txt"
@@ -989,12 +1001,20 @@ file = "config/notenoughpets.cfg"
 hash = "d604676ae4e12196453289a86613fe79117f93e30f711a6543209d4ff79a43b6"
 
 [[files]]
+file = "config/notfine/notfine.cfg"
+hash = "e7d32744a499aaf2ce3e476225dd38996101f593f17eadffaa52a369a2dbdf7b"
+
+[[files]]
 file = "config/reccomplex.cfg"
 hash = "038e33c87bf5b33e3854e1fca336576b163017e2ae1c8e05335d094ca502f8e3"
 
 [[files]]
 file = "config/roguelike_dungeons/roguelike.cfg"
 hash = "e1de18ae4b61be9bd335abc9d6e1e0dc5cf9de7699cc00eee291813956145565"
+
+[[files]]
+file = "config/shaders.properties"
+hash = "2df401ccb1d92065f9021fa8979bf783b91a0b0dcdad39fc774f7fcacb8a3dd7"
 
 [[files]]
 file = "config/sloppydeploader.cfg"
@@ -1170,6 +1190,10 @@ hash = "95b82c66e4c416f40fb812fc1e01ba0a216523c02a2df8a1007806ae9692eeb9"
 metafile = true
 
 [[files]]
+file = "mods/angelica-1.0.0-beta28.jar"
+hash = "46b7b00dbe42f62087ce8fc331e1d8901f0991145e96c8d8eea6c08a02b0bba4"
+
+[[files]]
 file = "mods/archaicfix.pw.toml"
 hash = "92e0ab3a1611367df378c257cb1e8867b0bf571f64f7e1ddc2e249d608753f39"
 metafile = true
@@ -1293,18 +1317,8 @@ hash = "a8dd902a4b0939e4b2917a542a5b35ccb76f85b5d9ca8b11e5d78bcef358d789"
 metafile = true
 
 [[files]]
-file = "mods/falsetweaks.pw.toml"
-hash = "ee6628af8958906d8eecb3ef5408c36edd23be699590bb1cd858414d01250cf1"
-metafile = true
-
-[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "ebf34f60e49eed9b85a3bf4b1253c7aa35ab841d8f444ff8670dfdf2c59d4d01"
-metafile = true
-
-[[files]]
-file = "mods/fastcraft.pw.toml"
-hash = "422af561be79850d7b301261b133bfc8ddcf7eab4c9d2e3934ded3f6fa72bf58"
 metafile = true
 
 [[files]]
@@ -1320,11 +1334,6 @@ metafile = true
 [[files]]
 file = "mods/forgotten-relics.pw.toml"
 hash = "69fcb68808aa6472302007c67d33957cc2ca069b6ef5102556decb8b9662e399"
-metafile = true
-
-[[files]]
-file = "mods/fplib.pw.toml"
-hash = "6ac20ef98c003c51fbe910096c61d26b8fcba65475a1e85d37ffbf8a5af490d7"
 metafile = true
 
 [[files]]
@@ -1348,6 +1357,10 @@ metafile = true
 file = "mods/healer.pw.toml"
 hash = "c8a188b12912cd18ee68c3d9b343e1c96f36e10dccee8ae34dae5b244326a7b6"
 metafile = true
+
+[[files]]
+file = "mods/hodgepodge-2.6.12.jar"
+hash = "a4acace0d7f336a130567d85f2c6039f32d38a2ab55fbf60b465a2c22bf8c784"
 
 [[files]]
 file = "mods/hopper-ducts.pw.toml"
@@ -1384,6 +1397,15 @@ hash = "2d1f098694fde06fbbd12a79c2af5ef44e58ebbd8d82b29bc70687f855d5f0d5"
 metafile = true
 
 [[files]]
+file = "mods/lwjgl3ify-2.1.5.jar"
+hash = "525906bb3a5f295eac49cfa294bac5b9552c73d86584bc2310688d901c18b2ee"
+
+[[files]]
+file = "mods/modernkeybinding.pw.toml"
+hash = "2e464e9cbaf444551df4429aa016a5f916a741c6f2a527bc70b564c82e2bc8ef"
+metafile = true
+
+[[files]]
 file = "mods/modtweaker.pw.toml"
 hash = "2efe15f652487360e8673eb80d8e565218c1bddbea5f4a22ae41a2fb8da7c675"
 metafile = true
@@ -1401,11 +1423,6 @@ metafile = true
 [[files]]
 file = "mods/mysteriumlib.pw.toml"
 hash = "2bb6d0cd4d3b22ee4b26ec6786575094d7bca79eca75650c6a5dd7dd3f4678e5"
-metafile = true
-
-[[files]]
-file = "mods/nd1710.pw.toml"
-hash = "6dd45e8549a288aa42bd00bc9ccb30904d086b25fbb0fddc62a3c0deb268cfba"
 metafile = true
 
 [[files]]
@@ -1431,11 +1448,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
 hash = "05458861b875db52b4874f6ab3f78a3729a3f55a30dd7ce61150aeb835e95ac5"
-metafile = true
-
-[[files]]
-file = "mods/optifine.pw.toml"
-hash = "d97cc25600779f3840154a0f044614b60d83df16a612d661f6ba2d75afef9f65"
 metafile = true
 
 [[files]]
@@ -1553,4 +1565,4 @@ hash = "707d74dbf4cf86a448db9b44f3a22e8a21a7541f5a0dfd75fc51ac4dcd40a890"
 
 [[files]]
 file = "scripts/removeunusedshit.zs"
-hash = "a6c34e864277d1e2ff986d0e442466b1a8b2e948bdcebbc81b55f71cfcd15b11"
+hash = "3c5c5f0afe5adbf37be486c990e07e85d624a2981bc3e18dd8880505fec9f24e"
