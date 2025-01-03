@@ -3,6 +3,8 @@ recipes.remove(<VillageNames:prismarine_shard>);
 recipes.remove(<VillageNames:prismarine_crystals>);
 recipes.remove(<VillageNames:sea_lantern>);
 
+recipes.remove(<Aroma1997Core:wrench>);
+
 recipes.remove(<Botania:stone:*>);
 recipes.remove(<Botania:stone0Stairs:*>);
 recipes.remove(<Botania:stone1Stairs:*>);

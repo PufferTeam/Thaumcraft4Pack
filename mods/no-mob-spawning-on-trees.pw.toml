@@ -1,0 +1,13 @@
+name = "No Mob Spawning on Trees"
+filename = "NoMobSpawningOnTrees-1.2.0-mc1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69c0901e21cdd0f1c7a7f0e728177e3bd04ee034"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2362270
+project-id = 226779

@@ -1,0 +1,13 @@
+name = "Better Horse Hud"
+filename = "BetterHorseHud-1.7.10-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b54b4232494852b2ea1711eebbb9ab10a0e6468"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2210775
+project-id = 223091

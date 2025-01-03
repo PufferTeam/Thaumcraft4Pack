@@ -6,7 +6,6 @@ saturation:0.0
 renderDistance:8
 guiScale:3
 particles:0
-bobView:false
 anaglyph3d:false
 advancedOpengl:false
 maxFps:260
@@ -14,7 +13,7 @@ fboEnable:true
 difficulty:1
 fancyGraphics:true
 ao:2
-clouds:true
+clouds:false
 resourcePacks:[]
 lastServer:
 lang:en_US
@@ -93,6 +92,8 @@ key_Baubles Inventory:0
 key_Change Wand Focus:33
 key_Activate Hover Harness:35
 key_Misc Wand Toggle:34
+key_key.aether.accessory_menu:0
+key_Zoom:46
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
@@ -100,8 +101,8 @@ key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_Automagy.key.focusCrafting:47
 key_Hold to use other FC keys:37
-key_Toggle Cull Entities:49
-key_Toggle Cull Tile Entities:50
+key_Toggle Cull Entities:0
+key_Toggle Cull Tile Entities:0
 key_RV/FR Decrease:51
 key_RV/FR Increase:52
 key_Toggle Scale RD With Size:184
@@ -115,14 +116,6 @@ key_TG.keybind.openInv:0
 key_TG.keybind.activeaAbilities:19
 key_key.cofh.empower:0
 key_key.cofh.multimode:0
-key_key.journeymap.map_toggle:36
-key_key.journeymap.zoom_in:13
-key_key.journeymap.zoom_out:12
-key_key.journeymap.minimap_type:0
-key_key.journeymap.minimap_type:0
-key_key.journeymap.minimap_preset:43
-key_key.journeymap.create_waypoint:48
-key_BetterFps:88
 soundCategory_master:1.0
 soundCategory_music:0.5
 soundCategory_record:1.0

@@ -125,10 +125,6 @@ file = "config/ForgottenRelics.cfg"
 hash = "f70732e74b88515d43fe9474a125ae26c7b8044d07f172ed7644b1c224e0d2f0"
 
 [[files]]
-file = "config/HardcoreDarkness.cfg"
-hash = "5bbe8a20dd76de46f29d5be3ffbbb3e9d3b3b1c28abe1a61ac6a1b1ef422cc68"
-
-[[files]]
 file = "config/HardcoreEnderExpansion.cfg"
 hash = "4d2e4eee9bdb73da13badbc6711fee19757d1e5133a9d34f409b1721beb9f845"
 
@@ -146,7 +142,7 @@ hash = "f29a5ed973e39cacda8f2abef31d762497d6cae006aba652dd2caf749a073878"
 
 [[files]]
 file = "config/InvTweaks.cfg"
-hash = "95415f7814b3820e9b5848ff4f8893728701c290ef52e1c7a53bc06dbbdfb6e1"
+hash = "b8309bfe2b6e9278a1659963276ee05ffa534b08dbefe10806832f1c9d4bbf85"
 
 [[files]]
 file = "config/InvTweaksRules.txt"
@@ -163,10 +159,6 @@ hash = "c8d2fee5eef3d8b8884084bfa289b23f700421cb011f4a84c19a5370f5c6c92d"
 [[files]]
 file = "config/LegibleNei/LegibleNei.json"
 hash = "c731b068396167294cd22235620e68e63bfd3efeeac4e53e1c0cc5291c3b1904"
-
-[[files]]
-file = "config/LegibleNei/LegibleNei.log"
-hash = "49c3903a1170c99acc11615b90c8b0ff0868f9be04ad6e67518a6595ecfb087a"
 
 [[files]]
 file = "config/LegibleNei/filters/Bibliocraft.json"
@@ -294,7 +286,7 @@ hash = "7fb132078d78461a9dde309797c85302c48eb378e6c8b8dc1030e1505d2248b4"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "ba257358906807af9732f84f6bc08da5ee3b3f0bb906c546a077bbc1b13d1560"
+hash = "945a22f79e4178442ca39cec3a3154e2839d1cd992240c0b2a164c705d11b23a"
 
 [[files]]
 file = "config/MrTJPCore.cfg"
@@ -302,7 +294,11 @@ hash = "b08ce6882a21a2ec535dbcf476e42965dddcd97683ff597e4697706fcd38783a"
 
 [[files]]
 file = "config/NEI/client.cfg"
-hash = "068a1718c9de8beb8f55b504a0b725e8f3902f6d842670d404fbae52f965c75a"
+hash = "2f206194a727e3a715037a0fbae11be49c27b676e70aa7c8980c0d7d4b4848f6"
+
+[[files]]
+file = "config/NEI/collapsibleitems.cfg"
+hash = "fa0b17b7fd146bb34f21493681bcff1724bbb248ce9d0a76416364642a7a2243"
 
 [[files]]
 file = "config/NEI/enableautofocus.cfg"
@@ -395,10 +391,6 @@ hash = "e26afe2f0cfbf4cb1130eb5a90d8df38107fea60752b17e8ff395d7f6074a75f"
 [[files]]
 file = "config/SlimeKnights/Mantle.cfg"
 hash = "5398805edaa37184a5a2c0f9d7079f90e2b83fe1b39f1439908d4f9344734256"
-
-[[files]]
-file = "config/SpecialMobs.cfg"
-hash = "77bb4484293f15f0017b1bd6e9ee0c6ce143bf225d5004e4ea84fb2e6d35c2de"
 
 [[files]]
 file = "config/StorageDrawers.cfg"
@@ -714,11 +706,11 @@ hash = "4be4b8d959fea872614306a1bc32457263b451d5bac361a917caae0faa4a27cf"
 
 [[files]]
 file = "config/archaicfix.cfg"
-hash = "4666d15e34505e59fb768dbc007229ff51a80d342d8a8c8f1ce9ed21de8daede"
+hash = "82e8a7c97286d295f7a2a2eb61ad906f2926483f0bce0a421b8258e82ffa053a"
 
 [[files]]
 file = "config/aroma1997/Aroma1997Core.cfg"
-hash = "024a5628179f337a4a03f1a811db126c423d4c9befdf5d1f81389be632362714"
+hash = "2a3ba28dfb0c3d40979278ece3b0f6c3ce01e9606b84f6a63fa6e2626d813bbe"
 
 [[files]]
 file = "config/aroma1997/AromaBackup.cfg"
@@ -846,7 +838,7 @@ hash = "f3defeab1e72c75f0dbce970409c296dacbec2e10f14966111f1d5cea86bf6a6"
 
 [[files]]
 file = "config/endercore/endercore.cfg"
-hash = "750f833c9b80c4eef2a797a34bf2c70a8cbb97549b12dd621ef53386575e0308"
+hash = "3e918c3be6e795a379d0ae5efa1a7bfbad2d093eef696a221e79307f134674b6"
 
 [[files]]
 file = "config/etfuturum/blocksitems.cfg"
@@ -921,32 +913,12 @@ file = "config/hardcorewither.cfg"
 hash = "2a15c46326733ad444cf530dd1db33b5084a0aee9a4e2eaa45e9b0d81b205d07"
 
 [[files]]
-file = "config/harvestcraft.cfg"
-hash = "44e3805f4503b173d3953f66b32cbf2ebf13dbe343f596e968935ee4f921151e"
-
-[[files]]
 file = "config/hodgepodge.cfg"
-hash = "2e3fa2d37533164b5fef7c4943d7123bcb31dbf6a65b881869fce276058d7232"
+hash = "0aca85d5b9d3ae3ec2b4b13852191de013d9040b54d2f2f2e2ab804ebbdb57c0"
 
 [[files]]
 file = "config/hodgepodgeEarly.properties"
-hash = "73a719cc06fc3dde0653f64f39b2df615071787d9c6eb75961ce11537a49a84a"
-
-[[files]]
-file = "config/immersive_snow.cfg"
-hash = "603901245d3d5c8c7e227087e467699b41c3201fa197633a7e25e8e053fb8487"
-
-[[files]]
-file = "config/immersivecavegen.cfg"
-hash = "8aeb13adf93c718d985e42b20014bdd1189d0472c95e40b4ef2275ffe4298c8c"
-
-[[files]]
-file = "config/journeymap_ModInfo.cfg"
-hash = "1d2fe4e20fa4860a72da241cf7ffaf747bbed4a523eb5c0a1a3f5632d5a7f16f"
-
-[[files]]
-file = "config/journeymap_api_1.7.10.cfg"
-hash = "2caa3911e50b554f6f0b0e77c9becc708f753d9cf6158cf8e3f6047610b9998d"
+hash = "d4d0f90e8169f312687d4e041ccf8d5d9c52040f3d6fb2bc82bfba7268926305"
 
 [[files]]
 file = "config/kleeslabs.cfg"
@@ -993,10 +965,6 @@ file = "config/neiintegration.cfg"
 hash = "3a806d8b07e357f89af21f25951f60a4665c026190c411a568f6ecc9e67d4777"
 
 [[files]]
-file = "config/neodymium.cfg"
-hash = "aacfff3521785eb1426a793885831ff0b53b71b123e8753d07116057ef0c2335"
-
-[[files]]
 file = "config/notenoughpets.cfg"
 hash = "d604676ae4e12196453289a86613fe79117f93e30f711a6543209d4ff79a43b6"
 
@@ -1014,7 +982,7 @@ hash = "e1de18ae4b61be9bd335abc9d6e1e0dc5cf9de7699cc00eee291813956145565"
 
 [[files]]
 file = "config/shaders.properties"
-hash = "2df401ccb1d92065f9021fa8979bf783b91a0b0dcdad39fc774f7fcacb8a3dd7"
+hash = "1ce9347d586fc7fab4b80ad32e8b8933463b3628f03a1b06d1099d4e474b32bb"
 
 [[files]]
 file = "config/sloppydeploader.cfg"
@@ -1026,7 +994,7 @@ hash = "e5e3f6dfb7deebbe932f03735a407fa87e967c85bf92dcaa23371f0a4e039719"
 
 [[files]]
 file = "config/splash.properties"
-hash = "c3f914d721207368b1bf45a31a38752726f03b4237242afa3e966b9cb82ce0f5"
+hash = "d866d5b5f55cd06f50be4445bcb5fea9bb846eeebe19631653f367f6d16e7720"
 
 [[files]]
 file = "config/tabfaces.cfg"
@@ -1071,6 +1039,14 @@ hash = "e07b7eb1c51e1b7fe992def2553240649f63511e3ba4757990c7bc92e0fb6a2a"
 [[files]]
 file = "config/witchery_debug.cfg"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "8f8862de5d47e2dd8c3c6e1dd01dabe489072c19d652ff19c07fc5687b780a02"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "a5b0fe3a120708f8f464126872fc124d9ede2e8bd62f40eb30055e1bcb9b3c23"
 
 [[files]]
 file = "mods/1.7.10/Baubles-1.7.10-1.0.1.14.jar"
@@ -1214,8 +1190,8 @@ hash = "d2ef0245eac12bb25282309c4f9f594a8898d0535cc9d17315a19de5de23d197"
 metafile = true
 
 [[files]]
-file = "mods/betterfps.pw.toml"
-hash = "1d7be9acf687897e75921e34c3236d3a78364d140c13b6c9ac4c4293635a6ebc"
+file = "mods/better-horse-hud.pw.toml"
+hash = "6d9a28866215765ea55c7dd7ba4e7acc26a8796913e73114b26ddc3ec12655a8"
 metafile = true
 
 [[files]]
@@ -1345,8 +1321,9 @@ file = "mods/gravestone-1.7.10-1.1.0.jar"
 hash = "cc02e4b0290766b86ce8f17c84f2c8ea83222ed5ea96502113b0f84cf3547cb4"
 
 [[files]]
-file = "mods/gtnhlib-0.6.0.jar"
-hash = "69b0da33b5fff88a50b52406a888c9330cd2df624f965bac950d44b2c08943e8"
+file = "mods/gtnhlib.pw.toml"
+hash = "d1254f5fc5c2eb89e268d48d53e6c616d63fc0aba264cdd883dac1bdb36bb165"
+metafile = true
 
 [[files]]
 file = "mods/hardcore-wither.pw.toml"
@@ -1374,16 +1351,6 @@ hash = "3e5dfe185c446697f021328061814fc35146d3e1c3d633e98656f0135a8f84ec"
 [[files]]
 file = "mods/ivtoolkit.pw.toml"
 hash = "1d8ad50e19e6b029a62379e8bb82d45d520bfdc4a01ed7280b30aa7903b3dbb6"
-metafile = true
-
-[[files]]
-file = "mods/journey-map-qol.pw.toml"
-hash = "07cb6b7d1541498d69e6b02b92f9c1f1c8390794bae5b4e7db08966f5e64c9b8"
-metafile = true
-
-[[files]]
-file = "mods/journeymap.pw.toml"
-hash = "c73b1a61180b5b9549aa14a40efce18ebd330a7ab4eae1dff42db823d1d943fd"
 metafile = true
 
 [[files]]
@@ -1436,6 +1403,11 @@ hash = "8d3060a92228264b9fda7216ece3965f1e2faa63ee3c33e9a26cbe2ce42adf81"
 metafile = true
 
 [[files]]
+file = "mods/no-mob-spawning-on-trees.pw.toml"
+hash = "cb2325204150648b9412c60e6a63fb52e3f9face0e9172a376514db8bb5f4bd1"
+metafile = true
+
+[[files]]
 file = "mods/nosecrets.pw.toml"
 hash = "47fe283e676069e6f896242eeb41c275d31f11389fd9b5381eeee5ddde1236ee"
 metafile = true
@@ -1473,6 +1445,11 @@ metafile = true
 [[files]]
 file = "mods/roguelike-dungeons.pw.toml"
 hash = "8d894465e7ad48de25bdd47187ff0a649a1d7fc71e68cc9ad273c34a6f67af5f"
+metafile = true
+
+[[files]]
+file = "mods/squidless.pw.toml"
+hash = "5235b905baf641e818ca888c49a9e1335c202a0d9cc94620cd6314c48de3f3c9"
 metafile = true
 
 [[files]]
@@ -1524,6 +1501,10 @@ hash = "e367867a41db355cccbeb50304a2929fd79c135f776599e299775e92dc81c57d"
 metafile = true
 
 [[files]]
+file = "mods/travellersgearneo-1.2.4.jar"
+hash = "9fc9e61b505020a67c5059c670614f2b8b3d511816950af4f359678212da5a13"
+
+[[files]]
 file = "mods/unimixins.pw.toml"
 hash = "2308d4b5f92c002d294ca1835f22748ffcbb5c58d1f9ddd8349d0d95a2e5a505"
 metafile = true
@@ -1544,8 +1525,18 @@ hash = "88ed86eb523554228d5e34bbd316ff081f148400db0f281255493e69f81b4f61"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "6570b039dabfd3f7206b14eb4753bb7d19b8d09a8db7c213525e37eb0680c448"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "3705ffe3371e524cb6d7e0056b97f85a12b70acfd5eb70962d3328bbe1619701"
+metafile = true
+
+[[files]]
 file = "options.txt"
-hash = "1be1f0acdd226e280d7b5550e04fa9a625030a642491922a2457ce78c388def3"
+hash = "3f947a8f03011d18383a018176e8ef3807a58ab2abcba8408953a880bd102b9d"
 
 [[files]]
 file = "optionsof.txt"
@@ -1565,4 +1556,4 @@ hash = "707d74dbf4cf86a448db9b44f3a22e8a21a7541f5a0dfd75fc51ac4dcd40a890"
 
 [[files]]
 file = "scripts/removeunusedshit.zs"
-hash = "3c5c5f0afe5adbf37be486c990e07e85d624a2981bc3e18dd8880505fec9f24e"
+hash = "8dea469cab27284c552728e9e92f6b898e64d931718851d1a6237bc5bba199fe"
