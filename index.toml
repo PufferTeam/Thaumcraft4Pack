@@ -1006,7 +1006,7 @@ hash = "e5e3f6dfb7deebbe932f03735a407fa87e967c85bf92dcaa23371f0a4e039719"
 
 [[files]]
 file = "config/splash.properties"
-hash = "e8c5f2be70977d5b17fc91a0e261c1c905912022544d041eb7d87cccd5bca43e"
+hash = "2396bf4d5d184445461973b44243770a755d0d41b7e7c3af5f1b440b4a2d6011"
 
 [[files]]
 file = "config/tabfaces.cfg"
@@ -1478,10 +1478,6 @@ metafile = true
 file = "mods/roguelike-dungeons.pw.toml"
 hash = "8d894465e7ad48de25bdd47187ff0a649a1d7fc71e68cc9ad273c34a6f67af5f"
 metafile = true
-
-[[files]]
-file = "mods/splash.properties"
-hash = "78097cc82fe0451f0154b6873887c7704a538af82d0ff409c06457008df2e797"
 
 [[files]]
 file = "mods/squidless.pw.toml"
