@@ -1,0 +1,8 @@
+name = "Thaumcraft Mob Aspects"
+filename = "ThaumcraftMobAspects-1.1.2-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ThaumcraftMobAspects/releases/download/1.1.2-GTNH/ThaumcraftMobAspects-1.1.2-GTNH.jar"
+hash-format = "sha1"
+hash = "0919c147c641ebc5399b433c9982cab32b1bef1b"

@@ -1,0 +1,13 @@
+name = "Modern Splash"
+filename = "modernsplash-1.7.10-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WQC4Wtzw/versions/UTi9SasD/modernsplash-1.7.10-1.2.1.jar"
+hash-format = "sha512"
+hash = "d72912294c12010e37afd74eb1dc33b47e1a132e0db80164b8a85f404a574bd6319960078eee911c83de772a16540eb6a11fe2967455df930508b38687e58890"
+
+[update]
+[update.modrinth]
+mod-id = "WQC4Wtzw"
+version = "UTi9SasD"

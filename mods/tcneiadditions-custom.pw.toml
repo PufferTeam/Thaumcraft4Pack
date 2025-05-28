@@ -1,0 +1,8 @@
+name = "TC NEI Additions"
+filename = "tcneiadditions-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/TCNEIAdditions/releases/download/1.5.0/tcneiadditions-1.5.0.jar"
+hash-format = "sha1"
+hash = "1d612de7016300431c0069cf53441618a4fbdc60"

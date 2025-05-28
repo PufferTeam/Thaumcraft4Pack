@@ -1,12 +1,12 @@
-name = "NewThaum"
-author = "Jerome226"
-version = "1.0"
+name = "Thaumcraft4Pack"
+author = "PufferTeam"
+version = "2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "16dddf0d3e5bc52bbc8bff29cc24fd8df213d4417f8ef68b88a25c2d5b61f0ba"
+hash = "48d4f3f98a8bae29d445065e64c221e1d8928daaf2dbefb55a8c5a957606c8e3"
 
 [versions]
 forge = "10.13.4.1614"

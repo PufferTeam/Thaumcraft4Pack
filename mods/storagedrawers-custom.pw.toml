@@ -1,0 +1,8 @@
+name = "Storage Drawers"
+filename = "StorageDrawers-2.1.2-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.1.2-GTNH/StorageDrawers-2.1.2-GTNH.jar"
+hash-format = "sha1"
+hash = "77373aba2e667fb4be287d70be71b015fbdf7770"

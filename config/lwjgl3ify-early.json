@@ -40,6 +40,7 @@
     "lotr.common.fac.LOTRFaction",
     "net.minecraft.item.ItemArmor$ArmorMaterial",
     "buildcraft.api.transport.IPipeTile.PipeType",
+    "buildcraft.api.transport.IPipeTile$PipeType",
     "ganymedes01.etfuturum.tileentities.TileEntityBanner$EnumBannerPattern",
     "net.minecraft.entity.player.EntityPlayer$EnumStatus",
     "net.minecraft.event.HoverEvent$Action",

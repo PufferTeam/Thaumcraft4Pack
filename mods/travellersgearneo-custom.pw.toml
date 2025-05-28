@@ -1,0 +1,8 @@
+name = "Traveller's Gear Neo"
+filename = "travellersgearneo-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/TravellersGearNeo/releases/download/1.2.4/travellersgearneo-1.2.4.jar"
+hash-format = "sha1"
+hash = "db8bc54562755ac739348512c83b00773806c56a"
