@@ -129,16 +129,8 @@ file = "config/HardcoreEnderExpansion.cfg"
 hash = "4d2e4eee9bdb73da13badbc6711fee19757d1e5133a9d34f409b1721beb9f845"
 
 [[files]]
-file = "config/HardcoreEnderExpansion.clientsave.cfg"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/HopperDuctMod.cfg"
 hash = "4c8c35fb405d6f8c96a9359317927b0a7e062685b70274e8d1773a74508a10e5"
-
-[[files]]
-file = "config/InfernalMobs.cfg"
-hash = "f29a5ed973e39cacda8f2abef31d762497d6cae006aba652dd2caf749a073878"
 
 [[files]]
 file = "config/InterworldSplashscreen/InterworldSplashscreen.cfg"
@@ -417,24 +409,8 @@ file = "config/NoMobSpawningOnTrees.cfg"
 hash = "c2649e8c4297d5e530b52d0883a78d11979404ad4273f4dd9fa99176e15b7dd7"
 
 [[files]]
-file = "config/OpenBlocks.cfg"
-hash = "ac0164525d2f6546f4db0663bdb9fa0aec70d0612904c2d2f2af9f495a6c6cd3"
-
-[[files]]
-file = "config/OpenMods.cfg"
-hash = "fcb18f440341353234b5cb3e7f5e1fdb3835da8790466be9218add7d748cac12"
-
-[[files]]
-file = "config/OpenModsLibCore.json"
-hash = "88977c3843e9b36fbf454c22c2e866aeb6685b8d5123840c69c88c66044544a3"
-
-[[files]]
 file = "config/Pistronics2.cfg"
 hash = "66871be1228b69e6ff42cce1c812fd863a3669de4ccd88d30d0f52758f006199"
-
-[[files]]
-file = "config/SlimeKnights/Mantle.cfg"
-hash = "5398805edaa37184a5a2c0f9d7079f90e2b83fe1b39f1439908d4f9344734256"
 
 [[files]]
 file = "config/StorageDrawers.cfg"
@@ -643,10 +619,6 @@ hash = "d4556abb51467e569681b4cccb3059caf6043378c921afffa0d8ea31d2bd82d1"
 [[files]]
 file = "config/TwilightForest.cfg"
 hash = "6d171f1f10ad7e76f92927d5b6a9d227d2746bea202ac79196aa99856861c37f"
-
-[[files]]
-file = "config/UniDict.cfg"
-hash = "47fd3491e2db15d0e36e00a92316583c8e3854b3223ce05a60be03b1873ba56d"
 
 [[files]]
 file = "config/UpdateCheckLib.cfg"
@@ -1017,10 +989,6 @@ file = "config/mcpatcherforge.cfg"
 hash = "8946edbee37502a512df576b84764aad81c81cea7c4a72ce9a3defe51206f16d"
 
 [[files]]
-file = "config/microblocks.cfg"
-hash = "b90a381d5c8cc61c802b67270f4b072bca1681199148ed4dbf1bf25a29954021"
-
-[[files]]
 file = "config/mixingasm/transformer_exclusion_list.txt"
 hash = "261c3c0fd863923371aad3676766d81c0bfc2a527b88e479166dfd59efaed3af"
 
@@ -1031,10 +999,6 @@ hash = "9b747b0e71125a99a70237f549d3c275e2fb3dc5c1e74b426992fd4cc5fc6b75"
 [[files]]
 file = "config/mixingasm/transformer_inclusion_list_default.txt"
 hash = "afab0a0de67fb02ffdaa0c7815119284a48a88bf510d1c4a1397fde36da6c28e"
-
-[[files]]
-file = "config/mowziesmobs.cfg"
-hash = "9619ce35806098b2b9e0f7e5db9889d802909eea0130f8f83cc5fa0e4f0c0c7f"
 
 [[files]]
 file = "config/multipart.cfg"
@@ -1133,10 +1097,6 @@ file = "config/thaumcraftneiplugin.cfg"
 hash = "eb1645862895fde7569b92671e2eb75484dbb70bc5c21d64ddbcb2ccc47444f5"
 
 [[files]]
-file = "config/thaumicenergistics.cfg"
-hash = "e083cc08e28a3eb74db2839d5f9edb66915884f102f65ac6b119b311c9e57206"
-
-[[files]]
 file = "config/txloader/config.json"
 hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
@@ -1205,16 +1165,8 @@ file = "config/witchery.cfg"
 hash = "e07b7eb1c51e1b7fe992def2553240649f63511e3ba4757990c7bc92e0fb6a2a"
 
 [[files]]
-file = "config/witchery_debug.cfg"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/xaerominimap.txt"
 hash = "8f8862de5d47e2dd8c3c6e1dd01dabe489072c19d652ff19c07fc5687b780a02"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
