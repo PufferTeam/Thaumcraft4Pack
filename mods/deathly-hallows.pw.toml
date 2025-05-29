@@ -1,0 +1,13 @@
+name = "Deathly Hallows"
+filename = "deathlyhallows-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6xIfBqzY/versions/69FX5E7l/deathlyhallows-1.1.5.jar"
+hash-format = "sha512"
+hash = "0d89671e3f3ea97485b8fc9a2c26f3fd1aadcf6abddf05d700458729153b92b10852b217a367a863b5edffb401a4d3469fb2959bfaa07c0ddc94459ece4ffed5"
+
+[update]
+[update.modrinth]
+mod-id = "6xIfBqzY"
+version = "69FX5E7l"

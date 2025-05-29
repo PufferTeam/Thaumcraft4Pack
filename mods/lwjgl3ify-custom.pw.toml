@@ -1,8 +1,0 @@
-name = "LWJGL3ify"
-filename = "lwjgl3ify-2.1.12.jar"
-side = "both"
-
-[download]
-url = "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.12/lwjgl3ify-2.1.12.jar"
-hash-format = "sha1"
-hash = "946d152ccf5c3c612b5a0eb4a1815140b7ebdffd"

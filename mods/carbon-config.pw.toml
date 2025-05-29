@@ -1,0 +1,13 @@
+name = "Carbon Config"
+filename = "CarbonConfig-1.7.10-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1jDdpgcc/versions/ttXTOUmO/CarbonConfig-1.7.10-1.2.4.jar"
+hash-format = "sha512"
+hash = "44c58a8d957b041135191eacfef0283824d37d8c79cf38a2e22fd4ef1699968f0f9716316b029af93317a74e3635b2a1acfebd8eb45e8e822153150816f9f0a6"
+
+[update]
+[update.modrinth]
+mod-id = "1jDdpgcc"
+version = "ttXTOUmO"

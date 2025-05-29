@@ -1,13 +1,13 @@
 name = "TabFaces"
-filename = "tabfaces-0.0.17-mc1.7.10.jar"
-side = "both"
+filename = "tabfaces-1.0.8.jar"
+side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/dGxC0qey/versions/jLeKskrJ/tabfaces-0.0.17-mc1.7.10.jar"
-hash-format = "sha1"
-hash = "2df6a65218c7563b0366e1094f45ec1dcbed2ec0"
+url = "https://cdn.modrinth.com/data/Jzw8TKEK/versions/WzGXAqKf/tabfaces-1.0.8.jar"
+hash-format = "sha512"
+hash = "ae8bacaf6a61dd19331281b2087f72f28880b07380c7ed511ae528338719835efb266cb6341b55717c4785622ea31a4fad009846abe47addcd994a42b74c0f3f"
 
 [update]
 [update.modrinth]
-mod-id = "dGxC0qey"
-version = "jLeKskrJ"
+mod-id = "Jzw8TKEK"
+version = "WzGXAqKf"

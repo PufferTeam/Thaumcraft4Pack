@@ -1,0 +1,13 @@
+name = "Better Invalid Session"
+filename = "BetterInvalidSession-1.7.10-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4611d0cb76571ce9c1449ca34ac5159673f7f800"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2781339
+project-id = 324881

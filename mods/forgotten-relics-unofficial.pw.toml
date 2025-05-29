@@ -1,0 +1,13 @@
+name = "Forgotten Relics Unofficial"
+filename = "ForgottenRelics-1.7.10-1.7.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ruYpd5sW/versions/ZEzrCjEe/ForgottenRelics-1.7.10-1.7.4.jar"
+hash-format = "sha512"
+hash = "c0f496470b0918ba4fa8f4581fc1aba9239c4e488784ff2f2bfced8e7f1443ade0d5e0b97b147ab48b2254e98f683bb9f2df4d67c9cb2fd41fbbda77db506baf"
+
+[update]
+[update.modrinth]
+mod-id = "ruYpd5sW"
+version = "ZEzrCjEe"

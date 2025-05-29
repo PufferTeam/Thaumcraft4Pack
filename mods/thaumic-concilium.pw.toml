@@ -1,0 +1,13 @@
+name = "Thaumic Concilium"
+filename = "ThaumicConcilium-1.0.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K39gnZpI/versions/jmdPv1Km/ThaumicConcilium-1.0.11.jar"
+hash-format = "sha512"
+hash = "97cdbf859c4aa6d0e953d4b3d83504511de21b0cdeae19a375b22b2c5058eca223e81a5e3781f8afe9ba225cea8daf724983633d2f8a91182c470205978fcc00"
+
+[update]
+[update.modrinth]
+mod-id = "K39gnZpI"
+version = "jmdPv1Km"

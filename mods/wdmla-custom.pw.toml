@@ -1,0 +1,8 @@
+name = "WDMla"
+filename = "wdmla-2.7.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/WDMla/releases/download/2.7.2/wdmla-2.7.2.jar"
+hash-format = "sha1"
+hash = "06b19881c8374a2b729389cee60ed77d3fedeb49"

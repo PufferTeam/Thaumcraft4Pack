@@ -14,6 +14,7 @@ var itemsToRemove = [
 	<BiomesOPlenty:misc:8>,
 	<netherlicious:dye:2>,
 	<BiomesOPlenty:misc:7>,
+	<netherlicious:Nugget>,
 	<Botania:stone:*>,
 	<Botania:stone0Stairs:*>,
 	<Botania:stone1Stairs:*>,
@@ -45,6 +46,7 @@ var removeFromOredicts = [
 	<ore:stoneAndesitePolished>,
 	<ore:stoneDioritePolished>,
 	<ore:stoneGranitePolished>,
+	<ore:nuggetIron>,
 	<ore:dye>,
 	<ore:dyeBlack>,	
 	<ore:dyeBlue>,
@@ -134,3 +136,6 @@ recipes.addShaped(<StorageDrawers:upgradeTemplate>, [
 	[<ore:stickWood>, <ore:blockGlassColorless>, <ore:stickWood>],
 	[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>]
 ]);
+
+recipes.remove(<dmod:bundle>);
+recipes.addShapeless(<dmod:bundle>, [<minecraft:string>, <ore:itemLeather>]);

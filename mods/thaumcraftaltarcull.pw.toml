@@ -1,0 +1,13 @@
+name = "ThaumcraftAltarCull"
+filename = "tcaltarcull-77d2309.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FiyX1gSA/versions/KF3zD0is/tcaltarcull-77d2309.jar"
+hash-format = "sha512"
+hash = "bf48dd33854a94c148f02ee74125990c4c166b205db3ee7f108559dbdffa564b52be185c59af37d257300a4945b9017f40be91b956793c84c1f70ae08375e8ac"
+
+[update]
+[update.modrinth]
+mod-id = "FiyX1gSA"
+version = "KF3zD0is"

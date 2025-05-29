@@ -1,0 +1,13 @@
+name = "Horizontal Backport"
+filename = "HorizontalBackport-mc1.7.10-v1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qmc7cEUQ/versions/cCpFm5RS/HorizontalBackport-mc1.7.10-v1.0.0.jar"
+hash-format = "sha512"
+hash = "2571c4e3691fba9bd9f0de1c68d736d7193c65d66039fa8a78412bce549540910c34ccf170926f927f52e807996c8f0214b4eebb7ec46e69c109cdeb94959503"
+
+[update]
+[update.modrinth]
+mod-id = "qmc7cEUQ"
+version = "cCpFm5RS"

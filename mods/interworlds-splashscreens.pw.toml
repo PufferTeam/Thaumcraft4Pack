@@ -1,0 +1,13 @@
+name = "Interworlds Splashscreens"
+filename = "interworldsplashscreen-1.0.1-universal.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3O9YcvBM/versions/3Y9BzDRt/interworldsplashscreen-1.0.1-universal.jar"
+hash-format = "sha512"
+hash = "f71fcec70aa1cf92633da8beff91b40ea2698896c37b5f839cbb27bbb08f004dc51da99ee534ea8cb8da98954c10a2eb49f91d8ac5ea7d9f3ef58df82f6f3c4a"
+
+[update]
+[update.modrinth]
+mod-id = "3O9YcvBM"
+version = "3Y9BzDRt"

@@ -1,0 +1,8 @@
+name = "UltimateCavesMod"
+filename = "ultimatecavesmod-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/kotmatross28729/UltimateCavesMod/releases/download/1.0.4/ultimatecavesmod-1.0.4.jar"
+hash-format = "sha1"
+hash = "d85bf6bea15c345e5184dcb6609372f60902d308"
