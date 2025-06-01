@@ -1,7 +1,0 @@
-{
-TwilightForest:[
-	{hide:[[tile.TFExperiment115,tile.TFTrophy,tile.CinderFurnaceIdle],[]]};
-    {hide:[[tile.Slider],[1,2,3]]};
-    {hide:[[tile.TFTowerTranslucent],[5]]};
-	]
-}

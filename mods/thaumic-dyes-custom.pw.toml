@@ -1,0 +1,8 @@
+name = "Thaumic Dyes"
+filename = "Thaumic-Dyes-1.10.11-JB.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PufferTeam-ModArchive/Thaumic-Dyes/releases/download/1.10.11-JB/thaumicdyes-1.10.11-JB.jar"
+hash-format = "sha1"
+hash = "0aa35415b2512e62b7988bc4268c6371359e1a9c"

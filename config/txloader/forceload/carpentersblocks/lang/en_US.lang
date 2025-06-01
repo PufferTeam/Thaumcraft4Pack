@@ -1,0 +1,38 @@
+﻿# CREATIVE TAB
+itemGroup.carpentersBlocks.name=Framed Blocks
+
+# ITEMS
+item.itemCarpentersHammer.name=Framed Hammer
+item.itemCarpentersChisel.name=Framed Chisel
+item.itemCarpentersDoor.name=Framed Door
+item.itemCarpentersBed.name=Framed Bed
+item.itemCarpentersTile.name=Framed Tile
+
+# BLOCKS
+tile.blockCarpentersBarrier.name=Framed Fence
+tile.blockCarpentersBed.name=Framed Bed
+tile.blockCarpentersBlock.name=Framed Block
+tile.blockCarpentersButton.name=Framed Button
+tile.blockCarpentersDaylightSensor.name=Framed Daylight Detector
+tile.blockCarpentersCollapsibleBlock.name=Framed Collapsible Block
+tile.blockCarpentersDoor.name=Framed Door
+tile.blockCarpentersGarageDoor.name=Framed Garage Door
+tile.blockCarpentersGate.name=Framed Fence Gate
+tile.blockCarpentersHatch.name=Framed Trapdoor
+tile.blockCarpentersLadder.name=Framed Ladder
+tile.blockCarpentersLever.name=Framed Lever
+tile.blockCarpentersPressurePlate.name=Framed Pressure Plate
+tile.blockCarpentersSlope.name=Framed Slope
+tile.blockCarpentersSlope.wedge.name=Framed Wedge Slope
+tile.blockCarpentersSlope.obliqueInterior.name=Framed Oblique Interior Slope
+tile.blockCarpentersSlope.obliqueExterior.name=Framed Oblique Exterior Slope
+tile.blockCarpentersSlope.prism.name=Framed Prism Slope
+tile.blockCarpentersSlope.prismWedge.name=Framed Prism Wedge Slope
+tile.blockCarpentersStairs.name=Framed Stairs
+tile.blockCarpentersTorch.name=Framed Torch
+tile.blockCarpentersSafe.name=Framed Safe
+tile.blockCarpentersFlowerPot.name=Framed Flower Pot
+
+# ENTITIES
+entity.CarpentersTile.name=Framed Tile
+entity.CarpentersBlocks.CarpentersTile.name=Framed Tile

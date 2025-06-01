@@ -1,0 +1,89 @@
+{
+minecraft:[
+    {keep:[[*spawner],[0]]};
+	{hide:[[monster_egg],[]]};
+],
+etfuturum:[
+	{hide:[[sign*,wall*,double_*],[]]};
+],
+VillageNames:[
+	{hide:[[*prismarine*,sea_lantern],[]]};
+],
+netherlicious:[
+	{hide:[[Nugget],[0]]};
+	{hide:[[*SignStanding,*SignWall,doorcrimson,doorwarped,doorfoxfire,*DoubleSlab,*DoubleSlab2,ChainPowered,ChainPoweredGold,ChainPoweredEfrine,DevilishMaize,HellderBerryBush,AbyssalOat,CrimsonWartCrop,WarpedWartCrop,SoggyWartCrop,GhastlyGourdStem,InfernalReed],[]]};
+],
+aether_legacy:[
+	{hide:[[skyroot_bed,aether_portal,aether_portal_frame,developer_stick,*_double_slab],[]]};
+],
+TwilightForest:[
+	{hide:[[tile.TFExperiment115,tile.TFTrophy,tile.CinderFurnaceIdle,tile.TFWoodSlabDouble*,tile.TFPortal,tile.CinderFurnaceLit,tile.CinderLog],[]]};
+    {hide:[[tile.Slider],[1,2,3]]};
+    {hide:[[tile.TFTowerTranslucent],[5]]};
+],
+HardcoreEnderExpansion:[
+	{hide:[[death_flower_pot,corrupted_energy_high,corrupted_energy_low,enhanced_brewing_stand_block,temple_end_portal,item_special_effects,laser_beam],[]]};
+],
+Aroma1997Core:[
+	{hide:[[wrench,wrenched],[]]};
+],
+Baubles:[
+	{hide:[[bauble_slot_debug_tool],[]]};
+],
+reccomplex:[
+	{hide:[[*],[]]};
+],
+ForgeMicroblock:[
+    {keep-one:[[microblock],[]]};
+],
+BiomesOPlenty:[
+	{hide:[[woodenDoubleSlab*,stoneDoubleSlab],[]]};
+	{keep:[[woodenSingleSlab2],[0,1,2,3,4,5]]};
+],
+CarpentersBlocks:[
+	{hide:[[blockCarpentersDoor,blockCarpentersBed],[]]};
+],
+chisel:[
+	{hide:[[*stairs*],[]]};
+],
+BiblioCraft:[
+   {hide:[[BiblioClipboard,BookcaseFilled],[]]};
+   {hide:[item.,[RecipeBook,AtlasPlate,EnchantedPlate,DeathCompass,PrintPlate,BiblioCreativeLock],[]]};
+],
+Pistronics2:[
+	{hide:[[GearPart,Wrapper,Partblock],[]]};
+],
+OpenBlocks:[
+	{keep-one:[[imaginary],[0,1]]};
+	{keep:[[elevator,elevator_rotating],[0]]};
+	{keep-one:[[tank,trophy,paintcan,crayonGlasses,paintBrush],[]]};
+],
+Thaumcraft:[
+	{_hide:[block,[ArcaneFurnace,Warded,Hole],[]]};
+	{hide:[[blockCosmeticDoubleSlab*,blockManaPod,blockPortalEldritch,blockEldritchNothing,blockMagicBox,blockAlchemyFurnace,blockArcaneDoor],[]]};
+],
+ThaumicTinkerer:[
+	{hide:[[travelSlabFull,darkQuartzSlabFull,wardSlabFull],[]]};
+	{_hide:[[forcefield,gaseousLight,nitorGas,gaseousShadow],[]]};
+],
+ThaumicConcilium:[
+	{hide:[[ElementalSurferShorts,hexOfPredictability],[]]};
+],
+ThaumicHorizons:[
+	{hide:[[vat,vatSolid,vatInterior,portalTH,gatewayTH,light,lightSolar],[]]};
+],
+WitchingGadgets:[
+	{hide:[[WG_CustomAir],[]]};
+],
+WarpTheory:[
+	{hide:[[blockVanish],[]]};
+],
+witchery:[
+	{hide:[[*doubleslab,spiritportal,tormentportal,coffinblock,shadedglass_active],[]]};
+],
+Botania:[
+	{keep:[[altar,manaBeacon,unstableBlock,flightTiara],[0]]};
+	{hide:[[quartz],[0]]};
+	{hide:[[gaiaHeadBlock,stone,stone0*,stone2*,stone3*,stone9*,stone8*,stone1*,stone10*,stone11*,stone8,solidVine,buriedPetals,manaFlame,fakeAir,quartz*,*SlabFull,*SlabManaFull,*SlabBlazeFull,*SlabLavenderFull,*SlabRedFull,*SlabElfFull,*SlabSunnyFull,*TypeDark,*StairsDark,*SlabDarkHalf,endStoneBrick*],[]]};
+]
+}

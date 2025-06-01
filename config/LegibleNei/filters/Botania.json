@@ -1,8 +1,0 @@
-{
-Botania:[
-	{keep:[[customBrick],[0,1,2,3,4]]};
-	{keep:[[altar,manaBeacon,unstableBlock,flightTiara],[0]]};
-	{hide:[[quartz],[0]]};
-	{hide:[[gaiaHeadBlock,stone,stone0*,stone2*,stone3*,stone9*,stone8*,stone1*,stone10*,stone11*,stone8,solidVine,buriedPetals,manaFlame,fakeAir,quartz*,*SlabFull,*SlabManaFull,*SlabBlazeFull,*SlabLavenderFull,*SlabRedFull,*SlabElfFull,*SlabSunnyFull,*TypeDark,*StairsDark,*SlabDarkHalf,endStoneBrick*],[]]};
-	]
-}

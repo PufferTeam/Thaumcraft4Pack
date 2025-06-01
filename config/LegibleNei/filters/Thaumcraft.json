@@ -1,9 +1,0 @@
-{Thaumcraft:[
-	{_hide:[block,[ArcaneFurnace,Warded,Hole],[]]};
-	{hide:[[blockCosmeticDoubleSlab*,blockManaPod,blockPortalEldritch,blockEldritchNothing,blockMagicBox,blockAlchemyFurnace,blockArcaneDoor],[]]};
-],
-ThaumicTinkerer:[
-	{hide:[[travelSlabFull,darkQuartzSlabFull,wardSlabFull],[]]};
-	{_hide:[[forcefield,gaseousLight,nitorGas,gaseousShadow],[]]};
-]
-}

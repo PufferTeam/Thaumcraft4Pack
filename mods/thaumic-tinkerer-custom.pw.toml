@@ -1,0 +1,8 @@
+name = "Thaumic Tinkerer"
+filename = "ThaumicTinkerer-2.6.16-JB.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PufferTeam-ModArchive/ThaumicTinkerer/releases/download/2.6.16-JB/ThaumicTinkerer-2.6.16-JB.jar"
+hash-format = "sha1"
+hash = "1bac6aaea6e11bb0db45242cb70171ad0e693f3a"

@@ -6,6 +6,7 @@ saturation:0.0
 renderDistance:8
 guiScale:3
 particles:0
+bobView:true
 anaglyph3d:false
 advancedOpengl:false
 maxFps:260
@@ -65,10 +66,10 @@ key_key.inventory:18
 key_key.chat:20
 key_key.playerlist:15
 key_key.pickItem:-98
-key_key.command:53
+key_key.command:0
 key_key.screenshot:60
 key_key.togglePerspective:63
-key_key.smoothCamera:0
+key_key.smoothCamera:62
 key_key.sprint:29
 key_key.streamStartStop:0
 key_key.streamPauseUnpause:0
@@ -84,36 +85,73 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
-key_Zoom:46
-key_key.toggle_focus.desc:0
+key_dh.key.broom:0
 key_key.openCompendium:25
 key_key.discordRing:0
 key_Baubles Inventory:0
 key_Change Wand Focus:33
 key_Activate Hover Harness:35
 key_Misc Wand Toggle:34
+key_botaniamisc.toggleLoki:0
+key_botaniamisc.ringOfLokiClear:0
+key_botaniamisc.ringOfLokiMirror:0
+key_botaniamisc.ringOfLokiSaveSchematic:0
+key_botaniamisc.ringOfLokiOpenUI:0
 key_key.aether.accessory_menu:0
+key_Reload Shaders:0
+key_Toggle Shaders:0
+key_Shaderpack Selection Screen:0
+key_Print GLSM Debug:0
 key_Zoom:46
-key_waila.keybind.wailaconfig:82
-key_waila.keybind.wailadisplay:79
-key_waila.keybind.liquid:80
-key_waila.keybind.recipe:81
-key_waila.keybind.usage:75
-key_Automagy.key.focusCrafting:47
-key_Hold to use other FC keys:37
+key_waila.keybind.wailaconfig:0
+key_waila.keybind.wailadisplay:0
+key_waila.keybind.liquid:0
+key_waila.keybind.recipe:0
+key_waila.keybind.usage:0
+key_waila.keybind.details:42
+key_Automagy.key.focusCrafting:37
+key_Hold to use other FC keys:0
 key_Toggle Cull Entities:0
 key_Toggle Cull Tile Entities:0
-key_RV/FR Decrease:51
-key_RV/FR Increase:52
-key_Toggle Scale RD With Size:184
-key_ttmisc.toggleArmor:22
+key_RV/FR Decrease:0
+key_RV/FR Increase:0
+key_Toggle Scale RD With Size:0
+key_ttmisc.toggleArmor:21
 key_key.aspectMenu:23
 key_Change Arcane Lens:47
 key_Activate Morphic Fingers:49
 key_Toggle Spider Climb:0
 key_Toggle Chameleon Skin:45
+key_Choose Shard for Shard Mill:36
+key_Toggle Pontifex Robe:0
 key_TG.keybind.openInv:0
-key_TG.keybind.activeaAbilities:19
+key_TG.keybind.activeaAbilities:0
+key_TG.keybind.activeAbility1:0
+key_TG.keybind.activeAbility2:0
+key_TG.keybind.activeAbility3:0
+key_wg.config.activateKey:38
+key_gui.xaero_switch_waypoint_set:0
+key_gui.xaero_instant_waypoint:78
+key_gui.xaero_toggle_slime:0
+key_gui.xaero_toggle_grid:0
+key_gui.xaero_toggle_waypoints:0
+key_gui.xaero_toggle_map_waypoints:0
+key_gui.xaero_toggle_map:0
+key_gui.xaero_enlarge_map:44
+key_gui.xaero_waypoints_key:22
+key_gui.xaero_zoom_in:0
+key_gui.xaero_zoom_out:0
+key_gui.xaero_new_waypoint:48
+key_gui.xaero_display_all_sets:0
+key_gui.xaero_toggle_light_overlay:0
+key_gui.xaero_minimap_settings:0
+key_gui.xaero_open_map:50
+key_gui.xaero_open_settings:0
+key_gui.xaero_map_zoom_in:0
+key_gui.xaero_map_zoom_out:0
+key_gui.xaero_quick_confirm:54
+key_key.fastBlockPlacing.desc:0
+key_key.carbon_config.key:82
 key_key.cofh.empower:0
 key_key.cofh.multimode:0
 soundCategory_master:1.0

@@ -1,7 +1,0 @@
-{
-AWWayofTime:[
-	{hide:[[bloodLight,spectralContainer,*TelepositionFocus,lifeEssence],[]]};
-	{hide:[block,[Mimic,SchemSaver],[]]};
-	{keep-one:[block,[CrystalBelljar],[]]};
-]
-}

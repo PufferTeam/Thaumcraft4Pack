@@ -13,8 +13,8 @@ caveZoom:1
 showPlayers:true
 showHostile:true
 showMobs:true
-showItems:true
-showOther:true
+showItems:false
+showOther:false
 showOtherTeam:true
 showTamed:true
 showWaypoints:true
@@ -61,7 +61,7 @@ waypointTPCommand:/tp
 arrowScale:1.5
 arrowColour:0
 smoothDots:true
-playerIcons:1
+playerIcons:2
 mobIcons:1
 hostileIcons:1
 tamedIcons:3
@@ -76,7 +76,7 @@ waypointOpacityMap:90
 hideWorldNames:1
 openSlimeSettings:true
 alwaysShowDistance:false
-playerNames:0
+playerNames:2
 otherTeamsNames:3
 friendlyMobNames:0
 hostileMobNames:0
@@ -117,9 +117,9 @@ compassColor:9
 itemFramesOnRadar:false
 showDimensionName:false
 enlargedMinimapAToggle:false
-interface:dummy:0:0:false:false:true:false
-interface:dummy:0:135:false:false:false:false
-interface:dummy:120:0:true:false:false:false
 interface:dummy:0:50:true:false:false:false
+interface:dummy:0:10000:true:false:false:false
+interface:dummy:0:0:false:false:true:false
+interface:dummy:0:36:true:false:false:false
 interface:gui.xaero_minimap:0:0:false:false:true:false
 #WAYPOINTS HAVE BEEN MOVED TO /XaeroWaypoints

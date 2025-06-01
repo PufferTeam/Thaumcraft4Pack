@@ -3,6 +3,6 @@ filename = "Pistronics2-1.7.10-0.6.4-patched.jar"
 side = "both"
 
 [download]
-url = "https://github.com/PufferTeam-ModArchive/Pistronics-2/releases/download/2.0/Pistronics2-1.7.10-0.6.4-patched.jar"
+url = "https://github.com/PufferTeam-ModArchive/Pistronics-2/releases/download/2.2/Pistronics2-1.7.10-0.6.4-patched.jar"
 hash-format = "sha1"
-hash = "752955ce9f9f909f507bea4216b04c6bcce10ad2"
+hash = "179566fd56427303dbf2b6b8dfd8edad96ffb8c3"

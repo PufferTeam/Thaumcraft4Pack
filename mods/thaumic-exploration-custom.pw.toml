@@ -1,0 +1,8 @@
+name = "Thaumic Exploration"
+filename = "Thaumic-Exploration-v1.1.1v85-JB.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PufferTeam-ModArchive/Thaumic_Exploration/releases/download/v1.1.1v85-JB/Thaumic-Exploration-v1.1.1v85-JB.jar"
+hash-format = "sha1"
+hash = "042bc6ba9ba34496ddaf07328a5f9b3f5038c0e4"
