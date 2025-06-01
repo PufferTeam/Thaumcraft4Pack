@@ -713,6 +713,22 @@ file = "config/cofh/core/loot.cfg"
 hash = "c62b37e881370cab360c76c010b7f5fad39211845145c37537222ff6c70607b0"
 
 [[files]]
+file = "config/cofh/thermalfoundation/client.cfg"
+hash = "eabba95bf1a1af077530f23d98baea1a023660babec978434858edcb325f0428"
+
+[[files]]
+file = "config/cofh/thermalfoundation/common.cfg"
+hash = "fbfa26398a2660b2e72214be443993977cc66f4ceed9821aa1e13b0ecbca3a4a"
+
+[[files]]
+file = "config/cofh/thermalfoundation/lexicon-whitelist.cfg"
+hash = "a1c9ac70948c93390e0633768d1b479daf58472e44f891a161ab3f37380b2da8"
+
+[[files]]
+file = "config/cofh/world/ThermalFoundation-Ores.json"
+hash = "5c3caddc4f428db554db410647243dcb4031b4e1a0b5cd61a23540a443436e9e"
+
+[[files]]
 file = "config/cofh/world/Vanilla.json"
 hash = "6c7215195f91d309630e8a0cc3d289ddc669b212b5fde31c67f87580b8f0b1c9"
 
@@ -746,7 +762,7 @@ hash = "7c0ff548014126b0805310dd3fb2f337607b5f7375170d546fa20fcdca0165da"
 
 [[files]]
 file = "config/etfuturum/blocksitems.cfg"
-hash = "db3f06e340adfbaffa28d42c632ab376ceb3499eb804690d634df226cc4f21ed"
+hash = "02ed3b731dc4fbb7b42abc175c64b4c02f8e9cbd0ce1aa77298865e7b1564977"
 
 [[files]]
 file = "config/etfuturum/enchantspotions.cfg"
@@ -782,7 +798,7 @@ hash = "35b669c41faa4fb36fb33fe20aa32f7d7a25e75b9af2b7b30893535a37baee14"
 
 [[files]]
 file = "config/etfuturum/world.cfg"
-hash = "f238e843a6cde55c2247db4f5017ce1c953766b7e09846d6d13016138c7ddbd7"
+hash = "233050bcb57d7819dbdc7fed09c7d91666178d99bce372f5edf1be940244031f"
 
 [[files]]
 file = "config/fastleafdecay.cfg"
@@ -1531,6 +1547,11 @@ hash = "e6a5f3eb8f2a242f880771e283ba4e60ff6e8d27a9a4960e69405f152626fed6"
 metafile = true
 
 [[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "52c5a415a7bc071332ef8c791d4b97910cfba93c527c9f8aabfc05af63d30321"
+metafile = true
+
+[[files]]
 file = "mods/tileentity-reset-fix.pw.toml"
 hash = "1fa40864245c142cb41eb89987e2ba7999ea37baca479148bb22e4465b0a468f"
 metafile = true
@@ -1607,7 +1628,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0fd272bf54b22ef36f9230ca1d3a293b60c2666343e66b2ba374a395298d0f70"
+hash = "0050adc9d8aa90a0adf286797bdee83f606176e76bcd1d6a5b22c652b23b105f"
 
 [[files]]
 file = "optionsnf.txt"
@@ -1623,7 +1644,7 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/Upgraded-Textures.zip"
-hash = "fbc62ef49d682f900c1b7a160ce466274f09b8f70d27108e86989a2326914e60"
+hash = "1347cc65746e7d47356cee420ee3ffe850e45bfa53f593f6546026a1048d100e"
 
 [[files]]
 file = "scripts/.priority.zs"
