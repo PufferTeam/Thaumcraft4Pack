@@ -1,0 +1,8 @@
+name = "Forge Installer"
+filename = "forge-1.7.10-10.13.4.1614-1.7.10-installer.jar"
+side = "server"
+
+[download]
+url = "https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-installer.jar"
+hash-format = "sha256"
+hash = "a5d60757d8b305939233a942d5097fa78816d116ef9082c03066fe669e010c7f"

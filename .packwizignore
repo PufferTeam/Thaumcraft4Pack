@@ -1,6 +1,5 @@
 /*.zip
 /packwiz-installer.jar
-/packwiz-install-boostrap.jar
-/pack.bat
-/Thaumcraft4Pack.zip
+/packwiz-installer-boostrap.jar
+/packwiz-refresh.bat
 /resourcepacks/Upgraded-Textures/*

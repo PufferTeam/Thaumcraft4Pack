@@ -1,6 +1,6 @@
 name = "NotEnoughItems Unofficial 1.7.10"
 filename = "NotEnoughItems-2.7.49-GTNH.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/iNPc3Onu/versions/IrjLAVYa/NotEnoughItems-2.7.49-GTNH.jar"

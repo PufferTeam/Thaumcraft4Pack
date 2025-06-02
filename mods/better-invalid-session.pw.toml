@@ -1,6 +1,6 @@
 name = "Better Invalid Session"
 filename = "BetterInvalidSession-1.7.10-1.0.3.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "CoreTweaks"
 filename = "CoreTweaks-1.7.10-0.3.3.2+nomixin.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/makamys/CoreTweaks/releases/download/0.3.3.2/CoreTweaks-1.7.10-0.3.3.2+nomixin.jar"

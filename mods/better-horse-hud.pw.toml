@@ -1,6 +1,6 @@
 name = "Better Horse Hud"
 filename = "BetterHorseHud-1.7.10-1.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

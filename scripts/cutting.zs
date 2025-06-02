@@ -10,19 +10,19 @@ recipes.removeShaped(<minecraft:stonebrick:3>, [
 ]);
 
 function cut(mod as IData, name as IData, fullBlock as IItemStack, slabBlock as IItemStack, stairBlock as IItemStack, wallBlock as IItemStack, type as IData, logs as IItemStack[], logsOreDict as IOreDictEntry, specialRemove as IData) {
+	if(specialRemove == 1) {
+		recipes.removeShaped(fullBlock, [
+			[slabBlock],
+			[slabBlock]
+		]);
+	}
+
 	if(type == 1) {
 		for i, currentWood in logs {
 			recipes.removeShapeless(fullBlock * 4, [currentWood]);
 			logsOreDict.add(currentWood);
 		}
 		recipes.addShapeless(fullBlock * 4, [logsOreDict]);
-	}
-
-	if(specialRemove == 1) {
-		recipes.removeShaped(fullBlock, [
-			[slabBlock],
-			[slabBlock]
-		]);
 	}
 
 	if(type != 4) {
@@ -114,6 +114,9 @@ cut('witchery', 'rowan', <witchery:witchwood>, <witchery:witchwoodslab>, <witche
 cut('witchery', 'alder', <witchery:witchwood:1>, <witchery:witchwoodslab:1>, <witchery:stairswoodalder>, none, 1, [<witchery:witchlog:1>], <ore:logWoodAlder>, 0);
 cut('witchery', 'hawthorn', <witchery:witchwood:2>, <witchery:witchwoodslab:2>, <witchery:stairswoodhawthorn>, none, 1, [<witchery:witchlog:2>], <ore:logWoodHawthorn>, 0);
 
+cut('botania', 'livingwood', <Botania:livingwood>, <Botania:livingwood0Slab>, <Botania:livingwood0Stairs>, <Botania:livingwood0Wall>, 3, [], <ore:none>, 1);
+cut('botania', 'livingwood_planks', <Botania:livingwood:1>, <Botania:livingwood1Slab>, <Botania:livingwood1Stairs>, none, 1, [<Botania:livingwood>], <ore:logWoodLivingwood>, 1);
+
 cut('etfuturum', 'stone', <minecraft:stone>, <etfuturum:stone_slab>, <etfuturum:stone_stairs>, none, 0, [], <ore:none>, 0);
 cut('etfuturum', 'smooth_stone', <etfuturum:smooth_stone>, <minecraft:stone_slab>, none, none, 2, [], <ore:none>, 0);
 cut('etfuturum', 'stone_bricks', <minecraft:stonebrick>, <minecraft:stone_slab:5>, <minecraft:stone_brick_stairs>, <etfuturum:stone_wall>, 3, [], <ore:none>, 0);
@@ -183,8 +186,6 @@ cut('botania', 'roof_tile', <Botania:customBrick:3>, <Botania:customBrick3Slab>,
 cut('botania', 'prismarine', <Botania:prismarine>, <Botania:prismarine0Slab>, <Botania:prismarine0Stairs>, <Botania:prismarine0Wall>, 3, [], <ore:none>, 1);
 cut('botania', 'prismarine_bricks', <Botania:prismarine:1>, <Botania:prismarine1Slab>, <Botania:prismarine1Stairs>, none, 0, [], <ore:none>, 1);
 cut('botania', 'prismarine_dark', <Botania:prismarine:2>, <Botania:prismarine2Slab>, <Botania:prismarine2Stairs>, none, 0, [], <ore:none>, 1);
-cut('botania', 'livingwood', <Botania:livingwood>, <Botania:livingwood0Slab>, <Botania:livingwood0Stairs>, <Botania:livingwood0Wall>, 3, [], <ore:none>, 1);
-cut('botania', 'livingwood_planks', <Botania:livingwood:1>, <Botania:livingwood1Slab>, <Botania:livingwood1Stairs>, none, 0, [], <ore:none>, 1);
 cut('botania', 'dreamwood', <Botania:dreamwood>, <Botania:dreamwood0Slab>, <Botania:dreamwood0Stairs>, <Botania:dreamwood0Wall>, 3, [], <ore:none>, 1);
 cut('botania', 'dreamwood_planks', <Botania:dreamwood:1>, <Botania:dreamwood1Slab>, <Botania:dreamwood1Stairs>, none, 0, [], <ore:none>, 1);
 

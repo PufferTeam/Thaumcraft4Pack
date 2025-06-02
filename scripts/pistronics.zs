@@ -62,7 +62,7 @@ recipes.addShaped(<Pistronics2:The Tool>, [
 recipes.remove(<Pistronics2:Saw>);
 recipes.addShaped(<Pistronics2:Saw>, [
 	[<ore:ingotIron>],
-	[gear],
+	[<ore:nuggetIron>],
 	[<ore:stickWood>]
 ]);
 

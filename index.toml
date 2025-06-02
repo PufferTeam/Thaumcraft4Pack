@@ -1061,6 +1061,16 @@ file = "config/xaeroworldmap.txt"
 hash = "a5b0fe3a120708f8f464126872fc124d9ede2e8bd62f40eb30055e1bcb9b3c23"
 
 [[files]]
+file = "forge-server-installer.pw.toml"
+hash = "1bf34f3f497c6ac7523bee7fe5bf60941a265007d52bfae3b8d2e98aaabb1433"
+metafile = true
+
+[[files]]
+file = "lwjgl3ify-forgepatches.pw.toml"
+hash = "86560658125637ae51dab48865f05411b31d2e151cfe243a5ed34df0b3e377c0"
+metafile = true
+
+[[files]]
 file = "mods/1.7.10/baubles-custom.pw.toml"
 hash = "ee943752cb9b54f35b832d9ef8f1224e34a81fd0159a29bb74e096033ec96f94"
 metafile = true
@@ -1129,12 +1139,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-horse-hud.pw.toml"
-hash = "6d9a28866215765ea55c7dd7ba4e7acc26a8796913e73114b26ddc3ec12655a8"
+hash = "83dea92cb4b430b044fede7668c5cc5f31d3abf6523b17726b79457c844e8489"
 metafile = true
 
 [[files]]
 file = "mods/better-invalid-session.pw.toml"
-hash = "1f4a2333c32d744b2de16ef80134f91f4844288114ba1415339df727e58e49e3"
+hash = "5d6b316da33aab9242f273e6340742304d774caf9836dc53ba93f71e9c85e762"
 metafile = true
 
 [[files]]
@@ -1219,7 +1229,7 @@ metafile = true
 
 [[files]]
 file = "mods/coretweaks-custom.pw.toml"
-hash = "e4616686047c72f3199684de4bf94f9670d14169b0c45fd8ed2a05977414799f"
+hash = "8fd837d2aa114075ff594586fa9cb805ab8995d775c31e7919156d54dd075595"
 metafile = true
 
 [[files]]
@@ -1428,7 +1438,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-unofficial.pw.toml"
-hash = "8528f993dd5c49946ab633258fba3cacd960ca6a0f572046e5c274c14ec8b349"
+hash = "c3174656559a00e0984e835e06abdf77366c15ac477fbe6af41b4357eb4ac9f0"
 metafile = true
 
 [[files]]
@@ -1664,7 +1674,7 @@ hash = "36611e181d96f23b26067a9ba9593f0c5438aff6840200235c00108bbe733687"
 
 [[files]]
 file = "scripts/cutting.zs"
-hash = "36af23ed85e61bbc6ea65ae27358d874eb142511f5e1f9c0472be06d36a3758c"
+hash = "acd0647ae70c3eb3e829d9c9a64ce4a697c3239c1d0a38ff2e6b149b02ca2cb0"
 
 [[files]]
 file = "scripts/dyeing.zs"
@@ -1676,4 +1686,4 @@ hash = "cc57c920475d26c14242f2858ef41ee51c8b6f475048f835c1fad35f932e8ef7"
 
 [[files]]
 file = "scripts/pistronics.zs"
-hash = "72009a666886215787fae970c69dcca12fc14374250efeacf43ecc7816415985"
+hash = "13044d6174f8fc8420bf5383a142be69326f153116bfef729d81fa5324303e31"
