@@ -1661,12 +1661,12 @@ file = "scripts/.priority.zs"
 hash = "697f34914a8fa6c108210fd25c5a49a3205cdf3445fa0b0e6f48b1dd9e13b436"
 
 [[files]]
-file = "scripts/BotaniaAspects.zs"
-hash = "577d2618eed0ec0753728c40a6f0f5ddbba38aa3242e7c2a652239116b88878b"
-
-[[files]]
 file = "scripts/Symbiotic+Botania-245+and+Thaumcraft-4.2.3.5.zs"
 hash = "707d74dbf4cf86a448db9b44f3a22e8a21a7541f5a0dfd75fc51ac4dcd40a890"
+
+[[files]]
+file = "scripts/aspects.zs"
+hash = "577d2618eed0ec0753728c40a6f0f5ddbba38aa3242e7c2a652239116b88878b"
 
 [[files]]
 file = "scripts/chisel.zs"
@@ -1674,7 +1674,7 @@ hash = "36611e181d96f23b26067a9ba9593f0c5438aff6840200235c00108bbe733687"
 
 [[files]]
 file = "scripts/cutting.zs"
-hash = "acd0647ae70c3eb3e829d9c9a64ce4a697c3239c1d0a38ff2e6b149b02ca2cb0"
+hash = "369a8b1dbb4da318f1b6bbea55cbb777716a0e398fca022c3dd3708cb5793825"
 
 [[files]]
 file = "scripts/dyeing.zs"
