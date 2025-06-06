@@ -609,18 +609,6 @@ file = "config/archaicfix.cfg"
 hash = "c55979284ba2950f20c9275543710a75a0619c698a58a87ba64a00f9989fa4e5"
 
 [[files]]
-file = "config/aroma1997/Aroma1997Core.cfg"
-hash = "2a3ba28dfb0c3d40979278ece3b0f6c3ce01e9606b84f6a63fa6e2626d813bbe"
-
-[[files]]
-file = "config/aroma1997/AromaBackup.cfg"
-hash = "58958aec6c5fe292699abb7e608f7144539b6b08a4c69bde13f67c7106bcfa16"
-
-[[files]]
-file = "config/aroma1997/AromaBackupRecovery.cfg"
-hash = "9f6d3c1dd724cd25540b171b665be028b492e53b1ca96fd600ef8fb068cc08af"
-
-[[files]]
 file = "config/bbm/AI_Improvements.cfg"
 hash = "ab10dece242a1165da2264c6e492667b8050acaf510650fa0c84efae1ea41788"
 
@@ -1123,16 +1111,6 @@ hash = "e2ea462f068b9b84ab0e1d302f56f300cb2b4938d1ace27eb88c23b7ed514c9b"
 metafile = true
 
 [[files]]
-file = "mods/aroma1997core.pw.toml"
-hash = "237338ce33a51c3c71a704d2114d197cda1d5559d5b917355509eaaba79b4134"
-metafile = true
-
-[[files]]
-file = "mods/aromabackup.pw.toml"
-hash = "bae76665b3c31c817cefc60d050526a99231135a9171b39c3751266ec17bfd29"
-metafile = true
-
-[[files]]
 file = "mods/automagy.pw.toml"
 hash = "d2ef0245eac12bb25282309c4f9f594a8898d0535cc9d17315a19de5de23d197"
 metafile = true
@@ -1290,16 +1268,6 @@ metafile = true
 [[files]]
 file = "mods/forgotten-relics-unofficial.pw.toml"
 hash = "180043516eea79642f21f42342a0fcd54597e4204615bc46e6b1d84226d6a76a"
-metafile = true
-
-[[files]]
-file = "mods/ftblib-custom.pw.toml"
-hash = "1ff724200c8a3644f54f16925b99c4a358ff87a4dc7bf7a2d97846d653987961"
-metafile = true
-
-[[files]]
-file = "mods/ftbutilities-custom.pw.toml"
-hash = "0ef67e6286ffe73e71d3ac4e2e14396de9e05838a3895800d2d590966749de40"
 metafile = true
 
 [[files]]
@@ -1469,6 +1437,11 @@ metafile = true
 [[files]]
 file = "mods/salis-arcana.pw.toml"
 hash = "14209d03777b048feeea03547626ea2a63a3b9db633d8bcdd79aacb0443e533a"
+metafile = true
+
+[[files]]
+file = "mods/serverutilities.pw.toml"
+hash = "ea24fb2a4a838ae363742783c684a24376167922f012daacce00918198a27745"
 metafile = true
 
 [[files]]
@@ -1654,11 +1627,11 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/Upgraded-Textures.zip"
-hash = "1347cc65746e7d47356cee420ee3ffe850e45bfa53f593f6546026a1048d100e"
+hash = "c11d3aa61995763271683ceb4dfae19b858f0ce7b54be3e721a4a3fe569cce61"
 
 [[files]]
 file = "scripts/.priority.zs"
-hash = "697f34914a8fa6c108210fd25c5a49a3205cdf3445fa0b0e6f48b1dd9e13b436"
+hash = "1cb53457881c03beb834321a16b4b92189d74ee7ec7955dea4a525032a61f761"
 
 [[files]]
 file = "scripts/Symbiotic+Botania-245+and+Thaumcraft-4.2.3.5.zs"

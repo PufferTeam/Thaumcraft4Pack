@@ -88,7 +88,6 @@ var itemsToRemove = [
 	<etfuturum:purpur_block>,
 	<etfuturum:purpur_pillar>,
 	<etfuturum:end_bricks>,
-	<Aroma1997Core:wrench>,
 	<BiomesOPlenty:misc:5>,
 	<netherlicious:dye:1>,
 	<BiomesOPlenty:misc:9>,
