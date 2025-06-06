@@ -11,37 +11,7 @@ import mods.thaumcraft.Aspects;
 
 #Blocks
 
-Aspects.set(<Botania:flower:0>, "herba 2, lux 4, sensus 1");
-
-Aspects.set(<Botania:flower:1>, "herba 2, lux 4, sensus 1");
-
-Aspects.set(<Botania:flower:2>, "herba 2, lux 4, sensus 1");
-
-Aspects.set(<Botania:flower:3>, "herba 2, lux 4, sensus 1");
-
-Aspects.set(<Botania:flower:4>, "herba 2, lux 4, sensus 1");
-
-Aspects.set(<Botania:flower:5>, "herba 2, lux 4, sensus 1");
-
-Aspects.set(<Botania:flower:6>, "herba 2, lux 4, sensus 1");
-
-Aspects.set(<Botania:flower:7>, "herba 2, lux 4, sensus 1");
-
-Aspects.set(<Botania:flower:8>, "herba 2, lux 4, sensus 1");
-
-Aspects.set(<Botania:flower:9>, "herba 2, lux 4, sensus 1");
-
-Aspects.set(<Botania:flower:10>, "herba 2, lux 4, sensus 1");
-
-Aspects.set(<Botania:flower:11>, "herba 2, lux 4, sensus 1");
-
-Aspects.set(<Botania:flower:12>, "herba 2, lux 4, sensus 1");
-
-Aspects.set(<Botania:flower:13>, "herba 2, lux 4, sensus 1");
-
-Aspects.set(<Botania:flower:14>, "herba 2, lux 4, sensus 1");
-
-Aspects.set(<Botania:flower:15>, "herba 2, lux 4, sensus 1");
+Aspects.set(<Botania:flower:*>, "herba 2, lux 4, sensus 1");
 
 Aspects.set(<Botania:altar:0>, "aqua 1, fabrico 2, perditio 3, terra 3, vacuos 1");
 

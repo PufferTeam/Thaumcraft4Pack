@@ -137,20 +137,8 @@ file = "config/HopperDuctMod.cfg"
 hash = "4c8c35fb405d6f8c96a9359317927b0a7e062685b70274e8d1773a74508a10e5"
 
 [[files]]
-file = "config/InterworldSplashscreen/InterworldSplashscreen.cfg"
-hash = "b9fc52b54e60079c57bf543a5a59fe2e5f67ccfdbd3609aacef86e7f67283480"
-
-[[files]]
-file = "config/InterworldSplashscreen/splashses/Nether.png"
-hash = "66b99fea9efbeccd6e677b8ee7b37316bc8e5263d40749f388c8d4c790922c22"
-
-[[files]]
-file = "config/InterworldSplashscreen/splashses/Overworld.png"
-hash = "015cb4f5dcd99f72ff9b5a32996cefccea2f5bbfbbcf86e761832907543ca6a5"
-
-[[files]]
-file = "config/InterworldSplashscreen/splashses/The End.png"
-hash = "c4c8ba343f313430672545f88c0169c9a1187a36826ee7268652c4a6ef0ab243"
+file = "config/ImmersiveEngineering.cfg"
+hash = "f7f200fd1353fe97b8f70d472efad1f81de2cf7c4bc423f6a238de45664ee75e"
 
 [[files]]
 file = "config/LegibleNei/LegibleNei.cfg"
@@ -162,7 +150,7 @@ hash = "c731b068396167294cd22235620e68e63bfd3efeeac4e53e1c0cc5291c3b1904"
 
 [[files]]
 file = "config/LegibleNei/filters/filter.json"
-hash = "691ca0ce340cda446463ab0d39637c3e86461fada845815b7f9aad3187a1771a"
+hash = "7543acc5db4e5075fffb01569f5fb6b883c8fa428f99174051f54baccbf08b51"
 
 [[files]]
 file = "config/MCFrames.cfg"
@@ -182,7 +170,7 @@ hash = "1acb8c283a9bed39ef01bff14183c31d8e6909412756084c9d30165153bc53a3"
 
 [[files]]
 file = "config/NEI/client.cfg"
-hash = "a1e5fa9c6c964d5be1017b8c41820637070574621419a789cb2f1a8dccd7ef58"
+hash = "9b935921ca26652240b50868334324e3852b4e2245923a5c67151a4d500ca7d4"
 
 [[files]]
 file = "config/NEI/collapsibleitems.cfg"
@@ -198,7 +186,7 @@ hash = "e3cae81087e2b1b13d0b9e002f7ffd4c1bed4c90b58abc22f7e8f4665ff3a1d3"
 
 [[files]]
 file = "config/NEI/handlerordering.csv"
-hash = "f094a009eaf75967c52ede30067f11ae22a1c1d10f55d735e4d23084b4680b6e"
+hash = "d7ad137138fb9d27b49feead87b1e3de2b87c07bac8bc05dc853d79e29f95b1c"
 
 [[files]]
 file = "config/NEI/heighthackhandlers.cfg"
@@ -218,7 +206,7 @@ hash = "1c2a9a181be635d5fb81f25c22e214bff38fbd94c98d05d308527432f57171df"
 
 [[files]]
 file = "config/NEIAddons.cfg"
-hash = "0d3927a6f2b98d1ff1bd6b95693ab97e7fcc8a47698548ff344d24ad069b3c01"
+hash = "076aaa1be16ed6b4a80f4181e906eefada6a0482f4a8e088996fafb44a853122"
 
 [[files]]
 file = "config/Netherlicious/Armor_Tool_Configuration.cfg"
@@ -602,23 +590,11 @@ hash = "0335cded9b027c0e7a773e97c7fbba785b9c7751225b795ecd14eb65d6438d28"
 
 [[files]]
 file = "config/angelica-options.json"
-hash = "4be4b8d959fea872614306a1bc32457263b451d5bac361a917caae0faa4a27cf"
+hash = "77d8157bf52a7083807252bf35ed5ea5217519c57df94fb01625bcad0f7fed42"
 
 [[files]]
 file = "config/archaicfix.cfg"
 hash = "c55979284ba2950f20c9275543710a75a0619c698a58a87ba64a00f9989fa4e5"
-
-[[files]]
-file = "config/aroma1997/Aroma1997Core.cfg"
-hash = "2a3ba28dfb0c3d40979278ece3b0f6c3ce01e9606b84f6a63fa6e2626d813bbe"
-
-[[files]]
-file = "config/aroma1997/AromaBackup.cfg"
-hash = "58958aec6c5fe292699abb7e608f7144539b6b08a4c69bde13f67c7106bcfa16"
-
-[[files]]
-file = "config/aroma1997/AromaBackupRecovery.cfg"
-hash = "9f6d3c1dd724cd25540b171b665be028b492e53b1ca96fd600ef8fb068cc08af"
 
 [[files]]
 file = "config/bbm/AI_Improvements.cfg"
@@ -778,7 +754,7 @@ hash = "dc35ab9d35af27e0974fe17c586910f7e18a9f794fcf769a89e74d845177dd75"
 
 [[files]]
 file = "config/etfuturum/functions.cfg"
-hash = "551fbe57d03af56230cfeb2f1c34cc8587ca4db200884a07de3a5a0509d8fd0a"
+hash = "6d07a28d18df09c9fe3f338310c60e2607e6d320c9c4c2d5fa1a2f2e6886d620"
 
 [[files]]
 file = "config/etfuturum/mixins.cfg"
@@ -798,7 +774,7 @@ hash = "35b669c41faa4fb36fb33fe20aa32f7d7a25e75b9af2b7b30893535a37baee14"
 
 [[files]]
 file = "config/etfuturum/world.cfg"
-hash = "233050bcb57d7819dbdc7fed09c7d91666178d99bce372f5edf1be940244031f"
+hash = "ca6b901df56ebb1bdf062e3b5b5b4e5d17a1e4f1676b7d518e92a35cff514c89"
 
 [[files]]
 file = "config/fastleafdecay.cfg"
@@ -882,7 +858,7 @@ hash = "5a19837fc0c55562059522fe01441c96d7177221d260328c7026a999c6bbb235"
 
 [[files]]
 file = "config/neiintegration.cfg"
-hash = "3a806d8b07e357f89af21f25951f60a4665c026190c411a568f6ecc9e67d4777"
+hash = "2c39712d1fc9fb553a0fa48b4bfea19f45ad9bf90b65f1c6fdaa16194d60c9f5"
 
 [[files]]
 file = "config/notenoughpets.cfg"
@@ -981,6 +957,18 @@ file = "config/txloader/forceload/carpentersblocks/lang/en_US.lang"
 hash = "ce40ac38356119cb01931d7d3258b9a9816727a22bfb7293844a42eda05bb169"
 
 [[files]]
+file = "config/txloader/forceload/etfuturum/lang/en_US.lang"
+hash = "d383aa407c93c38272f18d49c3ea85a088cb0877ee665ad6854c590ebf8d4267"
+
+[[files]]
+file = "config/txloader/forceload/immersiveengineering/lang/en_US.lang"
+hash = "00ffadd1aadb729dc9d5f852fe2ad0a4b1a3e6e7ca936e52666a55c8b368a217"
+
+[[files]]
+file = "config/txloader/forceload/minecraft/lang/en_US.lang"
+hash = "dd4d905b763dcf4e174980f70fca14117328f7f21757db0b3949756d063abe03"
+
+[[files]]
 file = "config/txloader/forceload/minecraft/textures/blocks/water_flow.png"
 hash = "43379b172168a6edc4c75dc9284a2cd27d312f87c19028399e165d44b6f817e8"
 
@@ -1013,12 +1001,28 @@ file = "config/txloader/forceload/reauth/lang/en_US.lang"
 hash = "e08d1fe025c4b41f1081cc442f9338a223c1614838c2b37eeb9302dd5bbe8f56"
 
 [[files]]
+file = "config/txloader/forceload/thaumcraft/lang/en_US.lang"
+hash = "2cf9c52038373ceb61a71d0b5d8ac1bbf77f86922a8435262330f23694f089c9"
+
+[[files]]
+file = "config/txloader/forceload/thermalfoundation/lang/en_US.lang"
+hash = "406ec9544fa85da2bd36a800d6bc33f0ad1ff04d48e6c535cb301d5275488eac"
+
+[[files]]
+file = "config/txloader/forceload/ttinkerer/lang/en_US.lang"
+hash = "dd05a4434864a1d70f6f66b015ca319c6011867f9d0c5f4c622db24fffe85f82"
+
+[[files]]
 file = "config/txloader/forceload/twilightforest/lang/en_US.lang"
 hash = "7111b248d942a7f90a64d696549710266caf0a0d99862c3ea074d897757e4ef4"
 
 [[files]]
 file = "config/txloader/forceload/waila/lang/en_US.lang"
 hash = "9f6eee3246e3eb772621f380551e354c102ba24c87e4bae53afc4aa909067025"
+
+[[files]]
+file = "config/txloader/forceload/witchinggadgets/lang/en_US.lang"
+hash = "50f48127ccc73a4fadd2f5eefbf7b89182af5dbe9b1adf0a0115615ec6d6d62e"
 
 [[files]]
 file = "config/txloader/load/bugtorch/sounds/mob/ghast/fireball4.ogg"
@@ -1081,18 +1085,6 @@ hash = "f68c436801bb4cca5c0fb8a172badea975d5c98d969affa1ea2d7ffa8c8d71de"
 metafile = true
 
 [[files]]
-file = "mods/Forbidden.Magic-0.8.0-GTNH.jar"
-hash = "7ef2d9682cb32a299120b0975ab5685b5d07d180a657a5a281f670e1f9b36d0b"
-
-[[files]]
-file = "mods/Tainted-Magic-7.6.14.jar"
-hash = "262bda4848b8af7734e6d02108cb0d60dff47c478c6537c990dee5d1c1feefef"
-
-[[files]]
-file = "mods/WarpTheory-1.2.12-GTNH.jar"
-hash = "650b32551d0ecc0b3728ec2f61e50eb5b056a706ed5eb2764f4223be5bac1fdf"
-
-[[files]]
 file = "mods/advanced-botany.pw.toml"
 hash = "4abd6e57d315cb137e99a9fa469f63b4ca5b65f80c15cfc37293be07c075992e"
 metafile = true
@@ -1114,22 +1106,17 @@ metafile = true
 
 [[files]]
 file = "mods/angelica-custom.pw.toml"
-hash = "dbd3dcebe801a3081a2e89c369c9b4a404fe792154add39fec578964eb7ffc84"
+hash = "63b92e6c550f72a94fa0a0a0c3bb229f1a38a7c7042dd340d19b782ba0b5eefb"
+metafile = true
+
+[[files]]
+file = "mods/arcane-engineering.pw.toml"
+hash = "9d02471a0016889bc4821aaf084db8d5136ee2e79a6d425a43c711c573f7d5f1"
 metafile = true
 
 [[files]]
 file = "mods/archaicfix.pw.toml"
 hash = "e2ea462f068b9b84ab0e1d302f56f300cb2b4938d1ace27eb88c23b7ed514c9b"
-metafile = true
-
-[[files]]
-file = "mods/aroma1997core.pw.toml"
-hash = "237338ce33a51c3c71a704d2114d197cda1d5559d5b917355509eaaba79b4134"
-metafile = true
-
-[[files]]
-file = "mods/aromabackup.pw.toml"
-hash = "bae76665b3c31c817cefc60d050526a99231135a9171b39c3751266ec17bfd29"
 metafile = true
 
 [[files]]
@@ -1288,23 +1275,19 @@ hash = "9c562e68ea529e4f835b9af28eda92fd88e65d7174d24c13bcbce162c49e9fd8"
 metafile = true
 
 [[files]]
+file = "mods/forbiddenmagic-custom.pw.toml"
+hash = "a7dfbe8962daeeed86cd39a90cf9a6136a7339630036cbb9f3f68bf0e60c0b93"
+metafile = true
+
+[[files]]
 file = "mods/forgotten-relics-unofficial.pw.toml"
 hash = "180043516eea79642f21f42342a0fcd54597e4204615bc46e6b1d84226d6a76a"
 metafile = true
 
 [[files]]
-file = "mods/ftblib-custom.pw.toml"
-hash = "1ff724200c8a3644f54f16925b99c4a358ff87a4dc7bf7a2d97846d653987961"
+file = "mods/gadomancy-custom.pw.toml"
+hash = "fdd9cd15e5cacbefcc49f21b103713aa4dc094c1f4df4235e2c4eca6f5765f2f"
 metafile = true
-
-[[files]]
-file = "mods/ftbutilities-custom.pw.toml"
-hash = "0ef67e6286ffe73e71d3ac4e2e14396de9e05838a3895800d2d590966749de40"
-metafile = true
-
-[[files]]
-file = "mods/gadomancy-1.4.2.jar"
-hash = "a1b84ae30b31b38f3466492e4bed0bb80f5831130604b7acfc614cbda26574c9"
 
 [[files]]
 file = "mods/gravestone-custom.pw.toml"
@@ -1333,7 +1316,7 @@ metafile = true
 
 [[files]]
 file = "mods/hodgepodge-custom.pw.toml"
-hash = "0161cd990e0be50d5d2649145fe5d3643eb67db85f41d3c888e625f9b73878db"
+hash = "0f030895474a384320cbd65483caa3b2735bbcae9f82e69ac5f841b99eb7f789"
 metafile = true
 
 [[files]]
@@ -1347,8 +1330,18 @@ hash = "0e9050d93ec295463b47e154b97b7edc619f2d31ffb3cead3f8a7b9194902f65"
 metafile = true
 
 [[files]]
-file = "mods/interworlds-splashscreens.pw.toml"
-hash = "8af15c192e32565b74600a5d350e03be9d9a5a06ca34303af78d5252128db974"
+file = "mods/iebpt.pw.toml"
+hash = "878892bdd109342e8f832bd1a8f8c298d3c7f03e0d995758dafb956f4fd2d97c"
+metafile = true
+
+[[files]]
+file = "mods/immersive-integration.pw.toml"
+hash = "cf0ecd1a50c9df4a38cd41aa0129c73bb9eaa37f2bc62c70c7bada01d1f8516c"
+metafile = true
+
+[[files]]
+file = "mods/immersiveengineering-custom.pw.toml"
+hash = "5f075e082ca3dd4470042219b15db19336215494f7da7faca1c5fabe213086f4"
 metafile = true
 
 [[files]]
@@ -1472,6 +1465,11 @@ hash = "14209d03777b048feeea03547626ea2a63a3b9db633d8bcdd79aacb0443e533a"
 metafile = true
 
 [[files]]
+file = "mods/serverutilities.pw.toml"
+hash = "ea24fb2a4a838ae363742783c684a24376167922f012daacce00918198a27745"
+metafile = true
+
+[[files]]
 file = "mods/shader-fixer.pw.toml"
 hash = "3688c15076fe2fd7df34f4f3009a85d3606588b275bf7e92760010bd17db2670"
 metafile = true
@@ -1489,6 +1487,11 @@ metafile = true
 [[files]]
 file = "mods/tabfaces.pw.toml"
 hash = "29e818f36dafac3e8ada0ed00a3bbba781a1deaa6d83920c0b07811b5d034283"
+metafile = true
+
+[[files]]
+file = "mods/taintedmagic-custom.pw.toml"
+hash = "18d636c9bf8060804a8afa8a24deba18617fb346bb99f42b2f568f4823fded6f"
 metafile = true
 
 [[files]]
@@ -1607,6 +1610,11 @@ hash = "d480c9664396382cc36f58abf9c89f4c800a42baf9477c9b06f8d57964898f55"
 metafile = true
 
 [[files]]
+file = "mods/warptheory-custom.pw.toml"
+hash = "5790a62be9e5d6bd4c1a87c6b8dee03b855786d1b7bc42bbd60f80815219fe6c"
+metafile = true
+
+[[files]]
 file = "mods/wdmla-custom.pw.toml"
 hash = "e262283ad8e99392b3c2f17788e8f865589106f5f1e8a80cf8d44fb5126f003b"
 metafile = true
@@ -1654,11 +1662,15 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/Upgraded-Textures.zip"
-hash = "1347cc65746e7d47356cee420ee3ffe850e45bfa53f593f6546026a1048d100e"
+hash = "ad35a2165a67ba0a6154abfc795914cb54e660eff14c3231fcf8d2ce61099d7c"
 
 [[files]]
 file = "scripts/.priority.zs"
-hash = "697f34914a8fa6c108210fd25c5a49a3205cdf3445fa0b0e6f48b1dd9e13b436"
+hash = "3660738e83e5448d2302cbe44ec55a2a183f548310edf9d91d818217605bd8d4"
+
+[[files]]
+file = "scripts/.research.zs"
+hash = "1f938d3be5ac2ed0b4ccf322f4113313dc3d1cfba5a0b9c3bdacb380bcc71a2c"
 
 [[files]]
 file = "scripts/Symbiotic+Botania-245+and+Thaumcraft-4.2.3.5.zs"
@@ -1666,7 +1678,7 @@ hash = "707d74dbf4cf86a448db9b44f3a22e8a21a7541f5a0dfd75fc51ac4dcd40a890"
 
 [[files]]
 file = "scripts/aspects.zs"
-hash = "577d2618eed0ec0753728c40a6f0f5ddbba38aa3242e7c2a652239116b88878b"
+hash = "a57c78a50c7f0daa9e09b73b70200f53f9d38408d90a6619c251045b0fa2a1b4"
 
 [[files]]
 file = "scripts/chisel.zs"
@@ -1674,7 +1686,7 @@ hash = "36611e181d96f23b26067a9ba9593f0c5438aff6840200235c00108bbe733687"
 
 [[files]]
 file = "scripts/cutting.zs"
-hash = "369a8b1dbb4da318f1b6bbea55cbb777716a0e398fca022c3dd3708cb5793825"
+hash = "4c135c3a75c9ff703e82c059aeb54c64fbfaddf60c1c7c8c8e6436f1590c15d7"
 
 [[files]]
 file = "scripts/dyeing.zs"
@@ -1682,8 +1694,40 @@ hash = "d79ba7c578196910977114dd19d685452c9c36cb870a69326f07eea0d8971eb6"
 
 [[files]]
 file = "scripts/framing.zs"
-hash = "cc57c920475d26c14242f2858ef41ee51c8b6f475048f835c1fad35f932e8ef7"
+hash = "f460a49e7f5ad7c28946da296dfb5f3aded473e9483d8a2b2bc2829015ef66a4"
+
+[[files]]
+file = "scripts/ore.zs"
+hash = "01514d1829b477b7e4932453c30a213023455a5f5cd83467960f504bd8157466"
 
 [[files]]
 file = "scripts/pistronics.zs"
-hash = "13044d6174f8fc8420bf5383a142be69326f153116bfef729d81fa5324303e31"
+hash = "847374d5e094556d21b63bca95bf2a9a35a331e853e9d2b2d18a15553d1041f4"
+
+[[files]]
+file = "serverutilities/aurora.cfg"
+hash = "40d4685446d49147d3abe9b535c4910f419a4b760467653c9f88ce746a8d56e8"
+
+[[files]]
+file = "serverutilities/client/serverutilities.cfg"
+hash = "83afcbbdb8dce579b8f74071ee53407a87b018372620e5f4d38590f4736cce63"
+
+[[files]]
+file = "serverutilities/client/sidebar_buttons.json"
+hash = "3996deda147a18fc4e0563b2dba92b3c850b7f44fd0e5b0491bccd80554d6d27"
+
+[[files]]
+file = "serverutilities/server/players.txt"
+hash = "5e778ffc9ae354ce2d17137b0afd21f4a327675d246c0ec01beac9ee724316fb"
+
+[[files]]
+file = "serverutilities/server/ranks.txt"
+hash = "b47b11ec71c04b9d7fb42e999d56d0903ec068bb28d542a286d5b101b0f904c8"
+
+[[files]]
+file = "serverutilities/server/stat_leaderboards.json"
+hash = "886f7e756dc4e50e1c5458e863ca3eec9cabf6ab9e39d7e8a7ffa43b4a8b18d3"
+
+[[files]]
+file = "serverutilities/serverutilities.cfg"
+hash = "4b1472db4b901bff266d4a80cd2bd6b0b1c2088d6d909c14f2aa963bde405726"

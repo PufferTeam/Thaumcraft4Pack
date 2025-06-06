@@ -1,0 +1,13 @@
+name = "Arcane Engineering"
+filename = "arcane_engineering-0.2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f325ec1a054a7f8f4178f955232ac4f8b58d2b44"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2299527
+project-id = 237593

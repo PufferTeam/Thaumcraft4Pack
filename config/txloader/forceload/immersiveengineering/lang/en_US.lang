@@ -1,0 +1,20 @@
+item.ImmersiveEngineering.metal.ingotCopper.name=Pig Iron Ingot
+item.ImmersiveEngineering.metal.dustAluminum.name=Aluminium Dust
+item.ImmersiveEngineering.metal.dustLead.name=Bauxite Dust
+item.ImmersiveEngineering.metal.dustSilver.name=Alumina Dust
+item.ImmersiveEngineering.metal.dustConstantan.name=Constantan Blend
+item.ImmersiveEngineering.metal.dustElectrum.name=Steel Blend
+item.ImmersiveEngineering.metal.dustCopper.name=Pig Iron Blend
+item.ImmersiveEngineering.metal.nuggetCopper.name=Pig Iron Nugget
+
+tile.ImmersiveEngineering.stoneDevice.coalCoke.name=Coal Coke Block
+tile.ImmersiveEngineering.stoneDecoration.coalCoke.name=Coal Coke Block
+
+tile.ImmersiveEngineering.storage.Copper.name=Copper Block
+tile.ImmersiveEngineering.storage.Aluminum.name=Aluminium Block
+tile.ImmersiveEngineering.storage.Lead.name=Lead Block
+tile.ImmersiveEngineering.storage.Silver.name=Silver Block
+tile.ImmersiveEngineering.storage.Nickel.name=Nickel Block
+tile.ImmersiveEngineering.storage.Constantan.name=Constantan Block
+tile.ImmersiveEngineering.storage.Electrum.name=Electrum Block
+tile.ImmersiveEngineering.storage.Steel.name=Steel Block

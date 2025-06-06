@@ -1,0 +1,8 @@
+name = "Immersive Engineering"
+filename = "ImmersiveEngineering-1.7.10-0.7.9-JB.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PufferTeam-ModArchive/ImmersiveEngineering/releases/download/0.7.9-JB/ImmersiveEngineering-1.7.10-0.7.9-patched.jar"
+hash-format = "sha1"
+hash = "ed12f62ca673181e271a266b67d826630297d51a"

@@ -9,6 +9,14 @@ recipes.removeShaped(<minecraft:stonebrick:3>, [
 	[<minecraft:stone_slab:5>]
 ]);
 
+recipes.remove(<Thaumcraft:blockWoodenDevice:6>);
+recipes.remove(<Thaumcraft:blockWoodenDevice:7>);
+recipes.remove(<salisarcana:blockCustomPlank>);
+recipes.remove(<salisarcana:blockCustomPlank:1>);
+
+recipes.addShapeless(<Thaumcraft:blockWoodenDevice:6> * 8, [<salisarcana:blockCustomPlank>, <salisarcana:blockCustomPlank>, <salisarcana:blockCustomPlank>, <salisarcana:blockCustomPlank>, <salisarcana:blockCustomPlank>, <salisarcana:blockCustomPlank>, <salisarcana:blockCustomPlank>, <salisarcana:blockCustomPlank>]);
+recipes.addShapeless(<Thaumcraft:blockWoodenDevice:7> * 8, [<salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>]);
+
 function cut(mod as IData, name as IData, blocks as IItemStack[], type as IData, logs as IItemStack[], logsOreDict as IOreDictEntry, specialRemove as IData) {
 	if(specialRemove == 1) {
 		recipes.removeShaped(blocks[0], [
@@ -128,6 +136,9 @@ cut('TwilightForest', 'sortingwood', [<TwilightForest:tile.TFPlank:7>, <Twilight
 cut('witchery', 'rowan', [<witchery:witchwood>, <witchery:witchwoodslab>, <witchery:stairswoodrowan>], 1, [<witchery:witchlog>], <ore:logWoodRowan>, 0);
 cut('witchery', 'alder', [<witchery:witchwood:1>, <witchery:witchwoodslab:1>, <witchery:stairswoodalder>], 1, [<witchery:witchlog:1>], <ore:logWoodAlder>, 0);
 cut('witchery', 'hawthorn', [<witchery:witchwood:2>, <witchery:witchwoodslab:2>, <witchery:stairswoodhawthorn>], 1, [<witchery:witchlog:2>], <ore:logWoodHawthorn>, 0);
+
+cut('thaumcraft', 'greatwood', [<salisarcana:blockCustomPlank>, <Thaumcraft:blockCosmeticSlabWood>, <Thaumcraft:blockStairsGreatwood>], 1, [<Thaumcraft:blockMagicalLog>], <ore:logWoodGreatwood>, 0);
+cut('thaumcraft', 'silverwood', [<salisarcana:blockCustomPlank:1>, <Thaumcraft:blockCosmeticSlabWood:1>, <Thaumcraft:blockStairsSilverwood>], 1, [<Thaumcraft:blockMagicalLog:1>], <ore:logWoodSilverwood>, 0);
 
 cut('botania', 'livingwood', [<Botania:livingwood>, <Botania:livingwood0Slab>, <Botania:livingwood0Stairs>, <Botania:livingwood0Wall>], 3, [], <ore:none>, 1);
 cut('botania', 'livingwood_planks', [<Botania:livingwood:1>, <Botania:livingwood1Slab>, <Botania:livingwood1Stairs>], 1, [<Botania:livingwood>], <ore:logWoodLivingwood>, 1);

@@ -3,6 +3,13 @@ import minetweaker.oredict.IOreDictEntry;
 import minetweaker.data.IData;
 
 var gear = <Pistronics2:Gear>.withTag({size: 1, meta: 0, rod: 0 as byte});
+var oredict = <ore:itemGlue>;
+
+oredict.add(<Pistronics2:Glue>);
+oredict.add(<minecraft:slime_ball>);
+
+recipes.remove(<minecraft:sticky_piston>);
+recipes.addShapeless(<minecraft:sticky_piston>, [<minecraft:piston>, <ore:itemGlue>]);
 
 recipes.remove(<Pistronics2:Mechanic Piston>);
 recipes.addShaped(<Pistronics2:Mechanic Piston>, [

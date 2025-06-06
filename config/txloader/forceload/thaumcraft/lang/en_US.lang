@@ -1,0 +1,47 @@
+tc.research_name.PUREIRON=Metal Purification
+tc.research_text.PUREIRON=Purification of metals into native clusters
+tc.research_page.PUREIRON.1=Native clusters are rare concentrations of metals in its purest form. You have discovered a way to purify and concentrate raw iron ore into a native iron cluster.<BR>When smelted these clusters produces twice the normal amount of iron ingots.
+#
+tc.research_name.PUREGOLD=Gold Purification
+tc.research_text.PUREGOLD=Purification of gold into native clusters
+tc.research_page.PUREGOLD.1=Native clusters are rare concentrations of metals in its purest form. You have discovered a way to purify and concentrate raw gold ore into a native gold cluster.<BR>When smelted these clusters produces twice the normal amount of gold ingots.
+#
+tc.research_name.PURECOPPER=Copper Purification
+tc.research_text.PURECOPPER=Purification of copper into native clusters
+tc.research_page.PURECOPPER.1=Native clusters are rare concentrations of metals in its purest form. You have discovered a way to purify and concentrate raw copper ore into a native copper cluster.<BR>When smelted these clusters produces twice the normal amount of copper ingots.
+#
+tc.research_name.PURETIN=Tin Purification
+tc.research_text.PURETIN=Purification of tin into native clusters
+tc.research_page.PURETIN.1=Native clusters are rare concentrations of metals in its purest form. You have discovered a way to purify and concentrate raw tin ore into a native tin cluster.<BR>When smelted these clusters produces twice the normal amount of tin ingots.
+#
+tc.research_name.PURESILVER=Silver Purification
+tc.research_text.PURESILVER=Purification of silver into native clusters
+tc.research_page.PURESILVER.1=Native clusters are rare concentrations of metals in its purest form. You have discovered a way to purify and concentrate raw silver ore into a native silver cluster.<BR>When smelted these clusters produces twice the normal amount of silver ingots.
+#
+tc.research_name.PURELEAD=Lead Purification
+tc.research_text.PURELEAD=Purification of lead into native clusters
+tc.research_page.PURELEAD.1=Native clusters are rare concentrations of metals in its purest form. You have discovered a way to purify and concentrate raw lead ore into a native lead cluster.<BR>When smelted these clusters produces twice the normal amount of lead ingots.
+#
+tc.research_name.TRANSIRON=Metal Transmutation
+tc.research_text.TRANSIRON=Transformation of metals into iron
+tc.research_page.TRANSIRON.1=You have discovered a way to multiply iron by steeping iron nuggets in elements harvested from other metals.
+#
+tc.research_name.TRANSGOLD=Gold Transmutation
+tc.research_text.TRANSGOLD=Transformation of metals into gold
+tc.research_page.TRANSGOLD.1=You have discovered a way to multiply gold by steeping gold nuggets in elements harvested from other metals.
+#
+tc.research_name.TRANSCOPPER=Copper Transmutation
+tc.research_text.TRANSCOPPER=Transformation of metals into copper
+tc.research_page.TRANSCOPPER.1=You have discovered a way to multiply copper by steeping copper nuggets in elements harvested from other metals.
+#
+tc.research_name.TRANSTIN=Tin Transmutation
+tc.research_text.TRANSTIN=Transformation of metals into tin
+tc.research_page.TRANSTIN.1=You have discovered a way to multiply tin by steeping tin nuggets in elements harvested from other metals.
+#
+tc.research_name.TRANSSILVER=Silver Transmutation
+tc.research_text.TRANSSILVER=Transformation of metals into silver
+tc.research_page.TRANSSILVER.1=You have discovered a way to multiply silver by steeping silver nuggets in elements harvested from other metals.
+#
+tc.research_name.TRANSLEAD=Lead Transmutation
+tc.research_text.TRANSLEAD=Transformation of metals into lead
+tc.research_page.TRANSLEAD.1=You have discovered a way to multiply lead by steeping lead nuggets in elements harvested from other metals.

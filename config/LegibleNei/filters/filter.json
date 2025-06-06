@@ -78,6 +78,10 @@ WitchingGadgets:[
 WarpTheory:[
 	{hide:[[blockVanish],[]]};
 ],
+ImmersiveEngineering:[
+	{keep:[[metalMultiblock],[0,1,2,3,4,5,7,8,9,10,13]]};
+	{hide:[[fakeLight],[]]};
+],
 witchery:[
 	{hide:[[*doubleslab,spiritportal,tormentportal,coffinblock,shadedglass_active],[]]};
 ],

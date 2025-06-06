@@ -1,0 +1,8 @@
+name = "Warp Theory"
+filename = "WarpTheory-1.4.3-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/WarpTheory/releases/download/1.4.3-GTNH/WarpTheory-1.4.3-GTNH.jar"
+hash-format = "sha1"
+hash = "8d9c0450e2222a8ddbefdef08328fce995288708"

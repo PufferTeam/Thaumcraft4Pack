@@ -10,11 +10,7 @@ recipes.addShapeless(hBlock, [<BiblioCraft:item.FramingSaw>, <ore:stickWood>]);
 
 //Camou Paste
 recipes.remove(<Pistronics2:Camou Paste>);
-recipes.addShaped(<Pistronics2:Camou Paste> * 5, [
-	[hBlock, hBlock, hBlock],
-	[hBlock, <ore:dye>, hBlock],
-	[hBlock, hBlock, hBlock]
-]);
+recipes.addShapeless(<Pistronics2:Camou Paste> * 5, [<BiblioCraft:item.FramingSaw>, <ore:dye>]);
 
 //Carpenter's Block
 recipes.removeShaped(cBlock, [
