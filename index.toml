@@ -597,6 +597,10 @@ file = "config/archaicfix.cfg"
 hash = "c55979284ba2950f20c9275543710a75a0619c698a58a87ba64a00f9989fa4e5"
 
 [[files]]
+file = "config/aroma1997/Aroma1997Core.cfg"
+hash = "2a3ba28dfb0c3d40979278ece3b0f6c3ce01e9606b84f6a63fa6e2626d813bbe"
+
+[[files]]
 file = "config/bbm/AI_Improvements.cfg"
 hash = "ab10dece242a1165da2264c6e492667b8050acaf510650fa0c84efae1ea41788"
 
@@ -1117,6 +1121,11 @@ metafile = true
 [[files]]
 file = "mods/archaicfix.pw.toml"
 hash = "e2ea462f068b9b84ab0e1d302f56f300cb2b4938d1ace27eb88c23b7ed514c9b"
+metafile = true
+
+[[files]]
+file = "mods/aroma1997core.pw.toml"
+hash = "e56942035cb79f82d8ff8d6d1a87d1cf36302e3d4b27e1d6cb805f6b5f344c21"
 metafile = true
 
 [[files]]
@@ -1662,7 +1671,7 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/Upgraded-Textures.zip"
-hash = "ad35a2165a67ba0a6154abfc795914cb54e660eff14c3231fcf8d2ce61099d7c"
+hash = "14d8bcd69b1f80c3539c07cbc8b6a22f3a17e2d073a7e42e6c3f7d83aeeef537"
 
 [[files]]
 file = "scripts/.priority.zs"
