@@ -1,0 +1,8 @@
+name = "Server Icon"
+filename = "server-icon.png"
+side = "server"
+
+[download]
+url = "https://github.com/PufferTeam-ModArchive/Files/releases/download/1.0/server-icon.png"
+hash-format = "sha256"
+hash = "03b4053b1d95358835ec56f1428f2823641b83f4608eda6622d8cc98d1bd6e46"

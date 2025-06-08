@@ -1796,6 +1796,11 @@ file = "scripts/pistronics.zs"
 hash = "847374d5e094556d21b63bca95bf2a9a35a331e853e9d2b2d18a15553d1041f4"
 
 [[files]]
+file = "server-icon.pw.toml"
+hash = "1bc73adb1077b10db097885963a5d64e3027bc7d2fb404ee18a4f4697120af0d"
+metafile = true
+
+[[files]]
 file = "serverutilities/aurora.cfg"
 hash = "40d4685446d49147d3abe9b535c4910f419a4b760467653c9f88ce746a8d56e8"
 
