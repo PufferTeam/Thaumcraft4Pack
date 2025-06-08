@@ -3,11 +3,6 @@ filename = "lwjgl3ify-2.1.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eC4lt4Oy/versions/cVhWPgPU/lwjgl3ify-2.1.12.jar"
-hash-format = "sha512"
-hash = "e08aa6bd3823d0594b8ba2fd357f795c63e26032d5318d7e29f5e07bbbc75f162e70a76a630b52bb88262f8679c69a0b8e554c0fc2017a99d49405f2890b67bc"
-
-[update]
-[update.modrinth]
-mod-id = "eC4lt4Oy"
-version = "cVhWPgPU"
+url = "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.12/lwjgl3ify-2.1.12.jar"
+hash-format = "sha256"
+hash = "ed8ab556c085b867fa0a4cee1947bcc42eeb27c13cbca9b19fc6f3c12878c62d"

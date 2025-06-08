@@ -1,0 +1,13 @@
+name = "Doomlike Dungeons"
+filename = "DoomlikeDungeons-1.11.0.1-MC1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d0cd33ca25f71227784907ba22515abbea6e79a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2615918
+project-id = 74246

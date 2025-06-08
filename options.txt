@@ -23,7 +23,7 @@ chatColors:true
 chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
-snooperEnabled:true
+snooperEnabled:false
 fullscreen:false
 enableVsync:false
 hideServerAddress:false
@@ -88,6 +88,8 @@ key_key.hotbar.9:10
 key_dh.key.broom:0
 key_key.openCompendium:25
 key_key.discordRing:0
+key_key.serverutilities.nbt:0
+key_key.serverutilities.trash:0
 key_Baubles Inventory:0
 key_Change Wand Focus:33
 key_Activate Hover Harness:35
@@ -151,9 +153,9 @@ key_gui.xaero_map_zoom_in:0
 key_gui.xaero_map_zoom_out:0
 key_gui.xaero_quick_confirm:54
 key_key.fastBlockPlacing.desc:0
-key_key.carbon_config.key:82
 key_key.cofh.empower:0
 key_key.cofh.multimode:0
+key_key.carbon_config.key:82
 soundCategory_master:1.0
 soundCategory_music:0.5
 soundCategory_record:1.0

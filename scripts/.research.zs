@@ -60,8 +60,11 @@ Research.clearPrereqs("GADOMANCY.ARCANEDROPPER");
 Research.addPrereq("GADOMANCY.ARCANEDROPPER", "BELLOWS", false);
 Research.addPrereq("GADOMANCY.ARCANEDROPPER", "DISTILESSENTIA", false);
 
-Research.moveResearch("WARDEDARCANA", "ARTIFICE", -4 as int, 11);
-Research.addPrereq("WARDEDARCANA", "JARBRAIN", false);
+Research.moveResearch("WARDEDARCANA", "ARTIFICE", -2 as int, -1 as int);
+Research.moveResearch("LEVITATOR", "ARTIFICE", -5 as int, 1);
+
+Research.orphanResearch("XP_TALISMAN");
+Research.moveResearch("XP_TALISMAN", "ARTIFICE", -5 as int, 1);
 
 Research.orphanResearch("INFERNALBLASTFURNACE");
 Research.moveResearch("INFERNALBLASTFURNACE", "ARTIFICE", -4 as int, -3 as int);
@@ -73,6 +76,15 @@ Research.moveResearch("MIRRORPUMP", "ARTIFICE", 1, 11);
 Research.clearPrereqs("MIRRORPUMP");
 Research.addPrereq("MIRRORPUMP", "MIRRORESSENTIA", false);
 
+Research.moveResearch("ALCHEMYBOILER", "ALCHEMY", 4, 1);
+Research.clearPrereqs("ALCHEMYBOILER");
+Research.addPrereq("ALCHEMYBOILER", "DISTILESSENTIA", false);
+
+Research.orphanResearch("FLOATCANDLE");
+Research.moveResearch("FLOATCANDLE", "ALCHEMY", -2 as int, 1);
+Research.clearPrereqs("FLOATCANDLE");
+Research.addPrereq("FLOATCANDLE", "TALLOW", false);
+
 Research.orphanResearch("SAUNASTOVE");
 Research.moveResearch("SAUNASTOVE", "ALCHEMY", -8 as int, -5 as int);
 Research.clearPrereqs("SAUNASTOVE");
@@ -82,21 +94,16 @@ Research.addPrereq("SAUNASTOVE", "INFUSION", false);
 //Research.moveResearch("GADOMANCY.BLOCK_PROTECTOR", "ALCHEMY", 6, 2);
 //Research.addPrereq("GADOMANCY.BLOCK_PROTECTOR", "ARCANESPA", false);
 
-Research.removeResearch("GADOMANCY.BLOCK_PROTECTOR");
-Research.addResearch("GADOMANCY.BLOCK_PROTECTOR", "ALCHEMY", "ordo 10, tutamen 8, terra 12, lux 10, auram 8", 6, 2, 8, <gadomancy:BlockStoneMachine:2>);
-Research.setConcealed("GADOMANCY.BLOCK_PROTECTOR", true);
-Research.addPage("GADOMANCY.BLOCK_PROTECTOR", "gadomancy.research_page.BLOCK_PROTECTOR.1");
-Research.addArcanePage("GADOMANCY.BLOCK_PROTECTOR", <gadomancy:BlockStoneMachine:2>);
-Research.addPage("GADOMANCY.BLOCK_PROTECTOR", "gadomancy.research_page.BLOCK_PROTECTOR.3");
-Research.addPage("GADOMANCY.BLOCK_PROTECTOR", "gadomancy.research_page.BLOCK_PROTECTOR.4");
-Research.addPrereq("GADOMANCY.BLOCK_PROTECTOR", "TUBES", false);
-Research.refreshResearchRecipe("GADOMANCY.BLOCK_PROTECTOR");
-
 Research.moveResearch("CENTRIFUGE", "ALCHEMY", 10, 3);
 Research.moveResearch("THAUMATORIUM", "ALCHEMY", 10, 5);
 
-Research.moveResearch("ETHEREALBLOOM", "ALCHEMY", 2, -3 as int);
-Research.moveResearch("PHIAL", "ALCHEMY", 0, -1 as int);
+Research.moveResearch("SANESOAP", "ALCHEMY", -4 as int, -6 as int);
+Research.moveResearch("ETHEREALBLOOM", "ALCHEMY", -7 as int, -3 as int);
+Research.clearPrereqs("ETHEREALBLOOM");
+Research.addPrereq("ETHEREALBLOOM", "BATHSALTS", false);
+
+Research.moveResearch("PHIAL", "ALCHEMY", 0, 1 as int);
+Research.addPrereq("PHIAL", "CRUCIBLE", false);
 
 Research.orphanResearch("LABELLIB");
 Research.moveResearch("LABELLIB", "ALCHEMY", 3, -5 as int);
@@ -133,6 +140,32 @@ Research.orphanResearch("ETHEREALWALL");
 Research.moveResearch("ETHEREALWALL", "ARTIFICE", 3, -5 as int);
 Research.clearPrereqs("ETHEREALWALL");
 Research.addPrereq("ETHEREALWALL", "PAVEWARD", false);
+
+Research.moveResearch("VISREADER", "AUTOMAGY", 2, -1 as int);
+
+Research.orphanResearch("THINKTANK");
+Research.moveResearch("THINKTANK", "AUTOMAGY", 4, -1 as int);
+Research.clearPrereqs("THINKTANK");
+Research.addPrereq("THINKTANK", "CRYSTALBRAIN", false);
+
+Research.clearPrereqs("GADOMANCY.BLOCK_PROTECTOR");
+Research.addPrereq("GADOMANCY.BLOCK_PROTECTOR", "TUBES", false);
+
+Research.clearPrereqs("GADOMANCY.NODE_MANIPULATOR");
+Research.addPrereq("GADOMANCY.NODE_MANIPULATOR", "VOIDMETAL", false);
+Research.addPrereq("GADOMANCY.NODE_MANIPULATOR", "WANDPED", false);
+Research.addPrereq("GADOMANCY.NODE_MANIPULATOR", "FOCUSWARDING", false);
+Research.addPrereq("GADOMANCY.NODE_MANIPULATOR", "PAVEWARD", false);
+
+Research.clearPrereqs("GADOMANCY.INFUSIONCLAW");
+Research.addPrereq("GADOMANCY.INFUSIONCLAW", "VOIDMETAL", false);
+Research.addPrereq("GADOMANCY.INFUSIONCLAW", "WANDPED", false);
+Research.addPrereq("GADOMANCY.INFUSIONCLAW", "COREUSE", false);
+Research.addPrereq("GADOMANCY.INFUSIONCLAW", "FOCUSPRIMAL", true);
+
+Research.clearPrereqs("GADOMANCY.E_PORTAL_CREATOR");
+Research.addPrereq("GADOMANCY.E_PORTAL_CREATOR", "OCULUS", false);
+Research.addPrereq("GADOMANCY.E_PORTAL_CREATOR", "GADOMANCY.NODE_MANIPULATOR", true);
 
 Research.moveResearch("ALCHGRATE", "ELDRITCH", -4 as int, 6);
 
@@ -207,6 +240,9 @@ Research.removeResearch("TXROD_greatwood_staff");
 
 Research.orphanResearch("TXROD_greatwood");
 Research.removeResearch("TXROD_greatwood");
+
+Research.orphanResearch("alternateGolemBell");
+Research.removeResearch("alternateGolemBell");
 
 Research.orphanResearch("GADOMANCY.PSEUDO.BELLOWS");
 Research.removeResearch("GADOMANCY.PSEUDO.BELLOWS");

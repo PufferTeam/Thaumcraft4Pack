@@ -1,0 +1,8 @@
+name = "Ships Mod"
+filename = "cuchaz.ships-1.1.7-JB.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PufferTeam-ModArchive/Cuchaz-Ships/releases/download/1.1.7-JB/cuchaz.ships-1.1.7-JB.jar"
+hash-format = "sha1"
+hash = "a3b6c2b17edf1d112ed07b835ca10955a7beae99"

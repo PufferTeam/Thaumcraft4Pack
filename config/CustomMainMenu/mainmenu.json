@@ -1,0 +1,160 @@
+{
+    "images":
+    {
+        "bar": {
+            "image": "custommainmenu:textures/gui/menu_bar.png",
+            "posX": -60,
+            "posY": 0,
+            "width": 120,
+            "height": 4096,
+            "alignment": "top_center"
+        },
+        "title":
+        {
+            "image" : "custommainmenu:textures/gui/thaumcraft_unseen_realm_title.png",
+            "posX" : -137,
+            "posY" : 30,
+            "width" : 282,
+            "height" : 57,
+            "alignment" : "top_center"
+        }
+    },
+
+    "buttons":
+    {
+        "singleplayer":
+        {
+            
+            "text" : "Singleplayer",
+            "normalTextColor": -1,
+            "hoverTextColor": 11513775,
+            "texture": "custommainmenu:textures/gui/button.png",
+            "posX" : -61,
+            "posY" : 38,
+            "width" : 122,
+            "height" : 20,
+            "imageWidth": 1000,
+            "imageHeight": 1,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "Multiplayer",
+            "normalTextColor": -1,
+            "hoverTextColor": 11513775,
+            "texture": "custommainmenu:textures/gui/button.png",
+            "posX" : -61,
+            "posY" : 58,
+            "width" : 122,
+            "height" : 20,
+            "imageWidth": 1000,
+            "imageHeight": 1,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+
+        "options":
+        {
+            "text" : "Options",
+            "normalTextColor": -1,
+            "hoverTextColor": 11513775,
+            "texture": "custommainmenu:textures/gui/button.png",
+            "posX" : -61,
+            "posY" : 78,
+            "width" : 122,
+            "height" : 20,
+            "imageWidth": 1000,
+            "imageHeight": 1,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods",
+            "normalTextColor": -1,
+            "hoverTextColor": 11513775,
+            "texture": "custommainmenu:textures/gui/button.png",
+            "posX" : -61,
+            "posY" : 98,
+            "width" : 122,
+            "height" : 20,
+            "imageWidth": 1000,
+            "imageHeight": 1,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "quit":
+        {
+            "text" : "Quit Game",
+            "normalTextColor": 16728128,
+            "hoverTextColor": 16711680,
+            "texture": "custommainmenu:textures/gui/button.png",
+            "posX" : -61,
+            "posY" : 132,
+            "width" : 122,
+            "height" : 20,
+            "imageWidth": 1000,
+            "imageHeight": 1,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        }
+    },
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        "version":
+        {
+            "text" : "By PufferTeam",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+       
+        "background":
+        {
+            "image" : "",
+            "slideshow":
+            {
+                "images" : [
+                    "custommainmenu:textures/backgrounds/01.png",
+                    "custommainmenu:textures/backgrounds/02.png",
+                    "custommainmenu:textures/backgrounds/03.png"
+                ],
+                "displayDuration" : 200,
+                "fadeDuration" : 50,
+                "shuffle": true
+            }
+        }
+    }
+}

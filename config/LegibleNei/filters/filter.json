@@ -30,6 +30,9 @@ Aroma1997Core:[
 Baubles:[
 	{hide:[[bauble_slot_debug_tool],[]]};
 ],
+ForbiddenMagic:[
+	{hide:[[ArcaneCake],[]]};
+],
 reccomplex:[
 	{hide:[[*],[]]};
 ],

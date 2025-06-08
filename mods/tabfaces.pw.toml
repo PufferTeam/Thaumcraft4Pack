@@ -1,6 +1,6 @@
 name = "TabFaces"
 filename = "tabfaces-1.0.8.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Jzw8TKEK/versions/WzGXAqKf/tabfaces-1.0.8.jar"

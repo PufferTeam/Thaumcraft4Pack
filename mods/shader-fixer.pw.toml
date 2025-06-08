@@ -3,11 +3,11 @@ filename = "shadersfixer-3.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/N50mCZS0/versions/oTrRckAV/shadersfixer-3.6.jar"
+url = "https://cdn.modrinth.com/data/N50mCZS0/versions/ZdaOvufm/shadersfixer-3.6.jar"
 hash-format = "sha512"
-hash = "02baa6b76eed7f6d6ccc4c883226095e87f050891755350dddc3549a329806f623208298fc903455781efe50560b4286a237fe26896f2fa57b074869310ae157"
+hash = "45c515396dfd6c2d25fbc26a093c28ae4b09f57fd407a205296e5227ea20a976448e20c7ebd3fbfe321d4ac043629aefcf736c443b48af3ae4ff2f208771376b"
 
 [update]
 [update.modrinth]
 mod-id = "N50mCZS0"
-version = "oTrRckAV"
+version = "ZdaOvufm"
