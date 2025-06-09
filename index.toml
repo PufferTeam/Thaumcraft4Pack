@@ -5,6 +5,11 @@ file = "README.md"
 hash = "ef46e36669b8ab8a43d955d0fefcf9c9666173a83057c0b6ef578761f4aeb6ab"
 
 [[files]]
+file = "bop-warning.pw.toml"
+hash = "f15513bc001f67e1e4833af67774a7479cf8cbd50a52a68fc3034774ba5561e2"
+metafile = true
+
+[[files]]
 file = "config/AdvancedBotany.cfg"
 hash = "738f883141b9dec00b9698a3b323ee0e05ec4b82a68861492c0ffd2503dd706b"
 
@@ -841,10 +846,6 @@ file = "config/itlt.cfg"
 hash = "05fc70aa05945e780c4f5dec50d0bf3000d8b69893bd3bf7ffe959208d80b536"
 
 [[files]]
-file = "config/itlt/icon.png"
-hash = "d8e6e4071e35bd195c9ced7d3fa063f1abfa89251b9f6e28e2242cba4ba306eb"
-
-[[files]]
 file = "config/kleeslabs.cfg"
 hash = "dd720dc71805fdf9208a5b00c04553d7eb4b6ee8a063dfce4fb59122be0cfafc"
 
@@ -1135,6 +1136,11 @@ hash = "a5b0fe3a120708f8f464126872fc124d9ede2e8bd62f40eb30055e1bcb9b3c23"
 [[files]]
 file = "forge-server-installer.pw.toml"
 hash = "1bf34f3f497c6ac7523bee7fe5bf60941a265007d52bfae3b8d2e98aaabb1433"
+metafile = true
+
+[[files]]
+file = "icon.pw.toml"
+hash = "6b5345c6710fd82d99b46e15942d286cf31471e789e16a1cc833e91947087998"
 metafile = true
 
 [[files]]

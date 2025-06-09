@@ -1,0 +1,8 @@
+name = "BOP Warning Remover"
+filename = "1213309934"
+side = "client"
+
+[download]
+url = "https://github.com/PufferTeam-ModArchive/Files/releases/download/1.0/1213309934"
+hash-format = "sha256"
+hash = "ee6c6972b3f88f0347e514114cb293af09b5fd9b060347a52f181209e07761ea"

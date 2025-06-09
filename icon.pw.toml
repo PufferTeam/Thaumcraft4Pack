@@ -1,0 +1,8 @@
+name = "Icon"
+filename = "/config/itlt/icon.png"
+side = "client"
+
+[download]
+url = "https://github.com/PufferTeam-ModArchive/Files/releases/download/1.0/icon.png"
+hash-format = "sha256"
+hash = "d8e6e4071e35bd195c9ced7d3fa063f1abfa89251b9f6e28e2242cba4ba306eb"
