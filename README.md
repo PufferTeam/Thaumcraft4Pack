@@ -5,13 +5,13 @@
 > "Thaumaturgy... which giveth certain order to make strange works, of the sense to be perceived and of men greatly to be wondered at." - Mathematicall Praeface to Euclid's Elements (1570), John Dee
 
 ## Install Client
-### Client Instance: [Download](https://github.com/PufferTeam/Thaumcraft4Pack/blob/dev/Thaumcraft4Pack.zip)
+### Client Instance: [Download](https://github.com/PufferTeam/Thaumcraft4Pack/raw/refs/heads/dev/Thaumcraft4Pack.zip)
 
 You need either [Prism Launcher](https://prismlauncher.org/) or [PolyMC](https://polymc.org/) to be able to run this modpack without any issues. So make sure you are using either of those.
 
 After downloading the MMC Instance .zip you can simply import from zip with the file you just downloaded.
 ## Install Server
-### Server Files: [Download](https://github.com/PufferTeam/Thaumcraft4Pack/blob/dev/Thaumcraft4Pack-Server.zip)
+### Server Files: [Download](https://github.com/PufferTeam/Thaumcraft4Pack/raw/refs/heads/dev/Thaumcraft4Pack-Server.zip)
 For the moment this is mainly done to works with Windows, so for Linux this won't works. But I will make a linux script once I can.
 
 After downloading the server files .zip, extract it and put the folder wherever you want to host your server.
