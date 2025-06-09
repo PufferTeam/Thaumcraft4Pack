@@ -1,8 +1,6 @@
 # Thaumcraft4Pack
 
-<p align="center">
-  <img src="https://github.com/PufferTeam/Thaumcraft4Pack/raw/refs/heads/dev/config/txloader/forceload/custommainmenu/textures/gui/thaumcraft_unseen_realm_title.png">
-</p>
+![Thaumcraft4Pack](https://github.com/PufferTeam/Thaumcraft4Pack/raw/refs/heads/dev/config/txloader/forceload/custommainmenu/textures/gui/thaumcraft_unseen_realm_title.png)
 
 > "Thaumaturgy... which giveth certain order to make strange works, of the sense to be perceived and of men greatly to be wondered at." - Mathematicall Praeface to Euclid's Elements (1570), John Dee
 
