@@ -1,0 +1,8 @@
+name = "CraftTweaker"
+filename = "CraftTweaker-3.4.2-JB.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PufferTeam-ModArchive/CraftTweaker/releases/download/3.4.2-JB/CraftTweaker-3.4.2-JB.jar"
+hash-format = "sha1"
+hash = "adf88f5ef856af166c75992d3b6c8fa344d4f350"

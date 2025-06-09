@@ -1294,8 +1294,8 @@ hash = "8fd837d2aa114075ff594586fa9cb805ab8995d775c31e7919156d54dd075595"
 metafile = true
 
 [[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "bf52436734de014ef98d387f42c00622fdbe5e6e526e41787909abda33383c70"
+file = "mods/crafttweaker-custom.pw.toml"
+hash = "5f2dc683b12ea43d8f9dfbb74e227993d56282450206fa0d48eef90e6aa86e0a"
 metafile = true
 
 [[files]]
@@ -1374,12 +1374,9 @@ hash = "180043516eea79642f21f42342a0fcd54597e4204615bc46e6b1d84226d6a76a"
 metafile = true
 
 [[files]]
-file = "mods/gadomancy-1.4.3-master+e95aea0c7d-dirty.jar"
-hash = "25fbb818360ffed825336ad8fc0e99c46918c6947f4da3346057a0764039b04b"
-
-[[files]]
-file = "mods/gadomancy-custom.toml"
+file = "mods/gadomancy-custom.pw.toml"
 hash = "fdd9cd15e5cacbefcc49f21b103713aa4dc094c1f4df4235e2c4eca6f5765f2f"
+metafile = true
 
 [[files]]
 file = "mods/gravestone-custom.pw.toml"
@@ -1472,8 +1469,8 @@ hash = "2e464e9cbaf444551df4429aa016a5f916a741c6f2a527bc70b564c82e2bc8ef"
 metafile = true
 
 [[files]]
-file = "mods/modtweaker.pw.toml"
-hash = "2efe15f652487360e8673eb80d8e565218c1bddbea5f4a22ae41a2fb8da7c675"
+file = "mods/modtweaker-custom.pw.toml"
+hash = "ca2bf6f5731021e75d9ec399d1bb105b37cfb6a19f0d582e6c8e5bdbada6352b"
 metafile = true
 
 [[files]]
@@ -1767,7 +1764,7 @@ hash = "3660738e83e5448d2302cbe44ec55a2a183f548310edf9d91d818217605bd8d4"
 
 [[files]]
 file = "scripts/.research.zs"
-hash = "7065462a4fd3b1b4be8adfd7e4ca444b3976abbb5a9740235b4beb32b38d1928"
+hash = "9112afd61403bb8ae663fa8af9cceaba03911f973027ade98765231c428fd78f"
 
 [[files]]
 file = "scripts/Symbiotic+Botania-245+and+Thaumcraft-4.2.3.5.zs"
