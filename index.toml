@@ -643,7 +643,7 @@ hash = "55dc65ce4d1275dc8d549ad18f5aacdad780e943578605f17e1c47f2b90a07a1"
 
 [[files]]
 file = "config/biomesoplenty/misc.cfg"
-hash = "06da2615085f2de67e6349e5051d93d0c04e2f77ccd599a3e28f4610e6f79761"
+hash = "ee7f067ed942312a3b40f06baf799a72a4c1c6cfb956aed717b73a91fda613fa"
 
 [[files]]
 file = "config/biomesoplenty/structures/strongholds.cfg"
@@ -1087,7 +1087,7 @@ hash = "7111b248d942a7f90a64d696549710266caf0a0d99862c3ea074d897757e4ef4"
 
 [[files]]
 file = "config/txloader/forceload/waila/lang/en_US.lang"
-hash = "9f6eee3246e3eb772621f380551e354c102ba24c87e4bae53afc4aa909067025"
+hash = "fd34584b91321975162596414ad59b18b323900e0566a0e3eca343e73d098ad8"
 
 [[files]]
 file = "config/txloader/forceload/witchinggadgets/lang/en_US.lang"
