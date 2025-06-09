@@ -1,0 +1,8 @@
+name = "Infernal Mobs"
+filename = "InfernalMobs-1.10.2-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Infernal-Mobs/releases/download/1.10.2-GTNH/InfernalMobs-1.10.2-GTNH.jar"
+hash-format = "sha1"
+hash = "eb3a874092cc7ef1a8437cbcafbb0afd2d89c8ab"

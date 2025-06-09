@@ -150,6 +150,10 @@ file = "config/ImmersiveEngineering.cfg"
 hash = "f7f200fd1353fe97b8f70d472efad1f81de2cf7c4bc423f6a238de45664ee75e"
 
 [[files]]
+file = "config/InfernalMobs.cfg"
+hash = "d567eebc81e33dc9b0c5dc2ed2214ec3b2e499e9495e40607da420b39619bb33"
+
+[[files]]
 file = "config/LegibleNei/LegibleNei.cfg"
 hash = "75b9abce9009331ba447fcbb12975943e81900ddcfcb3ed57c56efce332d3280"
 
@@ -166,6 +170,10 @@ file = "config/MCFrames.cfg"
 hash = "8f46833caa31f23f2e02c9389cb19a0942945501d822eca3a63384d377c78823"
 
 [[files]]
+file = "config/MineTweaker3.cfg"
+hash = "c92da1657e9c5552c602a65625ab5df36e11d59847eef8d44eefd4e4c9aff1f5"
+
+[[files]]
 file = "config/ModernKeyBinding.cfg"
 hash = "b3566ded6acd252aea32e995425b108f73026a13a4b47d3efddd987c29926553"
 
@@ -175,7 +183,11 @@ hash = "7fb132078d78461a9dde309797c85302c48eb378e6c8b8dc1030e1505d2248b4"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "45bead3788c41ec46ce1d7c41d665f01060b543289a2793897f12f269abe1683"
+hash = "1d0edc71df3acbd9ba602b25bf3d74cd8893cf172c70ab9a72c811e8bbbdab5b"
+
+[[files]]
+file = "config/NEI/catalysts.csv"
+hash = "6937417c4dbe8398d7fd74a088608fdb2429574da3a4e2eae1043e6e48a4075a"
 
 [[files]]
 file = "config/NEI/client.cfg"
@@ -196,6 +208,10 @@ hash = "e3cae81087e2b1b13d0b9e002f7ffd4c1bed4c90b58abc22f7e8f4665ff3a1d3"
 [[files]]
 file = "config/NEI/handlerordering.csv"
 hash = "d7ad137138fb9d27b49feead87b1e3de2b87c07bac8bc05dc853d79e29f95b1c"
+
+[[files]]
+file = "config/NEI/handlers.csv"
+hash = "5336e1e86ff4df08b58825bc15e24c75f2224d61151b15c30ee040d645229566"
 
 [[files]]
 file = "config/NEI/heighthackhandlers.cfg"
@@ -264,6 +280,14 @@ hash = "c2649e8c4297d5e530b52d0883a78d11979404ad4273f4dd9fa99176e15b7dd7"
 [[files]]
 file = "config/Pistronics2.cfg"
 hash = "66871be1228b69e6ff42cce1c812fd863a3669de4ccd88d30d0f52758f006199"
+
+[[files]]
+file = "config/SpecialAI.cfg"
+hash = "26c36f88d3f27425ba8398f26c178fa8615ffd75862fd8223d8eedd56b5dcae5"
+
+[[files]]
+file = "config/SpecialMobs.cfg"
+hash = "a99ecbd014d40300321bcb86a191c1835e75fc1ee25e16215984914b15a06d56"
 
 [[files]]
 file = "config/StorageDrawers.cfg"
@@ -835,7 +859,7 @@ hash = "4f3ab5ac5c97c24baa4e3ab78f6577176504ef1e61f336a34aacf9fee7151b2c"
 
 [[files]]
 file = "config/hodgepodgeEarly.properties"
-hash = "a7db4520e7d8ca36959e20e1f0208898ec2effc0bd083cd44a825e93b6667b1c"
+hash = "d4a81dfe1b80813b96867a82d4e17d1b293871ffdca32b4f1d1896a45f4d5432"
 
 [[files]]
 file = "config/immersiveintegration.cfg"
@@ -880,6 +904,10 @@ hash = "7cbe89ea0dde73cb1355c1996696fc02530b33f3b9ded4161ef72ba0a82aa9b6"
 [[files]]
 file = "config/mycelium.properties"
 hash = "5a19837fc0c55562059522fe01441c96d7177221d260328c7026a999c6bbb235"
+
+[[files]]
+file = "config/navigator.cfg"
+hash = "79f6582116462ce415a2a6daa501ce1ca9c1b6c26622601644744621c6791011"
 
 [[files]]
 file = "config/neiintegration.cfg"
@@ -947,7 +975,7 @@ hash = "e5e3f6dfb7deebbe932f03735a407fa87e967c85bf92dcaa23371f0a4e039719"
 
 [[files]]
 file = "config/splash.properties"
-hash = "daab483615de5a253b145c9a5ad583d79b1a38a95395c03950a3a94cc365b93e"
+hash = "97323118bd082f9b3fd830c336138c89044b07934ffbfb9b09c9b49df3089319"
 
 [[files]]
 file = "config/tabfaces.cfg"
@@ -1434,6 +1462,11 @@ hash = "5f075e082ca3dd4470042219b15db19336215494f7da7faca1c5fabe213086f4"
 metafile = true
 
 [[files]]
+file = "mods/infernalmobs-custom.pw.toml"
+hash = "7e2a5d308a07c62ea05d93d3e56198ff7d20ccd869330b57e99090e4a117b8ba"
+metafile = true
+
+[[files]]
 file = "mods/its-the-little-things.pw.toml"
 hash = "8ec26493455ae7b4928327c2d7b9e720161a7c7f10207b69ab216f9ffb201d7a"
 metafile = true
@@ -1566,6 +1599,16 @@ metafile = true
 [[files]]
 file = "mods/shader-fixer.pw.toml"
 hash = "c11813de843bf83705af7c8189069a4758fb7c00ed478a9132e47d86a09c03e0"
+metafile = true
+
+[[files]]
+file = "mods/specialai-custom.pw.toml"
+hash = "2898742e19d9bfd3ac85cbab61cbd4fe6c45ce456a34e89c19f7ef80bd381204"
+metafile = true
+
+[[files]]
+file = "mods/specialmobs-custom.pw.toml"
+hash = "9aad534ffd2ad964421ea697cf6bcbd51ec70277c93d7cbafd8695eb9ca22017"
 metafile = true
 
 [[files]]

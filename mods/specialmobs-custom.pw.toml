@@ -1,0 +1,8 @@
+name = "Special Mobs"
+filename = "SpecialMobs-3.7.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/SpecialMobs/releases/download/3.7.0/SpecialMobs-3.7.0.jar"
+hash-format = "sha1"
+hash = "7b615382d93c4701428458d0f5f8363e72b15a14"
