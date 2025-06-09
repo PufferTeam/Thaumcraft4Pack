@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "ef46e36669b8ab8a43d955d0fefcf9c9666173a83057c0b6ef578761f4aeb6ab"
+hash = "cf6298a697ff946e23cdba3a689f15e8bfc5f6e2714fa2502133aa467f728577"
 
 [[files]]
 file = "bop-warning.pw.toml"
