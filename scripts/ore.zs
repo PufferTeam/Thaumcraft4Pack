@@ -1,11 +1,26 @@
 import minetweaker.item.IItemStack;
 import minetweaker.oredict.IOreDictEntry;
 import minetweaker.data.IData;
+import mods.immersiveengineering.ArcFurnace;
+import mods.immersiveengineering.Crusher;
+import mods.immersiveengineering.MetalPress;
+import mods.immersiveengineering.BlastFurnace;
+import mods.thaumcraft.Crucible;
+import mods.thaumcraft.Arcane;
+import mods.thaumcraft.Research;
+import mods.witchinggadgets.InfernalBlastfurnace;
 
 var none = <etfuturum:barrier>;
 
 furnace.addRecipe(<ImmersiveEngineering:metal:7>, none);
-
+InfernalBlastfurnace.removeRecipe(<ImmersiveEngineering:metal:1>);
+Crucible.removeRecipe(<WitchingGadgets:item.WG_Cluster>);
+InfernalBlastfurnace.removeRecipe(<ThermalFoundation:material:69>);
+Crucible.removeRecipe(<WitchingGadgets:item.WG_Cluster:7>);
+Crucible.removeRecipe(<WitchingGadgets:item.WG_Cluster:39>);
+InfernalBlastfurnace.removeRecipe(<ThermalFoundation:material:70>);
+Crucible.removeRecipe(<WitchingGadgets:item.WG_Cluster:24>);
+Crucible.removeRecipe(<WitchingGadgets:item.WG_Cluster:37>);
 function ore(name as IData, items as IItemStack[], ores as IItemStack[], type as IData[], bonus as IItemStack, tier as IData, research_key as IData[], elements as IData[]) {
     //Crafting
     //-------------
@@ -13,13 +28,13 @@ function ore(name as IData, items as IItemStack[], ores as IItemStack[], type as
     //Dust
     if(type[6] == 1) {
         //Remove Dust
-        mods.immersiveengineering.Crusher.removeRecipe(items[3]);
+        Crusher.removeRecipe(items[3]);
     }
 
     //Ingot
     if(type[4] == 1) {
         //Remove Ingot Arc Furnace
-        mods.immersiveengineering.ArcFurnace.removeRecipe(items[1]);
+        ArcFurnace.removeRecipe(items[1]);
 
         //Remove Ingot Furnace
         furnace.remove(items[1]);
@@ -36,7 +51,7 @@ function ore(name as IData, items as IItemStack[], ores as IItemStack[], type as
             furnace.addRecipe(items[1], ores[0]);
 
             //Ore To Ingot
-            mods.immersiveengineering.ArcFurnace.addRecipe(items[1], ores[0], <ImmersiveEngineering:material:13>, 20, 512, [], "Ores");
+            ArcFurnace.addRecipe(items[1], ores[0], <ImmersiveEngineering:material:13>, 20, 512, [], "Ores");
         }
 
         //Raw Ore Block
@@ -54,37 +69,40 @@ function ore(name as IData, items as IItemStack[], ores as IItemStack[], type as
         //Cluster
         if(type[2] == 1) {
             //Remove cluster recipe
-            mods.witchinggadgets.InfernalBlastfurnace.removeRecipe(items[1]);
+            InfernalBlastfurnace.removeRecipe(items[1]);
 
             //Cluster Recipe
-            mods.thaumcraft.Crucible.removeRecipe(ores[2]);
-            mods.thaumcraft.Crucible.addRecipe(research_key[0], ores[2], ores[0], elements[0]);
-            mods.thaumcraft.Research.refreshResearchRecipe(research_key[0]);
+            Crucible.removeRecipe(ores[2]);
+            Crucible.addRecipe(research_key[0], ores[2], ores[0], elements[0]);
+            Research.refreshResearchRecipe(research_key[0]);
 
             //TRANS
-            mods.thaumcraft.Crucible.addRecipe(research_key[1], items[2] * 3, items[2], elements[1]);
-            mods.thaumcraft.Research.addCruciblePage(research_key[1], items[2]);
+            Crucible.addRecipe(research_key[1], items[2] * 3, items[2], elements[1]);
+            Research.addCruciblePage(research_key[1], items[2]);
 
             //CRUSH
-            mods.thaumcraft.Crucible.addRecipe(research_key[2], items[3], items[1], elements[2]);
-            mods.thaumcraft.Research.addCruciblePage(research_key[2], items[3]);
+            Crucible.addRecipe(research_key[2], items[3], items[1], elements[2]);
+            Research.addCruciblePage(research_key[2], items[3]);
 
             //Dust
             if(type[6] == 1) {
                 //Pure Ore to Dust + BONUS
-                mods.immersiveengineering.Crusher.addRecipe(items[3] * 3, ores[2], 3600, bonus, 0.25);
+                Crusher.addRecipe(items[3] * 3, ores[2], 3600, bonus, 0.25);
             }
 
             //Nugget
             if(type[5] == 1) {
                 furnace.addRecipe(items[1] * 2, ores[2]);
             }
+
+            //Arc Furnace
+            ArcFurnace.addRecipe(items[1] * 2, ores[2], <ImmersiveEngineering:material:13>, 20, 512, [], "Ores");
         }
 
         //Dust
         if(type[6] == 1) {
             //Ore To Dust
-            mods.immersiveengineering.Crusher.addRecipe(items[3] * 2, ores[0], 3600);
+            Crusher.addRecipe(items[3] * 2, ores[0], 3600);
         }
 
     }
@@ -123,16 +141,16 @@ function ore(name as IData, items as IItemStack[], ores as IItemStack[], type as
             //Nugget
             if(type[5] == 1 && type[0] == 1) {
                 //Dust To Ingot + Nugget Bonus
-                mods.witchinggadgets.InfernalBlastfurnace.addRecipe(items[1], items[3], 200, items[2], false);
+                InfernalBlastfurnace.addRecipe(items[1], items[3], 200, null, false);
             }
 
             if(type[5] == 1 && type[0] == 0) {
-                mods.witchinggadgets.InfernalBlastfurnace.addRecipe(items[1], items[3], 200, null, false);
+                InfernalBlastfurnace.addRecipe(items[1], items[3], 200, null, false);
             }
 
             //Ingot To Dust
-            mods.immersiveengineering.ArcFurnace.addRecipe(items[1], items[3], null, 100, 512);
-            mods.immersiveengineering.Crusher.addRecipe(items[3], items[1], 3600);
+            ArcFurnace.addRecipe(items[1], items[3], null, 100, 512);
+            Crusher.addRecipe(items[3], items[1], 3600);
         }
 
         //Plate
@@ -141,8 +159,8 @@ function ore(name as IData, items as IItemStack[], ores as IItemStack[], type as
             recipes.remove(items[4]);
 
             //Ingot To Plate
-            mods.immersiveengineering.MetalPress.removeRecipe(items[4]);
-            mods.immersiveengineering.MetalPress.addRecipe(items[4], items[1], <ImmersiveEngineering:mold>, 500);
+            MetalPress.removeRecipe(items[4]);
+            MetalPress.addRecipe(items[4], items[1], <ImmersiveEngineering:mold>, 500);
         }
 
         //Gear
@@ -151,8 +169,8 @@ function ore(name as IData, items as IItemStack[], ores as IItemStack[], type as
             recipes.remove(items[5]);
 
             //Ingot To Gear
-            mods.immersiveengineering.MetalPress.removeRecipe(items[5]);
-            mods.immersiveengineering.MetalPress.addRecipe(items[5], items[1] * 4, <ImmersiveEngineering:mold:1>, 500);
+            MetalPress.removeRecipe(items[5]);
+            MetalPress.addRecipe(items[5], items[1] * 4, <ImmersiveEngineering:mold:1>, 500);
         }
 
         //Rod
@@ -160,8 +178,8 @@ function ore(name as IData, items as IItemStack[], ores as IItemStack[], type as
             recipes.remove(items[6]);
 
             //Ingot To Gear
-            mods.immersiveengineering.MetalPress.removeRecipe(items[6]);
-            mods.immersiveengineering.MetalPress.addRecipe(items[6] * 2, items[1], <ImmersiveEngineering:mold:2>, 500); 
+            MetalPress.removeRecipe(items[6]);
+            MetalPress.addRecipe(items[6] * 2, items[1], <ImmersiveEngineering:mold:2>, 500); 
         }
     }
 }
@@ -179,43 +197,55 @@ ore('tin', [<ThermalFoundation:Storage:1>, <ThermalFoundation:material:65>, <The
 ore('silver', [<ThermalFoundation:Storage:2>, <ThermalFoundation:material:66>, <ThermalFoundation:material:98>, <ThermalFoundation:material:34>, <ImmersiveEngineering:metal:34>, <ThermalFoundation:material:130>, none], [<etfuturum:modded_raw_ore:2>, <etfuturum:modded_raw_ore_block:2>, <Thaumcraft:ItemNugget:19>], [1, 1, 1, 1, 1, 1, 1, 1, 1, 0], <ThermalFoundation:material:35>, 1, ["PURESILVER", "TRANSSILVER", "CRUSHSILVER"], ["metallum 2, ordo 1, perditio 1", "metallum 2, lucrum 1", "perditio 1"]);
 ore('lead', [<ThermalFoundation:Storage:3>, <ThermalFoundation:material:67>, <ThermalFoundation:material:99>, <ThermalFoundation:material:35>, <ImmersiveEngineering:metal:33>, <ThermalFoundation:material:131>, none], [<etfuturum:modded_raw_ore:3>, <etfuturum:modded_raw_ore_block:3>, <Thaumcraft:ItemNugget:20>], [1, 1, 1, 1, 1, 1, 1, 1, 1, 0], <ThermalFoundation:material:34>, 1, ["PURELEAD", "TRANSLEAD", "CRUSHLEAD"], ["metallum 2, ordo 1, perditio 1", "metallum 2, ordo 1", "perditio 1"]);
 ore('nickel', [<ThermalFoundation:Storage:4>, <ThermalFoundation:material:68>, <ThermalFoundation:material:100>, <ThermalFoundation:material:36>, <ImmersiveEngineering:metal:35>, <ThermalFoundation:material:132>, none], [<etfuturum:modded_raw_ore:4>, <etfuturum:modded_raw_ore_block:4>, <WitchingGadgets:item.WG_Cluster:3>], [1, 1, 1, 1, 1, 1, 1, 1, 1, 0], <ThermalFoundation:material:37>, 2, ["PURENICKEL", "TRANSNICKEL", "CRUSHNICKEL"], ["metallum 2, ordo 1, perditio 1", "metallum 2, terra 1", "perditio 1"]);
+ore('aluminum', [<ImmersiveEngineering:storage:1>, <ImmersiveEngineering:metal:1>, <ImmersiveEngineering:metal:23>, <ImmersiveEngineering:metal:11>, <ImmersiveEngineering:metal:32>, none, <ImmersiveEngineering:material:16>], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 1, 0, 1], none, -1, [], []);
+ore('platinum', [<ThermalFoundation:Storage:5>, <ThermalFoundation:material:69>, <ThermalFoundation:material:101>, <ThermalFoundation:material:37>, none, <ThermalFoundation:material:133>, none], [<etfuturum:modded_raw_ore:5>, <etfuturum:modded_raw_ore_block:5>, none], [1, 1, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
+ore('mythril', [<ThermalFoundation:Storage:6>, <ThermalFoundation:material:70>, <ThermalFoundation:material:102>, <ThermalFoundation:material:38>, none, <ThermalFoundation:material:134>, none], [<etfuturum:modded_raw_ore:6>, <etfuturum:modded_raw_ore_block:6>, none], [1, 1, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
+
 ore('electrum', [<ThermalFoundation:Storage:7>, <ThermalFoundation:material:71>, <ThermalFoundation:material:103>, <ThermalFoundation:material:39>, <ImmersiveEngineering:metal:37>, <ThermalFoundation:material:135>, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 1, 1, 0], none, -1, [], []);
 ore('constantan', [<ImmersiveEngineering:storage:5>, <ImmersiveEngineering:metal:5>, <ImmersiveEngineering:metal:27>, <ImmersiveEngineering:metal:15>, <ImmersiveEngineering:metal:36>, none, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 1, 0, 0], none, -1, [], []);
 ore('steel', [<ImmersiveEngineering:storage:7>, <ImmersiveEngineering:metal:7>, <ImmersiveEngineering:metal:29>, <ImmersiveEngineering:metal:16>, <ImmersiveEngineering:metal:38>, none, <ImmersiveEngineering:material:15>], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 1, 0, 1], none, -1, [], []);
 ore('bronze', [<ThermalFoundation:Storage:9>, <ThermalFoundation:material:73>, <ThermalFoundation:material:105>, <ThermalFoundation:material:41>, none, <ThermalFoundation:material:137>, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
 ore('invar', [<ThermalFoundation:Storage:8>, <ThermalFoundation:material:72>, <ThermalFoundation:material:104>, <ThermalFoundation:material:40>, none, <ThermalFoundation:material:136>, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
+ore('signalum', [<ThermalFoundation:Storage:10>, <ThermalFoundation:material:74>, <ThermalFoundation:material:106>, <ThermalFoundation:material:42>, none, <ThermalFoundation:material:138>, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
+ore('lumium', [<ThermalFoundation:Storage:11>, <ThermalFoundation:material:75>, <ThermalFoundation:material:107>, <ThermalFoundation:material:43>, none, <ThermalFoundation:material:139>, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
+ore('enderium', [<ThermalFoundation:Storage:12>, <ThermalFoundation:material:76>, <ThermalFoundation:material:108>, <ThermalFoundation:material:44>, none, <ThermalFoundation:material:140>, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
+
+//Unused IE Ingots
+InfernalBlastfurnace.removeRecipe(<ImmersiveEngineering:metal:3>);
+InfernalBlastfurnace.removeRecipe(<ImmersiveEngineering:metal:2>);
+InfernalBlastfurnace.removeRecipe(<ImmersiveEngineering:metal:4>);
 
 //Iron Processing
 //Pig Iron
-mods.immersiveengineering.BlastFurnace.removeFuel(<minecraft:coal:1>);
-mods.immersiveengineering.BlastFurnace.removeFuel(<ImmersiveEngineering:stoneDevice:3>);
-mods.immersiveengineering.BlastFurnace.removeRecipe(<ImmersiveEngineering:metal:7>);
-mods.immersiveengineering.BlastFurnace.removeRecipe(<ImmersiveEngineering:storage:7>);
-mods.witchinggadgets.InfernalBlastfurnace.removeRecipe(<ImmersiveEngineering:metal:7>);
-mods.witchinggadgets.InfernalBlastfurnace.removeRecipe(<ImmersiveEngineering:storage:7>);
-mods.witchinggadgets.InfernalBlastfurnace.removeRecipe(<ImmersiveEngineering:metal:0>);
-mods.immersiveengineering.ArcFurnace.removeRecipe(<ImmersiveEngineering:metal:0>);
-mods.immersiveengineering.ArcFurnace.removeRecipe(<ImmersiveEngineering:metal:7>);
-mods.immersiveengineering.BlastFurnace.addRecipe(<ImmersiveEngineering:metal:0>, <minecraft:iron_ingot>, 1200, <ImmersiveEngineering:material:13>);
-mods.witchinggadgets.InfernalBlastfurnace.addRecipe(<ImmersiveEngineering:metal:7>, <ImmersiveEngineering:metal:0>, 500, null, true);
-mods.immersiveengineering.ArcFurnace.addRecipe(<ImmersiveEngineering:metal:0>, <ThermalFoundation:material>, <ImmersiveEngineering:material:13>, 400, 512, [<ImmersiveEngineering:metal:17>], "Alloying");
+BlastFurnace.removeFuel(<minecraft:coal:1>);
+BlastFurnace.removeFuel(<ImmersiveEngineering:stoneDevice:3>);
+BlastFurnace.removeRecipe(<ImmersiveEngineering:metal:7>);
+BlastFurnace.removeRecipe(<ImmersiveEngineering:storage:7>);
+InfernalBlastfurnace.removeRecipe(<ImmersiveEngineering:metal:7>);
+InfernalBlastfurnace.removeRecipe(<ImmersiveEngineering:storage:7>);
+InfernalBlastfurnace.removeRecipe(<ImmersiveEngineering:metal:0>);
+ArcFurnace.removeRecipe(<ImmersiveEngineering:metal:0>);
+ArcFurnace.removeRecipe(<ImmersiveEngineering:metal:7>);
+BlastFurnace.addRecipe(<ImmersiveEngineering:metal:0>, <minecraft:iron_ingot>, 1200, <ImmersiveEngineering:material:13>);
+InfernalBlastfurnace.addRecipe(<ImmersiveEngineering:metal:7>, <ImmersiveEngineering:metal:0>, 500, null, true);
+ArcFurnace.addRecipe(<ImmersiveEngineering:metal:0>, <ThermalFoundation:material>, <ImmersiveEngineering:material:13>, 400, 512, [<ImmersiveEngineering:metal:17>], "Alloying");
 
 //Bronze
 recipes.remove(<ThermalFoundation:material:41>);
-mods.thaumcraft.Arcane.addShapeless("ALLOYBASIC", <ThermalFoundation:material:41> * 4, "ordo 1", [<ThermalFoundation:material:32>, <ThermalFoundation:material:32>, <ThermalFoundation:material:32>, <ThermalFoundation:material:33>]);
-mods.thaumcraft.Research.addArcanePage("ALLOYBASIC", <ThermalFoundation:material:41>);
-mods.immersiveengineering.ArcFurnace.addRecipe(<ThermalFoundation:material:41> * 4, <ThermalFoundation:material:33>, null, 100, 512, [<ThermalFoundation:material:32>, <ThermalFoundation:material:32>, <ThermalFoundation:material:32>], "Alloying");
+Arcane.addShapeless("ALLOYBASIC", <ThermalFoundation:material:41> * 4, "ordo 1", [<ThermalFoundation:material:32>, <ThermalFoundation:material:32>, <ThermalFoundation:material:32>, <ThermalFoundation:material:33>]);
+Research.addArcanePage("ALLOYBASIC", <ThermalFoundation:material:41>);
+ArcFurnace.addRecipe(<ThermalFoundation:material:41> * 4, <ThermalFoundation:material:33>, null, 100, 512, [<ThermalFoundation:material:32>, <ThermalFoundation:material:32>, <ThermalFoundation:material:32>], "Alloying");
 
 function recycling(name as IData, items as IItemStack[], outputs as IItemStack[], ingotValue as IData[], nuggetValue as IData[]) {    
     for i, item in items {
         if(ingotValue[i] != 0 && nuggetValue[i] == 0) {
-		    mods.immersiveengineering.ArcFurnace.addRecipe(outputs[0] * ingotValue[i], item, null, 100, 512, [], "Recycling");
+		    ArcFurnace.addRecipe(outputs[0] * ingotValue[i], item, null, 100, 512, [], "Recycling");
         }
         if(ingotValue[i] == 0 && nuggetValue[i] != 0) {
-		    mods.immersiveengineering.ArcFurnace.addRecipe(outputs[1] * nuggetValue[i], item, null, 100, 512, [], "Recycling");
+		    ArcFurnace.addRecipe(outputs[1] * nuggetValue[i], item, null, 100, 512, [], "Recycling");
         }
         if(ingotValue[i] != 0 && nuggetValue[i] != 0) {
-		    mods.immersiveengineering.ArcFurnace.addRecipe(outputs[0] * ingotValue[i], item, null, 100, 512, [outputs[1] * nuggetValue[i]], "Recycling");
+		    ArcFurnace.addRecipe(outputs[0] * ingotValue[i], item, null, 100, 512, [outputs[1] * nuggetValue[i]], "Recycling");
         }
 	}
 }

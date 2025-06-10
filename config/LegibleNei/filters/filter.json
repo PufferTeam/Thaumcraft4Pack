@@ -64,6 +64,7 @@ OpenBlocks:[
 Thaumcraft:[
 	{_hide:[block,[ArcaneFurnace,Warded,Hole],[]]};
 	{hide:[[blockCosmeticDoubleSlab*,blockManaPod,blockPortalEldritch,blockEldritchNothing,blockMagicBox,blockAlchemyFurnace,blockArcaneDoor],[]]};
+	{hide:[[ItemNugget],[1,2,3,4]]};
 ],
 ThaumicTinkerer:[
 	{hide:[[travelSlabFull,darkQuartzSlabFull,wardSlabFull],[]]};
@@ -83,7 +84,14 @@ WarpTheory:[
 ],
 ImmersiveEngineering:[
 	{keep:[[metalMultiblock],[0,1,2,3,4,5,7,8,9,10,13]]};
+	{hide:[[ore],[0,2,3,4]]};
+	{hide:[[storage],[0,2,3,4,6]]};
+	{hide:[[storageSlab],[]]};
+	{hide:[[metal],[2,3,4,6,8,9,14,21,24,25,26,28]]};
 	{hide:[[fakeLight],[]]};
+],
+ThermalFoundation:[
+	{hide:[[material],[8]]};
 ],
 witchery:[
 	{hide:[[*doubleslab,spiritportal,tormentportal,coffinblock,shadedglass_active],[]]};

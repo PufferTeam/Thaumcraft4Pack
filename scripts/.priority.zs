@@ -148,6 +148,9 @@ var itemsToRemove = [
 var oresToRemove = [
 	<ThermalFoundation:material:8>,
 	<Thaumcraft:ItemNugget:1>,
+	<Thaumcraft:ItemNugget:2>,
+	<Thaumcraft:ItemNugget:3>,
+	<Thaumcraft:ItemNugget:4>,
 	<etfuturum:copper_ingot>,
 	<ImmersiveEngineering:ore:0>,
 	<ImmersiveEngineering:ore:2>,
@@ -204,6 +207,7 @@ var removeFromOredicts = [
 	<ore:ingotElectrum>,
 	<ore:nuggetCopper>,
 	<ore:nuggetLead>,
+	<ore:nuggetTin>,
 	<ore:nuggetSilver>,
 	<ore:nuggetNickel>,
 	<ore:nuggetElectrum>,
@@ -272,8 +276,6 @@ for i, items in oresToRemove {
 			oredicts.remove(items);
 		}
 	}
-
-	NEI.hide(items);
 }
 
 for g, groups in groupsToRemoveFromChisel {

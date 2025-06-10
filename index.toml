@@ -163,7 +163,7 @@ hash = "c731b068396167294cd22235620e68e63bfd3efeeac4e53e1c0cc5291c3b1904"
 
 [[files]]
 file = "config/LegibleNei/filters/filter.json"
-hash = "316bc01f20a012e9746d83c9c74c75db7d2e7b86ff8f3dc1db88ae5c7a46ee49"
+hash = "c5e0efe2efa289063342a7fd7cd139687464eda48b36368308338b24cd212107"
 
 [[files]]
 file = "config/MCFrames.cfg"
@@ -1115,7 +1115,7 @@ hash = "7111b248d942a7f90a64d696549710266caf0a0d99862c3ea074d897757e4ef4"
 
 [[files]]
 file = "config/txloader/forceload/waila/lang/en_US.lang"
-hash = "fd34584b91321975162596414ad59b18b323900e0566a0e3eca343e73d098ad8"
+hash = "5d1f5170a090637d517229a4f44a91c0554eac3b0a13f2438c00d89f943100a6"
 
 [[files]]
 file = "config/txloader/forceload/witchinggadgets/lang/en_US.lang"
@@ -1184,11 +1184,6 @@ metafile = true
 [[files]]
 file = "mods/aether.pw.toml"
 hash = "670741015654345950c70790266014983717c46663930fbfd03103b9f175cee7"
-metafile = true
-
-[[files]]
-file = "mods/ai-improvements.pw.toml"
-hash = "dccc35405344ffb6c22fc7f9a0181be2270361314b63c52e75fa35a8e19493cc"
 metafile = true
 
 [[files]]
@@ -1803,7 +1798,7 @@ hash = "14d8bcd69b1f80c3539c07cbc8b6a22f3a17e2d073a7e42e6c3f7d83aeeef537"
 
 [[files]]
 file = "scripts/.priority.zs"
-hash = "3660738e83e5448d2302cbe44ec55a2a183f548310edf9d91d818217605bd8d4"
+hash = "c7b7596ec09adffa5ec9398385c7e670f8c2229e14aec42da334bea3c3d9c75d"
 
 [[files]]
 file = "scripts/.research.zs"
@@ -1835,7 +1830,7 @@ hash = "f460a49e7f5ad7c28946da296dfb5f3aded473e9483d8a2b2bc2829015ef66a4"
 
 [[files]]
 file = "scripts/ore.zs"
-hash = "01514d1829b477b7e4932453c30a213023455a5f5cd83467960f504bd8157466"
+hash = "340c727b47d477fbbd41383c437684d9d1ee05d3c1e71643ca32aa27e1be5672"
 
 [[files]]
 file = "scripts/pistronics.zs"
