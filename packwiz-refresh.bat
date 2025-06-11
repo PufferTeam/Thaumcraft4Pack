@@ -1,4 +1,4 @@
 SET dir=C:\GitHub\Thaumcraft4Pack\resourcepacks\
-jar -cfM %dir%Upgraded-Textures.zip -C %dir%Upgraded-Textures\ .
+jar -cfM %dir%Essential-Textures.zip -C %dir%Essential-Textures\ .
 
 packwiz refresh

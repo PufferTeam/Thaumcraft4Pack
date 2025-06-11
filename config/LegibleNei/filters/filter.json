@@ -14,7 +14,7 @@ netherlicious:[
 	{hide:[[*SignStanding,*SignWall,doorcrimson,doorwarped,doorfoxfire,*DoubleSlab,*DoubleSlab2,ChainPowered,ChainPoweredGold,ChainPoweredEfrine,DevilishMaize,HellderBerryBush,AbyssalOat,CrimsonWartCrop,WarpedWartCrop,SoggyWartCrop,GhastlyGourdStem,InfernalReed],[]]};
 ],
 aether_legacy:[
-	{hide:[[skyroot_bed,aether_portal,aether_portal_frame,developer_stick,*_double_slab],[]]};
+	{hide:[[skyroot_bed,aether_portal,aether_portal_frame,developer_stick,*_double_slab,locked_*,*_trap],[]]};
 ],
 TwilightForest:[
 	{hide:[[tile.TFExperiment115,tile.TFTrophy,tile.CinderFurnaceIdle,tile.TFWoodSlabDouble*,tile.TFPortal,tile.CinderFurnaceLit,tile.CinderLog],[]]};

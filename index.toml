@@ -163,7 +163,7 @@ hash = "c731b068396167294cd22235620e68e63bfd3efeeac4e53e1c0cc5291c3b1904"
 
 [[files]]
 file = "config/LegibleNei/filters/filter.json"
-hash = "c5e0efe2efa289063342a7fd7cd139687464eda48b36368308338b24cd212107"
+hash = "74abac2651bd94a5e5c1bddb23b60be7c6c5f13af92c62a9107bf0519820555d"
 
 [[files]]
 file = "config/MCFrames.cfg"
@@ -499,7 +499,7 @@ hash = "d4556abb51467e569681b4cccb3059caf6043378c921afffa0d8ea31d2bd82d1"
 
 [[files]]
 file = "config/TwilightForest.cfg"
-hash = "6d171f1f10ad7e76f92927d5b6a9d227d2746bea202ac79196aa99856861c37f"
+hash = "976b3827e85fd2f354fbcab45dad0e57e2214c71f3d926a4ed52470164eb42ea"
 
 [[files]]
 file = "config/UpdateCheckLib.cfg"
@@ -607,7 +607,7 @@ hash = "0cad3d4e5933b5be85e887d6c6600997081e0b8126dd163e9a55b6246eb7809b"
 
 [[files]]
 file = "config/WarpTheory.cfg"
-hash = "2a2a95e2df1b226707400b84b01f1d3b4d8e728f5018926f78f931136edd333d"
+hash = "623158522cdfa3012c908048518810fb8dbb98587d1be751099492670b1d0979"
 
 [[files]]
 file = "config/WitchingGadgets.cfg"
@@ -615,7 +615,7 @@ hash = "b75925fb5c468e435a425a2b4e7793de0a66b0a342a64693dc86375d869464a8"
 
 [[files]]
 file = "config/aether/AetherI.cfg"
-hash = "b32c3f5e686fa55b7c1d949771714873ceb9db852c9f5e9de1ce0c0504033789"
+hash = "ae15820eac27dd309e61c609527e9da1507bb476020444f6e4793ffe29e4e9a4"
 
 [[files]]
 file = "config/angelica-compat.cfg"
@@ -1143,7 +1143,7 @@ hash = "350884e3ccf46194eef318bec5f9b2b1e74f9b3067b3b8abafcbaeffe42029ad"
 
 [[files]]
 file = "config/wailaplugins.cfg"
-hash = "bf6f3b9345bb612f0e9ce7197f74b0faa4f1925adab82810320aad0c986667be"
+hash = "f241d60c9fd8fd7c7d70b00f375f361b102188041252864f80f1e964a8f99f0c"
 
 [[files]]
 file = "config/warptheory/normal.txt"
@@ -1258,7 +1258,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania-custom.pw.toml"
-hash = "b65ccd3e1f3fbd65e91def0d2d3a06b537cbc75f0032e289935437058d194a52"
+hash = "9bd2b8bc60cbd8c0cf8544caf6a3c2d5d8761bca73236e3756496c533c8ac154"
 metafile = true
 
 [[files]]
@@ -1778,7 +1778,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "453702aae8773ae136be35d34b13fcc825ef4cd95e7f7cf1a803337eea838179"
+hash = "41cb36190cbe4d5686a2cc15e393854d5a1b288d71b76abd8bc44c8797ffae71"
 
 [[files]]
 file = "optionsnf.txt"
@@ -1793,20 +1793,20 @@ file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
-file = "resourcepacks/Upgraded-Textures.zip"
-hash = "14d8bcd69b1f80c3539c07cbc8b6a22f3a17e2d073a7e42e6c3f7d83aeeef537"
+file = "resourcepacks/Essential-Textures.zip"
+hash = "50434804c56da43be081ffb9285037eb4dd8cdf94609ab3e0ca4cb1b1f42eaa2"
 
 [[files]]
 file = "scripts/.priority.zs"
-hash = "c7b7596ec09adffa5ec9398385c7e670f8c2229e14aec42da334bea3c3d9c75d"
+hash = "f9cb4578949503251dbed03ddd52537b08dc0c8dd6ef98b3ca3620945ad05294"
 
 [[files]]
 file = "scripts/.research.zs"
-hash = "9112afd61403bb8ae663fa8af9cceaba03911f973027ade98765231c428fd78f"
+hash = "be14d5264bcef8ce762903f4bd69e15a52b74a37e8bbbc20c26be0fc3b97d842"
 
 [[files]]
 file = "scripts/Symbiotic+Botania-245+and+Thaumcraft-4.2.3.5.zs"
-hash = "707d74dbf4cf86a448db9b44f3a22e8a21a7541f5a0dfd75fc51ac4dcd40a890"
+hash = "c571b96764eb27fcc9b480701227d81c0b228f7b77e041fd2767e6ef55c36014"
 
 [[files]]
 file = "scripts/aspects.zs"
@@ -1814,11 +1814,11 @@ hash = "a57c78a50c7f0daa9e09b73b70200f53f9d38408d90a6619c251045b0fa2a1b4"
 
 [[files]]
 file = "scripts/chisel.zs"
-hash = "36611e181d96f23b26067a9ba9593f0c5438aff6840200235c00108bbe733687"
+hash = "42a39942b524a69df69a72dfab919393e2f8b5e2a4f008efd0747051955a41d4"
 
 [[files]]
 file = "scripts/cutting.zs"
-hash = "4c135c3a75c9ff703e82c059aeb54c64fbfaddf60c1c7c8c8e6436f1590c15d7"
+hash = "030ac9e719610e98aebba23be1d6c8fcec5b3d299a5b8e0cda941948dfce9cfd"
 
 [[files]]
 file = "scripts/dyeing.zs"

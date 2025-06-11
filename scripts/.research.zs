@@ -31,6 +31,11 @@ Research.clearPrereqs("GADOMANCY.REMOTEJAR");
 Research.addPrereq("GADOMANCY.REMOTEJAR", "MIRRORESSENTIA", false);
 Research.addPrereq("GADOMANCY.REMOTEJAR", "GADOMANCY.STICKYJAR", false);
 
+Research.orphanResearch("FUNNEL");
+Research.moveResearch("FUNNEL", "ALCHEMY", 10, -1 as int);
+Research.clearPrereqs("FUNNEL");
+Research.addPrereq("FUNNEL", "TUBEFILTER", false);
+
 Research.orphanResearch("GADOMANCY.GOLEMSILVERWOOD");
 Research.moveResearch("GADOMANCY.GOLEMSILVERWOOD", "GOLEMANCY", 6, 6);
 Research.clearPrereqs("GADOMANCY.GOLEMSILVERWOOD");
@@ -61,10 +66,12 @@ Research.addPrereq("GADOMANCY.ARCANEDROPPER", "BELLOWS", false);
 Research.addPrereq("GADOMANCY.ARCANEDROPPER", "DISTILESSENTIA", false);
 
 Research.moveResearch("WARDEDARCANA", "ARTIFICE", -2 as int, -1 as int);
-Research.moveResearch("LEVITATOR", "ARTIFICE", -5 as int, 1);
 
 Research.orphanResearch("XP_TALISMAN");
-Research.moveResearch("XP_TALISMAN", "ARTIFICE", -5 as int, 1);
+Research.moveResearch("XP_TALISMAN", "ARTIFICE", -6 as int, 9);
+
+Research.moveResearch("NITORLIGHT", "ARTIFICE", -5 as int, 1);
+Research.addPrereq("ARCANELAMP", "NITORLIGHT", false);
 
 Research.orphanResearch("INFERNALBLASTFURNACE");
 Research.moveResearch("INFERNALBLASTFURNACE", "ARTIFICE", -4 as int, -3 as int);
@@ -75,6 +82,10 @@ Research.orphanResearch("MIRRORPUMP");
 Research.moveResearch("MIRRORPUMP", "ARTIFICE", 1, 11);
 Research.clearPrereqs("MIRRORPUMP");
 Research.addPrereq("MIRRORPUMP", "MIRRORESSENTIA", false);
+
+Research.moveResearch("STABILIZERBELT", "ARTIFICE", 4, 7);
+Research.clearPrereqs("STABILIZERBELT");
+Research.addPrereq("STABILIZERBELT", "HOVERGIRDLE", false);
 
 Research.moveResearch("ALCHEMYBOILER", "ALCHEMY", 4, 1);
 Research.clearPrereqs("ALCHEMYBOILER");
@@ -116,6 +127,16 @@ Research.moveResearch("GASEOUS_LIGHT", "ALCHEMY", 0, -2 as int);
 Research.clearPrereqs("GASEOUS_LIGHT");
 Research.addPrereq("GASEOUS_LIGHT", "NITOR", false);
 
+Research.orphanResearch("GASEOUS_SHADOW");
+Research.moveResearch("GASEOUS_SHADOW", "ALCHEMY", -2 as int, -2 as int);
+Research.clearPrereqs("GASEOUS_SHADOW");
+Research.addPrereq("GASEOUS_SHADOW", "GASEOUS_LIGHT", false);
+
+Research.orphanResearch("GAS_REMOVER");
+Research.moveResearch("GAS_REMOVER", "ALCHEMY", -2 as int, -3 as int);
+Research.clearPrereqs("GAS_REMOVER");
+Research.addPrereq("GAS_REMOVER", "GASEOUS_SHADOW", false);
+
 Research.moveResearch("BRIGHT_NITOR", "ALCHEMY", 0, -4 as int);
 Research.clearPrereqs("BRIGHT_NITOR");
 Research.addPrereq("BRIGHT_NITOR", "GASEOUS_LIGHT", false);
@@ -131,7 +152,6 @@ Research.moveResearch("FIRE_PERDITIO", "ALCHEMY", 3, -8 as int);
 
 Research.moveResearch("INFUSED_POTIONS", "ALCHEMY", 0, -9 as int);
 
-
 Research.orphanResearch("INTERFACE");
 Research.moveResearch("INTERFACE", "ALCHEMY", 8, 3);
 Research.clearPrereqs("INTERFACE");
@@ -145,7 +165,18 @@ Research.addPrereq("TRASHJAR", "INFUSION", false);
 
 Research.moveResearch("SHARE_TOME", "BASICS", 2, -4 as int);
 Research.addPrereq("SHARE_TOME", "THAUMONOMICON", false);
-Research.addPrereq("SHARE_TOME", "KNOWFRAG", false);
+Research.addPrereq("SHARE_TOME", "THAUMOMETER", false);
+
+Research.moveResearch("KNOWFRAG", "BASICS", 7, -4 as int);
+Research.clearPrereqs("KNOWFRAG");
+Research.addPrereq("KNOWFRAG", "RESTABLE", false);
+
+Research.moveResearch("TABLE", "BASICS", 6, 0);
+Research.moveResearch("ARCTABLE", "BASICS", 5, -2 as int);
+Research.moveResearch("RESTABLE", "BASICS", 7, -2 as int);
+
+Research.moveResearch("THAUMOMETER", "BASICS", 3, -2 as int);
+Research.addPrereq("THAUMOMETER", "RESEARCH", false);
 
 //PREVENT CRASH BY MOVING RANDOM PLACE
 Research.moveResearch("PAVETRAVEL", "ARTIFICE", 5, -4 as int);
@@ -159,9 +190,41 @@ Research.clearPrereqs("AGEINGSTONE");
 Research.addPrereq("AGEINGSTONE", "PAVEWARD", false);
 
 Research.orphanResearch("ETHEREALWALL");
-Research.moveResearch("ETHEREALWALL", "ARTIFICE", 3, -5 as int);
+Research.moveResearch("ETHEREALWALL", "ARTIFICE", 2, -5 as int);
 Research.clearPrereqs("ETHEREALWALL");
 Research.addPrereq("ETHEREALWALL", "PAVEWARD", false);
+Research.addPrereq("ETHEREALWALL", "PLATFORM", false);
+
+Research.moveResearch("SLIVERS", "ARTIFICE", 5, -7 as int);
+Research.moveResearch("SLIVERS_WARDING", "ARTIFICE", 4, -5 as int);
+Research.moveResearch("SLIVERS_TRAVEL", "ARTIFICE", 6, -5 as int);
+
+Research.moveResearch("LEVITATOR", "ARTIFICE", 0, -1 as int);
+
+Research.moveResearch("PLATFORM", "ARTIFICE", 0, -3 as int);
+Research.clearPrereqs("PLATFORM");
+Research.addPrereq("PLATFORM", "LEVITATOR", false);
+
+Research.moveResearch("REPAIRER", "ARTIFICE", -3 as int, 10);
+Research.addPrereq("REPAIRER", "ARCANEBORE", false);
+
+Research.orphanResearch("MAGNETS");
+Research.moveResearch("MAGNETS", "ARTIFICE", -4 as int, 12);
+Research.clearPrereqs("MAGNETS");
+Research.addPrereq("MAGNETS", "FOCUS_TELEKINESIS", false);
+Research.addPrereq("MAGNETS", "REPAIRER", false);
+
+Research.moveResearch("BLOOD_SWORD", "ARTIFICE", -2 as int, 12);
+Research.clearPrereqs("BLOOD_SWORD");
+Research.addPrereq("BLOOD_SWORD", "ROD_NECROMANCER_staff", false);
+Research.addPrereq("BLOOD_SWORD", "REPAIRER", false);
+
+Research.moveResearch("SUMMON", "ARTIFICE", -3 as int, 14);
+Research.clearPrereqs("SUMMON");
+Research.addPrereq("SUMMON", "MAGNETS", false);
+Research.addPrereq("SUMMON", "BLOOD_SWORD", false);
+
+Research.moveResearch("DISCLOCATOR", "ARTIFICE", -3 as int, 14);
 
 Research.moveResearch("VISREADER", "AUTOMAGY", 2, -1 as int);
 
@@ -175,6 +238,9 @@ Research.orphanResearch("THINKTANK");
 Research.moveResearch("THINKTANK", "AUTOMAGY", 4, -4 as int);
 Research.clearPrereqs("THINKTANK");
 Research.addPrereq("THINKTANK", "CRYSTALBRAIN", false);
+
+Research.moveResearch("GRATE", "AUTOMAGY", 0, -2 as int);
+Research.addPrereq("GRATE", "REDSTONETHEORY", false);
 
 Research.moveResearch("GADOMANCY.NODE_MANIPULATOR", "ELDRITCH", 1, -5 as int);
 Research.clearPrereqs("GADOMANCY.NODE_MANIPULATOR");
@@ -190,6 +256,12 @@ Research.addPrereq("GADOMANCY.INFUSIONCLAW", "WANDPED", false);
 Research.addPrereq("GADOMANCY.INFUSIONCLAW", "COREUSE", false);
 Research.addPrereq("GADOMANCY.INFUSIONCLAW", "FOCUSPRIMAL", true);
 
+Research.moveResearch("GADOMANCY.GROWING", "ELDRITCH", -1 as int, -7 as int);
+Research.moveResearch("GADOMANCY.GROWING_AGGRESSION", "ELDRITCH", -4 as int, -6 as int);
+Research.moveResearch("GADOMANCY.GROWING_GROWTH", "ELDRITCH", -3 as int, -5 as int);
+Research.moveResearch("GADOMANCY.GROWING_ATTACK", "ELDRITCH", -2 as int, -4 as int);
+Research.moveResearch("GADOMANCY.GROWING_GROWTHCLUE", "ELDRITCH", -5 as int, -3 as int);
+
 Research.moveResearch("GADOMANCY.E_PORTAL_CREATOR", "ELDRITCH", -4 as int, 1);
 Research.clearPrereqs("GADOMANCY.E_PORTAL_CREATOR");
 Research.addPrereq("GADOMANCY.E_PORTAL_CREATOR", "OCULUS", false);
@@ -203,45 +275,46 @@ Research.moveResearch("ROD_bone_staff", "THAUMATURGY", -5 as int, 10);
 Research.moveResearch("FOCUS_SMELT", "THAUMATURGY", -4 as int, 10);
 //-----------
 
-Research.orphanResearch("FOCUS_SMELT");
 Research.moveResearch("FOCUS_SMELT", "THAUMATURGY", -1 as int, -6 as int);
 Research.clearPrereqs("FOCUS_SMELT");
 Research.addPrereq("FOCUS_SMELT", "FOCUSEXCAVATION", false);
 
-Research.orphanResearch("FOCUS_DEFLECT");
 Research.moveResearch("FOCUS_DEFLECT", "THAUMATURGY", 1, -7 as int);
 Research.clearPrereqs("FOCUS_DEFLECT");
 Research.addPrereq("FOCUS_DEFLECT", "FOCUS_SMELT", false);
 
-Research.orphanResearch("FOCUS_HEAL");
 Research.moveResearch("FOCUS_HEAL", "THAUMATURGY", 0, -9 as int);
 Research.clearPrereqs("FOCUS_HEAL");
 Research.addPrereq("FOCUS_HEAL", "FOCUS_DEFLECT", false);
 
-Research.orphanResearch("FOCUS_FLIGHT");
 Research.moveResearch("FOCUS_FLIGHT", "THAUMATURGY", 6, -4 as int);
 Research.clearPrereqs("FOCUS_FLIGHT");
 Research.addPrereq("FOCUS_FLIGHT", "FOCUSTRADE", false);
 Research.addPrereq("FOCUS_FLIGHT", "ELEMENTALSWORD", false);
 
-Research.orphanResearch("FOCUS_DISLOCATION");
 Research.moveResearch("FOCUS_DISLOCATION", "THAUMATURGY", 5, -6 as int);
 Research.clearPrereqs("FOCUS_DISLOCATION");
 Research.addPrereq("FOCUS_DISLOCATION", "FOCUS_FLIGHT", false);
 
-Research.orphanResearch("FOCUS_TELEKINESIS");
 Research.moveResearch("FOCUS_TELEKINESIS", "THAUMATURGY", 7, -6 as int);
 Research.clearPrereqs("FOCUS_TELEKINESIS");
 Research.addPrereq("FOCUS_TELEKINESIS", "FOCUS_FLIGHT", false);
 
 Research.moveResearch("FOCUSPORTABLEHOLE", "THAUMATURGY", 6, -1 as int);
 
-Research.orphanResearch("FOCUS_ENDER_CHEST");
 Research.moveResearch("FOCUS_ENDER_CHEST", "THAUMATURGY", 8, -2 as int);
 Research.clearPrereqs("FOCUS_ENDER_CHEST");
 Research.addPrereq("FOCUS_ENDER_CHEST", "FOCUS_FLIGHT", false);
 Research.addPrereq("FOCUS_ENDER_CHEST", "FOCUSPORTABLEHOLE", false);
 Research.addPrereq("FOCUS_ENDER_CHEST", "MIRROR", false);
+
+Research.moveResearch("FOCUSWARDING", "THAUMATURGY", -4 as int, -4 as int);
+Research.clearPrereqs("FOCUSWARDING");
+Research.addPrereq("FOCUSWARDING", "focusIllumination", false);
+
+Research.moveResearch("focusIllumination", "THAUMATURGY", -2 as int, -4 as int);
+Research.clearPrereqs("focusIllumination");
+Research.addPrereq("focusIllumination", "FOCUSEXCAVATION", false);
 
 Research.moveResearch("ROD_quartz", "THAUMATURGY", -3 as int, 0);
 Research.moveResearch("ROD_quartz_staff", "THAUMATURGY", -2 as int, -1 as int);
@@ -309,8 +382,14 @@ Research.removeResearch("TXROD_greatwood_staff");
 Research.orphanResearch("TXROD_greatwood");
 Research.removeResearch("TXROD_greatwood");
 
+Research.orphanResearch("TXHOVERHARNESS");
+Research.removeResearch("TXHOVERHARNESS");
+
 Research.orphanResearch("alternateGolemBell");
 Research.removeResearch("alternateGolemBell");
+
+Research.orphanResearch("focusLiquefaction");
+Research.removeResearch("focusLiquefaction");
 
 Research.orphanResearch("GADOMANCY.PSEUDO.BELLOWS");
 Research.removeResearch("GADOMANCY.PSEUDO.BELLOWS");
@@ -320,6 +399,15 @@ Research.removeResearch("GADOMANCY.PSEUDO.GOLEMTALLOW");
 
 Research.orphanResearch("GADOMANCY.PSEUDO.JARLABEL");
 Research.removeResearch("GADOMANCY.PSEUDO.JARLABEL");
+
+Research.orphanResearch("GADOMANCY.PSEUDO.WANDPED");
+Research.removeResearch("GADOMANCY.PSEUDO.WANDPED");
+
+Research.orphanResearch("GADOMANCY.PSEUDO.VOIDMETAL");
+Research.removeResearch("GADOMANCY.PSEUDO.VOIDMETAL");
+
+Research.orphanResearch("GADOMANCY.PSEUDO.OCULUS");
+Research.removeResearch("GADOMANCY.PSEUDO.OCULUS");
 
 Research.orphanResearch("GADOMANCY.PSEUDO.COREGUARD");
 Research.removeResearch("GADOMANCY.PSEUDO.COREGUARD");
@@ -342,6 +430,9 @@ Research.setSecondary("TRANSCOPPER", true);
 Research.addPage("TRANSCOPPER", "tc.research_page.TRANSCOPPER.1");
 Research.addPrereq("TRANSCOPPER", "TRANSIRON", false);
 mods.thaumcraft.Crucible.removeRecipe(<Thaumcraft:ItemNugget:1>);
+mods.thaumcraft.Crucible.removeRecipe(<Thaumcraft:ItemNugget:2>);
+mods.thaumcraft.Crucible.removeRecipe(<Thaumcraft:ItemNugget:3>);
+mods.thaumcraft.Crucible.removeRecipe(<Thaumcraft:ItemNugget:4>);
 
 Research.orphanResearch("TRANSTIN");
 Research.removeResearch("TRANSTIN");

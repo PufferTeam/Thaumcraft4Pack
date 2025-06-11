@@ -13,6 +13,7 @@ recipes.remove(<Thaumcraft:blockWoodenDevice:6>);
 recipes.remove(<Thaumcraft:blockWoodenDevice:7>);
 recipes.remove(<salisarcana:blockCustomPlank>);
 recipes.remove(<salisarcana:blockCustomPlank:1>);
+recipes.remove(<aether_legacy:skyroot_planks>);
 
 recipes.addShapeless(<Thaumcraft:blockWoodenDevice:6> * 8, [<salisarcana:blockCustomPlank>, <salisarcana:blockCustomPlank>, <salisarcana:blockCustomPlank>, <salisarcana:blockCustomPlank>, <salisarcana:blockCustomPlank>, <salisarcana:blockCustomPlank>, <salisarcana:blockCustomPlank>, <salisarcana:blockCustomPlank>]);
 recipes.addShapeless(<Thaumcraft:blockWoodenDevice:7> * 8, [<salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>]);
@@ -28,9 +29,14 @@ function cut(mod as IData, name as IData, blocks as IItemStack[], type as IData,
 	if(type == 1) {
 		for i, currentWood in logs {
 			recipes.removeShapeless(blocks[0] * 4, [currentWood]);
+			recipes.removeShaped(blocks[0] * 4, [[currentWood]]);
 			logsOreDict.add(currentWood);
 		}
 		recipes.addShapeless(blocks[0] * 4, [logsOreDict]);
+
+		<ore:plankWood>.add(blocks[0]);
+		<ore:slabWood>.add(blocks[1]);
+		<ore:stairWood>.add(blocks[2]);
 	}
 
 	if(type != 4 && type != 5) {
@@ -126,12 +132,14 @@ cut('netherlicious', 'foxfire', [<netherlicious:Planks:2>, <netherlicious:PlankS
 
 cut('TwilightForest', 'twilight_oak', [<TwilightForest:tile.TFPlank>, <TwilightForest:tile.TFWoodSlab>, <TwilightForest:tile.TFWoodStairsTwilight>], 1, [<TwilightForest:tile.TFLog>], <ore:logWoodTwilightOak>, 0);
 cut('TwilightForest', 'canopy', [<TwilightForest:tile.TFPlank:1>, <TwilightForest:tile.TFWoodSlab:1>, <TwilightForest:tile.TFWoodStairsCanopy>], 1, [<TwilightForest:tile.TFLog:1>], <ore:logWoodCanopyTree>, 0);
-cut('TwilightForest', 'mangrove', [<TwilightForest:tile.TFPlank:2>, <TwilightForest:tile.TFWoodSlab:2>, <TwilightForest:tile.TFWoodStairsMangrove>], 1, [<TwilightForest:tile.TFLog:2>], <ore:logWoodMangrove>, 0);
+cut('TwilightForest', 'mangrove', [<TwilightForest:tile.TFPlank:2>, <TwilightForest:tile.TFWoodSlab:2>, <TwilightForest:tile.TFWoodStairsMangrove>], 1, [<TwilightForest:tile.TFLog:2>], <ore:logWoodTwilightMangrove>, 0);
 cut('TwilightForest', 'darkwood', [<TwilightForest:tile.TFPlank:3>, <TwilightForest:tile.TFWoodSlab:3>, <TwilightForest:tile.TFWoodStairsDarkwood>], 1, [<TwilightForest:tile.TFLog:3>], <ore:logWoodDarkwood>, 0);
 cut('TwilightForest', 'timewood', [<TwilightForest:tile.TFPlank:4>, <TwilightForest:tile.TFWoodSlab:4>, <TwilightForest:tile.TFWoodStairsTime>], 1, [<TwilightForest:tile.TFMagicLog>], <ore:logWoodTimewood>, 0);
 cut('TwilightForest', 'transwood', [<TwilightForest:tile.TFPlank:5>, <TwilightForest:tile.TFWoodSlab:5>, <TwilightForest:tile.TFWoodStairsTrans>], 1, [<TwilightForest:tile.TFMagicLog:1>], <ore:logWoodTranswood>, 0);
 cut('TwilightForest', 'minewood', [<TwilightForest:tile.TFPlank:6>, <TwilightForest:tile.TFWoodSlab:6>, <TwilightForest:tile.TFWoodStairsMine>], 1, [<TwilightForest:tile.TFMagicLog:2>], <ore:logWoodMinewood>, 0);
 cut('TwilightForest', 'sortingwood', [<TwilightForest:tile.TFPlank:7>, <TwilightForest:tile.TFWoodSlab:7>, <TwilightForest:tile.TFWoodStairsSort>], 1, [<TwilightForest:tile.TFMagicLog:3>], <ore:logWoodSortingwood>, 0);
+
+cut('aether_legacy', 'skyroot', [<aether_legacy:skyroot_planks>, <aether_legacy:skyroot_slab>, <aether_legacy:skyroot_stairs>], 1, [<aether_legacy:skyroot_log>, <aether_legacy:golden_oak_log>], <ore:logWoodSkyroot>, 0);
 
 cut('witchery', 'rowan', [<witchery:witchwood>, <witchery:witchwoodslab>, <witchery:stairswoodrowan>], 1, [<witchery:witchlog>], <ore:logWoodRowan>, 0);
 cut('witchery', 'alder', [<witchery:witchwood:1>, <witchery:witchwoodslab:1>, <witchery:stairswoodalder>], 1, [<witchery:witchlog:1>], <ore:logWoodAlder>, 0);
@@ -173,6 +181,13 @@ cut('etfuturum', 'tuff_brick', [<etfuturum:tuff:2>, <etfuturum:tuff_slab:2>, <et
 cut('etfuturum', 'mud_bricks', [<etfuturum:packed_mud:1>, <etfuturum:mud_brick_slab>, <etfuturum:mud_brick_stairs>, <etfuturum:mud_brick_wall>], 3, [], <ore:none>, 0);
 cut('etfuturum', 'purpur_block', [<chisel:purpur>, <etfuturum:purpur_slab>, <etfuturum:purpur_stairs>], 0, [], <ore:none>, 0);
 cut('etfuturum', 'endstone_bricks', [<chisel:end_Stone>, <etfuturum:end_brick_slab>, <etfuturum:end_brick_stairs>, <etfuturum:end_brick_wall>], 3, [], <ore:none>, 0);
+
+cut('aether_legacy', 'holystone', [<aether_legacy:holystone>, <aether_legacy:holystone_slab>, <aether_legacy:holystone_stairs>, <aether_legacy:holystone_wall>], 3, [], <ore:none>, 0);
+cut('aether_legacy', 'holystone_brick', [<aether_legacy:holystone_brick>, <aether_legacy:holystone_brick_slab>, <aether_legacy:holystone_brick_stairs>, <aether_legacy:holystone_brick_wall>], 3, [], <ore:none>, 0);
+cut('aether_legacy', 'mossy_holystone', [<aether_legacy:mossy_holystone>, <aether_legacy:mossy_holystone_slab>, <aether_legacy:mossy_holystone_stairs>, <aether_legacy:mossy_holystone_wall>], 3, [], <ore:none>, 0);
+cut('aether_legacy', 'carved_stone', [<aether_legacy:carved_stone>, <aether_legacy:carved_slab>, <aether_legacy:carved_stairs>, <aether_legacy:carved_wall>], 3, [], <ore:none>, 0);
+cut('aether_legacy', 'angelic_stone', [<aether_legacy:angelic_stone>, <aether_legacy:angelic_slab>, <aether_legacy:angelic_stairs>, <aether_legacy:angelic_wall>], 3, [], <ore:none>, 0);
+cut('aether_legacy', 'hellfire_stone', [<aether_legacy:hellfire_stone>, <aether_legacy:hellfire_slab>, <aether_legacy:hellfire_stairs>, <aether_legacy:hellfire_wall>], 3, [], <ore:none>, 0);
 
 cut('netherlicious', 'basalt', [<netherlicious:Basalt>, <netherlicious:BasaltSingleSlab>, <netherlicious:BasaltStairs>, <netherlicious:BasaltWall>], 3, [], <ore:none>, 0);
 cut('netherlicious', 'polished_basalt', [<netherlicious:BasaltBricks:2>, <netherlicious:BasaltSingleSlab:1>, <netherlicious:PolishedBasaltStairs>, <netherlicious:BasaltWall:1>], 3, [], <ore:none>, 0);

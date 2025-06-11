@@ -316,6 +316,7 @@ changeOre(<ImmersiveEngineering:metal:16>, [<ore:dustElectrum>, <ore:dustSteel>]
 recipes.removeShapeless(<WitchingGadgets:WG_MetalDevice>);
 
 mods.thaumcraft.Arcane.removeRecipe(<WitchingGadgets:item.WG_Kama:*>);
+mods.thaumcraft.Infusion.removeRecipe(<ThaumicHorizons:focusLiquefaction>);
 
 recipes.removeShapeless(<Botania:customBrick:4>, [<Botania:customBrick:15>]);
 mods.chisel.Groups.removeVariation(<Botania:endStoneBrick>);

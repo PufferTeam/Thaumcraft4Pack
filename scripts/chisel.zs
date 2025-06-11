@@ -47,6 +47,11 @@ chisel(true, "coppertrapdoor_exposed", true, <etfuturum:exposed_copper_trapdoor>
 chisel(true, "coppertrapdoor_weathered", true, <etfuturum:weathered_copper_trapdoor>, [<etfuturum:waxed_weathered_copper_trapdoor>], false);
 chisel(true, "coppertrapdoor_oxidized", true, <etfuturum:oxidized_copper_trapdoor>, [<etfuturum:waxed_oxidized_copper_trapdoor>], false);
 
+chisel(true, "aether_pillar", true, <aether_legacy:pillar>, [<aether_legacy:pillar_top>], false);
+chisel(true, "carved_stone", true, <aether_legacy:carved_stone>, [<aether_legacy:sentry_stone>], false);
+chisel(true, "angelic_stone", true, <aether_legacy:angelic_stone>, [<aether_legacy:light_angelic_stone>], false);
+chisel(true, "hellfire_stone", true, <aether_legacy:hellfire_stone>, [<aether_legacy:light_hellfire_stone>], false);
+
 chisel(true, "red_nether_bricks", true, <netherlicious:Netherbricks:2>, [<netherlicious:Netherbricks:3>, <netherlicious:Netherbricks:4>, <netherlicious:NewNetherbrick1:5>, <netherlicious:NewNetherbrick1:6>, <netherlicious:NewNetherbrick1:7>, <netherlicious:NewNetherbrick1:8>, <netherlicious:NewNetherbrick1:9>], true);
 chisel(true, "warped_nether_bricks", true, <netherlicious:Netherbricks:5>, [<netherlicious:Netherbricks:6>, <netherlicious:Netherbricks:7>, <netherlicious:NewNetherbrick1:10>, <netherlicious:NewNetherbrick1:11>, <netherlicious:NewNetherbrick1:12>, <netherlicious:NewNetherbrick1:13>, <netherlicious:NewNetherbrick1:14>], true);
 chisel(true, "foxfire_nether_bricks", true, <netherlicious:Netherbricks:8>, [<netherlicious:Netherbricks:9>, <netherlicious:Netherbricks:10>, <netherlicious:NewNetherbrick2>, <netherlicious:NewNetherbrick2:1>, <netherlicious:NewNetherbrick2:2>, <netherlicious:NewNetherbrick2:3>, <netherlicious:NewNetherbrick2:4>], true);

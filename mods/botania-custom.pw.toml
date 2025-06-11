@@ -1,8 +1,8 @@
 name = "Botania"
-filename = "Botania-1.12.11-GTNH-pre.jar"
+filename = "Botania-1.12.14-JB.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/Botania/releases/download/1.12.11-GTNH-pre/Botania-1.12.11-GTNH-pre.jar"
-hash-format = "sha1"
-hash = "2a15f173c30e8f15d4a61cbd1d0437200b511890"
+url = "https://github.com/PufferTeam-ModArchive/Botania/releases/download/1.12.14-JB/Botania-1.12.14-JB.jar"
+hash-format = "sha256"
+hash = "1f741c69f870811d932f687a0767a318504408c52cd6e506082debdeabfecd71"

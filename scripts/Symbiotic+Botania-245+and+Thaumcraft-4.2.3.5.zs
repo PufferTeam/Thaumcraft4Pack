@@ -307,17 +307,6 @@ recipes.addShaped(conjurationCatalyst, [
 	[etherealEssence, alchemyCatalyst, etherealEssence],
 	[livingrock, dragonstone, livingrock]]);
 
-mods.botania.Lexicon.removePage("botania.entry.terrasteel", 1);
-mods.botania.Lexicon.addCraftingPage("botania.page.terrasteel1", "botania.entry.terrasteel", 1, [terrestrialAgglomerationPlate], [
-	[[lapisBlock, lapisBlock, lapisBlock],
-	[waterRune, essentiaMirror, fireRune],
-	[earthRune, manaRune, airRune]]]);
-recipes.remove(terrestrialAgglomerationPlate);
-recipes.addShaped(terrestrialAgglomerationPlate, [
-	[lapisBlock, lapisBlock, lapisBlock],
-	[waterRune, essentiaMirror, fireRune],
-	[earthRune, manaRune, airRune]]);
-
 mods.botania.Lexicon.removePage("botania.entry.fIntro", 4);
 mods.botania.Lexicon.addCraftingPage("botania.page.fIntro4", "botania.entry.fIntro", 4, [redstoneRoot], [[[<Thaumcraft:blockCustomPlant:0>, redstone]]]);	//using "thaumcraftPlants" didn't rotate the icon, it stayed on Greatwood Sapling
 mods.botania.Lexicon.addCraftingPage("botania.page.fIntro4", "botania.entry.fIntro", 5, [redstoneRoot], [[[<Thaumcraft:blockCustomPlant:1>, redstone]]]);
@@ -395,49 +384,6 @@ recipes.addShaped(terraSteelBoots, [
 	[terraSteel, manasteelBoots, terraSteel],
 	[null, voidMetal, null]]);
 
-
-mods.botania.Lexicon.removePage("botania.entry.runeAltar", 7);
-mods.botania.Lexicon.addRunePage("botania.page.runeAltar4", "botania.entry.runeAltar", 7, [waterRune * 2], [[manaPowder, manaSteel, waterShard]], [5000]);
-mods.botania.RuneAltar.removeRecipe(waterRune);
-mods.botania.RuneAltar.addRecipe(waterRune * 2, [manaPowder, manaSteel, waterShard], 5000);
-
-mods.botania.Lexicon.removePage("botania.entry.runeAltar", 8);
-mods.botania.Lexicon.addRunePage("botania.page.runeAltar5", "botania.entry.runeAltar", 8, [earthRune * 2], [[manaPowder, manaSteel, earthShard]], [5000]);
-mods.botania.RuneAltar.removeRecipe(earthRune);
-mods.botania.RuneAltar.addRecipe(earthRune * 2, [manaPowder, manaSteel, earthShard], 5000);
-
-mods.botania.Lexicon.removePage("botania.entry.runeAltar", 9);
-mods.botania.Lexicon.addRunePage("botania.page.runeAltar6", "botania.entry.runeAltar", 9, [airRune * 2], [[manaPowder, manaSteel, airShard]], [5000]);
-mods.botania.RuneAltar.removeRecipe(airRune);
-mods.botania.RuneAltar.addRecipe(airRune * 2, [manaPowder, manaSteel, airShard], 5000);
-
-mods.botania.Lexicon.removePage("botania.entry.runeAltar", 10);
-mods.botania.Lexicon.addRunePage("botania.page.runeAltar7", "botania.entry.runeAltar", 10, [fireRune * 2], [[manaPowder, manaSteel, fireShard]], [5000]);
-mods.botania.RuneAltar.removeRecipe(fireRune);
-mods.botania.RuneAltar.addRecipe(fireRune * 2, [manaPowder, manaSteel, fireShard], 5000);
-
-
-mods.botania.Lexicon.removePage("botania.entry.runeAltar", 11);
-mods.botania.Lexicon.addRunePage("botania.page.runeAltar8", "botania.entry.runeAltar", 11, [springRune], [[victusCrystallizedEssence, waterRune, fireRune]], [8000]);
-mods.botania.RuneAltar.removeRecipe(springRune);
-mods.botania.RuneAltar.addRecipe(springRune, [victusCrystallizedEssence, waterRune, fireRune], 8000);
-
-mods.botania.Lexicon.removePage("botania.entry.runeAltar", 12);
-mods.botania.Lexicon.addRunePage("botania.page.runeAltar9", "botania.entry.runeAltar", 12, [summerRune], [[messisCrystallizedEssence, waterRune, fireRune]], [8000]);
-mods.botania.RuneAltar.removeRecipe(summerRune);
-mods.botania.RuneAltar.addRecipe(summerRune, [messisCrystallizedEssence, earthRune, airRune], 8000);
-
-mods.botania.Lexicon.removePage("botania.entry.runeAltar", 13);
-mods.botania.Lexicon.addRunePage("botania.page.runeAltar10", "botania.entry.runeAltar", 13, [autumnRune], [[mortuusCrystallizedEssence, waterRune, fireRune]], [8000]);
-mods.botania.RuneAltar.removeRecipe(autumnRune);
-mods.botania.RuneAltar.addRecipe(autumnRune, [mortuusCrystallizedEssence, fireRune, airRune], 8000);
-
-mods.botania.Lexicon.removePage("botania.entry.runeAltar", 14);
-mods.botania.Lexicon.addRunePage("botania.page.runeAltar11", "botania.entry.runeAltar", 14, [winterRune], [[gelumCrystallizedEssence, waterRune, fireRune]], [8000]);
-mods.botania.RuneAltar.removeRecipe(winterRune);
-mods.botania.RuneAltar.addRecipe(winterRune, [gelumCrystallizedEssence, waterRune, earthRune], 8000);
-
-
 mods.botania.Lexicon.removePage("botania.entry.runeAltar", 15);
 mods.botania.Lexicon.addRunePage("botania.page.runeAltar12", "botania.entry.runeAltar", 15, [manaRune], [[balancedShard, manaSteel, manaSteel, manaSteel, manaSteel, manaSteel]], [8000]);
 mods.botania.RuneAltar.removeRecipe(manaRune); 
@@ -447,29 +393,7 @@ mods.botania.Lexicon.addConjurationPage("botania.page.manaConjuration12", "botan
 game.setLocalization("en_US", "botania.page.manaConjuration12", "Conjuring &1Purifying Bath Salts&0");
 mods.botania.ManaInfusion.addConjuration(bathSalt * 2, bathSalt, 250000);	//250,000 is half a mana pool
 
-
-
-
-
-
 //THAUMCRAFT
-
-
-recipes.remove(table);
-recipes.addShaped(table, [
-	[livingwoodSlab, livingwoodSlab, livingwoodSlab],
-	[livingwoodPlanks, null, livingwoodPlanks]]);
-mods.thaumcraft.Research.refreshResearchRecipe("TABLE");
-
-
-mods.botania.Lexicon.addCraftingPage("botania.page.nightshade2", "botania.entry.nightshade", 2, [greatwoodSapling], [[[pastureSeed, silverwoodSapling]]]);
-game.setLocalization("en_US", "botania.page.nightshade2", "Creating &1Greatwood Saplings&0");
-recipes.addShapeless(greatwoodSapling, [pastureSeed, silverwoodSapling]);
-
-mods.botania.Lexicon.addCraftingPage("botania.page.daybloom3", "botania.entry.daybloom", 3, [silverwoodSapling], [[[pastureSeed, greatwoodSapling]]]);
-game.setLocalization("en_US", "botania.page.daybloom3", "Creating &1Silverwood Saplings&0");
-recipes.addShapeless(silverwoodSapling, [pastureSeed, greatwoodSapling]);
-
 mods.thaumcraft.Arcane.removeRecipe(mirroredGlass);
 mods.thaumcraft.Arcane.addShapeless("BASICARTIFACE", mirroredGlass, "ordo 5", 
 	[quicksilverNugget, glassPane]);
@@ -577,48 +501,6 @@ mods.thaumcraft.Research.refreshResearchRecipe("ELDRITCHMINOR");
 mods.thaumcraft.Infusion.removeRecipe(<ThaumicTinkerer:enchanter>);
 mods.thaumcraft.Infusion.addRecipe("ENCHANTER", <minecraft:enchanting_table>, [<TaintedMagic:ItemMaterial:6>, <TaintedMagic:ItemMaterial:6>, <ThaumicTinkerer:spellCloth>, <Thaumcraft:ItemResource:15>], "praecantatio 50, alienis 40, potentia 30, machina 30, cognitio 10", <ThaumicTinkerer:enchanter>, 23);
 mods.thaumcraft.Research.refreshResearchRecipe("ENCHANTER");
-
-//mods.thaumcraft.Research.orphanResearch("TTENCH_AUTO_SMELT");
-//mods.thaumcraft.Research.removeResearch("TTENCH_AUTO_SMELT");
-
-//mods.thaumcraft.Research.orphanResearch("TTENCH_FINAL");
-//mods.thaumcraft.Research.removeResearch("TTENCH_FINAL");
-
-//mods.thaumcraft.Research.orphanResearch("TTENCH_TUNNEL");
-//mods.thaumcraft.Research.removeResearch("TTENCH_TUNNEL");
-
-//mods.thaumcraft.Research.orphanResearch("TTENCH_SHATTER");
-//mods.thaumcraft.Research.removeResearch("TTENCH_SHATTER");
-
-//mods.thaumcraft.Research.orphanResearch("TTENCH_SLOW_FALL");
-//mods.thaumcraft.Research.removeResearch("TTENCH_SLOW_FALL");
-
-//mods.thaumcraft.Research.orphanResearch("TTENCH_DISPERSED");
-//mods.thaumcraft.Research.removeResearch("TTENCH_DISPERSED");
-
-//mods.thaumcraft.Research.orphanResearch("TTENCH_ASCENT_BOOST");
-//mods.thaumcraft.Research.removeResearch("TTENCH_ASCENT_BOOST");
-
-//mods.thaumcraft.Research.orphanResearch("TTENCH_DESINTEGRATE");
-//mods.thaumcraft.Research.removeResearch("TTENCH_DESINTEGRATE");
-
-//mods.thaumcraft.Research.orphanResearch("TTENCH_POUNCE");
-//mods.thaumcraft.Research.removeResearch("TTENCH_POUNCE");
-
-//mods.thaumcraft.Research.orphanResearch("TTENCH_QUICK_DRAW");
-//mods.thaumcraft.Research.removeResearch("TTENCH_QUICK_DRAW");
-
-//mods.thaumcraft.Research.orphanResearch("TTENCH_VAMPIRISM");
-//mods.thaumcraft.Research.removeResearch("TTENCH_VAMPIRISM");
-
-//mods.thaumcraft.Research.orphanResearch("TTENCH_FOCUSED");
-//mods.thaumcraft.Research.removeResearch("TTENCH_FOCUSED");
-
-//mods.thaumcraft.Research.orphanResearch("TTENCH_SHOCKWAVE");
-//mods.thaumcraft.Research.removeResearch("TTENCH_SHOCKWAVE");
-
-//mods.thaumcraft.Research.orphanResearch("TTENCH_VALIANCE");
-//mods.thaumcraft.Research.removeResearch("TTENCH_VALIANCE");
 
 recipes.removeShaped(<Botania:terrasteelHelmReveal>);
 
