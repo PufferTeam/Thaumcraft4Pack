@@ -209,6 +209,7 @@ ore('invar', [<ThermalFoundation:Storage:8>, <ThermalFoundation:material:72>, <T
 ore('signalum', [<ThermalFoundation:Storage:10>, <ThermalFoundation:material:74>, <ThermalFoundation:material:106>, <ThermalFoundation:material:42>, none, <ThermalFoundation:material:138>, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
 ore('lumium', [<ThermalFoundation:Storage:11>, <ThermalFoundation:material:75>, <ThermalFoundation:material:107>, <ThermalFoundation:material:43>, none, <ThermalFoundation:material:139>, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
 ore('enderium', [<ThermalFoundation:Storage:12>, <ThermalFoundation:material:76>, <ThermalFoundation:material:108>, <ThermalFoundation:material:44>, none, <ThermalFoundation:material:140>, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
+ore('pig_iron', [none, <ImmersiveEngineering:metal>, <ImmersiveEngineering:metal:22>, <ImmersiveEngineering:metal:10>, none, none, none], [none, none, none], [0, 0, 0, 0, 1, 1, 1, 0, 0, 0], none, -1, [], []);
 
 //Unused IE Ingots
 InfernalBlastfurnace.removeRecipe(<ImmersiveEngineering:metal:3>);
@@ -226,9 +227,9 @@ InfernalBlastfurnace.removeRecipe(<ImmersiveEngineering:storage:7>);
 InfernalBlastfurnace.removeRecipe(<ImmersiveEngineering:metal:0>);
 ArcFurnace.removeRecipe(<ImmersiveEngineering:metal:0>);
 ArcFurnace.removeRecipe(<ImmersiveEngineering:metal:7>);
-BlastFurnace.addRecipe(<ImmersiveEngineering:metal:0>, <minecraft:iron_ingot>, 1200, <ImmersiveEngineering:material:13>);
-InfernalBlastfurnace.addRecipe(<ImmersiveEngineering:metal:7>, <ImmersiveEngineering:metal:0>, 500, null, true);
-ArcFurnace.addRecipe(<ImmersiveEngineering:metal:0>, <ThermalFoundation:material>, <ImmersiveEngineering:material:13>, 400, 512, [<ImmersiveEngineering:metal:17>], "Alloying");
+BlastFurnace.addRecipe(<ImmersiveEngineering:metal>, <ThermalFoundation:material>, 1200, <ImmersiveEngineering:material:13>);
+InfernalBlastfurnace.addRecipe(<ImmersiveEngineering:metal:7>, <ImmersiveEngineering:metal>, 500, null, true);
+ArcFurnace.addRecipe(<ImmersiveEngineering:metal>, <ThermalFoundation:material>, <ImmersiveEngineering:material:13>, 400, 512, [<ImmersiveEngineering:metal:17>], "Alloying");
 
 //Bronze
 recipes.remove(<ThermalFoundation:material:41>);

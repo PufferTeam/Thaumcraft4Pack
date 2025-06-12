@@ -399,13 +399,6 @@ mods.thaumcraft.Arcane.addShapeless("BASICARTIFACE", mirroredGlass, "ordo 5",
 	[quicksilverNugget, glassPane]);
 mods.thaumcraft.Research.refreshResearchRecipe("BASICARTIFACE");
 
-mods.thaumcraft.Arcane.removeRecipe(runicMatrix);
-mods.thaumcraft.Arcane.addShaped("INFUSION", runicMatrix, "ordo 40", [
-	[arcaneStoneBlock, shards, arcaneStoneBlock],
-	[shards, seaLantern, shards],
-	[arcaneStoneBlock, shards, arcaneStoneBlock]]);
-mods.thaumcraft.Research.refreshResearchRecipe("INFUSION");
-
 mods.botania.Lexicon.removePage("botania.entry.pylon", 1);
 mods.botania.Lexicon.addCraftingPage("botania.page.pylon1", "botania.entry.pylon", 1, [manaPylon], [
 	[[null, gold, null],

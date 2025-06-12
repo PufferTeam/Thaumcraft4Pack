@@ -205,6 +205,10 @@ Research.moveResearch("PLATFORM", "ARTIFICE", 0, -3 as int);
 Research.clearPrereqs("PLATFORM");
 Research.addPrereq("PLATFORM", "LEVITATOR", false);
 
+Research.moveResearch("DISCOUNTRINGS", "ARTIFICE", 2, 1);
+Research.clearPrereqs("DISCOUNTRINGS");
+Research.addPrereq("DISCOUNTRINGS", "BASICARTIFACE", false);
+
 Research.moveResearch("REPAIRER", "ARTIFICE", -3 as int, 10);
 Research.addPrereq("REPAIRER", "ARCANEBORE", false);
 
@@ -348,6 +352,14 @@ Research.moveResearch("CAP_gold", "THAUMATURGY", 3, 2);
 Research.moveResearch("CAP_thaumium", "THAUMATURGY", 4, 4);
 Research.moveResearch("CAP_silver", "THAUMATURGY", 2, 4);
 
+Research.moveResearch("CAP_MECHANIST", "THAUMATURGY", 3, 6);
+Research.clearPrereqs("CAP_MECHANIST");
+Research.addPrereq("CAP_MECHANIST", "CAP_thaumium", false);
+
+Research.moveResearch("CAP_SOJOURNER", "THAUMATURGY", 5, 6);
+Research.clearPrereqs("CAP_SOJOURNER");
+Research.addPrereq("CAP_SOJOURNER", "CAP_thaumium", false);
+
 Research.moveResearch("ROD_TRANSMUTATION", "THAUMATURGY", -2 as int, 8);
 Research.clearPrereqs("ROD_TRANSMUTATION");
 Research.addPrereq("ROD_TRANSMUTATION", "ROD_NECROMANCER_staff", false);
@@ -381,6 +393,9 @@ Research.removeResearch("TXROD_greatwood_staff");
 
 Research.orphanResearch("TXROD_greatwood");
 Research.removeResearch("TXROD_greatwood");
+
+Research.orphanResearch("TXCAP_thaumium");
+Research.removeResearch("TXCAP_thaumium");
 
 Research.orphanResearch("TXHOVERHARNESS");
 Research.removeResearch("TXHOVERHARNESS");

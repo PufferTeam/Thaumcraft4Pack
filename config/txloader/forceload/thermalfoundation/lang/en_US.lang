@@ -1,3 +1,9 @@
+item.thermalfoundation.material.dustIron.name=Iron Dust
+item.thermalfoundation.material.dustGold.name=Gold Dust
+item.thermalfoundation.material.dustCoal.name=Coal Dust
+item.thermalfoundation.material.dustCharcoal.name=Charcoal Dust
+item.thermalfoundation.material.dustObsidian.name=Obsidian Dust
+
 item.thermalfoundation.material.dustCopper.name=Copper Dust
 item.thermalfoundation.material.dustTin.name=Tin Dust
 item.thermalfoundation.material.dustSilver.name=Silver Dust
