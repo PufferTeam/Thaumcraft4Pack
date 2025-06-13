@@ -109,10 +109,22 @@ Research.addPrereq("GADOMANCY.BLOCK_PROTECTOR", "TUBES", false);
 Research.moveResearch("CENTRIFUGE", "ALCHEMY", 10, 3);
 Research.moveResearch("THAUMATORIUM", "ALCHEMY", 10, 5);
 
+Research.moveResearch("TERRAFORMER", "ALCHEMY", 6, 5);
+Research.clearPrereqs("TERRAFORMER");
+Research.addPrereq("TERRAFORMER", "CENTRIFUGE", false);
+
 Research.moveResearch("SANESOAP", "ALCHEMY", -4 as int, -6 as int);
 Research.moveResearch("ETHEREALBLOOM", "ALCHEMY", -7 as int, -3 as int);
 Research.clearPrereqs("ETHEREALBLOOM");
 Research.addPrereq("ETHEREALBLOOM", "BATHSALTS", false);
+
+Research.moveResearch("ALCHEMICALTRANSMOGRIFY", "ALCHEMY", -7 as int, -1 as int);
+Research.clearPrereqs("ALCHEMICALTRANSMOGRIFY");
+Research.addPrereq("ALCHEMICALTRANSMOGRIFY", "ALCHEMICALMANUFACTURE", false);
+
+Research.moveResearch("ROSEVINE", "ALCHEMY", -9 as int, -1 as int);
+Research.clearPrereqs("ROSEVINE");
+Research.addPrereq("ROSEVINE", "ALCHEMICALTRANSMOGRIFY", false);
 
 Research.moveResearch("PHIAL", "ALCHEMY", 0, 1 as int);
 Research.addPrereq("PHIAL", "CRUCIBLE", false);
@@ -195,6 +207,14 @@ Research.clearPrereqs("ETHEREALWALL");
 Research.addPrereq("ETHEREALWALL", "PAVEWARD", false);
 Research.addPrereq("ETHEREALWALL", "PLATFORM", false);
 
+Research.moveResearch("STONEEXTRUDER", "ARTIFICE", 7, -2 as int);
+Research.clearPrereqs("STONEEXTRUDER");
+Research.addPrereq("STONEEXTRUDER", "ARCANESTONE", false);
+
+Research.moveResearch("ICESOLIDIFIER", "ARTIFICE", 8, -4 as int);
+Research.clearPrereqs("ICESOLIDIFIER");
+Research.addPrereq("ICESOLIDIFIER", "STONEEXTRUDER", false);
+
 Research.moveResearch("SLIVERS", "ARTIFICE", 5, -7 as int);
 Research.moveResearch("SLIVERS_WARDING", "ARTIFICE", 4, -5 as int);
 Research.moveResearch("SLIVERS_TRAVEL", "ARTIFICE", 6, -5 as int);
@@ -205,9 +225,36 @@ Research.moveResearch("PLATFORM", "ARTIFICE", 0, -3 as int);
 Research.clearPrereqs("PLATFORM");
 Research.addPrereq("PLATFORM", "LEVITATOR", false);
 
+Research.orphanResearch("LEVITATOR_LOCOMOTIVE");
+Research.moveResearch("LEVITATOR_LOCOMOTIVE", "ARTIFICE", 0, -5 as int);
+Research.clearPrereqs("LEVITATOR_LOCOMOTIVE");
+Research.addPrereq("LEVITATOR_LOCOMOTIVE", "PLATFORM", false);
+Research.addPrereq("LEVITATOR_LOCOMOTIVE", "INFUSION", true);
+
 Research.moveResearch("DISCOUNTRINGS", "ARTIFICE", 2, 1);
 Research.clearPrereqs("DISCOUNTRINGS");
 Research.addPrereq("DISCOUNTRINGS", "BASICARTIFACE", false);
+
+Research.moveResearch("REVEALING_HELM", "ARTIFICE", 4, 0);
+Research.clearPrereqs("REVEALING_HELM");
+Research.addPrereq("REVEALING_HELM", "GOGGLES", false);
+
+Research.moveResearch("TD.RUNICARMOR", "ARTIFICE", 8, 4);
+Research.clearPrereqs("TD.RUNICARMOR");
+Research.addPrereq("TD.RUNICARMOR", "RUNICAUGMENTATION", false);
+Research.addPrereq("TD.RUNICARMOR", "INFUSION", true);
+
+Research.moveResearch("TD.RUNICARMORUPGRADES", "ARTIFICE", 9, 4);
+Research.clearPrereqs("TD.RUNICARMORUPGRADES");
+Research.addPrereq("TD.RUNICARMORUPGRADES", "TD.RUNICARMOR", false);
+
+Research.moveResearch("TD.RUNICGOGGLES", "ARTIFICE", 8, 3);
+Research.clearPrereqs("TD.RUNICGOGGLES");
+Research.addPrereq("TD.RUNICGOGGLES", "TD.RUNICARMOR", false);
+
+Research.moveResearch("TD.RUNICBOOTSTRAVELLER", "ARTIFICE", 8, 5);
+Research.clearPrereqs("TD.RUNICBOOTSTRAVELLER");
+Research.addPrereq("TD.RUNICBOOTSTRAVELLER", "TD.RUNICARMOR", false);
 
 Research.moveResearch("REPAIRER", "ARTIFICE", -3 as int, 10);
 Research.addPrereq("REPAIRER", "ARCANEBORE", false);
@@ -242,6 +289,7 @@ Research.orphanResearch("THINKTANK");
 Research.moveResearch("THINKTANK", "AUTOMAGY", 4, -4 as int);
 Research.clearPrereqs("THINKTANK");
 Research.addPrereq("THINKTANK", "CRYSTALBRAIN", false);
+Research.addPrereq("THINKTANK", "JARBRAIN", false);
 
 Research.moveResearch("GRATE", "AUTOMAGY", 0, -2 as int);
 Research.addPrereq("GRATE", "REDSTONETHEORY", false);
@@ -282,19 +330,18 @@ Research.moveResearch("FOCUS_SMELT", "THAUMATURGY", -4 as int, 10);
 Research.moveResearch("FOCUS_SMELT", "THAUMATURGY", -1 as int, -6 as int);
 Research.clearPrereqs("FOCUS_SMELT");
 Research.addPrereq("FOCUS_SMELT", "FOCUSEXCAVATION", false);
-
-Research.moveResearch("FOCUS_DEFLECT", "THAUMATURGY", 1, -7 as int);
-Research.clearPrereqs("FOCUS_DEFLECT");
-Research.addPrereq("FOCUS_DEFLECT", "FOCUS_SMELT", false);
-
-Research.moveResearch("FOCUS_HEAL", "THAUMATURGY", 0, -9 as int);
-Research.clearPrereqs("FOCUS_HEAL");
-Research.addPrereq("FOCUS_HEAL", "FOCUS_DEFLECT", false);
-
 Research.moveResearch("FOCUS_FLIGHT", "THAUMATURGY", 6, -4 as int);
 Research.clearPrereqs("FOCUS_FLIGHT");
 Research.addPrereq("FOCUS_FLIGHT", "FOCUSTRADE", false);
 Research.addPrereq("FOCUS_FLIGHT", "ELEMENTALSWORD", false);
+
+Research.moveResearch("FOCUS_DEFLECT", "THAUMATURGY", 8, -4 as int);
+Research.clearPrereqs("FOCUS_DEFLECT");
+Research.addPrereq("FOCUS_DEFLECT", "FOCUS_FLIGHT", false);
+
+Research.moveResearch("FOCUS_HEAL", "THAUMATURGY", 9, -6 as int);
+Research.clearPrereqs("FOCUS_HEAL");
+Research.addPrereq("FOCUS_HEAL", "FOCUS_DEFLECT", false);
 
 Research.moveResearch("FOCUS_DISLOCATION", "THAUMATURGY", 5, -6 as int);
 Research.clearPrereqs("FOCUS_DISLOCATION");
@@ -319,6 +366,8 @@ Research.addPrereq("FOCUSWARDING", "focusIllumination", false);
 Research.moveResearch("focusIllumination", "THAUMATURGY", -2 as int, -4 as int);
 Research.clearPrereqs("focusIllumination");
 Research.addPrereq("focusIllumination", "FOCUSEXCAVATION", false);
+
+Research.addPrereq("FOCUSHELLBAT", "FOCUS_SMELT", false);
 
 Research.moveResearch("ROD_quartz", "THAUMATURGY", -3 as int, 0);
 Research.moveResearch("ROD_quartz_staff", "THAUMATURGY", -2 as int, -1 as int);
@@ -385,6 +434,12 @@ Research.removeResearch("WG.JARLABEL");
 Research.orphanResearch("WG.INFERNALFURNACE");
 Research.removeResearch("WG.INFERNALFURNACE");
 
+Research.orphanResearch("WG.ALCHEMICALMANUFACTURE");
+Research.removeResearch("WG.ALCHEMICALMANUFACTURE");
+
+Research.orphanResearch("WG.ARCANESTONE");
+Research.removeResearch("WG.ARCANESTONE");
+
 Research.orphanResearch("TXJARVOID");
 Research.removeResearch("TXJARVOID");
 
@@ -399,6 +454,9 @@ Research.removeResearch("TXCAP_thaumium");
 
 Research.orphanResearch("TXHOVERHARNESS");
 Research.removeResearch("TXHOVERHARNESS");
+
+Research.orphanResearch("TXBASICARTIFACE");
+Research.removeResearch("TXBASICARTIFACE");
 
 Research.orphanResearch("alternateGolemBell");
 Research.removeResearch("alternateGolemBell");

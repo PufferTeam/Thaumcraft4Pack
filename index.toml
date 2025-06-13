@@ -1115,7 +1115,7 @@ hash = "dd05a4434864a1d70f6f66b015ca319c6011867f9d0c5f4c622db24fffe85f82"
 
 [[files]]
 file = "config/txloader/forceload/twilightforest/lang/en_US.lang"
-hash = "7111b248d942a7f90a64d696549710266caf0a0d99862c3ea074d897757e4ef4"
+hash = "2dfc5ad55dd07b91f838f2f88cd35b8144ce40c2bc0d3418f18bfa6828ab5b78"
 
 [[files]]
 file = "config/txloader/forceload/waila/lang/en_US.lang"
@@ -1806,7 +1806,7 @@ hash = "f9cb4578949503251dbed03ddd52537b08dc0c8dd6ef98b3ca3620945ad05294"
 
 [[files]]
 file = "scripts/.research.zs"
-hash = "3448d8262251a7a1e5080d36ec15299b2cf8635e11d3011fec71d083a720f383"
+hash = "b53c1222f8367a5fa226ba9afe06d6381fcdcace1d5687100586507196066485"
 
 [[files]]
 file = "scripts/Symbiotic+Botania-245+and+Thaumcraft-4.2.3.5.zs"
