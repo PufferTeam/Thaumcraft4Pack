@@ -156,7 +156,7 @@ hash = "f7f200fd1353fe97b8f70d472efad1f81de2cf7c4bc423f6a238de45664ee75e"
 
 [[files]]
 file = "config/InfernalMobs.cfg"
-hash = "d567eebc81e33dc9b0c5dc2ed2214ec3b2e499e9495e40607da420b39619bb33"
+hash = "8911a88359cb9b116fce29afbd0bc29aafe86ae37caac70ba5dcd089f82dd3e2"
 
 [[files]]
 file = "config/LegibleNei/LegibleNei.cfg"
@@ -188,7 +188,7 @@ hash = "7fb132078d78461a9dde309797c85302c48eb378e6c8b8dc1030e1505d2248b4"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "1d0edc71df3acbd9ba602b25bf3d74cd8893cf172c70ab9a72c811e8bbbdab5b"
+hash = "8e54faa6f9cf578aa6758eebf4ce8e236b36038af2b0d0fabe212edfed20b175"
 
 [[files]]
 file = "config/NEI/catalysts.csv"
@@ -619,6 +619,10 @@ file = "config/WitchingGadgets.cfg"
 hash = "b75925fb5c468e435a425a2b4e7793de0a66b0a342a64693dc86375d869464a8"
 
 [[files]]
+file = "config/adjachest.cfg"
+hash = "e5210fec2cccee51d4f72099fa23e5b98f95204306a71286716243aa3d457ca2"
+
+[[files]]
 file = "config/aether/AetherI.cfg"
 hash = "ae15820eac27dd309e61c609527e9da1507bb476020444f6e4793ffe29e4e9a4"
 
@@ -864,7 +868,7 @@ hash = "4f3ab5ac5c97c24baa4e3ab78f6577176504ef1e61f336a34aacf9fee7151b2c"
 
 [[files]]
 file = "config/hodgepodgeEarly.properties"
-hash = "d4a81dfe1b80813b96867a82d4e17d1b293871ffdca32b4f1d1896a45f4d5432"
+hash = "5fc8a6aca35b3ebeb064dadc27e47b73ef9bef8e7704ae793aa24e98d0998634"
 
 [[files]]
 file = "config/immersiveintegration.cfg"
@@ -980,7 +984,7 @@ hash = "e5e3f6dfb7deebbe932f03735a407fa87e967c85bf92dcaa23371f0a4e039719"
 
 [[files]]
 file = "config/splash.properties"
-hash = "97323118bd082f9b3fd830c336138c89044b07934ffbfb9b09c9b49df3089319"
+hash = "755c7ae1f77cb76f63b361572bed2507fee9f84e1442269c36a5346501c2a172"
 
 [[files]]
 file = "config/tabfaces.cfg"
