@@ -24,7 +24,7 @@ hash = "e389dcd715b573bead04fa0740ca64d58725780df43b40f1c1f0ba9dcd1fb54f"
 
 [[files]]
 file = "config/Automagy.cfg"
-hash = "e4032d04395364820d17db1a17668536e27f6d87787d72aa853a6142ae4da144"
+hash = "1068843a0e00c4ef8225fc8d1446e8a4af9326ddc397e4a7b9f7e2a2d52bc608"
 
 [[files]]
 file = "config/Baubles.cfg"
@@ -168,7 +168,7 @@ hash = "c731b068396167294cd22235620e68e63bfd3efeeac4e53e1c0cc5291c3b1904"
 
 [[files]]
 file = "config/LegibleNei/filters/filter.json"
-hash = "74abac2651bd94a5e5c1bddb23b60be7c6c5f13af92c62a9107bf0519820555d"
+hash = "9d73daf80473f8cb8e702b033b3c724c533ad4f099eb24f123753a417047d702"
 
 [[files]]
 file = "config/MCFrames.cfg"
@@ -924,7 +924,7 @@ hash = "2c39712d1fc9fb553a0fa48b4bfea19f45ad9bf90b65f1c6fdaa16194d60c9f5"
 
 [[files]]
 file = "config/notenoughpets.cfg"
-hash = "d604676ae4e12196453289a86613fe79117f93e30f711a6543209d4ff79a43b6"
+hash = "27a572a90c85de8bbf7cafeab09f8dfc8ddc308e6d664782d1d60990905afbab"
 
 [[files]]
 file = "config/notfine/notfine.cfg"
@@ -972,7 +972,7 @@ hash = "35b949926144cf86b012ab6af559fc4dc7775734b34a673431756eeeebdcb426"
 
 [[files]]
 file = "config/shipBlockProperties.cfg"
-hash = "64f3221d181cbba2c6ca0506b779987a25338f6a27255572b772e6f2fcf5234d"
+hash = "aa68b5f4f065d52c4089feaeb2634edbb8d7c4e2e900e5c103ccd764afeaae29"
 
 [[files]]
 file = "config/sloppydeploader.cfg"

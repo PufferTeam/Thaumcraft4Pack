@@ -47,7 +47,7 @@ CarpentersBlocks:[
 	{hide:[[blockCarpentersDoor,blockCarpentersBed],[]]};
 ],
 chisel:[
-	{hide:[[*stairs*],[]]};
+	{hide:[[*stairs*,amber],[]]};
 ],
 BiblioCraft:[
    {hide:[[BiblioClipboard,BookcaseFilled],[]]};
@@ -55,6 +55,9 @@ BiblioCraft:[
 ],
 Pistronics2:[
 	{hide:[[GearPart,Wrapper,Partblock],[]]};
+],
+cuchaz.ships:[
+	{hide:[[blockAirWall,blockAirRoof,blockBerth],[]]};
 ],
 OpenBlocks:[
 	{keep-one:[[imaginary],[0,1]]};
