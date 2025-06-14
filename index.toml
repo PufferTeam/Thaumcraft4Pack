@@ -10,6 +10,11 @@ hash = "f15513bc001f67e1e4833af67774a7479cf8cbd50a52a68fc3034774ba5561e2"
 metafile = true
 
 [[files]]
+file = "comp-shaders.pw.toml"
+hash = "e82b0fa249a3a7b46ce542a0cbaec06e1225557837252cc03113150a179a9b11"
+metafile = true
+
+[[files]]
 file = "config/AdvancedBotany.cfg"
 hash = "738f883141b9dec00b9698a3b323ee0e05ec4b82a68861492c0ffd2503dd706b"
 
@@ -1178,6 +1183,11 @@ metafile = true
 [[files]]
 file = "lwjgl3ify-forgepatches.pw.toml"
 hash = "86560658125637ae51dab48865f05411b31d2e151cfe243a5ed34df0b3e377c0"
+metafile = true
+
+[[files]]
+file = "mods/adjachests-custom.pw.toml"
+hash = "8db578b02e6900afb69d788ccb316c8519f106ab6f9be476ba7a4031f3a8a3b2"
 metafile = true
 
 [[files]]
