@@ -351,5 +351,12 @@ recipes.addShaped(<StorageDrawers:upgradeTemplate>, [
 	[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>]
 ]);
 
+recipes.remove(<minecraft:lead>);
+recipes.addShapedMirrored(<minecraft:lead> * 2, [
+	[<minecraft:string>, <minecraft:string>, null],
+	[<minecraft:string>, <minecraft:string>, null],
+	[null, null, <minecraft:string>]
+]);
+
 recipes.remove(<dmod:bundle>);
 recipes.addShapeless(<dmod:bundle>, [<minecraft:string>, <ore:itemLeather>]);
