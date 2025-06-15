@@ -88,6 +88,7 @@ key_key.hotbar.9:10
 key_dh.key.broom:0
 key_key.openCompendium:25
 key_key.discordRing:0
+key_navigator.key.action:211
 key_key.serverutilities.nbt:0
 key_key.serverutilities.trash:0
 key_Baubles Inventory:0
@@ -97,8 +98,6 @@ key_Misc Wand Toggle:34
 key_botaniamisc.toggleLoki:0
 key_botaniamisc.ringOfLokiClear:0
 key_botaniamisc.ringOfLokiMirror:0
-key_botaniamisc.ringOfLokiSaveSchematic:0
-key_botaniamisc.ringOfLokiOpenUI:0
 key_key.aether.accessory_menu:0
 key_Reload Shaders:0
 key_Toggle Shaders:0
@@ -112,14 +111,9 @@ key_waila.keybind.recipe:0
 key_waila.keybind.usage:0
 key_waila.keybind.details:42
 key_Automagy.key.focusCrafting:37
-key_Hold to use other FC keys:0
-key_Toggle Cull Entities:0
-key_Toggle Cull Tile Entities:0
-key_RV/FR Decrease:0
-key_RV/FR Increase:0
-key_Toggle Scale RD With Size:0
 key_ttmisc.toggleArmor:21
 key_key.aspectMenu:23
+key_tcnodetracker.key.togglenode:0
 key_Change Arcane Lens:47
 key_Activate Morphic Fingers:49
 key_Toggle Spider Climb:0
@@ -151,11 +145,12 @@ key_gui.xaero_open_map:50
 key_gui.xaero_open_settings:0
 key_gui.xaero_map_zoom_in:0
 key_gui.xaero_map_zoom_out:0
-key_gui.xaero_quick_confirm:54
+key_gui.xaero_quick_confirm:0
 key_key.fastBlockPlacing.desc:0
 key_key.cofh.empower:0
 key_key.cofh.multimode:0
-key_key.carbon_config.key:82
+key_key.carbon_config.key:0
+key_key.entityculling.toggle:0
 soundCategory_master:1.0
 soundCategory_music:0.5
 soundCategory_record:1.0

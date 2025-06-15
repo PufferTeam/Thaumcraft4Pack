@@ -5,11 +5,6 @@ file = "README.md"
 hash = "dfb08a73a50f0ddd2e78300ae5159962b3d416dfbf4caf464f7190726f5fc3f2"
 
 [[files]]
-file = "bop-warning.pw.toml"
-hash = "f15513bc001f67e1e4833af67774a7479cf8cbd50a52a68fc3034774ba5561e2"
-metafile = true
-
-[[files]]
 file = "comp-shaders.pw.toml"
 hash = "e82b0fa249a3a7b46ce542a0cbaec06e1225557837252cc03113150a179a9b11"
 metafile = true
@@ -121,10 +116,6 @@ hash = "8665efda6b4af737d9a83c1400eee5e602bf2696ece7f620db6c9f24a05b8205"
 [[files]]
 file = "config/DisenchanterMod.cfg"
 hash = "7c75c82a20b67c1f892b23ff3e8dcfa58a8da74ca79f6e453a508ec0ac0de89e"
-
-[[files]]
-file = "config/EntityRenderDistanceExtender.cfg"
-hash = "76060752c0b1ee5d030d7422cb3df905ac4a66a7cb4ab1d9d165b4b4ab611f13"
 
 [[files]]
 file = "config/ForbiddenMagic.cfg"
@@ -660,7 +651,7 @@ hash = "342cd8f89666b2f6174bf8fde70ab19d42cbf50d817da397a0748c046e83cd84"
 
 [[files]]
 file = "config/biomesoplenty/biomegen.cfg"
-hash = "4bf40d9eb238dcf960375a8d6a58ca4105f30d9f9b80469528752158aa682792"
+hash = "b955ed5b959ae7a76a09b69a5da34eef5e7c1f882664f45658f8c95e17580da5"
 
 [[files]]
 file = "config/biomesoplenty/biomeweights.cfg"
@@ -787,6 +778,10 @@ file = "config/endercore/endercore.cfg"
 hash = "7c0ff548014126b0805310dd3fb2f337607b5f7375170d546fa20fcdca0165da"
 
 [[files]]
+file = "config/entityculling.json"
+hash = "1305e625d04e81377d8c2aa7d7144ca8acb7a195704c8f12ea148db29aef311f"
+
+[[files]]
 file = "config/etfuturum/blocksitems.cfg"
 hash = "02ed3b731dc4fbb7b42abc175c64b4c02f8e9cbd0ce1aa77298865e7b1564977"
 
@@ -831,10 +826,6 @@ file = "config/fastleafdecay.cfg"
 hash = "5a8c5caee6f90244b51ae5d56d7fa9fbdd98506cb04804092e1536c6b341535b"
 
 [[files]]
-file = "config/flyingcullers.cfg"
-hash = "38c473474fc7bff1f77fd1f6cd7084431c81aa3d3eb6599da9614fdf82ff52a9"
-
-[[files]]
 file = "config/foamfix.cfg"
 hash = "1ec1a8b1761318e956308170d786cd1f20a3ba23454474410c666d6098277a5e"
 
@@ -864,7 +855,7 @@ hash = "2a15c46326733ad444cf530dd1db33b5084a0aee9a4e2eaa45e9b0d81b205d07"
 
 [[files]]
 file = "config/hodgepodge.cfg"
-hash = "4f3ab5ac5c97c24baa4e3ab78f6577176504ef1e61f336a34aacf9fee7151b2c"
+hash = "7d6f7072f6a53a7cf7ead3f64285e5361fce821a5ee9fc4f388ad3803ec65f8d"
 
 [[files]]
 file = "config/hodgepodgeEarly.properties"
@@ -1380,8 +1371,8 @@ hash = "0eb79d77382a71b684cc8f7247d8541d6ef44703892fa7381e597a68b603039c"
 metafile = true
 
 [[files]]
-file = "mods/erde.pw.toml"
-hash = "52475efc6d526e7195216bd9cd65a04860b15b6c4aebfb14d144d9f28c1cfd1c"
+file = "mods/entityculling.pw.toml"
+hash = "a3e4eb5256612db0684dff2da6e8feca2782f67c1337bc77bf505d89a3bae4b5"
 metafile = true
 
 [[files]]
@@ -1392,11 +1383,6 @@ metafile = true
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "ebf34f60e49eed9b85a3bf4b1253c7aa35ab841d8f444ff8670dfdf2c59d4d01"
-metafile = true
-
-[[files]]
-file = "mods/flying-cullers.pw.toml"
-hash = "48ac8d4251adfc854577dc8d4e7dc2a527910a96011a2e68ee71bf7e676edf9c"
 metafile = true
 
 [[files]]
@@ -1796,7 +1782,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "41cb36190cbe4d5686a2cc15e393854d5a1b288d71b76abd8bc44c8797ffae71"
+hash = "faa36c3a34f7b857cde1f78b25220ee4868aaa8e43788276e89976acde20afd2"
 
 [[files]]
 file = "optionsnf.txt"
