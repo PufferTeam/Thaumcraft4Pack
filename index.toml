@@ -711,7 +711,7 @@ hash = "bb9797f584384be7fb67fd4e188b4a80ebce50c08471e1d9487ac45f2e1b6e8f"
 
 [[files]]
 file = "config/chisel.cfg"
-hash = "a04c374dd47d9dd39dd6bfbd2e14f4c970091b25e5ad4f1ba607b6ea0c7be56c"
+hash = "c3ed221b18b429c6d6a5d327dab09a44cd8020efa6b8f5cba7c61c917695bf37"
 
 [[files]]
 file = "config/cofh/core/client.cfg"
@@ -751,7 +751,7 @@ hash = "6c7215195f91d309630e8a0cc3d289ddc669b212b5fde31c67f87580b8f0b1c9"
 
 [[files]]
 file = "config/coretweaks.cfg"
-hash = "5f7e486f40ae0b7330fe2374e26c4f17e295ea8f9d742f277d95c41cd88a11fb"
+hash = "ddd1501eae1d71caf9489ca4014dc57c0008edcf57e20445c7e2b147ecda2e76"
 
 [[files]]
 file = "config/damagetilt.cfg"
@@ -799,7 +799,7 @@ hash = "dc35ab9d35af27e0974fe17c586910f7e18a9f794fcf769a89e74d845177dd75"
 
 [[files]]
 file = "config/etfuturum/functions.cfg"
-hash = "6d07a28d18df09c9fe3f338310c60e2607e6d320c9c4c2d5fa1a2f2e6886d620"
+hash = "883a9d90ac1cf1e326b6b69d3f4218f0134a7958ab6644080eadc8233aabb8d7"
 
 [[files]]
 file = "config/etfuturum/mixins.cfg"
@@ -824,6 +824,10 @@ hash = "ca6b901df56ebb1bdf062e3b5b5b4e5d17a1e4f1676b7d518e92a35cff514c89"
 [[files]]
 file = "config/fastleafdecay.cfg"
 hash = "5a8c5caee6f90244b51ae5d56d7fa9fbdd98506cb04804092e1536c6b341535b"
+
+[[files]]
+file = "config/floatingitems.cfg"
+hash = "fa4279b4142f0fd24e78d2f6e7c607b99626d359730d0c41051a31fe8249b1f6"
 
 [[files]]
 file = "config/foamfix.cfg"
@@ -855,7 +859,7 @@ hash = "2a15c46326733ad444cf530dd1db33b5084a0aee9a4e2eaa45e9b0d81b205d07"
 
 [[files]]
 file = "config/hodgepodge.cfg"
-hash = "7d6f7072f6a53a7cf7ead3f64285e5361fce821a5ee9fc4f388ad3803ec65f8d"
+hash = "8e644092b768811716c6da588ab3664e3b5bc9e863f09fbcf4af5150613c42fe"
 
 [[files]]
 file = "config/hodgepodgeEarly.properties"
@@ -1202,7 +1206,7 @@ metafile = true
 
 [[files]]
 file = "mods/angelica-custom.pw.toml"
-hash = "63b92e6c550f72a94fa0a0a0c3bb229f1a38a7c7042dd340d19b782ba0b5eefb"
+hash = "7b1396737499f92359fd1b48e6a26a3d92053b3b5ce6112c0536391be4bc36f5"
 metafile = true
 
 [[files]]
@@ -1383,6 +1387,11 @@ metafile = true
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "ebf34f60e49eed9b85a3bf4b1253c7aa35ab841d8f444ff8670dfdf2c59d4d01"
+metafile = true
+
+[[files]]
+file = "mods/floating-items-custom.pw.toml"
+hash = "50bf62cb1771f535f0cbf62784a8e486c0f87134bd911f435f3703cef2a3addb"
 metafile = true
 
 [[files]]
