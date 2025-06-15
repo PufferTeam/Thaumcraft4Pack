@@ -1,0 +1,45 @@
+{
+  "_name": "Thaumcraft:blockCustomOre",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 1.5,
+    "resistance": 15.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "_meta": 0,
+        "tool": "pickaxe",
+        "level": 2
+      },
+      {
+        "_meta": 7,
+        "tool": "pickaxe",
+        "level": 2
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [
+    {
+      "function": "if_metadata_0",
+      "functions": [
+        {
+          "function": "remove",
+          "id": "Thaumcraft:blockCustomOre",
+          "damage": 0,
+          "count": 1
+        },
+        {
+          "function": "add",
+          "id": "ThermalFoundation:material",
+          "damage": 20,
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "harvest": [],
+  "xp": []
+}

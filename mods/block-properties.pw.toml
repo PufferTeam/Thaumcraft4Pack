@@ -1,0 +1,13 @@
+name = "Block Properties"
+filename = "BlockProperties-1.7.10-0.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6d68b64b05aae93599689631111e578e87a9e52"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2281380
+project-id = 230368

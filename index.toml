@@ -34,6 +34,54 @@ file = "config/BiblioCraft.cfg"
 hash = "cd2a3592706e2f95284310f271a6e85f85cb0a4049b89f5ebf74ce0100c63d5c"
 
 [[files]]
+file = "config/BlockProperties.cfg"
+hash = "0ca9509e4055394a0726a75b0a16f3ef1ac4bbce25d5b3db5e5c8dc89c9ec3b7"
+
+[[files]]
+file = "config/BlockProperties/ImmersiveEngineering/ore.json"
+hash = "5ea71207be9199a54054257ca0c49e680f771d9403b037ebd45a24cb625383e3"
+
+[[files]]
+file = "config/BlockProperties/Thaumcraft/blockCustomOre.json"
+hash = "ae1dd6c24d64f585b80deaaaed2ab970ac755a91d553c24dc549b4d58f832936"
+
+[[files]]
+file = "config/BlockProperties/ThermalFoundation/Ore.json"
+hash = "2f17fdc11f06d52b8495d43b1a92f6f98d5099791537343bf64ad716a2b79b8d"
+
+[[files]]
+file = "config/BlockProperties/etfuturum/deepslate_copper_ore.json"
+hash = "1399191cc78ca21ffff22a419a523a0f42e20e5219241936505875852231c7d2"
+
+[[files]]
+file = "config/BlockProperties/etfuturum/deepslate_gold_ore.json"
+hash = "7899d0d0eda65b613ad3fd58c073463f2d3ea207b5e5cb12c7f553c130af3523"
+
+[[files]]
+file = "config/BlockProperties/etfuturum/deepslate_iron_ore.json"
+hash = "6b99ebef1872b0c729947ca32a6c705e0c2e04ccaf09a459874ddd65f2edfd54"
+
+[[files]]
+file = "config/BlockProperties/etfuturum/deepslate_thaumcraft_ore.json"
+hash = "243e59c0d1599209bc549e7e73a447ff379020a2c7d3355ebd470ba3a303b857"
+
+[[files]]
+file = "config/BlockProperties/etfuturum/modded_deepslate_ore.json"
+hash = "d98e7de59f7679a15e9b5d46c304bb1c8ae7a997ec45310c03f9c0e210a10aac"
+
+[[files]]
+file = "config/BlockProperties/minecraft/gold_ore.json"
+hash = "897f15d07259a0c5643970972d9b7c993efe5b107999ed17cb2dd98e430548ab"
+
+[[files]]
+file = "config/BlockProperties/minecraft/iron_ore.json"
+hash = "798c270a84d14b072ec2ddbe36b58746e4d695ab195849ec3a0a91f2877b0a0f"
+
+[[files]]
+file = "config/BlockProperties/salisarcana/blockCustomPlank.json"
+hash = "0de6fc117e79986b68d1a355ad1e2e4f55da005422dd5385c22c524129184daa"
+
+[[files]]
 file = "config/Botania.cfg"
 hash = "4c7ff0f4238a841290f76000ce0dc84c8637ff57c27d8bbd89617df5aaa4e20f"
 
@@ -983,7 +1031,7 @@ hash = "755c7ae1f77cb76f63b361572bed2507fee9f84e1442269c36a5346501c2a172"
 
 [[files]]
 file = "config/tabfaces.cfg"
-hash = "cd59ddc9c7d08125e64668ff88adbaa759fd6a14a0665ac83d6e2081457516f9"
+hash = "fbe14169db1b4280087f596797e7d623f0b8c1bd54d981cf48e1b198c61df57d"
 
 [[files]]
 file = "config/tc4tweak.cfg"
@@ -1262,6 +1310,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "ad0d8412898c36d5dea25e42733516a1800c97100b70c6a7c638e5246a6e118a"
+metafile = true
+
+[[files]]
+file = "mods/block-properties.pw.toml"
+hash = "d94e4be5272994dace491751e38557316a7e5fe9cb3fb83a7b5253bad9888a4a"
 metafile = true
 
 [[files]]
