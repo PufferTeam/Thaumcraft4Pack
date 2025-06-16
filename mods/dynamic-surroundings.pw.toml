@@ -1,6 +1,6 @@
 name = "Dynamic Surroundings"
 filename = "DynamicSurroundings-1.7.10-1.0.6.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

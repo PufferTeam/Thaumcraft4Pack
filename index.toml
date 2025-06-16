@@ -1473,7 +1473,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-surroundings.pw.toml"
-hash = "0cb6ebfc1f6c749b0c43da0fa35f2e7467ec7ab7af7ebd741ae583b60e1d5ba0"
+hash = "44198347f3f097d10d97132c645bc2b89d03be237ad98a9cca1b583a5c118222"
 metafile = true
 
 [[files]]
@@ -1723,7 +1723,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-filters.pw.toml"
-hash = "043e54254c2b3f43321f5de4c8baa0c2a3751d3e43b0b3069f55956c7dccc364"
+hash = "ae5220f10f6f5f162e697af92b207adafaceb6b1c68301474810e825a2a5e74c"
 metafile = true
 
 [[files]]
