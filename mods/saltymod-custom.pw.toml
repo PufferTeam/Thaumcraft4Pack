@@ -1,0 +1,8 @@
+name = "Salty Mod"
+filename = "saltymod-2.0.8-JB.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PufferTeam-ModArchive/SaltyMod-Expanded/releases/download/2.0.8-JB/saltymod-2.0.8-JB.jar"
+hash-format = "sha256"
+hash = "4b1ee4e23b83b5dead587118563e44ac77c2b2805c1c593c4a92b363e7a4d5ed"
