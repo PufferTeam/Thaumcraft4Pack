@@ -1707,11 +1707,6 @@ hash = "14209d03777b048feeea03547626ea2a63a3b9db633d8bcdd79aacb0443e533a"
 metafile = true
 
 [[files]]
-file = "mods/saltymod-custom.pw.toml"
-hash = "5ac7f37a81faf5a276d24d304627a91f59a9780f75177f4ed7a56aaa5e2671b8"
-metafile = true
-
-[[files]]
 file = "mods/serverutilities.pw.toml"
 hash = "ea24fb2a4a838ae363742783c684a24376167922f012daacce00918198a27745"
 metafile = true
