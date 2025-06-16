@@ -38,6 +38,10 @@ file = "config/BlockProperties.cfg"
 hash = "0ca9509e4055394a0726a75b0a16f3ef1ac4bbce25d5b3db5e5c8dc89c9ec3b7"
 
 [[files]]
+file = "config/BlockProperties.json"
+hash = "41260513802f64d0a9a6e3966c09736ecc3e7bab42aea7a8bbf12a063c0e46dc"
+
+[[files]]
 file = "config/BlockProperties/ImmersiveEngineering/ore.json"
 hash = "5ea71207be9199a54054257ca0c49e680f771d9403b037ebd45a24cb625383e3"
 
@@ -83,7 +87,7 @@ hash = "0de6fc117e79986b68d1a355ad1e2e4f55da005422dd5385c22c524129184daa"
 
 [[files]]
 file = "config/Botania.cfg"
-hash = "4c7ff0f4238a841290f76000ce0dc84c8637ff57c27d8bbd89617df5aaa4e20f"
+hash = "ecb5589824eaa9c523b89a8cf3342357ab120f7d609fa4e3a1f3a2be2068c27f"
 
 [[files]]
 file = "config/CarpentersBlocks.cfg"
@@ -195,7 +199,7 @@ hash = "f7f200fd1353fe97b8f70d472efad1f81de2cf7c4bc423f6a238de45664ee75e"
 
 [[files]]
 file = "config/InfernalMobs.cfg"
-hash = "8911a88359cb9b116fce29afbd0bc29aafe86ae37caac70ba5dcd089f82dd3e2"
+hash = "f20dd67e7be155209b3b357f2e5692ecd9b322e26b27f4e2d490d9ad6ab667c0"
 
 [[files]]
 file = "config/LegibleNei/LegibleNei.cfg"
@@ -207,7 +211,7 @@ hash = "c731b068396167294cd22235620e68e63bfd3efeeac4e53e1c0cc5291c3b1904"
 
 [[files]]
 file = "config/LegibleNei/filters/filter.json"
-hash = "9d73daf80473f8cb8e702b033b3c724c533ad4f099eb24f123753a417047d702"
+hash = "225c62df764ca54a42281cb0772957457b392d49cbca55a8ffc4236a54692e6d"
 
 [[files]]
 file = "config/MCFrames.cfg"
@@ -496,6 +500,10 @@ hash = "92310e7cd759a5c1b02d21e9432303ff57d9856431c16d0a5d9bd14f05147f12"
 [[files]]
 file = "config/ThaumcraftMobAspects/notenoughpets.cfg"
 hash = "a6d10da94695d026040d10278cc0a1de9eed2853ad05ae386c20a7e9da9e8c97"
+
+[[files]]
+file = "config/ThaumcraftMobAspects/saltymod.cfg"
+hash = "80a51c9f59c68cc352f7b915530be89b3cb82b7fdf018bb5e1aa1444db74dd10"
 
 [[files]]
 file = "config/ThaumcraftMobAspects/thejungle.cfg"
@@ -818,6 +826,10 @@ file = "config/dmod.cfg"
 hash = "f767bc859bbfc73ee775b55a5475e79bb4e99649696b4e7ee3529d94a3e24dac"
 
 [[files]]
+file = "config/dsurround/dsurround.cfg"
+hash = "015de8a80ef7ba0c31c1740844bb6dcc82d072425722048fc74627c415f73172"
+
+[[files]]
 file = "config/endercore/cropConfig.json"
 hash = "f3defeab1e72c75f0dbce970409c296dacbec2e10f14966111f1d5cea86bf6a6"
 
@@ -907,7 +919,7 @@ hash = "2a15c46326733ad444cf530dd1db33b5084a0aee9a4e2eaa45e9b0d81b205d07"
 
 [[files]]
 file = "config/hodgepodge.cfg"
-hash = "8e644092b768811716c6da588ab3664e3b5bc9e863f09fbcf4af5150613c42fe"
+hash = "7d6f7072f6a53a7cf7ead3f64285e5361fce821a5ee9fc4f388ad3803ec65f8d"
 
 [[files]]
 file = "config/hodgepodgeEarly.properties"
@@ -1000,6 +1012,38 @@ hash = "cbd388aa4a4827d12c593a7cb271e2fba00d317d59da98bfea07689ee5df4008"
 [[files]]
 file = "config/salisarcana/mod_integrations.cfg"
 hash = "dd25ff257c1bf89c5dfa989c97ff10ca8ce14838d48fbbb169e8cd269eb30683"
+
+[[files]]
+file = "config/saltymod/blocks.cfg"
+hash = "3732449fce0d63033720c4d2605d30256059d84b1347cbf61e84ef33e6b70825"
+
+[[files]]
+file = "config/saltymod/effects.cfg"
+hash = "7997b8c35444c5ed4d7b3000190b0e357b0ba1aeddc5c156a5a7a17cc7291f28"
+
+[[files]]
+file = "config/saltymod/entities.cfg"
+hash = "b413b1bb8aec2fa67057044731077c8c90a8158c3cc576fc62f54fcb8a44862e"
+
+[[files]]
+file = "config/saltymod/items.cfg"
+hash = "737d9173c26319d4a33c9739a3025bfd73fa4886b8ada10180382c002d358d73"
+
+[[files]]
+file = "config/saltymod/mod_compatibility.cfg"
+hash = "f116eb5ffb640bcff2983d51e91e537df852c52deee3fa9f6ddb37c2a2564bea"
+
+[[files]]
+file = "config/saltymod/other.cfg"
+hash = "10808e548c9acad5a326f056adab1e04bf9d715bfb8f26a48e93cfb1b74500e0"
+
+[[files]]
+file = "config/saltymod/vanilla_changes.cfg"
+hash = "651d739e82b44d72d4cd0788f787ca8de3bad58a88f75d2b9dbf2e498f0b5e0e"
+
+[[files]]
+file = "config/saltymod/world_generation.cfg"
+hash = "cbb5537a7515412a0c720e1e50c5ea61892bb2db3caed79875da343d7003f32c"
 
 [[files]]
 file = "config/shaders.properties"
@@ -1258,6 +1302,11 @@ hash = "7b1396737499f92359fd1b48e6a26a3d92053b3b5ce6112c0536391be4bc36f5"
 metafile = true
 
 [[files]]
+file = "mods/applecore-unofficial.pw.toml"
+hash = "2b1564294d29d35295c21842038a42ec96aca9d3d245d9ade76eb2a4e07db997"
+metafile = true
+
+[[files]]
 file = "mods/arcane-engineering.pw.toml"
 hash = "9d02471a0016889bc4821aaf084db8d5136ee2e79a6d425a43c711c573f7d5f1"
 metafile = true
@@ -1420,6 +1469,11 @@ metafile = true
 [[files]]
 file = "mods/doomlike-dungeons.pw.toml"
 hash = "dae0b8839f62a9b3c1d1c2f8a6ee4854ef45eba405852a85b9d3b2a6e2e45091"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-surroundings.pw.toml"
+hash = "0cb6ebfc1f6c749b0c43da0fa35f2e7467ec7ab7af7ebd741ae583b60e1d5ba0"
 metafile = true
 
 [[files]]
@@ -1653,6 +1707,11 @@ hash = "14209d03777b048feeea03547626ea2a63a3b9db633d8bcdd79aacb0443e533a"
 metafile = true
 
 [[files]]
+file = "mods/saltymod-expanded.pw.toml"
+hash = "b813ebcf300237f96ece72ebc1da96bdeb09e0572d19d6e2bf7ea4ab183506da"
+metafile = true
+
+[[files]]
 file = "mods/serverutilities.pw.toml"
 hash = "ea24fb2a4a838ae363742783c684a24376167922f012daacce00918198a27745"
 metafile = true
@@ -1660,6 +1719,11 @@ metafile = true
 [[files]]
 file = "mods/shader-fixer.pw.toml"
 hash = "c11813de843bf83705af7c8189069a4758fb7c00ed478a9132e47d86a09c03e0"
+metafile = true
+
+[[files]]
+file = "mods/sound-filters.pw.toml"
+hash = "043e54254c2b3f43321f5de4c8baa0c2a3751d3e43b0b3069f55956c7dccc364"
 metafile = true
 
 [[files]]

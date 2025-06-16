@@ -4,7 +4,10 @@ minecraft:[
 	{hide:[[monster_egg],[]]};
 ],
 etfuturum:[
-	{hide:[[sign*,wall*,double_*],[]]};
+	{hide:[[sign*,wall*,double_*,copper_ore,copper_ingot],[]]};
+],
+saltymod:[
+	{hide:[[lit_evaporator,steam_evaporator,lit_stove],[]]};
 ],
 VillageNames:[
 	{hide:[[*prismarine*,sea_lantern],[]]};

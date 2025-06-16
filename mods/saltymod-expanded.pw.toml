@@ -1,0 +1,13 @@
+name = "SaltyMod Expanded"
+filename = "SaltyMod Expanded [1.7.10] [2.0.8].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JQpPGsYy/versions/pz3E7wWr/SaltyMod%20Expanded%20%5B1.7.10%5D%20%5B2.0.8%5D.jar"
+hash-format = "sha512"
+hash = "396b60c0dfc115911d31f995d8dd11fd9170f8eb5c9da9c89bc624c4e5855c8c9a61c3258db39c6878024205d796580dd6357225ca8780a9583730c5a40c75a2"
+
+[update]
+[update.modrinth]
+mod-id = "JQpPGsYy"
+version = "pz3E7wWr"
