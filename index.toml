@@ -87,7 +87,7 @@ hash = "0de6fc117e79986b68d1a355ad1e2e4f55da005422dd5385c22c524129184daa"
 
 [[files]]
 file = "config/Botania.cfg"
-hash = "ecb5589824eaa9c523b89a8cf3342357ab120f7d609fa4e3a1f3a2be2068c27f"
+hash = "902004a17e71f4089ea29e900895fafb806ad57dfba8c8c7049bea7f008e0a79"
 
 [[files]]
 file = "config/CarpentersBlocks.cfg"
@@ -331,7 +331,7 @@ hash = "66871be1228b69e6ff42cce1c812fd863a3669de4ccd88d30d0f52758f006199"
 
 [[files]]
 file = "config/SpecialAI.cfg"
-hash = "26c36f88d3f27425ba8398f26c178fa8615ffd75862fd8223d8eedd56b5dcae5"
+hash = "d11435eb2774e699a85c197037842401dce251a840e07b0b40986ddc37575d5a"
 
 [[files]]
 file = "config/SpecialMobs.cfg"
@@ -1373,7 +1373,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania-custom.pw.toml"
-hash = "9bd2b8bc60cbd8c0cf8544caf6a3c2d5d8761bca73236e3756496c533c8ac154"
+hash = "f04a25b293756a0fcfee03905daa7600619e45d062e84400f917defa7c29ad74"
 metafile = true
 
 [[files]]
@@ -1708,7 +1708,7 @@ metafile = true
 
 [[files]]
 file = "mods/saltymod-expanded.pw.toml"
-hash = "b813ebcf300237f96ece72ebc1da96bdeb09e0572d19d6e2bf7ea4ab183506da"
+hash = "b90916e92ab99db79336f7e1cac46bc9e37f73d378a2bd9bd520d2909f51a090"
 metafile = true
 
 [[files]]
@@ -1936,7 +1936,7 @@ hash = "b53c1222f8367a5fa226ba9afe06d6381fcdcace1d5687100586507196066485"
 
 [[files]]
 file = "scripts/Symbiotic+Botania-245+and+Thaumcraft-4.2.3.5.zs"
-hash = "e13d93b65ce30dbae2575d953374671dd1bceb548eeb54210a81949da1547e80"
+hash = "08a1bbf3cb9696637a2f80e315f91ec2f17b4892c495147d77932254b54814e8"
 
 [[files]]
 file = "scripts/aspects.zs"
@@ -1944,7 +1944,7 @@ hash = "a57c78a50c7f0daa9e09b73b70200f53f9d38408d90a6619c251045b0fa2a1b4"
 
 [[files]]
 file = "scripts/botania.zs"
-hash = "0d95c55c514acad0dcc8fc22ce847ad2d2046c6459c16792d59b6f30f0235b90"
+hash = "297473d34cee6bb818941047a3b99565020a0dca959f7fd5f378eac99816424a"
 
 [[files]]
 file = "scripts/chisel.zs"
