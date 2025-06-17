@@ -795,7 +795,7 @@ hash = "a07b96a28a174b0199992110be8938e5d23c7b949b3a1e1bd664c24eb11caf0a"
 
 [[files]]
 file = "config/cofh/core/common.cfg"
-hash = "9504169808d19b7716a46371f8341ae76dfaccf1204e3cc40c7fb281c36db317"
+hash = "cf52e87a46adf5d4943eff206808b174a3d39f77618150e15c0271fe573bb605"
 
 [[files]]
 file = "config/cofh/core/friends.cfg"
