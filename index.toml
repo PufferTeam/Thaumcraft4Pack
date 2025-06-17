@@ -843,7 +843,7 @@ hash = "f3a143eb62108721ff8b56f4a82322f9ad68c519d522d012758628d982cf0225"
 
 [[files]]
 file = "config/dmod.cfg"
-hash = "81e6b7b9ae67f5581c0ffe3056bcb368c3f6c71f1947bea33988cbb181350ab5"
+hash = "0fad9b9640bd24415eb8cc65ee2fa6d8b50b8b0b18c3b225eb2c1586044aaa41"
 
 [[files]]
 file = "config/dsurround/dsurround.cfg"
@@ -1299,7 +1299,7 @@ hash = "3df2a722e4f52137ba863b1bc21e4dac06720d3173be5976431f97fc8f686161"
 
 [[files]]
 file = "config/wildmobsmod.cfg"
-hash = "b67ea590baf533fc4f2afe10ee43e78ac229e858344881028f53e7a186403791"
+hash = "da3310375512edb29081cc46fd65bee072e361fe9cc1b66bb664dc5d303953cb"
 
 [[files]]
 file = "config/witchery.cfg"
