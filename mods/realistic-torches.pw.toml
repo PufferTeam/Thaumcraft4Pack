@@ -1,0 +1,13 @@
+name = "Realistic Torches"
+filename = "RealisticTorches-1.7.10-1.6.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iQYnQIfP/versions/fJYEaV9Q/RealisticTorches-1.7.10-1.6.3.jar"
+hash-format = "sha512"
+hash = "f8b32b72eff1840c29e4918edf163fad1b74a5deaaf91410282b7ba5dad141521d57334ce8ab5e271f5c7176ec5f3482e365eecc75426fb97c52cf74c1228cd7"
+
+[update]
+[update.modrinth]
+mod-id = "iQYnQIfP"
+version = "fJYEaV9Q"

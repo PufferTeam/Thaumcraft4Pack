@@ -11,6 +11,9 @@ import mods.thaumcraft.Aspects;
 
 #Blocks
 
+Aspects.remove(<RealisticTorches:TorchLit>, "arbor 1");
+Aspects.set(<RealisticTorches:TorchLit>, "lux 1");
+
 Aspects.set(<Botania:flower:*>, "herba 2, lux 4, sensus 1");
 
 Aspects.set(<Botania:altar:0>, "aqua 1, fabrico 2, perditio 3, terra 3, vacuos 1");

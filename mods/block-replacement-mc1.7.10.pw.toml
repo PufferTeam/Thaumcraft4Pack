@@ -1,0 +1,13 @@
+name = "Block Replacement MC1.7.10"
+filename = "blockreplace-mc1.7.10-v1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u97M0r8k/versions/eNqeK22b/blockreplace-mc1.7.10-v1.3.jar"
+hash-format = "sha512"
+hash = "ec501c0934975badfcfff6d5ce95fac06168700c2cdb51a60d556f5c12bb1ba81248c9fa2693a278a5237a812d1cc9358bf63e985cd60e7bc5933009416a9f97"
+
+[update]
+[update.modrinth]
+mod-id = "u97M0r8k"
+version = "eNqeK22b"

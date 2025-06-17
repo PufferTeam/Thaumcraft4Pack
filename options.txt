@@ -14,7 +14,7 @@ fboEnable:true
 difficulty:1
 fancyGraphics:true
 ao:2
-clouds:false
+clouds:true
 resourcePacks:["Essential-Textures.zip"]
 lastServer:
 lang:en_US
@@ -112,6 +112,8 @@ key_waila.keybind.usage:0
 key_waila.keybind.details:42
 key_Automagy.key.focusCrafting:37
 key_ttmisc.toggleArmor:21
+key_Mekanism Item Mode Switch:0
+key_Mekanism Armor Mode Switch:0
 key_key.aspectMenu:23
 key_tcnodetracker.key.togglenode:0
 key_Change Arcane Lens:47
@@ -149,6 +151,7 @@ key_gui.xaero_quick_confirm:0
 key_key.fastBlockPlacing.desc:0
 key_key.cofh.empower:0
 key_key.cofh.multimode:0
+key_key.control:0
 key_key.carbon_config.key:0
 key_key.entityculling.toggle:0
 soundCategory_master:1.0

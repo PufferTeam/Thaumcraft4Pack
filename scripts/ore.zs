@@ -227,9 +227,9 @@ InfernalBlastfurnace.removeRecipe(<ImmersiveEngineering:storage:7>);
 InfernalBlastfurnace.removeRecipe(<ImmersiveEngineering:metal:0>);
 ArcFurnace.removeRecipe(<ImmersiveEngineering:metal:0>);
 ArcFurnace.removeRecipe(<ImmersiveEngineering:metal:7>);
-BlastFurnace.addRecipe(<ImmersiveEngineering:metal>, <ThermalFoundation:material>, 1200, <ImmersiveEngineering:material:13>);
+BlastFurnace.addRecipe(<ImmersiveEngineering:metal>, <Mekanism:EnrichedIron>, 1200, <ImmersiveEngineering:material:13>);
 InfernalBlastfurnace.addRecipe(<ImmersiveEngineering:metal:7>, <ImmersiveEngineering:metal>, 500, null, true);
-ArcFurnace.addRecipe(<ImmersiveEngineering:metal>, <ThermalFoundation:material>, <ImmersiveEngineering:material:13>, 400, 512, [<ImmersiveEngineering:metal:17>], "Alloying");
+ArcFurnace.addRecipe(<ImmersiveEngineering:metal>, <Mekanism:EnrichedIron>, <ImmersiveEngineering:material:13>, 400, 512, [<ImmersiveEngineering:metal:17>], "Alloying");
 
 //Bronze
 recipes.remove(<ThermalFoundation:material:41>);

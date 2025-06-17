@@ -1,0 +1,17 @@
+{
+  "_name": "Bat",
+  "drops": [
+    {
+      "function": "all",
+      "functions": [
+        {
+          "function": "remove",
+          "id": "saltymod:strider",
+          "damage": 0
+        }
+      ]
+    }
+  ],
+  "pre_stats": [],
+  "stats": []
+}

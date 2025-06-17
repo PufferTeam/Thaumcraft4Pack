@@ -78,6 +78,39 @@ var itemsToRemove = [
 	<chisel:packedice_stairs.6:8>,
 	<chisel:packedice_stairs.7>,
 	<chisel:packedice_stairs.7:8>,
+	<Mekanism:BasicBlock:1>,
+	<Mekanism:BasicBlock:5>,
+	<Mekanism:BasicBlock:12>,
+	<Mekanism:BasicBlock:13>,
+	<MekanismTools:WoodPaxel>,
+	<MekanismTools:StonePaxel>,
+	<MekanismTools:IronPaxel>,
+	<MekanismTools:DiamondPaxel>,
+	<MekanismTools:GoldPaxel>,
+	<MekanismTools:ObsidianPaxel>,
+	<MekanismTools:LapisLazuliPaxel>,
+	<MekanismTools:OsmiumPaxel>,
+	<MekanismTools:BronzePaxel>,
+	<MekanismTools:GlowstonePaxel>,
+	<MekanismTools:SteelPaxel>,
+	<MekanismTools:LapisLazuliHelmet>,
+	<MekanismTools:LapisLazuliChestplate>,
+	<MekanismTools:LapisLazuliLeggings>,
+	<MekanismTools:LapisLazuliBoots>,
+	<MekanismTools:LapisLazuliPickaxe>,
+	<MekanismTools:LapisLazuliAxe>,
+	<MekanismTools:LapisLazuliShovel>,
+	<MekanismTools:LapisLazuliHoe>,
+	<MekanismTools:LapisLazuliSword>,
+	<MekanismTools:BronzeHelmet>,
+	<MekanismTools:BronzeChestplate>,
+	<MekanismTools:BronzeLeggings>,
+	<MekanismTools:BronzeBoots>,
+	<MekanismTools:BronzePickaxe>,
+	<MekanismTools:BronzeAxe>,
+	<MekanismTools:BronzeShovel>,
+	<MekanismTools:BronzeHoe>,
+	<MekanismTools:BronzeSword>,
 	<etfuturum:quartz_bricks>,
 	<netherlicious:QuartzWall>,
 	<netherlicious:QuartzWall:3>,
@@ -152,6 +185,18 @@ var oresToRemove = [
 	<Thaumcraft:ItemNugget:3>,
 	<Thaumcraft:ItemNugget:4>,
 	<etfuturum:copper_ingot>,
+	<Mekanism:Dust>,
+	<Mekanism:Dust:1>,
+	<Mekanism:Dust:3>,
+	<Mekanism:Dust:4>,
+	<Mekanism:Dust:5>,
+	<Mekanism:Dust:6>,
+	<Mekanism:Ingot:2>,
+	<Mekanism:Ingot:4>,
+	<Mekanism:Ingot:5>,
+	<Mekanism:Ingot:6>,
+	<Mekanism:Ingot:7>,
+	<Mekanism:OtherDust:1>,
 	<ImmersiveEngineering:ore:0>,
 	<ImmersiveEngineering:ore:2>,
 	<ImmersiveEngineering:ore:3>,
@@ -190,6 +235,7 @@ var removeFromOredicts = [
 	<ore:stoneDioritePolished>,
 	<ore:stoneGranitePolished>,
 	<ore:nuggetIron>,
+	<ore:paxelSteel>,
 	<ore:blockAmber>,
 	<ore:oreCopper>,
 	<ore:oreLead>,
@@ -197,6 +243,8 @@ var removeFromOredicts = [
 	<ore:oreNickel>,
 	<ore:blockCopper>,
 	<ore:blockLead>,
+	<ore:blockTin>,
+	<ore:blockBronze>,
 	<ore:blockSilver>,
 	<ore:blockNickel>,
 	<ore:blockElectrum>,
@@ -205,6 +253,9 @@ var removeFromOredicts = [
 	<ore:ingotSilver>,
 	<ore:ingotNickel>,
 	<ore:ingotElectrum>,
+	<ore:ingotSteel>,
+	<ore:ingotTin>,
+	<ore:ingotBronze>,
 	<ore:nuggetCopper>,
 	<ore:nuggetLead>,
 	<ore:nuggetTin>,
@@ -213,6 +264,8 @@ var removeFromOredicts = [
 	<ore:nuggetElectrum>,
 	<ore:dustIron>,
 	<ore:dustGold>,
+	<ore:dustCopper>,
+	<ore:dustTin>,
 	<ore:dustLead>,
 	<ore:dustSilver>,
 	<ore:dustNickel>,
@@ -338,25 +391,3 @@ recipes.addShaped(<minecraft:stick> * 2, [
 	[<ore:stickWoodHalf>],
 	[<ore:stickWoodHalf>]
 ]);
-
-recipes.addShaped(<etfuturum:packed_mud:1> * 4, [
-	[<BiomesOPlenty:misc>, <BiomesOPlenty:misc>],
-	[<BiomesOPlenty:misc>, <BiomesOPlenty:misc>]
-]);
-
-recipes.remove(<StorageDrawers:upgradeTemplate>);
-recipes.addShaped(<StorageDrawers:upgradeTemplate>, [
-	[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],
-	[<ore:stickWood>, <ore:blockGlassColorless>, <ore:stickWood>],
-	[<ore:stickWood>, <ore:stickWood>, <ore:stickWood>]
-]);
-
-recipes.remove(<minecraft:lead>);
-recipes.addShapedMirrored(<minecraft:lead> * 2, [
-	[<minecraft:string>, <minecraft:string>, null],
-	[<minecraft:string>, <minecraft:string>, null],
-	[null, null, <minecraft:string>]
-]);
-
-recipes.remove(<dmod:bundle>);
-recipes.addShapeless(<dmod:bundle>, [<minecraft:string>, <ore:itemLeather>]);

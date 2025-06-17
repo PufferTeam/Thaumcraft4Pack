@@ -38,12 +38,24 @@ file = "config/BlockProperties.cfg"
 hash = "0ca9509e4055394a0726a75b0a16f3ef1ac4bbce25d5b3db5e5c8dc89c9ec3b7"
 
 [[files]]
-file = "config/BlockProperties.json"
-hash = "41260513802f64d0a9a6e3966c09736ecc3e7bab42aea7a8bbf12a063c0e46dc"
-
-[[files]]
 file = "config/BlockProperties/ImmersiveEngineering/ore.json"
 hash = "5ea71207be9199a54054257ca0c49e680f771d9403b037ebd45a24cb625383e3"
+
+[[files]]
+file = "config/BlockProperties/Mekanism/OreBlock.json"
+hash = "924a711ceb2c79a7cec673b97946adbf9147b8df2e07e48c61d3379190c42669"
+
+[[files]]
+file = "config/BlockProperties/RealisticTorches/TorchLit.json"
+hash = "a5190c0e69c7a66043b501b5397337199769161b7c05d41a3e46a8c7b39a5bdf"
+
+[[files]]
+file = "config/BlockProperties/RealisticTorches/TorchSmoldering.json"
+hash = "cf356092ddd4ffb54e2ba1d25c9daffaf7253b9e5b0b15f79c363a18bf98d635"
+
+[[files]]
+file = "config/BlockProperties/RealisticTorches/TorchUnlit.json"
+hash = "f97343ca9bdf6d477a19d4743f4ac1874eae6dca80dde4941f123e61f3947718"
 
 [[files]]
 file = "config/BlockProperties/Thaumcraft/blockCustomOre.json"
@@ -186,16 +198,12 @@ file = "config/HardcoreEnderExpansion.cfg"
 hash = "4d2e4eee9bdb73da13badbc6711fee19757d1e5133a9d34f409b1721beb9f845"
 
 [[files]]
-file = "config/HardcoreEnderExpansion.clientsave.cfg"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/HopperDuctMod.cfg"
 hash = "4c8c35fb405d6f8c96a9359317927b0a7e062685b70274e8d1773a74508a10e5"
 
 [[files]]
 file = "config/ImmersiveEngineering.cfg"
-hash = "f7f200fd1353fe97b8f70d472efad1f81de2cf7c4bc423f6a238de45664ee75e"
+hash = "920830eb1bcb0175b2e52000103c7cb2f9999528ea42349b088b4d44a19ba417"
 
 [[files]]
 file = "config/InfernalMobs.cfg"
@@ -211,7 +219,7 @@ hash = "c731b068396167294cd22235620e68e63bfd3efeeac4e53e1c0cc5291c3b1904"
 
 [[files]]
 file = "config/LegibleNei/filters/filter.json"
-hash = "225c62df764ca54a42281cb0772957457b392d49cbca55a8ffc4236a54692e6d"
+hash = "e98f2c781e687f9c6f2000578a89d0330627f05a42496ade32dba60992611cda"
 
 [[files]]
 file = "config/MCFrames.cfg"
@@ -220,6 +228,14 @@ hash = "8f46833caa31f23f2e02c9389cb19a0942945501d822eca3a63384d377c78823"
 [[files]]
 file = "config/MineTweaker3.cfg"
 hash = "c92da1657e9c5552c602a65625ab5df36e11d59847eef8d44eefd4e4c9aff1f5"
+
+[[files]]
+file = "config/MobProperties.cfg"
+hash = "0ca9509e4055394a0726a75b0a16f3ef1ac4bbce25d5b3db5e5c8dc89c9ec3b7"
+
+[[files]]
+file = "config/MobProperties/Bat.json"
+hash = "7c938d49d5fac9bcb45cc288ae62687076e7c3a750f824e27952fed273802129"
 
 [[files]]
 file = "config/ModernKeyBinding.cfg"
@@ -331,11 +347,11 @@ hash = "66871be1228b69e6ff42cce1c812fd863a3669de4ccd88d30d0f52758f006199"
 
 [[files]]
 file = "config/RealisticTorches.cfg"
-hash = "dc324cb78290d0281923f8d9e63fdee6841305e261e1d7141c3290548cf928c5"
+hash = "6017349b8986caef49cae2b2fa67be4c04f58800801372b51f857fb91076201a"
 
 [[files]]
 file = "config/SpecialAI.cfg"
-hash = "d11435eb2774e699a85c197037842401dce251a840e07b0b40986ddc37575d5a"
+hash = "427d01f1d16af6f73ad6908ff4f1ae3c3ce7f88b000772ca5ddbf2a6597d719b"
 
 [[files]]
 file = "config/SpecialMobs.cfg"
@@ -779,7 +795,7 @@ hash = "a07b96a28a174b0199992110be8938e5d23c7b949b3a1e1bd664c24eb11caf0a"
 
 [[files]]
 file = "config/cofh/core/common.cfg"
-hash = "a5893456bba7ab2dfa69d525f6bd5a666e7b2a24c3bd17e9069a4f6b6ca99b1c"
+hash = "9504169808d19b7716a46371f8341ae76dfaccf1204e3cc40c7fb281c36db317"
 
 [[files]]
 file = "config/cofh/core/friends.cfg"
@@ -803,11 +819,11 @@ hash = "a1c9ac70948c93390e0633768d1b479daf58472e44f891a161ab3f37380b2da8"
 
 [[files]]
 file = "config/cofh/world/ThermalFoundation-Ores.json"
-hash = "5c3caddc4f428db554db410647243dcb4031b4e1a0b5cd61a23540a443436e9e"
+hash = "65201f69ba9d9186593e1f4f638d18e6d531e08ef9bb19003e0ef99093445c58"
 
 [[files]]
 file = "config/cofh/world/Vanilla.json"
-hash = "6c7215195f91d309630e8a0cc3d289ddc669b212b5fde31c67f87580b8f0b1c9"
+hash = "25b3c0d16543e31d70a707d1e6d2c5844f6a441da9d24806ea4aedaa7a09edae"
 
 [[files]]
 file = "config/coretweaks.cfg"
@@ -959,7 +975,7 @@ hash = "dd9e93e0f85f05b60a645c57c288723a3fd1558da638862a7bd8b69fea778b47"
 
 [[files]]
 file = "config/mekanism/MekanismCE.cfg"
-hash = "2d149c0bef2771b4cd5293aa9dae51b8512fb855a3df922526b96cecc6c7a805"
+hash = "83beb7df0a4e5c7da3a91b61fc1f4bca78177d9773bd27ec1c6680a1eb49bb03"
 
 [[files]]
 file = "config/mekanism/MekanismCardboardBoxBlacklist.txt"
@@ -975,7 +991,7 @@ hash = "d3222131568d170bd96f81234b00c8314b611c0adae7b5017d3d78364b571ddb"
 
 [[files]]
 file = "config/mekanism/MekanismTools.cfg"
-hash = "74b6a47caffcdc04183020fb85e5d0146eeab917f47ee396d8ce3d8113fe315a"
+hash = "5960ec718d88b998a34c50ee092cde43790ae7dfb09fc6e9471e42f267912b51"
 
 [[files]]
 file = "config/mixingasm/transformer_exclusion_list.txt"
@@ -1218,6 +1234,10 @@ file = "config/txloader/forceload/pistronics/lang/en_US.lang"
 hash = "e8fbe44759809bb07d5778544a35e0aad76e2c7c6261e83a57fdcf865dedfe95"
 
 [[files]]
+file = "config/txloader/forceload/realistictorches/lang/en_US.lang"
+hash = "286e841d9b225787e533232ca28afd525fe32ef50068b0419b615460486d63f3"
+
+[[files]]
 file = "config/txloader/forceload/reauth/lang/en_US.lang"
 hash = "e08d1fe025c4b41f1081cc442f9338a223c1614838c2b37eeb9302dd5bbe8f56"
 
@@ -1396,6 +1416,11 @@ metafile = true
 [[files]]
 file = "mods/block-properties.pw.toml"
 hash = "d94e4be5272994dace491751e38557316a7e5fe9cb3fb83a7b5253bad9888a4a"
+metafile = true
+
+[[files]]
+file = "mods/block-replacement-mc1.7.10.pw.toml"
+hash = "3fea758c36f0621c4dce8d473ae70abfef2360efa04fd5f3baa67b929b61b1d6"
 metafile = true
 
 [[files]]
@@ -1649,6 +1674,11 @@ hash = "ab900254c56fb481de7fefeccf1d2d2d2a00991492d96d70c299d7e2d33f1553"
 metafile = true
 
 [[files]]
+file = "mods/mob-properties.pw.toml"
+hash = "37da2e6d0d0102a377b7193348d11ae0216619ab3ed52b2d0c55156fd6f527dd"
+metafile = true
+
+[[files]]
 file = "mods/modern-splash.pw.toml"
 hash = "294d05c76bbf487d38968f3f8c0d8d72a18dbdf5a69d41893fa27031ac3650b9"
 metafile = true
@@ -1726,6 +1756,11 @@ metafile = true
 [[files]]
 file = "mods/pistronics-custom.pw.toml"
 hash = "f29252f6db40c13fdbbd3a8a2c49c38af67a2faeba4d16208cdcfd62c22dcb5d"
+metafile = true
+
+[[files]]
+file = "mods/realistic-torches.pw.toml"
+hash = "5e0202d49c8a012270680ef2330c1ba824c8bc289b300bf328c147514c0f84f2"
 metafile = true
 
 [[files]]
@@ -1955,7 +1990,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "faa36c3a34f7b857cde1f78b25220ee4868aaa8e43788276e89976acde20afd2"
+hash = "029cadb0c797e4b77aea3a77183aa49b1c8f8a1c86037d3db45f67545faadf50"
 
 [[files]]
 file = "optionsnf.txt"
@@ -1971,11 +2006,11 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/Essential-Textures.zip"
-hash = "50434804c56da43be081ffb9285037eb4dd8cdf94609ab3e0ca4cb1b1f42eaa2"
+hash = "6f7ef0c91af95a442767775b961f71d31e1f7ab63237d9f0293b20519b6bacc6"
 
 [[files]]
 file = "scripts/.priority.zs"
-hash = "d2fb6987dbd165b1ba5857353907876728b20489070af150663ccbac4be7401f"
+hash = "af9f39e0f19407e2931095e00b56429c9d5c9d45a2dc4a12fc0b567c9d2b3a8f"
 
 [[files]]
 file = "scripts/.research.zs"
@@ -1987,7 +2022,7 @@ hash = "08a1bbf3cb9696637a2f80e315f91ec2f17b4892c495147d77932254b54814e8"
 
 [[files]]
 file = "scripts/aspects.zs"
-hash = "a57c78a50c7f0daa9e09b73b70200f53f9d38408d90a6619c251045b0fa2a1b4"
+hash = "0a7f864e69e5332dfed5ec836ec3b0af1d57f4da3f142ca6499f1851b2ac5dba"
 
 [[files]]
 file = "scripts/botania.zs"
@@ -2007,11 +2042,19 @@ hash = "d79ba7c578196910977114dd19d685452c9c36cb870a69326f07eea0d8971eb6"
 
 [[files]]
 file = "scripts/framing.zs"
-hash = "f460a49e7f5ad7c28946da296dfb5f3aded473e9483d8a2b2bc2829015ef66a4"
+hash = "2d84c243ca5ec2629c5f21dc049efd2aab649094e555127adedfc6b33ab1fcac"
+
+[[files]]
+file = "scripts/mekanism.zs"
+hash = "199c8f5c195f362014a44de244248388c8dd3898dd590ae22f9a09a474a769d7"
+
+[[files]]
+file = "scripts/misc.zs"
+hash = "1a41e43d88fd0e6cf921a92971ffa805241c7031d500897d1b0c1b93f574c707"
 
 [[files]]
 file = "scripts/ore.zs"
-hash = "47126a63dae7badbfcc955d164b1bcd2aed28d0e3ac55a4537b985fb1aa91b16"
+hash = "97713d0d59fbb062433a35c1d13e0aca07552f9255cfc88cb3b4f5477b830b63"
 
 [[files]]
 file = "scripts/pistronics.zs"

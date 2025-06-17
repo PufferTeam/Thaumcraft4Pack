@@ -134,11 +134,7 @@ recipes.removeShaped(<CarpentersBlocks:blockCarpentersTorch> * 8, [
 	[cBlock]
 ]);
 recipes.addShaped(<CarpentersBlocks:blockCarpentersTorch> * 4, [
-	[<minecraft:coal>],
-	[hBlock]
-]);
-recipes.addShaped(<CarpentersBlocks:blockCarpentersTorch> * 4, [
-	[<minecraft:coal:1>],
+	[<RealisticTorches:GlowstoneCrystal>],
 	[hBlock]
 ]);
 
