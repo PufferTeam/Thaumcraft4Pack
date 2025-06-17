@@ -1749,8 +1749,9 @@ hash = "14209d03777b048feeea03547626ea2a63a3b9db633d8bcdd79aacb0443e533a"
 metafile = true
 
 [[files]]
-file = "mods/saltymod-custom.toml"
+file = "mods/saltymod-custom.pw.toml"
 hash = "d97dc4e18df12d7cc8839db5550bc60e537d50f752e12386895d044cc4ffce31"
+metafile = true
 
 [[files]]
 file = "mods/serverutilities.pw.toml"
