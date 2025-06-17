@@ -1780,7 +1780,7 @@ metafile = true
 
 [[files]]
 file = "mods/saltymod-custom.pw.toml"
-hash = "d97dc4e18df12d7cc8839db5550bc60e537d50f752e12386895d044cc4ffce31"
+hash = "772d496af3c7105964ad9a8aecc2da2921aad0e74722090e030f0ca4202cb518"
 metafile = true
 
 [[files]]
