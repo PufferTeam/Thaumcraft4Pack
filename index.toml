@@ -843,7 +843,7 @@ hash = "f3a143eb62108721ff8b56f4a82322f9ad68c519d522d012758628d982cf0225"
 
 [[files]]
 file = "config/dmod.cfg"
-hash = "f96a2701b9ddb34b7732c794349fa88cdec93e2dcbfd0a369fd8cac0a9be8df9"
+hash = "81e6b7b9ae67f5581c0ffe3056bcb368c3f6c71f1947bea33988cbb181350ab5"
 
 [[files]]
 file = "config/dsurround/dsurround.cfg"
