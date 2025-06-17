@@ -1,0 +1,8 @@
+name = "Mekanism"
+filename = "Mekanism-Community-Edition-1.7.10-9.10.43-ALL.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Thorfusion/Mekanism-Community-Edition/releases/download/9.10.43/Mekanism-Community-Edition-1.7.10-9.10.43-ALL.jar"
+hash-format = "sha256"
+hash = "536b52f5cbade0fe834c3189071cf582b6bf96053837f6b5dba40fb5a5d9d628"

@@ -1,0 +1,8 @@
+name = "Wild Mobs"
+filename = "wildmobsmod-1.5.4-JB.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PufferTeam-ModArchive/wildmobs/releases/download/1.5.4-JB/wildmobsmod-1.5.4-JB.jar"
+hash-format = "sha1"
+hash = "b56d660ef719f73260edbcf469b87135d20a2d74"

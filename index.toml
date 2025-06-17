@@ -330,6 +330,10 @@ file = "config/Pistronics2.cfg"
 hash = "66871be1228b69e6ff42cce1c812fd863a3669de4ccd88d30d0f52758f006199"
 
 [[files]]
+file = "config/RealisticTorches.cfg"
+hash = "dc324cb78290d0281923f8d9e63fdee6841305e261e1d7141c3290548cf928c5"
+
+[[files]]
 file = "config/SpecialAI.cfg"
 hash = "d11435eb2774e699a85c197037842401dce251a840e07b0b40986ddc37575d5a"
 
@@ -950,6 +954,30 @@ file = "config/mcpatcherforge.cfg"
 hash = "8946edbee37502a512df576b84764aad81c81cea7c4a72ce9a3defe51206f16d"
 
 [[files]]
+file = "config/mekanism/Mekanism.cfg"
+hash = "dd9e93e0f85f05b60a645c57c288723a3fd1558da638862a7bd8b69fea778b47"
+
+[[files]]
+file = "config/mekanism/MekanismCE.cfg"
+hash = "2d149c0bef2771b4cd5293aa9dae51b8512fb855a3df922526b96cecc6c7a805"
+
+[[files]]
+file = "config/mekanism/MekanismCardboardBoxBlacklist.txt"
+hash = "91e396fedd7b77788a816ca73a3b8470c5df551a6d18946a4ca7f2b5b6fd58b4"
+
+[[files]]
+file = "config/mekanism/MekanismGenerators.cfg"
+hash = "d2bacd9c3f033dcf40732b44e055aaf4005e82cad8cfb90389ff18438fcc8bd5"
+
+[[files]]
+file = "config/mekanism/MekanismRecipes.cfg"
+hash = "d3222131568d170bd96f81234b00c8314b611c0adae7b5017d3d78364b571ddb"
+
+[[files]]
+file = "config/mekanism/MekanismTools.cfg"
+hash = "74b6a47caffcdc04183020fb85e5d0146eeab917f47ee396d8ce3d8113fe315a"
+
+[[files]]
 file = "config/mixingasm/transformer_exclusion_list.txt"
 hash = "261c3c0fd863923371aad3676766d81c0bfc2a527b88e479166dfd59efaed3af"
 
@@ -1035,7 +1063,7 @@ hash = "f116eb5ffb640bcff2983d51e91e537df852c52deee3fa9f6ddb37c2a2564bea"
 
 [[files]]
 file = "config/saltymod/other.cfg"
-hash = "10808e548c9acad5a326f056adab1e04bf9d715bfb8f26a48e93cfb1b74500e0"
+hash = "1adbfa7986b168227ab97327f1b148a46a2ffd7582fb82979c9610034687fb17"
 
 [[files]]
 file = "config/saltymod/vanilla_changes.cfg"
@@ -1248,6 +1276,10 @@ hash = "f241d60c9fd8fd7c7d70b00f375f361b102188041252864f80f1e964a8f99f0c"
 [[files]]
 file = "config/warptheory/normal.txt"
 hash = "3df2a722e4f52137ba863b1bc21e4dac06720d3173be5976431f97fc8f686161"
+
+[[files]]
+file = "config/wildmobsmod.cfg"
+hash = "b67ea590baf533fc4f2afe10ee43e78ac229e858344881028f53e7a186403791"
 
 [[files]]
 file = "config/witchery.cfg"
@@ -1512,6 +1544,11 @@ hash = "a7dfbe8962daeeed86cd39a90cf9a6136a7339630036cbb9f3f68bf0e60c0b93"
 metafile = true
 
 [[files]]
+file = "mods/forge-multipart-custom.pw.toml"
+hash = "be75a43366e6b7898dc0ac230008158a96e2a3c83d939122ccfcc08f896ce1ad"
+metafile = true
+
+[[files]]
 file = "mods/forgotten-relics-unofficial.pw.toml"
 hash = "180043516eea79642f21f42342a0fcd54597e4204615bc46e6b1d84226d6a76a"
 metafile = true
@@ -1604,6 +1641,11 @@ metafile = true
 [[files]]
 file = "mods/lwjgl3ify.pw.toml"
 hash = "ebc0b0554f47d2102801f0aba57bb2e3a6d358a5e78c26f247e28c6e82f94255"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-custom.pw.toml"
+hash = "ab900254c56fb481de7fefeccf1d2d2d2a00991492d96d70c299d7e2d33f1553"
 metafile = true
 
 [[files]]
@@ -1705,6 +1747,10 @@ metafile = true
 file = "mods/salis-arcana.pw.toml"
 hash = "14209d03777b048feeea03547626ea2a63a3b9db633d8bcdd79aacb0443e533a"
 metafile = true
+
+[[files]]
+file = "mods/saltymod-custom.toml"
+hash = "d97dc4e18df12d7cc8839db5550bc60e537d50f752e12386895d044cc4ffce31"
 
 [[files]]
 file = "mods/serverutilities.pw.toml"
@@ -1874,6 +1920,11 @@ metafile = true
 [[files]]
 file = "mods/wdmla-custom.pw.toml"
 hash = "e262283ad8e99392b3c2f17788e8f865589106f5f1e8a80cf8d44fb5126f003b"
+metafile = true
+
+[[files]]
+file = "mods/wildmobs-custom.pw.toml"
+hash = "4b19fb8330bf5888000a12499983d50f9a39de9cb0ebae62c481334a23f58270"
 metafile = true
 
 [[files]]
