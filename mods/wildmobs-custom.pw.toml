@@ -1,8 +1,8 @@
 name = "Wild Mobs"
-filename = "wildmobsmod-1.5.3-patched.jar"
+filename = "wildmobsmod-1.5.4.1-JB.jar"
 side = "both"
 
 [download]
-url = "https://github.com/brandyyn/Voids-Rift/releases/download/WildMobs/WildMobsModX.jar"
+url = "https://github.com/PufferTeam-ModArchive/wildmobs/releases/download/1.5.4.1-JB/wildmobsmod-1.5.4.1-JB.jar"
 hash-format = "sha1"
-hash = "97ddd63733d5a55b01c981f2a6699edd5089324b"
+hash = "5d824b83a3b3981661ac8df6c4ea82db7dcae4be"
