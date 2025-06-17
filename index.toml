@@ -219,7 +219,7 @@ hash = "c731b068396167294cd22235620e68e63bfd3efeeac4e53e1c0cc5291c3b1904"
 
 [[files]]
 file = "config/LegibleNei/filters/filter.json"
-hash = "e98f2c781e687f9c6f2000578a89d0330627f05a42496ade32dba60992611cda"
+hash = "f0e36a3dd0f92e5fccd137ffda919492f0308e50e62de58b289fc5404d2ec3a3"
 
 [[files]]
 file = "config/MCFrames.cfg"
@@ -1960,7 +1960,7 @@ metafile = true
 
 [[files]]
 file = "mods/wildmobs-custom.pw.toml"
-hash = "4b19fb8330bf5888000a12499983d50f9a39de9cb0ebae62c481334a23f58270"
+hash = "7321f3a9c99a83648c4a0e86707d12c3d1b74ef0eab41fd406aad6e57cf0a7f7"
 metafile = true
 
 [[files]]
@@ -2010,7 +2010,7 @@ hash = "6f7ef0c91af95a442767775b961f71d31e1f7ab63237d9f0293b20519b6bacc6"
 
 [[files]]
 file = "scripts/.priority.zs"
-hash = "af9f39e0f19407e2931095e00b56429c9d5c9d45a2dc4a12fc0b567c9d2b3a8f"
+hash = "353305bfbf0a2886a14adb5b54ae4b2b3f5c0c1c470fb3915fcfb4b9c99728ad"
 
 [[files]]
 file = "scripts/.research.zs"

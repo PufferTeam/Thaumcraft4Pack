@@ -252,6 +252,7 @@ var removeFromOredicts = [
 	<ore:ingotLead>,
 	<ore:ingotSilver>,
 	<ore:ingotNickel>,
+	<ore:ingotRefinedLapis>,
 	<ore:ingotElectrum>,
 	<ore:ingotSteel>,
 	<ore:ingotTin>,
