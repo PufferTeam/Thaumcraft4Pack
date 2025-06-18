@@ -1056,7 +1056,7 @@ hash = "e53478d1549b072f7741e9d97b1f1db371733b572ffdaf35c5199054ef8069f6"
 
 [[files]]
 file = "config/salisarcana/enhancements.cfg"
-hash = "cbd388aa4a4827d12c593a7cb271e2fba00d317d59da98bfea07689ee5df4008"
+hash = "2d0a5c39c191f97b53c45e8287dff81f8d43e0dfb7b5b095ef2806e8aacf15bf"
 
 [[files]]
 file = "config/salisarcana/mod_integrations.cfg"
@@ -2022,7 +2022,7 @@ hash = "08a1bbf3cb9696637a2f80e315f91ec2f17b4892c495147d77932254b54814e8"
 
 [[files]]
 file = "scripts/aspects.zs"
-hash = "0a7f864e69e5332dfed5ec836ec3b0af1d57f4da3f142ca6499f1851b2ac5dba"
+hash = "2904ab536a6bc972c58cbb30401ad4c9d62e4a5e54e6736fc6ba75ca0993d17f"
 
 [[files]]
 file = "scripts/botania.zs"

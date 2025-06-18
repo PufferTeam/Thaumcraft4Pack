@@ -11,6 +11,25 @@ import mods.thaumcraft.Aspects;
 
 #Blocks
 
+Aspects.set(<BiomesOPlenty:foliage>, "herba 1, aqua 1");
+Aspects.set(<BiomesOPlenty:foliage:1>, "aer 1");
+Aspects.set(<BiomesOPlenty:foliage:2>, "aer 1, herba 1");
+Aspects.set(<BiomesOPlenty:foliage:4>, "aer 1, herba 1");
+Aspects.set(<BiomesOPlenty:foliage:5>, "aer 1, herba 1");
+Aspects.set(<BiomesOPlenty:foliage:7>, "venenum 1");
+Aspects.set(<BiomesOPlenty:foliage:8>, "aer 1, herba 1, messis 1");
+Aspects.set(<BiomesOPlenty:foliage:10>, "aer 1, herba 1, messis 2");
+Aspects.set(<BiomesOPlenty:foliage:11>, "herba 1");
+Aspects.set(<BiomesOPlenty:foliage:12>, "aer 1, herba 1");
+Aspects.set(<BiomesOPlenty:foliage:13>, "aer 1");
+Aspects.set(<BiomesOPlenty:foliage:14>, "aer 1");
+Aspects.set(<BiomesOPlenty:foliage:15>, "aer 1");
+
+Aspects.remove(<etfuturum:smoker>, "arbor 8");
+
+Aspects.set(<BiomesOPlenty:food>, "messis 1");
+Aspects.set(<BiomesOPlenty:ivy>, "aer 1, herba 1");
+
 Aspects.remove(<RealisticTorches:TorchLit>, "arbor 1");
 Aspects.set(<RealisticTorches:TorchLit>, "lux 1");
 
