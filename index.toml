@@ -5,8 +5,13 @@ file = "README.md"
 hash = "dfb08a73a50f0ddd2e78300ae5159962b3d416dfbf4caf464f7190726f5fc3f2"
 
 [[files]]
+file = "comp-shaders-config.pw.toml"
+hash = "e41fa799af8a77e125e001f1ecedfd9518e7df7201d0d606a9d1859f4bf6255d"
+metafile = true
+
+[[files]]
 file = "comp-shaders.pw.toml"
-hash = "e82b0fa249a3a7b46ce542a0cbaec06e1225557837252cc03113150a179a9b11"
+hash = "15cf849a154a814513d0c9db210041ff9c9ae6c3abf3e24348025f47e4022c55"
 metafile = true
 
 [[files]]

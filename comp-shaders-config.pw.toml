@@ -1,0 +1,8 @@
+name = "Complementary Shaders Config"
+filename = "/shaderpacks/ComplementaryShaders.zip.txt"
+side = "client"
+
+[download]
+url = "https://github.com/PufferTeam-ModArchive/Files/releases/download/1.0/ComplementaryShaders.zip.txt"
+hash-format = "sha256"
+hash = "5c941079b269e51018b341ff71324d6a7eae65dc8a9814a8e56a47d13d706109"
