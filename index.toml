@@ -852,7 +852,7 @@ hash = "0fad9b9640bd24415eb8cc65ee2fa6d8b50b8b0b18c3b225eb2c1586044aaa41"
 
 [[files]]
 file = "config/dsurround/dsurround.cfg"
-hash = "015de8a80ef7ba0c31c1740844bb6dcc82d072425722048fc74627c415f73172"
+hash = "d5d5707285d3ae6df063ff996e78b0d137e4a5825444beabb7eecf93b4b7b75b"
 
 [[files]]
 file = "config/endercore/cropConfig.json"
@@ -1128,7 +1128,7 @@ hash = "fbe14169db1b4280087f596797e7d623f0b8c1bd54d981cf48e1b198c61df57d"
 
 [[files]]
 file = "config/tc4tweak.cfg"
-hash = "7d844ce221575ab1b75972b1e8639bdc7df42a40f22ac8fd80e0164583f3b67d"
+hash = "0119946d963d396c4eb97f35aad51fd667f605572655a33b6765057dafea9c4b"
 
 [[files]]
 file = "config/tcaltarcull.cfg"
@@ -1145,6 +1145,14 @@ hash = "7abca7000a3c52d9c23f9472096c51e5b7d916520ccd6bbfe74fff0dec42c339"
 [[files]]
 file = "config/thaumcraftneiplugin.cfg"
 hash = "eb1645862895fde7569b92671e2eb75484dbb70bc5c21d64ddbcb2ccc47444f5"
+
+[[files]]
+file = "config/thebetweenlands/mainConfig.cfg"
+hash = "fb3245607356deca2e2cd95728c57911085f6f2a7aa9939678d17a59a8c1b9c6"
+
+[[files]]
+file = "config/thebetweenlands/recipes.json"
+hash = "4489f9e3e454748b3521eb214e0a5694d562cff3d9ff511cb456953c8f534c00"
 
 [[files]]
 file = "config/txloader/config.json"
@@ -1990,7 +1998,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "029cadb0c797e4b77aea3a77183aa49b1c8f8a1c86037d3db45f67545faadf50"
+hash = "2c36a0f74354bf95879317e940c39184182e6cc33121583876c84841126f922e"
 
 [[files]]
 file = "optionsnf.txt"
