@@ -1,0 +1,15 @@
+{
+    "blocks":
+    [
+        {
+            "name": "Arcane Wood Block",
+            "material": "wood",
+            "stepSound": "wood",
+            "hardness": 2,
+            "resistance": 2,
+            "registerOrder": 1,
+            "toolClass": "axe",
+            "textureName": "blockArcaneWood"
+        }
+    ]
+}

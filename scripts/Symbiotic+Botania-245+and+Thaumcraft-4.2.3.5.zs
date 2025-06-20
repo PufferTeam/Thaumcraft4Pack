@@ -389,10 +389,7 @@ game.setLocalization("en_US", "botania.page.manaConjuration12", "Conjuring &1Pur
 mods.botania.ManaInfusion.addConjuration(bathSalt * 2, bathSalt, 250000);	//250,000 is half a mana pool
 
 //THAUMCRAFT
-mods.thaumcraft.Arcane.removeRecipe(mirroredGlass);
-mods.thaumcraft.Arcane.addShapeless("BASICARTIFACE", mirroredGlass, "ordo 5", 
-	[quicksilverNugget, glassPane]);
-mods.thaumcraft.Research.refreshResearchRecipe("BASICARTIFACE");
+
 
 mods.botania.Lexicon.removePage("botania.entry.pylon", 1);
 mods.botania.Lexicon.addCraftingPage("botania.page.pylon1", "botania.entry.pylon", 1, [manaPylon], [

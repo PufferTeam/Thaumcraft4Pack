@@ -12,6 +12,9 @@ saltymod:[
 VillageNames:[
 	{hide:[[*prismarine*,sea_lantern],[]]};
 ],
+ForgeMicroblock:[
+	{hide:[[microblock],[]]};
+],
 netherlicious:[
 	{hide:[[Nugget],[0]]};
 	{hide:[[*SignStanding,*SignWall,doorcrimson,doorwarped,doorfoxfire,*DoubleSlab,*DoubleSlab2,ChainPowered,ChainPoweredGold,ChainPoweredEfrine,DevilishMaize,HellderBerryBush,AbyssalOat,CrimsonWartCrop,WarpedWartCrop,SoggyWartCrop,GhastlyGourdStem,InfernalReed],[]]};
@@ -96,6 +99,7 @@ ThaumicHorizons:[
 ],
 WitchingGadgets:[
 	{hide:[[WG_CustomAir],[]]};
+	{hide:[[item.WG_Cluster],[37,39]]};
 ],
 WarpTheory:[
 	{hide:[[blockVanish],[]]};

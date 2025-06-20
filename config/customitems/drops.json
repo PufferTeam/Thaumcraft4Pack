@@ -1,0 +1,394 @@
+{
+    "blocksDrop": [
+        {
+            "id": "RealisticTorches:TorchLit:1",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "RealisticTorches:TorchLit",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "RealisticTorches:TorchSmoldering:1",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "RealisticTorches:TorchSmoldering",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "RealisticTorches:TorchUnlit:1",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "RealisticTorches:TorchUnlit",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "RealisticTorches:TorchLit:2",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "RealisticTorches:TorchLit",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "RealisticTorches:TorchSmoldering:2",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "RealisticTorches:TorchSmoldering",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "RealisticTorches:TorchUnlit:2",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "RealisticTorches:TorchUnlit",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "RealisticTorches:TorchLit:3",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "RealisticTorches:TorchLit",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "RealisticTorches:TorchSmoldering:3",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "RealisticTorches:TorchSmoldering",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "RealisticTorches:TorchUnlit:3",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "RealisticTorches:TorchUnlit",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "RealisticTorches:TorchLit:4",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "RealisticTorches:TorchLit",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "RealisticTorches:TorchSmoldering:4",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "RealisticTorches:TorchSmoldering",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "RealisticTorches:TorchUnlit:4",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "RealisticTorches:TorchUnlit",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "RealisticTorches:TorchLit:5",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "RealisticTorches:TorchLit",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "RealisticTorches:TorchSmoldering:5",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "RealisticTorches:TorchSmoldering",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "RealisticTorches:TorchUnlit:5",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "RealisticTorches:TorchUnlit",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "salisarcana:blockCustomPlank",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "salisarcana:blockCustomPlank",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "salisarcana:blockCustomPlank:1",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "salisarcana:blockCustomPlank:1",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "minecraft:iron_ore",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:raw_ore:1",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "etfuturum:deepslate_iron_ore",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:raw_ore:1",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "minecraft:gold_ore",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:raw_ore:2",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "etfuturum:deepslate_gold_ore",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:raw_ore:2",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "Thaumcraft:blockCustomOre",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "ThermalFoundation:material:20",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "etfuturum:deepslate_thaumcraft_ore",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "ThermalFoundation:material:20",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "ThermalFoundation:Ore",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:raw_ore",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "etfuturum:deepslate_copper_ore",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:raw_ore",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "ImmersiveEngineering:ore:1",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:modded_raw_ore",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "etfuturum:modded_deepslate_ore",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:modded_raw_ore",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "ThermalFoundation:Ore:1",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:modded_raw_ore:1",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "etfuturum:modded_deepslate_ore:1",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:modded_raw_ore:1",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "ThermalFoundation:Ore:2",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:modded_raw_ore:2",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "etfuturum:modded_deepslate_ore:2",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:modded_raw_ore:2",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "ThermalFoundation:Ore:3",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:modded_raw_ore:3",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "etfuturum:modded_deepslate_ore:3",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:modded_raw_ore:3",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "ThermalFoundation:Ore:4",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:modded_raw_ore:4",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "etfuturum:modded_deepslate_ore:4",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:modded_raw_ore:4",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "ThermalFoundation:Ore:5",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:modded_raw_ore:5",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "etfuturum:modded_deepslate_ore:5",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:modded_raw_ore:5",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "ThermalFoundation:Ore:6",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:modded_raw_ore:6",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "etfuturum:modded_deepslate_ore:6",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "etfuturum:modded_raw_ore:6",
+                    "chance": 100
+                }
+            ]
+        }
+    ]
+}

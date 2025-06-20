@@ -39,72 +39,8 @@ file = "config/BiblioCraft.cfg"
 hash = "cd2a3592706e2f95284310f271a6e85f85cb0a4049b89f5ebf74ce0100c63d5c"
 
 [[files]]
-file = "config/BlockProperties.cfg"
-hash = "0ca9509e4055394a0726a75b0a16f3ef1ac4bbce25d5b3db5e5c8dc89c9ec3b7"
-
-[[files]]
-file = "config/BlockProperties/ImmersiveEngineering/ore.json"
-hash = "5ea71207be9199a54054257ca0c49e680f771d9403b037ebd45a24cb625383e3"
-
-[[files]]
-file = "config/BlockProperties/Mekanism/OreBlock.json"
-hash = "924a711ceb2c79a7cec673b97946adbf9147b8df2e07e48c61d3379190c42669"
-
-[[files]]
-file = "config/BlockProperties/RealisticTorches/TorchLit.json"
-hash = "a5190c0e69c7a66043b501b5397337199769161b7c05d41a3e46a8c7b39a5bdf"
-
-[[files]]
-file = "config/BlockProperties/RealisticTorches/TorchSmoldering.json"
-hash = "cf356092ddd4ffb54e2ba1d25c9daffaf7253b9e5b0b15f79c363a18bf98d635"
-
-[[files]]
-file = "config/BlockProperties/RealisticTorches/TorchUnlit.json"
-hash = "f97343ca9bdf6d477a19d4743f4ac1874eae6dca80dde4941f123e61f3947718"
-
-[[files]]
-file = "config/BlockProperties/Thaumcraft/blockCustomOre.json"
-hash = "ae1dd6c24d64f585b80deaaaed2ab970ac755a91d553c24dc549b4d58f832936"
-
-[[files]]
-file = "config/BlockProperties/ThermalFoundation/Ore.json"
-hash = "2f17fdc11f06d52b8495d43b1a92f6f98d5099791537343bf64ad716a2b79b8d"
-
-[[files]]
-file = "config/BlockProperties/etfuturum/deepslate_copper_ore.json"
-hash = "1399191cc78ca21ffff22a419a523a0f42e20e5219241936505875852231c7d2"
-
-[[files]]
-file = "config/BlockProperties/etfuturum/deepslate_gold_ore.json"
-hash = "7899d0d0eda65b613ad3fd58c073463f2d3ea207b5e5cb12c7f553c130af3523"
-
-[[files]]
-file = "config/BlockProperties/etfuturum/deepslate_iron_ore.json"
-hash = "6b99ebef1872b0c729947ca32a6c705e0c2e04ccaf09a459874ddd65f2edfd54"
-
-[[files]]
-file = "config/BlockProperties/etfuturum/deepslate_thaumcraft_ore.json"
-hash = "243e59c0d1599209bc549e7e73a447ff379020a2c7d3355ebd470ba3a303b857"
-
-[[files]]
-file = "config/BlockProperties/etfuturum/modded_deepslate_ore.json"
-hash = "d98e7de59f7679a15e9b5d46c304bb1c8ae7a997ec45310c03f9c0e210a10aac"
-
-[[files]]
-file = "config/BlockProperties/minecraft/gold_ore.json"
-hash = "897f15d07259a0c5643970972d9b7c993efe5b107999ed17cb2dd98e430548ab"
-
-[[files]]
-file = "config/BlockProperties/minecraft/iron_ore.json"
-hash = "798c270a84d14b072ec2ddbe36b58746e4d695ab195849ec3a0a91f2877b0a0f"
-
-[[files]]
-file = "config/BlockProperties/salisarcana/blockCustomPlank.json"
-hash = "0de6fc117e79986b68d1a355ad1e2e4f55da005422dd5385c22c524129184daa"
-
-[[files]]
 file = "config/Botania.cfg"
-hash = "902004a17e71f4089ea29e900895fafb806ad57dfba8c8c7049bea7f008e0a79"
+hash = "f4949458bb6e2f89d3bbcebfb5add3eacaf881d1d1b7c7e581237d4d1be36ede"
 
 [[files]]
 file = "config/CarpentersBlocks.cfg"
@@ -208,7 +144,7 @@ hash = "4c8c35fb405d6f8c96a9359317927b0a7e062685b70274e8d1773a74508a10e5"
 
 [[files]]
 file = "config/ImmersiveEngineering.cfg"
-hash = "920830eb1bcb0175b2e52000103c7cb2f9999528ea42349b088b4d44a19ba417"
+hash = "4ab14dda48b5f64fa795964cc57c4d09ac51861802872ef391b1dae6b05394fb"
 
 [[files]]
 file = "config/InfernalMobs.cfg"
@@ -224,7 +160,7 @@ hash = "c731b068396167294cd22235620e68e63bfd3efeeac4e53e1c0cc5291c3b1904"
 
 [[files]]
 file = "config/LegibleNei/filters/filter.json"
-hash = "f0e36a3dd0f92e5fccd137ffda919492f0308e50e62de58b289fc5404d2ec3a3"
+hash = "4d2f0b3b4bc7ee4d6f16681bed2e51b15103782c17b6d36fa4614ac31ec69cd5"
 
 [[files]]
 file = "config/MCFrames.cfg"
@@ -233,10 +169,6 @@ hash = "8f46833caa31f23f2e02c9389cb19a0942945501d822eca3a63384d377c78823"
 [[files]]
 file = "config/MineTweaker3.cfg"
 hash = "c92da1657e9c5552c602a65625ab5df36e11d59847eef8d44eefd4e4c9aff1f5"
-
-[[files]]
-file = "config/MobProperties.cfg"
-hash = "0ca9509e4055394a0726a75b0a16f3ef1ac4bbce25d5b3db5e5c8dc89c9ec3b7"
 
 [[files]]
 file = "config/MobProperties/Bat.json"
@@ -356,7 +288,7 @@ hash = "6017349b8986caef49cae2b2fa67be4c04f58800801372b51f857fb91076201a"
 
 [[files]]
 file = "config/SpecialAI.cfg"
-hash = "427d01f1d16af6f73ad6908ff4f1ae3c3ce7f88b000772ca5ddbf2a6597d719b"
+hash = "ac75e82f5825b91250f36618b0861c5ea74a8624ab70453e7a9b0222aa5f876c"
 
 [[files]]
 file = "config/SpecialMobs.cfg"
@@ -824,7 +756,7 @@ hash = "a1c9ac70948c93390e0633768d1b479daf58472e44f891a161ab3f37380b2da8"
 
 [[files]]
 file = "config/cofh/world/ThermalFoundation-Ores.json"
-hash = "65201f69ba9d9186593e1f4f638d18e6d531e08ef9bb19003e0ef99093445c58"
+hash = "e085c9eb8afb443d321fd8aad24027fb228dfb52e34306db30b339d79a2ea1d4"
 
 [[files]]
 file = "config/cofh/world/Vanilla.json"
@@ -833,6 +765,18 @@ hash = "25b3c0d16543e31d70a707d1e6d2c5844f6a441da9d24806ea4aedaa7a09edae"
 [[files]]
 file = "config/coretweaks.cfg"
 hash = "ddd1501eae1d71caf9489ca4014dc57c0008edcf57e20445c7e2b147ecda2e76"
+
+[[files]]
+file = "config/customitems/blocks.json"
+hash = "df506978526c05344234a37c07a04546ed3d788658035525b36af6cbf5526aa7"
+
+[[files]]
+file = "config/customitems/drops.json"
+hash = "449fdf7838803d3e6367fb35537985039c56d91feb5716ef910a44e977275b63"
+
+[[files]]
+file = "config/customitems/food.json"
+hash = "23bb28940d443e8e31d62e7db433b19756b33280239928bff1f7538aafa1ed08"
 
 [[files]]
 file = "config/damagetilt.cfg"
@@ -860,7 +804,7 @@ hash = "f3defeab1e72c75f0dbce970409c296dacbec2e10f14966111f1d5cea86bf6a6"
 
 [[files]]
 file = "config/endercore/endercore.cfg"
-hash = "7c0ff548014126b0805310dd3fb2f337607b5f7375170d546fa20fcdca0165da"
+hash = "880885b9041bef9dce70ebed5235ff9b55f0a5226645cc36bcbcd3f139d5856c"
 
 [[files]]
 file = "config/entityculling.json"
@@ -1167,6 +1111,10 @@ file = "config/txloader/forceload/carpentersblocks/lang/en_US.lang"
 hash = "ce40ac38356119cb01931d7d3258b9a9816727a22bfb7293844a42eda05bb169"
 
 [[files]]
+file = "config/txloader/forceload/customitems/textures/blocks/blockArcaneWood.png"
+hash = "b42f067227c1317aba7b211a1c7e07ae72cdeb04274ad6deef1a4ff5f246cce4"
+
+[[files]]
 file = "config/txloader/forceload/custommainmenu/textures/backgrounds/01.png"
 hash = "e33dcae8c3f5538f0ed909fd6c4b6c65f12673eeca0c48ef076c1410ac57c155"
 
@@ -1422,11 +1370,6 @@ hash = "ad0d8412898c36d5dea25e42733516a1800c97100b70c6a7c638e5246a6e118a"
 metafile = true
 
 [[files]]
-file = "mods/block-properties.pw.toml"
-hash = "d94e4be5272994dace491751e38557316a7e5fe9cb3fb83a7b5253bad9888a4a"
-metafile = true
-
-[[files]]
 file = "mods/block-replacement-mc1.7.10.pw.toml"
 hash = "3fea758c36f0621c4dce8d473ae70abfef2360efa04fd5f3baa67b929b61b1d6"
 metafile = true
@@ -1504,6 +1447,11 @@ metafile = true
 [[files]]
 file = "mods/cuchaz-ships-custom.pw.toml"
 hash = "c6a6118840bb927a99c9fb0d4b16e0de24b3bd0fffeb16b543cedd1534c70726"
+metafile = true
+
+[[files]]
+file = "mods/customitems-custom.pw.toml"
+hash = "9353a8fe18128e8df089f892b54ee012ad7f0dd3297262f46dca7c97475f14ab"
 metafile = true
 
 [[files]]
@@ -1682,11 +1630,6 @@ hash = "ab900254c56fb481de7fefeccf1d2d2d2a00991492d96d70c299d7e2d33f1553"
 metafile = true
 
 [[files]]
-file = "mods/mob-properties.pw.toml"
-hash = "37da2e6d0d0102a377b7193348d11ae0216619ab3ed52b2d0c55156fd6f527dd"
-metafile = true
-
-[[files]]
 file = "mods/modern-splash.pw.toml"
 hash = "294d05c76bbf487d38968f3f8c0d8d72a18dbdf5a69d41893fa27031ac3650b9"
 metafile = true
@@ -1793,7 +1736,7 @@ metafile = true
 
 [[files]]
 file = "mods/saltymod-custom.pw.toml"
-hash = "772d496af3c7105964ad9a8aecc2da2921aad0e74722090e030f0ca4202cb518"
+hash = "3d4f7524c98b2f29118cda4b9f6e927b6310d49f655e14ae0ae025952787f4e4"
 metafile = true
 
 [[files]]
@@ -2014,7 +1957,7 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/Essential-Textures.zip"
-hash = "6f7ef0c91af95a442767775b961f71d31e1f7ab63237d9f0293b20519b6bacc6"
+hash = "4f87796878c687bb5e498fdb3f62399f31536752d4c9a49a5b6c868a5fde2f9a"
 
 [[files]]
 file = "scripts/.priority.zs"
@@ -2022,11 +1965,11 @@ hash = "353305bfbf0a2886a14adb5b54ae4b2b3f5c0c1c470fb3915fcfb4b9c99728ad"
 
 [[files]]
 file = "scripts/.research.zs"
-hash = "b53c1222f8367a5fa226ba9afe06d6381fcdcace1d5687100586507196066485"
+hash = "ea722b734c8ea55ddd59c17852017ab487244aec603872518953ac60c9968950"
 
 [[files]]
 file = "scripts/Symbiotic+Botania-245+and+Thaumcraft-4.2.3.5.zs"
-hash = "08a1bbf3cb9696637a2f80e315f91ec2f17b4892c495147d77932254b54814e8"
+hash = "798adb8877879c5b64e3bf028cc6ac76ddb33cea0786bceb7c3efbd06243db74"
 
 [[files]]
 file = "scripts/aspects.zs"
@@ -2034,7 +1977,7 @@ hash = "2904ab536a6bc972c58cbb30401ad4c9d62e4a5e54e6736fc6ba75ca0993d17f"
 
 [[files]]
 file = "scripts/botania.zs"
-hash = "297473d34cee6bb818941047a3b99565020a0dca959f7fd5f378eac99816424a"
+hash = "4d158b6ca8fee6f3af0256434827cdb2532db7e650efcfe994d778298ec2f7da"
 
 [[files]]
 file = "scripts/chisel.zs"
@@ -2042,11 +1985,11 @@ hash = "42a39942b524a69df69a72dfab919393e2f8b5e2a4f008efd0747051955a41d4"
 
 [[files]]
 file = "scripts/cutting.zs"
-hash = "030ac9e719610e98aebba23be1d6c8fcec5b3d299a5b8e0cda941948dfce9cfd"
+hash = "dfc0af187733558140610a8ed4ff6fab1c21ec8b8f2dcf7b484b91856d73df07"
 
 [[files]]
 file = "scripts/dyeing.zs"
-hash = "d79ba7c578196910977114dd19d685452c9c36cb870a69326f07eea0d8971eb6"
+hash = "1c1ab140f9c008e23a59dc734eb7a9e55f95b518abc27ab88a5661e8d56e51e0"
 
 [[files]]
 file = "scripts/framing.zs"
@@ -2067,6 +2010,10 @@ hash = "97713d0d59fbb062433a35c1d13e0aca07552f9255cfc88cb3b4f5477b830b63"
 [[files]]
 file = "scripts/pistronics.zs"
 hash = "847374d5e094556d21b63bca95bf2a9a35a331e853e9d2b2d18a15553d1041f4"
+
+[[files]]
+file = "scripts/thaumcraft.zs"
+hash = "eac73c538421e598115855dc9603fb929d04e998ad57a9d772dede3cef27a4cd"
 
 [[files]]
 file = "server-icon.pw.toml"

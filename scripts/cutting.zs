@@ -19,7 +19,7 @@ recipes.addShapeless(<Thaumcraft:blockWoodenDevice:6> * 8, [<salisarcana:blockCu
 recipes.addShapeless(<Thaumcraft:blockWoodenDevice:7> * 8, [<salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>, <salisarcana:blockCustomPlank:1>]);
 
 function cut(mod as IData, name as IData, blocks as IItemStack[], type as IData, logs as IItemStack[], logsOreDict as IOreDictEntry, specialRemove as IData) {
-	if(specialRemove == 1) {
+	if(specialRemove == 1 || specialRemove == 5) {
 		recipes.removeShaped(blocks[0], [
 			[blocks[1]],
 			[blocks[1]]
@@ -30,13 +30,16 @@ function cut(mod as IData, name as IData, blocks as IItemStack[], type as IData,
 		for i, currentWood in logs {
 			recipes.removeShapeless(blocks[0] * 4, [currentWood]);
 			recipes.removeShaped(blocks[0] * 4, [[currentWood]]);
-			logsOreDict.add(currentWood);
+ 			logsOreDict.add(currentWood);
 		}
 		recipes.addShapeless(blocks[0] * 4, [logsOreDict]);
 
-		<ore:plankWood>.add(blocks[0]);
-		<ore:slabWood>.add(blocks[1]);
-		<ore:stairWood>.add(blocks[2]);
+		if(specialRemove != 5) {
+			<ore:plankWood>.add(blocks[0]);
+			<ore:slabWood>.add(blocks[1]);
+			<ore:stairWood>.add(blocks[2]);
+		}
+
 	}
 
 	if(type != 4 && type != 5) {
@@ -148,8 +151,8 @@ cut('witchery', 'hawthorn', [<witchery:witchwood:2>, <witchery:witchwoodslab:2>,
 cut('thaumcraft', 'greatwood', [<salisarcana:blockCustomPlank>, <Thaumcraft:blockCosmeticSlabWood>, <Thaumcraft:blockStairsGreatwood>], 1, [<Thaumcraft:blockMagicalLog>], <ore:logWoodGreatwood>, 0);
 cut('thaumcraft', 'silverwood', [<salisarcana:blockCustomPlank:1>, <Thaumcraft:blockCosmeticSlabWood:1>, <Thaumcraft:blockStairsSilverwood>], 1, [<Thaumcraft:blockMagicalLog:1>], <ore:logWoodSilverwood>, 0);
 
-cut('botania', 'livingwood', [<Botania:livingwood>, <Botania:livingwood0Slab>, <Botania:livingwood0Stairs>, <Botania:livingwood0Wall>], 3, [], <ore:none>, 1);
-cut('botania', 'livingwood_planks', [<Botania:livingwood:1>, <Botania:livingwood1Slab>, <Botania:livingwood1Stairs>], 1, [<Botania:livingwood>], <ore:logWoodLivingwood>, 1);
+cut('botania', 'livingwood', [<Botania:livingwood>, <Botania:livingwood0Slab>, <Botania:livingwood0Stairs>, <Botania:livingwood0Wall>], 3, [], <ore:none>, 5);
+cut('botania', 'livingwood_planks', [<Botania:livingwood:1>, <Botania:livingwood1Slab>, <Botania:livingwood1Stairs>], 1, [<Botania:livingwood>], <ore:logWoodLivingwood>, 5);
 
 cut('etfuturum', 'stone', [<minecraft:stone>, <etfuturum:stone_slab>, <etfuturum:stone_stairs>], 0, [], <ore:none>, 0);
 cut('etfuturum', 'smooth_stone', [<etfuturum:smooth_stone>, <minecraft:stone_slab>], 2, [], <ore:none>, 0);

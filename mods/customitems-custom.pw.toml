@@ -1,0 +1,8 @@
+name = "Meta Mod"
+filename = "customitems-1.0.12-JB.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PufferTeam-ModArchive/CustomItems/releases/download/1.0.12-JB/customitems-1.0.12-JB.jar"
+hash-format = "sha1"
+hash = "007c3d3beccd6b9cd2e94e040587fbe87c993874"

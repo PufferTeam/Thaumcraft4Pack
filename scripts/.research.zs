@@ -112,6 +112,7 @@ Research.moveResearch("THAUMATORIUM", "ALCHEMY", 10, 5);
 Research.moveResearch("TERRAFORMER", "ALCHEMY", 6, 5);
 Research.clearPrereqs("TERRAFORMER");
 Research.addPrereq("TERRAFORMER", "CENTRIFUGE", false);
+Research.addPrereq("TERRAFORMER", "INFUSION", false);
 
 Research.moveResearch("SANESOAP", "ALCHEMY", -4 as int, -6 as int);
 Research.moveResearch("ETHEREALBLOOM", "ALCHEMY", -7 as int, -3 as int);
@@ -163,6 +164,7 @@ Research.moveResearch("FIRE_AER", "ALCHEMY", -3 as int, -8 as int);
 Research.moveResearch("FIRE_PERDITIO", "ALCHEMY", 3, -8 as int);
 
 Research.moveResearch("INFUSED_POTIONS", "ALCHEMY", 0, -9 as int);
+Research.addPrereq("INFUSED_POTIONS", "INFUSION", false);
 
 Research.orphanResearch("INTERFACE");
 Research.moveResearch("INTERFACE", "ALCHEMY", 8, 3);
@@ -210,6 +212,7 @@ Research.addPrereq("ETHEREALWALL", "PLATFORM", false);
 Research.moveResearch("STONEEXTRUDER", "ARTIFICE", 7, -2 as int);
 Research.clearPrereqs("STONEEXTRUDER");
 Research.addPrereq("STONEEXTRUDER", "ARCANESTONE", false);
+Research.addPrereq("STONEEXTRUDER", "INFUSION", true);
 
 Research.moveResearch("ICESOLIDIFIER", "ARTIFICE", 8, -4 as int);
 Research.clearPrereqs("ICESOLIDIFIER");
@@ -611,3 +614,5 @@ Research.addPrereq("ALLOYBASIC", "CRUSHIRON", false);
 game.setLocalization("en_US", "tc.research_name.ALLOYBASIC", "Metal Alloying");
 game.setLocalization("en_US", "tc.research_text.ALLOYBASIC", "Alloying of basic metals into complex blend");
 game.setLocalization("en_US", "tc.research_page.ALLOYBASIC.1", "You have discovered a way to mix metal dusts into more complex versions of the base metals, you have tried multiple combinations and it seems like by mixing specific kind of metals together you can obtain more complex version of these same metal, which mean you can alloy metals by mixing their dusts.<BR>The first alloy you have discovered is Bronze, it seems to be pretty decent and sturdy for tools and seems to be a pretty good material. Made from copper and tin, it is easy to obtain.<BR>Maybe with more time you can find out other alloys.");
+
+Research.refreshResearchRecipe("PLANTS");

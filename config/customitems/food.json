@@ -1,0 +1,59 @@
+{
+    "changeFoods": [
+        {
+            "name": "wildmobsmod:infected_flesh",
+            "healAmount": 1,
+            "saturationModifier": 0.5
+        },
+        {
+            "name": "wildmobsmod:bison_meat",
+            "healAmount": 2,
+            "saturationModifier": 0.75
+        },
+        {
+            "name": "wildmobsmod:cooked_bison_meat",
+            "healAmount": 4,
+            "saturationModifier": 0.625
+        },
+        {
+            "name": "wildmobsmod:venison",
+            "healAmount": 2,
+            "saturationModifier": 0.75
+        },
+        {
+            "name": "wildmobsmod:cooked_venison",
+            "healAmount": 4,
+            "saturationModifier": 0.625
+        },
+        {
+            "name": "wildmobsmod:chevon",
+            "healAmount": 2,
+            "saturationModifier": 0.75
+        },
+        {
+            "name": "wildmobsmod:cooked_chevon",
+            "healAmount": 4,
+            "saturationModifier": 0.625
+        },
+        {
+            "name": "wildmobsmod:goose",
+            "healAmount": 1,
+            "saturationModifier": 0.5
+        },
+        {
+            "name": "wildmobsmod:cooked_goose",
+            "healAmount": 3,
+            "saturationModifier": 0.5
+        },
+        {
+            "name": "wildmobsmod:mouse",
+            "healAmount": 1,
+            "saturationModifier": 0.5
+        },
+        {
+            "name": "wildmobsmod:cooked_mouse",
+            "healAmount": 3,
+            "saturationModifier": 0.5
+        }
+    ]
+}
