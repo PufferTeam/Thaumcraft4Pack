@@ -1451,7 +1451,7 @@ metafile = true
 
 [[files]]
 file = "mods/customitems-custom.pw.toml"
-hash = "9353a8fe18128e8df089f892b54ee012ad7f0dd3297262f46dca7c97475f14ab"
+hash = "bed577ab4081b257f58634991d19b9a296fc21f8039baaddfbd61cc8fa8544fe"
 metafile = true
 
 [[files]]
