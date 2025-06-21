@@ -780,7 +780,7 @@ hash = "ddd1501eae1d71caf9489ca4014dc57c0008edcf57e20445c7e2b147ecda2e76"
 
 [[files]]
 file = "config/craftpresence.json"
-hash = "3e519bf68d1c2d627c0a08f35a04bfe55af75de6a8f5b4c96528fe8b304bc49a"
+hash = "f4f93ee734919a4a6e6c2ccbf717df331e6d67932f161dd78e628634e2d946e3"
 
 [[files]]
 file = "config/customitems.cfg"
