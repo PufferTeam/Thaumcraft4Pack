@@ -14,12 +14,21 @@ var arcaneGreatwood = <Thaumcraft:blockWoodenDevice:6>;
 var arcaneSilverwood = <Thaumcraft:blockWoodenDevice:7>;
 var balancedShard = <Thaumcraft:ItemShard:6>;
 var runicMatrix = <Thaumcraft:blockStoneDevice:2>;
+var nitor = <Thaumcraft:ItemResource:1>;
+var gold = <minecraft:gold_ingot>;
 var rune = <Botania:rune>;
 var livingrock = <Botania:livingrock>;
 var livingwood = <Botania:livingwood>;
 var manaPowder = <Botania:manaResource:23>;
 var manaPearl = <Botania:manaResource:1>;
 var manaSteel = <Botania:manaResource>;
+var petals = <Botania:petal:*>;
+var altar = <Botania:altar>;
+var manaPool = <Botania:pool>;
+var manaPoolSmall = <Botania:pool:2>;
+var creativeManaPool = <Botania:pool:1>;
+var manaWand = <Botania:twigWand>.withTag({color1: 0, color2: 0, boundTileZ: 0, boundTileX: 0, boundTileY: -1});
+var manaSpreader = <Botania:spreader>;
 
 var pureDaisy = <Botania:specialFlower>.withTag({type: "puredaisy"});
 
@@ -53,7 +62,6 @@ var winterCrystal = <Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 
 var manaRune = <Botania:rune:7>;
 var basicRuneCost = 5000;
 var advancedRuneCost = 8000;
-var altar = <Botania:altar>;
 
 //Research Tab
 mods.thaumcraft.Research.addTab("BOTANY", "thaumcraft", "textures/misc/botania_tab.png");
@@ -131,7 +139,7 @@ game.setLocalization("en_US", "tc.research_page.PETALALTAR.1", "By researching t
 recipes.remove(altar);
 mods.botania.Lexicon.removePage("botania.entry.apothecary", 7);
 Arcane.addShaped("PETALALTAR", altar, "terra 10, aqua 15", 
-	[[arcaneSlab, <ore:petal>, arcaneSlab],
+	[[arcaneSlab, petals, arcaneSlab],
 	[null, arcaneBlock, null],
 	[arcaneBlock, arcaneBlock, arcaneBlock]]
 );
@@ -169,10 +177,44 @@ PureDaisy.removeRecipe(<minecraft:snow>);
 PureDaisy.addRecipe(<ore:blockArcaneStone>, livingrock);
 PureDaisy.addRecipe(<ore:blockArcaneWood>, livingwood);
 
+//Mana
+Research.addResearch("MANAINTRO", "BOTANY", "herba 3, auram 3", 0, 4, 2, creativeManaPool);
+Research.setConcealed("MANAINTRO", true);
+Research.setSecondary("MANAINTRO", true);
+Research.addPage("MANAINTRO", "tc.research_page.MANAINTRO.1");
+Research.addSibling("PETALALTAR", "MANAINTRO");
+game.setLocalization("en_US", "tc.research_name.MANAINTRO", "An Introduction to Mana.");
+game.setLocalization("en_US", "tc.research_text.MANAINTRO", "The magical energy of flowers.");
+game.setLocalization("en_US", "tc.research_page.MANAINTRO.1", "Mana is an ethereal substance. In layman's terms, it is a form of mystical energy. Its sensorial existence is inconstant, and its color depends on the environment its put in. <LINE> Every Mystical flower seems to draw from mana and it seems to be the main fuel needed for them to function. As it seems that without Mana, the Mystical Flowers simply become mundane and powerless.");
+Research.addPage("MANAINTRO", "tc.research_page.MANAINTRO.2");
+game.setLocalization("en_US", "tc.research_page.MANAINTRO.2", "The first step towards making use of Mana is finding a way to generate it properly. For the moment you have found 2 flowers in which can produce mana passively. The daybloom is a flower that will generate mana passively if it has access to sunlight, its sibling flower; the nightshade works exactly the same but at nightime. Simply place these flowers in a place in which they are not obstructed with any blocks to the sky, and they will start working at their appropriate time. <LINE> Now that you have flowers that generate mana, you will need a way to transfer it out of the flower to make use of it. The Mana spreader will do exactly that.");
+Research.addPage("MANAINTRO", "tc.research_page.MANAINTRO.3");
+game.setLocalization("en_US", "tc.research_page.MANAINTRO.3", "The Mana Spreader is the most important component in manipulating Mana. This is the block that allows Mana to travel from point A to point B. When this block is placed on the ground, it'll face one of 6 basic directions. By holding shift-right on it with a Wand of the Forest, one can orient it to the opposite of where it was clicked. It can be pointed to other blocks with a wand in Bind Mode. The Mana Spreader has a small internal buffer of Mana, which will get filled by nearby Generating Flowers. This buffer can be viewed by looking at the Spreader with a Wand of the Forest. Note that the block needs to be right clicked with a wand to get accurate and adequate values.");
+
+Research.addCraftingPage("MANAINTRO", manaWand);
+
+recipes.remove(manaSpreader);
+Arcane.addShaped("MANAINTRO", manaSpreader, "terra 5", [
+	[livingwood, livingwood, livingwood],
+	[gold, petals, nitor],
+	[livingwood, livingwood, livingwood]]);
+Research.addArcanePage("MANAINTRO", manaSpreader);
+
+Research.addPage("MANAINTRO", "tc.research_page.MANAINTRO.4");
+game.setLocalization("en_US", "tc.research_page.MANAINTRO.4", "The Mana Pool is, simply put, a storage of Mana. Mana can be inserted into it by usage of a Mana Spreader, and any adjacent Mana Spreaders will pull mana from it to increase their internal buffer automatically. <LINE> Tossing in some resources into a Mana Pool will cause them to get infused with Mana, turning them into more powerful forms.<br>A few examples are Iron Ingots or Mana Pearls. Mana reading for this block functions like the Mana Spreader. A Redstone Comparator can also output a signal based on the contents.");
+
+recipes.remove(manaPool);
+Arcane.addShaped("MANAINTRO", manaPool, "ordo 5", [
+	[livingrock, null, livingrock],
+	[livingrock, livingrock, livingrock]]);
+Research.addArcanePage("MANAINTRO", manaPool);
+
+Research.addPrereq("MANAINTRO", "PUREDAISY", false);
+
 //Runic Matrix
-mods.thaumcraft.Arcane.removeRecipe(runicMatrix);
-mods.thaumcraft.Arcane.addShaped("INFUSION", runicMatrix, "ordo 40", [
+Arcane.removeRecipe(runicMatrix);
+Arcane.addShaped("INFUSION", runicMatrix, "ordo 40", [
 	[arcaneBlock, manaRune, arcaneBlock],
 	[manaRune, <Botania:seaLamp>, manaRune],
 	[arcaneBlock, manaRune, arcaneBlock]]);
-mods.thaumcraft.Research.refreshResearchRecipe("INFUSION");
+Research.refreshResearchRecipe("INFUSION");

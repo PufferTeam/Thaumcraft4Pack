@@ -12,7 +12,9 @@ var furnaceBlock = <minecraft:furnace>;
 var alchemicalFurnace = <Thaumcraft:blockStoneDevice>;
 var alchemicalBoiler = <Automagy:blockBoiler>;
 var alchemicalConstruct = <Thaumcraft:blockMetalDevice:9>;
+var visFilter = <Thaumcraft:ItemResource:8>;
 var tube = <Thaumcraft:blockTube>;
+var valve = <Thaumcraft:blockTube:1>;
 var crystallizer = <Thaumcraft:blockTube:7>;
 var crucible = <Thaumcraft:blockMetalDevice>;
 var shards = <Thaumcraft:ItemShard:*>;
@@ -24,6 +26,7 @@ var leather = <minecraft:leather>;
 var glass = <minecraft:glass>;
 var manaPane = <Botania:manaGlassPane>;
 var iron = <minecraft:iron_ingot>;
+var gold = <minecraft:gold_ingot>;
 var copper = <ThermalFoundation:material:64>;
 var tin = <ThermalFoundation:material:65>;
 var silver = <ThermalFoundation:material:66>;
@@ -33,6 +36,8 @@ var brain = <Thaumcraft:ItemZombieBrain>;
 var cinnabar = <ThermalFoundation:material:20>;
 var cinnabarCluster = <Thaumcraft:ItemNugget:21>;
 var quicksilver = <Thaumcraft:ItemResource:3>;
+var silverwood = <salisarcana:blockCustomPlank:1>;
+var greatwood = <salisarcana:blockCustomPlank>;
 
 var balancedShard = <Thaumcraft:ItemShard:6>;
 var airShard = <Thaumcraft:ItemShard>;
@@ -101,6 +106,17 @@ Arcane.addShaped("DISTILESSENTIA", alchemicalFurnace, "ignis 5, aqua 5",
 	[arcaneBlock, lead, arcaneBlock]]
 );
 
+Arcane.removeRecipe(visFilter);
+Arcane.addShaped("DISTILESSENTIA", visFilter, "aqua 5, ordo 5", 
+	[[gold, silverwood, gold]]
+);
+
+Arcane.removeRecipe(alchemicalConstruct);
+Arcane.addShaped("DISTILESSENTIA", alchemicalConstruct, "aqua 5, ordo 5", 
+	[[valve, tube, visFilter],
+	[tube, greatwood, tube],
+	[visFilter, tube, valve]]
+);
 Research.refreshResearchRecipe("DISTILESSENTIA");
 
 Arcane.removeRecipe(alchemicalBoiler);

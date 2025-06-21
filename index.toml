@@ -148,7 +148,7 @@ hash = "4ab14dda48b5f64fa795964cc57c4d09ac51861802872ef391b1dae6b05394fb"
 
 [[files]]
 file = "config/InfernalMobs.cfg"
-hash = "f20dd67e7be155209b3b357f2e5692ecd9b322e26b27f4e2d490d9ad6ab667c0"
+hash = "f3698fa37942a02254bd12c90a0fe5033835a9752160294a3c1f8293332fd704"
 
 [[files]]
 file = "config/LegibleNei/LegibleNei.cfg"
@@ -343,6 +343,10 @@ file = "config/ThaumcraftMobAspects/ImmersiveEngineering.cfg"
 hash = "58fba625e81a8008cd96313b10d4750bdf7fa7eb5f48faec04242057a1bc2cb2"
 
 [[files]]
+file = "config/ThaumcraftMobAspects/Mekanism.cfg"
+hash = "7d0f9fb83d0894de3b623b14864ed4403da5e245cfbdefc325226d07321e8d6a"
+
+[[files]]
 file = "config/ThaumcraftMobAspects/Natura.cfg"
 hash = "a451131d4ba7652692f6da9b95ebd14010e8614b6b6fce48a8210c59682f6b74"
 
@@ -477,6 +481,10 @@ hash = "643ec12d5a3c56b6169594e7beb539cbe24afd119d45466409880f94379deea1"
 [[files]]
 file = "config/ThaumcraftMobAspects/vanillaitem.cfg"
 hash = "cde6cbc89e3898463d2c53b52a1747530fb6cbcaddb62cd546dd01864faf4c94"
+
+[[files]]
+file = "config/ThaumcraftMobAspects/wildmobsmod.cfg"
+hash = "dee6a716b7218273c4c1a6ee330ce099f05c055b9ad635a06981eb85a27c8a90"
 
 [[files]]
 file = "config/ThaumcraftMobAspects/witchery.cfg"
@@ -664,7 +672,7 @@ hash = "342cd8f89666b2f6174bf8fde70ab19d42cbf50d817da397a0748c046e83cd84"
 
 [[files]]
 file = "config/biomesoplenty/biomegen.cfg"
-hash = "b955ed5b959ae7a76a09b69a5da34eef5e7c1f882664f45658f8c95e17580da5"
+hash = "8c1075f805ed66b39b513fdeb9608e9ca5affb67c868a5d924a471a15b33fc5e"
 
 [[files]]
 file = "config/biomesoplenty/biomeweights.cfg"
@@ -693,6 +701,10 @@ hash = "1964497321f895669cf8a18a76a1549b871ed082ad7dff8b3cd8fbe90045b00d"
 [[files]]
 file = "config/biomesoplenty/terraingen.cfg"
 hash = "ca85e0cdbeeff14922730ad1e4840ffcfedf9b33f4393e7aa34c6d1860429d55"
+
+[[files]]
+file = "config/blockreplace.cfg"
+hash = "b985123d2c3632860b3a2dff4f6469593969e0886ea6a09560ca56ac605e6247"
 
 [[files]]
 file = "config/bugtorch/base.cfg"
@@ -765,6 +777,14 @@ hash = "25b3c0d16543e31d70a707d1e6d2c5844f6a441da9d24806ea4aedaa7a09edae"
 [[files]]
 file = "config/coretweaks.cfg"
 hash = "ddd1501eae1d71caf9489ca4014dc57c0008edcf57e20445c7e2b147ecda2e76"
+
+[[files]]
+file = "config/craftpresence.json"
+hash = "3e519bf68d1c2d627c0a08f35a04bfe55af75de6a8f5b4c96528fe8b304bc49a"
+
+[[files]]
+file = "config/customitems.cfg"
+hash = "f05a141b44ec690bbc8205338ed8dc34626fa5144a47d2fb375c467af29b1529"
 
 [[files]]
 file = "config/customitems/blocks.json"
@@ -941,6 +961,10 @@ hash = "d3222131568d170bd96f81234b00c8314b611c0adae7b5017d3d78364b571ddb"
 [[files]]
 file = "config/mekanism/MekanismTools.cfg"
 hash = "5960ec718d88b998a34c50ee092cde43790ae7dfb09fc6e9471e42f267912b51"
+
+[[files]]
+file = "config/microblocks.cfg"
+hash = "b90a381d5c8cc61c802b67270f4b072bca1681199148ed4dbf1bf25a29954021"
 
 [[files]]
 file = "config/mixingasm/transformer_exclusion_list.txt"
@@ -1340,6 +1364,11 @@ hash = "37e2264165794378c98a4c75b3f16f9b0908dcc0dc30e0c8d567171523607490"
 metafile = true
 
 [[files]]
+file = "mods/better-achievements-custom.pw.toml"
+hash = "8ffd0335baa9622f2c4a9c21688b45779925d0b1303956061016332af276c76c"
+metafile = true
+
+[[files]]
 file = "mods/better-horse-hud.pw.toml"
 hash = "83dea92cb4b430b044fede7668c5cc5f31d3abf6523b17726b79457c844e8489"
 metafile = true
@@ -1437,6 +1466,11 @@ metafile = true
 [[files]]
 file = "mods/coretweaks-custom.pw.toml"
 hash = "8fd837d2aa114075ff594586fa9cb805ab8995d775c31e7919156d54dd075595"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "181a98ce250b6500c19e04d4e116bc77c9aef95f709e75ab032241de3d43e786"
 metafile = true
 
 [[files]]
@@ -1736,7 +1770,7 @@ metafile = true
 
 [[files]]
 file = "mods/saltymod-custom.pw.toml"
-hash = "3d4f7524c98b2f29118cda4b9f6e927b6310d49f655e14ae0ae025952787f4e4"
+hash = "4f5554abd604228710a467ed58b5488c1911e800f904b52729bf64a002c4664a"
 metafile = true
 
 [[files]]
@@ -1885,6 +1919,11 @@ hash = "104f647e43f101f7609d116d6f042395b08b818cefe292b06e7eb1cb81d8b995"
 metafile = true
 
 [[files]]
+file = "mods/unilib.pw.toml"
+hash = "13410dad551469c556184a2e20f39ab90fcab07e9601d3ae0f7acac9f001f22a"
+metafile = true
+
+[[files]]
 file = "mods/unimixins.pw.toml"
 hash = "9a8512ad77420338d6b8c9a2c0d5b8967e2c8d34a7e92f5a52a580348288d8ed"
 metafile = true
@@ -1977,7 +2016,7 @@ hash = "2904ab536a6bc972c58cbb30401ad4c9d62e4a5e54e6736fc6ba75ca0993d17f"
 
 [[files]]
 file = "scripts/botania.zs"
-hash = "4d158b6ca8fee6f3af0256434827cdb2532db7e650efcfe994d778298ec2f7da"
+hash = "fb736b0a7bd79940ac37c855cca27304b0611da95785d3d2648930874e87c378"
 
 [[files]]
 file = "scripts/chisel.zs"
@@ -2013,7 +2052,7 @@ hash = "847374d5e094556d21b63bca95bf2a9a35a331e853e9d2b2d18a15553d1041f4"
 
 [[files]]
 file = "scripts/thaumcraft.zs"
-hash = "eac73c538421e598115855dc9603fb929d04e998ad57a9d772dede3cef27a4cd"
+hash = "df964b4ad83c4b4a8401e50d9ec7b0aa59a2221267e58a7f765e6ef89f83ddb4"
 
 [[files]]
 file = "server-icon.pw.toml"

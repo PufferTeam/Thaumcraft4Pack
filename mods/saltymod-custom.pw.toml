@@ -1,8 +1,8 @@
 name = "SaltyMod"
-filename = "saltymod-2.0.12-JB.jar"
+filename = "saltymod-2.0.15-JB.jar"
 side = "both"
 
 [download]
-url = "https://github.com/PufferTeam-ModArchive/SaltyMod-Expanded/releases/download/2.0.12-JB/saltymod-2.0.12-JB.jar"
+url = "https://github.com/PufferTeam-ModArchive/SaltyMod-Expanded/releases/download/2.0.15-JB/saltymod-2.0.15-JB.jar"
 hash-format = "sha1"
-hash = "a209c5d79dabf2eb386f4d8af46aa8153012c00f"
+hash = "001694319258933ea4558e86c5b00813434d77ee"

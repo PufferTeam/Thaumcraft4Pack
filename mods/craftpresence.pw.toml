@@ -1,0 +1,13 @@
+name = "CraftPresence"
+filename = "CraftPresence-2.6.1%2B1.7.10-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DFqQfIBR/versions/jlIOtbzE/CraftPresence-2.6.1%2B1.7.10-forge.jar"
+hash-format = "sha512"
+hash = "599fb8e36c9422e9f2161a16d1fbf3b58adf41e63169c8c166d2773cba8f9df48be1dbf365b7a688f1f93ed7b03f227f9ed281f82bda516c6cee785aa565c463"
+
+[update]
+[update.modrinth]
+mod-id = "DFqQfIBR"
+version = "HuBkokaY"
