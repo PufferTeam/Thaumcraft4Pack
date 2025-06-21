@@ -1770,7 +1770,7 @@ metafile = true
 
 [[files]]
 file = "mods/saltymod-custom.pw.toml"
-hash = "4f5554abd604228710a467ed58b5488c1911e800f904b52729bf64a002c4664a"
+hash = "c44029fa970e1ea1fcddd5223f3d7dd7a3029beca36716506d61bf0bb652efce"
 metafile = true
 
 [[files]]
@@ -1996,7 +1996,7 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/Essential-Textures.zip"
-hash = "4f87796878c687bb5e498fdb3f62399f31536752d4c9a49a5b6c868a5fde2f9a"
+hash = "224bf307a31e234ffaf0dc66ed52cd85042a89618b09fc4a1238dc64f31c4f39"
 
 [[files]]
 file = "scripts/.priority.zs"
