@@ -924,7 +924,7 @@ hash = "05fc70aa05945e780c4f5dec50d0bf3000d8b69893bd3bf7ffe959208d80b536"
 
 [[files]]
 file = "config/kleeslabs.cfg"
-hash = "dd720dc71805fdf9208a5b00c04553d7eb4b6ee8a063dfce4fb59122be0cfafc"
+hash = "8de5117fcd5be754f01d189ab7694f0a5f00671f73df2cff27ccccba7addb527"
 
 [[files]]
 file = "config/lwjgl3ify-early.json"
