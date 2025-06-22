@@ -5,6 +5,8 @@ import mods.thaumcraft.Crucible;
 import mods.thaumcraft.Research;
 import mods.botania.Apothecary;
 import mods.botania.PureDaisy;
+import mods.botania.Lexicon;
+import mods.botania.ManaInfusion;
 
 var icon = <Botania:doubleFlower2:2>;
 var arcaneBlock = <Thaumcraft:blockCosmeticSolid:6>;
@@ -18,19 +20,32 @@ var nitor = <Thaumcraft:ItemResource:1>;
 var gold = <minecraft:gold_ingot>;
 var rune = <Botania:rune>;
 var livingrock = <Botania:livingrock>;
+var livingrockSlab = <Botania:livingrock0Slab>;
 var livingwood = <Botania:livingwood>;
 var manaPowder = <Botania:manaResource:23>;
 var manaPearl = <Botania:manaResource:1>;
 var manaSteel = <Botania:manaResource>;
+var manaSteelBlock = <Botania:storage>;
+var manaDiamond = <Botania:manaResource:2>;
 var petals = <Botania:petal:*>;
 var altar = <Botania:altar>;
 var manaPool = <Botania:pool>;
-var manaPoolSmall = <Botania:pool:2>;
+var manaPoolDiluted = <Botania:pool:2>;
 var creativeManaPool = <Botania:pool:1>;
 var manaWand = <Botania:twigWand>.withTag({color1: 0, color2: 0, boundTileZ: 0, boundTileX: 0, boundTileY: -1});
 var manaSpreader = <Botania:spreader>;
+var alchemyCatalyst = <Botania:alchemyCatalyst>;
+val etherealEssence = <Thaumcraft:ItemWispEssence>;
+var silverwood = <salisarcana:blockCustomPlank:1>;
+var greatwood = <salisarcana:blockCustomPlank>;
+var thaumium = <Thaumcraft:ItemResource:2>;
+var runicAltar = <Botania:runeAltar>;
+var seaHeart = <customitems:heart_of_the_sea>;
+var bloodRune = <AWWayofTime:AlchemicalWizardrybloodRune>;
 
 var pureDaisy = <Botania:specialFlower>.withTag({type: "puredaisy"});
+var endoflame = <Botania:specialFlower>.withTag({type: "endoflame"});
+var hydroangeas = <Botania:specialFlower>.withTag({type: "hydroangeas"});
 
 var anyCrystal = <Thaumcraft:ItemCrystalEssence>;
 var airRune = <Botania:rune:1>;
@@ -68,22 +83,22 @@ mods.thaumcraft.Research.addTab("BOTANY", "thaumcraft", "textures/misc/botania_t
 game.setLocalization("en_US", "tc.research_category.BOTANY", "Botany");
 
 //Water Rune
-mods.botania.Lexicon.removePage("botania.entry.runeAltar", 7);
+Lexicon.removePage("botania.entry.runeAltar", 7);
 mods.botania.RuneAltar.removeRecipe(waterRune);
 mods.botania.RuneAltar.addRecipe(waterRune, [manaPowder, manaSteel, waterShard, waterCrystal, waterCrystal, waterCrystal], basicRuneCost);
 
 //Earth Rune
-mods.botania.Lexicon.removePage("botania.entry.runeAltar", 7);
+Lexicon.removePage("botania.entry.runeAltar", 7);
 mods.botania.RuneAltar.removeRecipe(earthRune);
 mods.botania.RuneAltar.addRecipe(earthRune, [manaPowder, manaSteel, earthShard, earthCrystal, earthCrystal, earthCrystal], basicRuneCost);
 
 //Air Rune
-mods.botania.Lexicon.removePage("botania.entry.runeAltar", 7);
+Lexicon.removePage("botania.entry.runeAltar", 7);
 mods.botania.RuneAltar.removeRecipe(airRune);
 mods.botania.RuneAltar.addRecipe(airRune, [manaPowder, manaSteel, airShard, airCrystal, airCrystal, airCrystal], basicRuneCost);
 
 //Fire Rune
-mods.botania.Lexicon.removePage("botania.entry.runeAltar", 7);
+Lexicon.removePage("botania.entry.runeAltar", 7);
 mods.botania.RuneAltar.removeRecipe(fireRune);
 mods.botania.RuneAltar.addRecipe(fireRune, [manaPowder, manaSteel, fireShard, fireCrystal, fireCrystal, fireCrystal], basicRuneCost);
 
@@ -94,27 +109,27 @@ mods.botania.RuneAltar.addRecipe(orderRune, [manaPowder, manaSteel, orderShard, 
 mods.botania.RuneAltar.addRecipe(entropyRune, [manaPowder, manaSteel, entropyShard, entropyCrystal, entropyCrystal, entropyCrystal], basicRuneCost);
 
 //Mana Rune
-mods.botania.Lexicon.removePage("botania.entry.runeAltar", 7);
+Lexicon.removePage("botania.entry.runeAltar", 7);
 mods.botania.RuneAltar.removeRecipe(manaRune);
 mods.botania.RuneAltar.addRecipe(manaRune, [manaPowder, manaSteel, manaSteel, manaSteel, balancedShard, anyCrystal, anyCrystal, anyCrystal], basicRuneCost);
 
 //Spring Rune
-mods.botania.Lexicon.removePage("botania.entry.runeAltar", 7);
+Lexicon.removePage("botania.entry.runeAltar", 7);
 mods.botania.RuneAltar.removeRecipe(springRune);
 mods.botania.RuneAltar.addRecipe(springRune, [waterRune, fireRune, entropyRune, springCrystal, springCrystal], advancedRuneCost);
 
 //Summer Rune
-mods.botania.Lexicon.removePage("botania.entry.runeAltar", 7);
+Lexicon.removePage("botania.entry.runeAltar", 7);
 mods.botania.RuneAltar.removeRecipe(summerRune);
 mods.botania.RuneAltar.addRecipe(summerRune, [earthRune, airRune, entropyRune, summerCrystal, summerCrystal], advancedRuneCost);
 
 //Autumn Rune
-mods.botania.Lexicon.removePage("botania.entry.runeAltar", 7);
+Lexicon.removePage("botania.entry.runeAltar", 7);
 mods.botania.RuneAltar.removeRecipe(autumnRune);
 mods.botania.RuneAltar.addRecipe(autumnRune, [fireRune, airRune, orderRune, autumnCrystal, autumnCrystal], advancedRuneCost);
 
 //Winter Rune
-mods.botania.Lexicon.removePage("botania.entry.runeAltar", 7);
+Lexicon.removePage("botania.entry.runeAltar", 7);
 mods.botania.RuneAltar.removeRecipe(winterRune);
 mods.botania.RuneAltar.addRecipe(winterRune, [waterRune, earthRune, orderRune, winterCrystal, winterCrystal], advancedRuneCost);
 
@@ -129,6 +144,30 @@ game.setLocalization("en_US", "tc.research_page.BOTANY_START.1", "By exploring t
 Research.addCraftingPage("BOTANY_START", <Botania:petal>);
 
 //Petal Apocatery
+Apothecary.removeRecipe("thermalily");
+Apothecary.removeRecipe("arcanerose");
+Apothecary.removeRecipe("munchdew");
+Apothecary.removeRecipe("entropinnyum");
+Apothecary.removeRecipe("kekimurus");
+Apothecary.removeRecipe("gourmaryllis");
+Apothecary.removeRecipe("narslimmus");
+Apothecary.removeRecipe("spectrolus");
+Apothecary.removeRecipe("rafflowsia");
+Apothecary.removeRecipe("dandelifeon");
+Apothecary.removeRecipe("jadedAmaranthus");
+Apothecary.removeRecipe("bellethorn");
+Apothecary.removeRecipe("exoflame");
+Apothecary.removeRecipe("hyacidus");
+Apothecary.removeRecipe("medumone");
+Apothecary.removeRecipe("pollidisiac");
+Apothecary.removeRecipe("clayconia");
+Apothecary.removeRecipe("loonium");
+Apothecary.removeRecipe("daffomill");
+Apothecary.removeRecipe("vinculotus");
+Apothecary.removeRecipe("spectranthemum");
+Apothecary.removeRecipe("bubbell");
+Apothecary.removeRecipe("solegnolia");
+
 Research.addResearch("PETALALTAR", "BOTANY", "herba 3, praecantatio 3, aqua 3", 0, 0, 2, altar);
 Research.setConcealed("PETALALTAR", true);
 Research.addPage("PETALALTAR", "tc.research_page.PETALALTAR.1");
@@ -137,7 +176,7 @@ game.setLocalization("en_US", "tc.research_text.PETALALTAR", "Manipulating flowe
 game.setLocalization("en_US", "tc.research_page.PETALALTAR.1", "By researching the nature of the energy emitted by mystical flowers, you have discovered a way to infuse petals to create flowers that have magical properties. Infusing these mystical flowers requires them to be in a environment with the perfect conditions for the mystical flowers to florish and grow. To fullfill these requirements, you have created a very mundane device that will allow you to infuse petals together without issues.<LINE> The Petal Apocatery serves as a very simple infusion altar for plants, but it has its limits.");
 
 recipes.remove(altar);
-mods.botania.Lexicon.removePage("botania.entry.apothecary", 7);
+Lexicon.removePage("botania.entry.apothecary", 7);
 Arcane.addShaped("PETALALTAR", altar, "terra 10, aqua 15", 
 	[[arcaneSlab, petals, arcaneSlab],
 	[null, arcaneBlock, null],
@@ -178,9 +217,8 @@ PureDaisy.addRecipe(<ore:blockArcaneStone>, livingrock);
 PureDaisy.addRecipe(<ore:blockArcaneWood>, livingwood);
 
 //Mana
-Research.addResearch("MANAINTRO", "BOTANY", "herba 3, auram 3", 0, 4, 2, creativeManaPool);
+Research.addResearch("MANAINTRO", "BOTANY", "herba 3, auram 3, aer 3", 0, 4, 2, creativeManaPool);
 Research.setConcealed("MANAINTRO", true);
-Research.setSecondary("MANAINTRO", true);
 Research.addPage("MANAINTRO", "tc.research_page.MANAINTRO.1");
 Research.addSibling("PETALALTAR", "MANAINTRO");
 game.setLocalization("en_US", "tc.research_name.MANAINTRO", "An Introduction to Mana.");
@@ -193,6 +231,7 @@ game.setLocalization("en_US", "tc.research_page.MANAINTRO.3", "The Mana Spreader
 
 Research.addCraftingPage("MANAINTRO", manaWand);
 
+Lexicon.removePage("botania.entry.spreader", 6);
 recipes.remove(manaSpreader);
 Arcane.addShaped("MANAINTRO", manaSpreader, "terra 5", [
 	[livingwood, livingwood, livingwood],
@@ -201,20 +240,105 @@ Arcane.addShaped("MANAINTRO", manaSpreader, "terra 5", [
 Research.addArcanePage("MANAINTRO", manaSpreader);
 
 Research.addPage("MANAINTRO", "tc.research_page.MANAINTRO.4");
-game.setLocalization("en_US", "tc.research_page.MANAINTRO.4", "The Mana Pool is, simply put, a storage of Mana. Mana can be inserted into it by usage of a Mana Spreader, and any adjacent Mana Spreaders will pull mana from it to increase their internal buffer automatically. <LINE> Tossing in some resources into a Mana Pool will cause them to get infused with Mana, turning them into more powerful forms.<br>A few examples are Iron Ingots or Mana Pearls. Mana reading for this block functions like the Mana Spreader. A Redstone Comparator can also output a signal based on the contents.");
+game.setLocalization("en_US", "tc.research_page.MANAINTRO.4", "The Mana Pool is, simply put, a storage of Mana. Mana can be inserted into it by usage of a Mana Spreader, and any adjacent Mana Spreaders will pull mana from it to increase their internal buffer automatically. <LINE> Tossing in some resources into a Mana Pool will cause them to get infused with Mana, turning them into more powerful forms. A few examples are Iron Ingots or Mana Pearls. Mana reading for this block functions like the Mana Spreader. A Redstone Comparator can also output a signal based on the contents.");
 
+Lexicon.removePage("botania.entry.pool", 2);
+Lexicon.removePage("botania.entry.pool", 5);
+Lexicon.removePage("botania.entry.pool", 5);
+Lexicon.removePage("botania.entry.pool", 5);
+Lexicon.removePage("botania.entry.pool", 5);
+Lexicon.removePage("botania.entry.pool", 5);
+Lexicon.removePage("botania.entry.pool", 5);
+Lexicon.removePage("botania.entry.pool", 5);
+Lexicon.removePage("botania.entry.pool", 5);
+Lexicon.removePage("botania.entry.pool", 5);
 recipes.remove(manaPool);
 Arcane.addShaped("MANAINTRO", manaPool, "ordo 5", [
 	[livingrock, null, livingrock],
 	[livingrock, livingrock, livingrock]]);
 Research.addArcanePage("MANAINTRO", manaPool);
 
+Lexicon.removePage("botania.entry.pool", 2);
+recipes.remove(manaPoolDiluted);
+Arcane.addShaped("MANAINTRO", manaPoolDiluted, "ordo 3", [
+	[livingrockSlab, null, livingrockSlab],
+	[livingrockSlab, livingrockSlab, livingrockSlab]]);
+
 Research.addPrereq("MANAINTRO", "PUREDAISY", false);
+
+//Endoflame
+Research.addResearch("ENDOFLAME", "BOTANY", "herba 3, praecantatio 3, aqua 3", -2 as int, 5, 2, endoflame);
+Research.setConcealed("ENDOFLAME", true);
+Research.setRound("ENDOFLAME", true);
+Research.setStub("ENDOFLAME", true);
+Research.addPage("ENDOFLAME", "tc.research_page.ENDOFLAME.1");
+Research.addSibling("MANAINTRO", "ENDOFLAME");
+game.setLocalization("en_US", "tc.research_name.ENDOFLAME", "Endoflame");
+game.setLocalization("en_US", "tc.research_text.ENDOFLAME", "Mana from fuel");
+game.setLocalization("en_US", "tc.research_page.ENDOFLAME.1", "While the Daybloom is all well and good, a botanist requires more effective means of generating Mana. The Endoflame does that exactly, it will absorb any combustible items or blocks dropped on the nearby vicinity (albeit only one at a time) and burn through them to passively generate mana while the fuel lasts. <LINE> There's a few small caveats though, the Endoflame will not burn anything that returns a byproduct, an example are Lava Buckets, that have empty Buckets as a byproduct.");
+Research.addPrereq("ENDOFLAME", "MANAINTRO", false);
+
+//Hydroangeas
+Research.addResearch("HYDROANGEAS", "BOTANY", "herba 3, praecantatio 3, aqua 3", -2 as int, 3, 2, hydroangeas);
+Research.setConcealed("HYDROANGEAS", true);
+Research.setRound("HYDROANGEAS", true);
+Research.setStub("HYDROANGEAS", true);
+Research.addPage("HYDROANGEAS", "tc.research_page.HYDROANGEAS.1");
+Research.addSibling("MANAINTRO", "HYDROANGEAS");
+game.setLocalization("en_US", "tc.research_name.HYDROANGEAS", "Hydroangeas");
+game.setLocalization("en_US", "tc.research_text.HYDROANGEAS", "Mana from water");
+game.setLocalization("en_US", "tc.research_page.HYDROANGEAS.1", "Hydroangeas act as a liquid based passive generator. They will suck up any Still Water in a 3x3 area around it, on the same height, creating Mana from it. The amount they produce is comparable to that of an Endoflame. They also seem to function faster during Rain. Hydroangeas are classified as passive flowers and as such will decay.");
+Research.addPrereq("HYDROANGEAS", "MANAINTRO", false);
+
+//Mana Alchemy
+Research.addResearch("MANAALCHEMY", "BOTANY", "aqua 3, auram 3", 0, 6, 2, alchemyCatalyst);
+Research.setConcealed("MANAINTRO", true);
+Research.setSecondary("MANAALCHEMY", true);
+Research.addPage("MANAALCHEMY", "tc.research_page.MANAALCHEMY.1");
+game.setLocalization("en_US", "tc.research_name.MANAALCHEMY", "Alchemising with Mana");
+game.setLocalization("en_US", "tc.research_text.MANAALCHEMY", "Exchange may or may not be equivalent");
+game.setLocalization("en_US", "tc.research_page.MANAALCHEMY.1", "Mana is an extremely volatile substance, to a point that its complete properties and abilities are unknown. <LINE> One of them is known, though, by attaching an Alchemy Catalyst, created with a mixture of otherworldly materials to the bottom of a Mana Pool, it enables the pool to perform Alchemy.");
+
+Lexicon.removePage("botania.entry.manaAlchemy", 1);
+recipes.remove(alchemyCatalyst);
+Arcane.addShaped("MANAALCHEMY", alchemyCatalyst, "terra 5, aqua 5, aer 5", [
+	[livingrock, gold, livingrock],
+	[etherealEssence, silverwood, etherealEssence],
+	[livingrock, gold, livingrock]]);
+Research.addArcanePage("MANAALCHEMY", alchemyCatalyst);
+
+Research.addPrereq("MANAALCHEMY", "MANAINTRO", false);
+
+ManaInfusion.removeRecipe(manaSteel);
+ManaInfusion.removeRecipe(manaSteelBlock);
+ManaInfusion.addInfusion(manaSteel, thaumium, 3000);
+
+//Runic Altar
+Research.addResearch("RUNICALTAR", "BOTANY", "praecantatio 3, ordo 3, permutatio 3", 2, 4, 2, runicAltar);
+Research.setConcealed("RUNICALTAR", true);
+Research.addPage("RUNICALTAR", "tc.research_page.RUNICALTAR.1");
+game.setLocalization("en_US", "tc.research_name.RUNICALTAR", "Runic Altar");
+game.setLocalization("en_US", "tc.research_text.RUNICALTAR", "Create runes for stronger flowers and items");
+game.setLocalization("en_US", "tc.research_page.RUNICALTAR.1", "Runic creation is a rather important complex in the advancement of the botanical magics. Runes are extremely important components of complex magical devices or flora. In order to create these, one would require a Runic Altar. To utilize this Runic Altar, start by placing, via either a right click or simply tossing, the components to the rune you want to create.");
+Research.addPage("RUNICALTAR", "tc.research_page.RUNICALTAR.2");
+game.setLocalization("en_US", "tc.research_page.RUNICALTAR.2", "Proceed by pointing a Mana Spreader to the altar so that Mana transfer can occur. It should be apparent when the altar has received enough Mana. When that happens, just drop a piece of Livingrock on top of it, or right click with it, and use the wand on it again to collect your rune. <LINE> A total of 18 Runes exist. The most basic and elementary runes are named after the Six Elements. The intermediate runes are named after the Four Seasons, and the most advanced runes are named after the Seven Deadly Sins. A separate Rune of Mana also exists.");
+
+Lexicon.removePage("botania.entry.runeAltar", 3);
+recipes.remove(runicAltar);
+Arcane.addShaped("RUNICALTAR", runicAltar, "ordo 10, perditio 10", [
+	[livingrock, livingrock, livingrock],
+	[livingrock, manaDiamond, livingrock],
+	[manaSteel, manaSteel, manaSteel]]);
+Research.addArcanePage("RUNICALTAR", runicAltar);
+
+Research.addPrereq("RUNICALTAR", "MANAINTRO", false);
+
+ManaInfusion.addAlchemy(seaHeart, manaPearl, 3000);
 
 //Runic Matrix
 Arcane.removeRecipe(runicMatrix);
 Arcane.addShaped("INFUSION", runicMatrix, "ordo 40", [
-	[arcaneBlock, manaRune, arcaneBlock],
-	[manaRune, <Botania:seaLamp>, manaRune],
-	[arcaneBlock, manaRune, arcaneBlock]]);
+	[bloodRune, manaRune, bloodRune],
+	[manaRune, seaHeart, manaRune],
+	[bloodRune, manaRune, bloodRune]]);
 Research.refreshResearchRecipe("INFUSION");

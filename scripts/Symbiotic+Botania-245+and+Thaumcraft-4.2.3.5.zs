@@ -285,17 +285,6 @@ recipes.addShaped(elvenManaSpreader, [
 	[elementium, nitor, null],
 	[dreamwood, dreamwood, dreamwood]]);
 
-mods.botania.Lexicon.removePage("botania.entry.manaAlchemy", 1);
-mods.botania.Lexicon.addCraftingPage("botania.page.manaAlchemy1", "botania.entry.manaAlchemy", 1, [alchemyCatalyst], [
-	[[livingrock, gold, livingrock],
-	[etherealEssence, silverwoodPlank, etherealEssence],
-	[livingrock, gold, livingrock]]]);
-recipes.remove(alchemyCatalyst);
-recipes.addShaped(alchemyCatalyst, [
-	[livingrock, gold, livingrock],
-	[etherealEssence, silverwoodPlank, etherealEssence],
-	[livingrock, gold, livingrock]]);
-
 mods.botania.Lexicon.removePage("botania.entry.manaConjuration", 1);
 mods.botania.Lexicon.addCraftingPage("botania.page.manaConjuration1", "botania.entry.manaConjuration", 1, [conjurationCatalyst], [
 	[[livingrock, bucketPurifyingFluid, livingrock],

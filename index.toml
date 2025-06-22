@@ -160,7 +160,7 @@ hash = "c731b068396167294cd22235620e68e63bfd3efeeac4e53e1c0cc5291c3b1904"
 
 [[files]]
 file = "config/LegibleNei/filters/filter.json"
-hash = "4d2f0b3b4bc7ee4d6f16681bed2e51b15103782c17b6d36fa4614ac31ec69cd5"
+hash = "6b2c190a95a925b747cc76b08711db8f724be8b5d166035d1558ae09a9486283"
 
 [[files]]
 file = "config/MCFrames.cfg"
@@ -799,6 +799,10 @@ file = "config/customitems/food.json"
 hash = "23bb28940d443e8e31d62e7db433b19756b33280239928bff1f7538aafa1ed08"
 
 [[files]]
+file = "config/customitems/items.json"
+hash = "c72b82d0feec3421e0c81b4ea3678552b7e333be564d6a101a15ce138aa792f6"
+
+[[files]]
 file = "config/damagetilt.cfg"
 hash = "d3e6846b8a5b3e49393d99334b1895761ef0c943b0770991dfee1707a381c5b8"
 
@@ -1139,6 +1143,10 @@ file = "config/txloader/forceload/customitems/textures/blocks/blockArcaneWood.pn
 hash = "b42f067227c1317aba7b211a1c7e07ae72cdeb04274ad6deef1a4ff5f246cce4"
 
 [[files]]
+file = "config/txloader/forceload/customitems/textures/items/heartofthesea.png"
+hash = "caef1485c06952d5842fead2d707d97f6b5eeb8a1a0e420d8a8de10b44cf1290"
+
+[[files]]
 file = "config/txloader/forceload/custommainmenu/textures/backgrounds/01.png"
 hash = "e33dcae8c3f5538f0ed909fd6c4b6c65f12673eeca0c48ef076c1410ac57c155"
 
@@ -1401,6 +1409,11 @@ metafile = true
 [[files]]
 file = "mods/block-replacement-mc1.7.10.pw.toml"
 hash = "3fea758c36f0621c4dce8d473ae70abfef2360efa04fd5f3baa67b929b61b1d6"
+metafile = true
+
+[[files]]
+file = "mods/bloodmagic-custom.pw.toml"
+hash = "be751ca178dd2a179ccf63b2ec07d0f778e41df2c5b627305f29760e5e4dcf34"
 metafile = true
 
 [[files]]
@@ -2008,15 +2021,19 @@ hash = "ea722b734c8ea55ddd59c17852017ab487244aec603872518953ac60c9968950"
 
 [[files]]
 file = "scripts/Symbiotic+Botania-245+and+Thaumcraft-4.2.3.5.zs"
-hash = "798adb8877879c5b64e3bf028cc6ac76ddb33cea0786bceb7c3efbd06243db74"
+hash = "9953a02d45c9a50d305235ae8b86a901d289c878f799bb1b635cdb69965c0217"
 
 [[files]]
 file = "scripts/aspects.zs"
 hash = "2904ab536a6bc972c58cbb30401ad4c9d62e4a5e54e6736fc6ba75ca0993d17f"
 
 [[files]]
+file = "scripts/bloodmagic.zs"
+hash = "3d9d7d6c1807320898c458ff74419133ceba19676ef1bba0ff084bc91ca10faa"
+
+[[files]]
 file = "scripts/botania.zs"
-hash = "fb736b0a7bd79940ac37c855cca27304b0611da95785d3d2648930874e87c378"
+hash = "7d8f4691419798933d822d9709952c414780a34541f4f99e8447096bd20d247b"
 
 [[files]]
 file = "scripts/chisel.zs"
