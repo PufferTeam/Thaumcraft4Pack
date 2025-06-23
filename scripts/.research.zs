@@ -70,6 +70,107 @@ Research.moveResearch("WARDEDARCANA", "ARTIFICE", -2 as int, -1 as int);
 Research.orphanResearch("XP_TALISMAN");
 Research.moveResearch("XP_TALISMAN", "ARTIFICE", -6 as int, 9);
 
+Research.moveResearch("TD.DYEDFORTRESS", "ARTIFICE", -8 as int, 11);
+Research.clearPrereqs("TD.DYEDFORTRESS");
+Research.addPrereq("TD.DYEDFORTRESS", "ARMORFORTRESS", false);
+
+Research.moveResearch("GADOMANCY.ARMORDISGUISE", "ARTIFICE", -7 as int, 13);
+Research.clearPrereqs("GADOMANCY.ARMORDISGUISE");
+Research.addPrereq("GADOMANCY.ARMORDISGUISE", "INFUSIONENCHANTMENT", false);
+
+Research.moveResearch("GADOMANCY.REVEALER", "ARTIFICE", -9 as int, 15);
+Research.clearPrereqs("GADOMANCY.REVEALER");
+Research.addPrereq("GADOMANCY.REVEALER", "INFUSIONENCHANTMENT", false);
+
+Research.moveResearch("TTENCH_ASCENT_BOOST", "ARTIFICE", -11 as int, 14);
+Research.clearPrereqs("TTENCH_ASCENT_BOOST");
+Research.addPrereq("TTENCH_ASCENT_BOOST", "GADOMANCY.REVEALER", false);
+
+Research.moveResearch("TTENCH_POUNCE", "ARTIFICE", -13 as int, 13);
+Research.clearPrereqs("TTENCH_POUNCE");
+Research.addPrereq("TTENCH_POUNCE", "TTENCH_ASCENT_BOOST", false);
+
+Research.moveResearch("TTENCH_SLOW_FALL", "ARTIFICE", -10 as int, 13);
+Research.clearPrereqs("TTENCH_SLOW_FALL");
+Research.addPrereq("TTENCH_SLOW_FALL", "GADOMANCY.REVEALER", false);
+
+Research.moveResearch("TTENCH_SHOCKWAVE", "ARTIFICE", -12 as int, 12);
+Research.clearPrereqs("TTENCH_SHOCKWAVE");
+Research.addPrereq("TTENCH_SHOCKWAVE", "TTENCH_SLOW_FALL", false);
+
+Research.moveResearch("TTENCH_VAMPIRISM", "ARTIFICE", -11 as int, 16);
+Research.clearPrereqs("TTENCH_VAMPIRISM");
+Research.addPrereq("TTENCH_VAMPIRISM", "GADOMANCY.REVEALER", false);
+
+Research.moveResearch("TTENCH_VALIANCE", "ARTIFICE", -13 as int, 15);
+Research.clearPrereqs("TTENCH_VALIANCE");
+Research.addPrereq("TTENCH_VALIANCE", "TTENCH_VAMPIRISM", false);
+
+Research.moveResearch("TTENCH_DISPERSED", "ARTIFICE", -13 as int, 17);
+Research.clearPrereqs("TTENCH_DISPERSED");
+Research.addPrereq("TTENCH_DISPERSED", "TTENCH_VAMPIRISM", false);
+
+Research.moveResearch("TTENCH_FOCUSED", "ARTIFICE", -12 as int, 18);
+Research.clearPrereqs("TTENCH_FOCUSED");
+Research.addPrereq("TTENCH_FOCUSED", "TTENCH_VAMPIRISM", false);
+
+Research.moveResearch("TTENCH_FINAL", "ARTIFICE", -14 as int, 19);
+Research.clearPrereqs("TTENCH_FINAL");
+Research.addPrereq("TTENCH_FINAL", "TTENCH_DISPERSED", false);
+Research.addPrereq("TTENCH_FINAL", "TTENCH_FOCUSED", false);
+
+Research.moveResearch("TTENCH_DESINTEGRATE", "ARTIFICE", -10 as int, 17);
+Research.clearPrereqs("TTENCH_DESINTEGRATE");
+Research.addPrereq("TTENCH_DESINTEGRATE", "GADOMANCY.REVEALER", false);
+
+Research.moveResearch("TTENCH_SHATTER", "ARTIFICE", -11 as int, 19);
+Research.clearPrereqs("TTENCH_SHATTER");
+Research.addPrereq("TTENCH_SHATTER", "TTENCH_DESINTEGRATE", false);
+
+Research.moveResearch("TTENCH_AUTO_SMELT", "ARTIFICE", -8 as int, 17);
+Research.clearPrereqs("TTENCH_AUTO_SMELT");
+Research.addPrereq("TTENCH_AUTO_SMELT", "GADOMANCY.REVEALER", false);
+
+Research.moveResearch("TTENCH_TUNNEL", "ARTIFICE", -7 as int, 19);
+Research.clearPrereqs("TTENCH_TUNNEL");
+Research.addPrereq("TTENCH_TUNNEL", "TTENCH_AUTO_SMELT", false);
+
+Research.moveResearch("TTENCH_QUICK_DRAW", "ARTIFICE", -7 as int, 16);
+Research.clearPrereqs("TTENCH_QUICK_DRAW");
+Research.addPrereq("TTENCH_QUICK_DRAW", "GADOMANCY.REVEALER", false);
+
+Research.moveResearch("ENCHDISARM", "ARTIFICE", -6 as int, 18);
+Research.clearPrereqs("ENCHDISARM");
+Research.addPrereq("ENCHDISARM", "TTENCH_QUICK_DRAW", false);
+
+Research.moveResearch("ENCHBINDING", "ARTIFICE", -5 as int, 17);
+Research.clearPrereqs("ENCHBINDING");
+Research.addPrereq("ENCHBINDING", "TTENCH_QUICK_DRAW", false);
+
+Research.moveResearch("ENCH_RIDEPROTECT", "ARTIFICE", -11 as int, 11);
+Research.setSecondary("ENCH_RIDEPROTECT", true);
+Research.clearPrereqs("ENCH_RIDEPROTECT");
+Research.addPrereq("ENCH_RIDEPROTECT", "TTENCH_SLOW_FALL", false);
+
+Research.moveResearch("ENCHNIGHTVISION", "ARTIFICE", -9 as int, 19);
+Research.clearPrereqs("ENCHNIGHTVISION");
+Research.addPrereq("ENCHNIGHTVISION", "GADOMANCY.REVEALER", false);
+
+Research.moveResearch("ENCH_STEALTH", "ARTIFICE", -8 as int, 20);
+Research.setSecondary("ENCH_STEALTH", true);
+Research.clearPrereqs("ENCH_STEALTH");
+Research.addPrereq("ENCH_STEALTH", "ENCHNIGHTVISION", false);
+
+Research.moveResearch("ENCH_BACKSTAB", "ARTIFICE", -10 as int, 20);
+Research.setSecondary("ENCH_BACKSTAB", true);
+Research.clearPrereqs("ENCH_BACKSTAB");
+Research.addPrereq("ENCH_BACKSTAB", "ENCHNIGHTVISION", false);
+
+Research.moveResearch("ENCH_UNVEILING", "ARTIFICE", -9 as int, 21);
+Research.setSecondary("ENCH_UNVEILING", true);
+Research.clearPrereqs("ENCH_UNVEILING");
+Research.addPrereq("ENCH_UNVEILING", "ENCHNIGHTVISION", false);
+
 Research.moveResearch("NITORLIGHT", "ARTIFICE", -5 as int, 1);
 Research.addPrereq("ARCANELAMP", "NITORLIGHT", false);
 
@@ -83,6 +184,13 @@ Research.moveResearch("MIRRORPUMP", "ARTIFICE", 1, 11);
 Research.clearPrereqs("MIRRORPUMP");
 Research.addPrereq("MIRRORPUMP", "MIRRORESSENTIA", false);
 
+Research.orphanResearch("JARSEAL");
+Research.removeResearch("JARSEAL");
+
+Research.moveResearch("DISLOCATOR", "ARTIFICE", 3, 11);
+Research.clearPrereqs("DISLOCATOR");
+Research.addPrereq("DISLOCATOR", "MIRRORHAND", false);
+
 Research.moveResearch("STABILIZERBELT", "ARTIFICE", 4, 7);
 Research.clearPrereqs("STABILIZERBELT");
 Research.addPrereq("STABILIZERBELT", "HOVERGIRDLE", false);
@@ -90,6 +198,12 @@ Research.addPrereq("STABILIZERBELT", "HOVERGIRDLE", false);
 Research.moveResearch("ALCHEMYBOILER", "ALCHEMY", 4, 1);
 Research.clearPrereqs("ALCHEMYBOILER");
 Research.addPrereq("ALCHEMYBOILER", "DISTILESSENTIA", false);
+
+Research.moveResearch("CRUCSOULS", "ALCHEMY", 4, 3);
+Research.clearPrereqs("CRUCSOULS");
+Research.addPrereq("CRUCSOULS", "ALCHEMYBOILER", false);
+Research.addPrereq("CRUCSOULS", "INFUSION", false);
+Research.addPrereq("CRUCSOULS", "FLESHCURE", true);
 
 Research.orphanResearch("FLOATCANDLE");
 Research.moveResearch("FLOATCANDLE", "ALCHEMY", -2 as int, 1);
@@ -141,30 +255,45 @@ Research.clearPrereqs("GASEOUS_LIGHT");
 Research.addPrereq("GASEOUS_LIGHT", "NITOR", false);
 
 Research.orphanResearch("GASEOUS_SHADOW");
-Research.moveResearch("GASEOUS_SHADOW", "ALCHEMY", -2 as int, -2 as int);
+Research.moveResearch("GASEOUS_SHADOW", "ALCHEMY", -1 as int, -4 as int);
 Research.clearPrereqs("GASEOUS_SHADOW");
 Research.addPrereq("GASEOUS_SHADOW", "GASEOUS_LIGHT", false);
 
 Research.orphanResearch("GAS_REMOVER");
-Research.moveResearch("GAS_REMOVER", "ALCHEMY", -2 as int, -3 as int);
+Research.moveResearch("GAS_REMOVER", "ALCHEMY", -1 as int, -5 as int);
 Research.clearPrereqs("GAS_REMOVER");
 Research.addPrereq("GAS_REMOVER", "GASEOUS_SHADOW", false);
 
-Research.moveResearch("BRIGHT_NITOR", "ALCHEMY", 0, -4 as int);
+Research.moveResearch("BRIGHT_NITOR", "ALCHEMY", 1, -4 as int);
 Research.clearPrereqs("BRIGHT_NITOR");
 Research.addPrereq("BRIGHT_NITOR", "GASEOUS_LIGHT", false);
 
-Research.moveResearch("FIRE_IGNIS", "ALCHEMY", -1 as int, -6 as int);
-Research.moveResearch("FIRE_AQUA", "ALCHEMY", 1, -6 as int);
+Research.orphanResearch("FIRE_IGNIS");
+Research.removeResearch("FIRE_IGNIS");
 
-Research.moveResearch("FIRE_TERRA", "ALCHEMY", -2 as int, -7 as int);
-Research.moveResearch("FIRE_ORDO", "ALCHEMY", 2, -7 as int);
+Research.orphanResearch("FIRE_AQUA");
+Research.removeResearch("FIRE_AQUA");
 
-Research.moveResearch("FIRE_AER", "ALCHEMY", -3 as int, -8 as int);
-Research.moveResearch("FIRE_PERDITIO", "ALCHEMY", 3, -8 as int);
+Research.orphanResearch("FIRE_TERRA");
+Research.removeResearch("FIRE_TERRA");
 
-Research.moveResearch("INFUSED_POTIONS", "ALCHEMY", 0, -9 as int);
+Research.orphanResearch("FIRE_ORDO");
+Research.removeResearch("FIRE_ORDO");
+
+Research.orphanResearch("FIRE_AER");
+Research.removeResearch("FIRE_AER");
+
+Research.orphanResearch("FIRE_PERDITIO");
+Research.removeResearch("FIRE_PERDITIO");
+
+Research.moveResearch("INFUSED_POTIONS", "ALCHEMY", 1, -6 as int);
+Research.clearPrereqs("INFUSED_POTIONS");
+Research.addPrereq("INFUSED_POTIONS", "BRIGHT_NITOR", false);
 Research.addPrereq("INFUSED_POTIONS", "INFUSION", false);
+
+Research.moveResearch("FLESHCURE", "ALCHEMY", -2 as int, -2 as int);
+Research.clearPrereqs("FLESHCURE");
+Research.addPrereq("FLESHCURE", "TALLOW", false);
 
 Research.orphanResearch("INTERFACE");
 Research.moveResearch("INTERFACE", "ALCHEMY", 8, 3);
@@ -198,6 +327,8 @@ Research.moveResearch("PAVETRAVEL", "ARTIFICE", 5, -4 as int);
 Research.moveResearch("PAVEWARD", "ARTIFICE", 4, -4 as int);
 Research.moveResearch("PAVETRAVEL", "ARTIFICE", 6, -4 as int);
 
+//Research.moveResearch("BANNERS", "ARTIFICE", 2, -1 as int);
+
 Research.orphanResearch("AGEINGSTONE");
 Research.moveResearch("AGEINGSTONE", "ARTIFICE", 3, -3 as int);
 Research.clearPrereqs("AGEINGSTONE");
@@ -217,6 +348,12 @@ Research.addPrereq("STONEEXTRUDER", "INFUSION", true);
 Research.moveResearch("ICESOLIDIFIER", "ARTIFICE", 8, -4 as int);
 Research.clearPrereqs("ICESOLIDIFIER");
 Research.addPrereq("ICESOLIDIFIER", "STONEEXTRUDER", false);
+
+Research.moveResearch("URN", "ARTIFICE", 10, -4 as int);
+Research.clearPrereqs("URN");
+Research.addPrereq("URN", "ICESOLIDIFIER", false);
+
+Research.moveResearch("BURN", "ARTIFICE", 9, -2 as int);
 
 Research.moveResearch("SLIVERS", "ARTIFICE", 5, -7 as int);
 Research.moveResearch("SLIVERS_WARDING", "ARTIFICE", 4, -5 as int);
@@ -259,40 +396,63 @@ Research.moveResearch("TD.RUNICBOOTSTRAVELLER", "ARTIFICE", 8, 5);
 Research.clearPrereqs("TD.RUNICBOOTSTRAVELLER");
 Research.addPrereq("TD.RUNICBOOTSTRAVELLER", "TD.RUNICARMOR", false);
 
-Research.moveResearch("REPAIRER", "ARTIFICE", -3 as int, 10);
+Research.moveResearch("REPAIRER", "ARTIFICE", -2 as int, 12);
 Research.addPrereq("REPAIRER", "ARCANEBORE", false);
 
 Research.orphanResearch("MAGNETS");
-Research.moveResearch("MAGNETS", "ARTIFICE", -4 as int, 12);
+Research.moveResearch("MAGNETS", "ARTIFICE", -1 as int, 14);
 Research.clearPrereqs("MAGNETS");
 Research.addPrereq("MAGNETS", "FOCUS_TELEKINESIS", false);
 Research.addPrereq("MAGNETS", "REPAIRER", false);
 
-Research.moveResearch("BLOOD_SWORD", "ARTIFICE", -2 as int, 12);
+Research.moveResearch("REPLICATOR", "ARTIFICE", -3 as int, 14);
+Research.clearPrereqs("REPLICATOR");
+Research.addPrereq("REPLICATOR", "REPAIRER", false);
+
+Research.moveResearch("BLOOD_SWORD", "ARTIFICE", -2 as int, 16);
 Research.clearPrereqs("BLOOD_SWORD");
 Research.addPrereq("BLOOD_SWORD", "ROD_NECROMANCER_staff", false);
-Research.addPrereq("BLOOD_SWORD", "REPAIRER", false);
+//Research.addPrereq("BLOOD_SWORD", "REPAIRER", false);
 
-Research.moveResearch("SUMMON", "ARTIFICE", -3 as int, 14);
+Research.moveResearch("SUMMON", "ARTIFICE", -3 as int, 18);
 Research.clearPrereqs("SUMMON");
-Research.addPrereq("SUMMON", "MAGNETS", false);
+//Research.addPrereq("SUMMON", "MAGNETS", false);
 Research.addPrereq("SUMMON", "BLOOD_SWORD", false);
 
-Research.moveResearch("DISCLOCATOR", "ARTIFICE", -3 as int, 14);
+Research.moveResearch("ANIMATION_TABLET", "AUTOMAGY", 7, -7 as int);
+Research.clearPrereqs("ANIMATION_TABLET");
+Research.addPrereq("ANIMATION_TABLET", "COREUSE", false);
+Research.addPrereq("ANIMATION_TABLET", "GOLEMINHIBITOR", false);
 
 Research.moveResearch("VISREADER", "AUTOMAGY", 2, -1 as int);
 
 Research.moveResearch("ESSENTIALOCUS", "AUTOMAGY", 3, -6 as int);
-Research.moveResearch("THINKTANK", "AUTOMAGY", 3, -7 as int);
 
 Research.moveResearch("ESSENTIALOCUS", "AUTOMAGY", 4, -2 as int);
 Research.moveResearch("ESSENTIALOCUSAGGREGATOR", "AUTOMAGY", 2, -3 as int);
 
-Research.orphanResearch("THINKTANK");
-Research.moveResearch("THINKTANK", "AUTOMAGY", 4, -4 as int);
+Research.moveResearch("GADOMANCY.AURA_CORE", "AUTOMAGY", 3, -5 as int);
+Research.clearPrereqs("GADOMANCY.AURA_CORE");
+Research.addPrereq("GADOMANCY.AURA_CORE", "INFUSION", false);
+Research.addPrereq("GADOMANCY.AURA_CORE", "CRYSTALBRAIN", false);
+
+Research.moveResearch("GADOMANCY.ARCANE_PACKAGER", "AUTOMAGY", 2, -8 as int);
+
+Research.moveResearch("GADOMANCY.KNOWLEDGE_BOOK", "AUTOMAGY", 0, -4 as int);
+
+Research.moveResearch("GADOMANCY.AURA_PYLON", "AUTOMAGY", 1, -6 as int);
+Research.moveResearch("GADOMANCY.AURA_EFFECTS", "AUTOMAGY", 0, -7 as int);
+
+Research.moveResearch("GADOMANCY.CLEAN_AURA_CORE", "AUTOMAGY", 4, -5 as int);
+
+Research.moveResearch("BRAINCURE", "ARTIFICE", -4 as int, 11);
+Research.clearPrereqs("BRAINCURE");
+Research.addPrereq("BRAINCURE", "FLESHCURE", false);
+Research.addPrereq("BRAINCURE", "JARBRAIN", false);
+
+Research.moveResearch("THINKTANK", "ARTIFICE", -5 as int, 13);
 Research.clearPrereqs("THINKTANK");
-Research.addPrereq("THINKTANK", "CRYSTALBRAIN", false);
-Research.addPrereq("THINKTANK", "JARBRAIN", false);
+Research.addPrereq("THINKTANK", "BRAINCURE", false);
 
 Research.moveResearch("GRATE", "AUTOMAGY", 0, -2 as int);
 Research.addPrereq("GRATE", "REDSTONETHEORY", false);
@@ -311,6 +471,11 @@ Research.addPrereq("GADOMANCY.INFUSIONCLAW", "WANDPED", false);
 Research.addPrereq("GADOMANCY.INFUSIONCLAW", "COREUSE", false);
 Research.addPrereq("GADOMANCY.INFUSIONCLAW", "FOCUSPRIMAL", true);
 
+Research.moveResearch("GADOMANCY.ESSENTIA_COMPRESSOR", "ELDRITCH", 5, -5 as int);
+Research.clearPrereqs("GADOMANCY.ESSENTIA_COMPRESSOR");
+Research.addPrereq("GADOMANCY.ESSENTIA_COMPRESSOR", "ESSENTIARESERVOIR", false);
+Research.addPrereq("GADOMANCY.ESSENTIA_COMPRESSOR", "GADOMANCY.AURA_CORE", false);
+
 Research.moveResearch("GADOMANCY.GROWING", "ELDRITCH", -1 as int, -7 as int);
 Research.moveResearch("GADOMANCY.GROWING_AGGRESSION", "ELDRITCH", -4 as int, -6 as int);
 Research.moveResearch("GADOMANCY.GROWING_GROWTH", "ELDRITCH", -3 as int, -5 as int);
@@ -321,6 +486,14 @@ Research.moveResearch("GADOMANCY.E_PORTAL_CREATOR", "ELDRITCH", -4 as int, 1);
 Research.clearPrereqs("GADOMANCY.E_PORTAL_CREATOR");
 Research.addPrereq("GADOMANCY.E_PORTAL_CREATOR", "OCULUS", false);
 Research.addPrereq("GADOMANCY.E_PORTAL_CREATOR", "GADOMANCY.NODE_MANIPULATOR", true);
+
+Research.moveResearch("TD.VOIDROBE", "ELDRITCH", -2 as int, -2 as int);
+Research.clearPrereqs("TD.VOIDROBE");
+Research.addPrereq("TD.VOIDROBE", "ARMORVOIDFORTRESS", false);
+
+Research.moveResearch("TD.MASKEVIL", "ELDRITCH", -4 as int, -1 as int);
+Research.clearPrereqs("TD.MASKEVIL");
+Research.addPrereq("TD.MASKEVIL", "OCULUS", false);
 
 Research.moveResearch("ALCHGRATE", "ELDRITCH", -4 as int, 6);
 
@@ -422,6 +595,15 @@ Research.clearPrereqs("ROD_TRANSMUTATION_staff");
 Research.addPrereq("ROD_TRANSMUTATION_staff", "ROD_TRANSMUTATION", false);
 Research.addPrereq("ROD_TRANSMUTATION_staff", "ROD_greatwood_staff", true);
 
+Research.removeResearch("SHADOWMETAL");
+Research.addResearch("SHADOWMETAL", "TM", "mettalum 3, vitium 3, tenebrae 3", 0, 1, 4, <TaintedMagic:ItemMaterial>);
+Research.setConcealed("SHADOWMETAL", true);
+Research.addPage("SHADOWMETAL", "tc.research_page.SHADOWMETAL.1");
+game.setLocalization("en_US", "tc.research_name.SHADOWMETAL", "Shadowmetal");
+game.setLocalization("en_US", "tc.research_text.SHADOWMETAL", "I have seen the truth");
+game.setLocalization("en_US", "tc.research_page.SHADOWMETAL.1", "By doing experiments, you have found a way to infuse void metal in a way that somehow makes it much more durable and sturdy. This new metal shares some properties of the void metal but seems to be pretty different. <LINE> It is extremely hard and has a very high durability. You think you will need to research some more before it is usable, maybe the whispers can give you more information... but who knows.");
+Research.addPrereq("SHADOWMETAL", "VOIDMETAL", false);
+
 Research.orphanResearch("CLOAKKAMA");
 Research.removeResearch("CLOAKKAMA");
 
@@ -461,6 +643,12 @@ Research.removeResearch("TXHOVERHARNESS");
 Research.orphanResearch("TXBASICARTIFACE");
 Research.removeResearch("TXBASICARTIFACE");
 
+Research.orphanResearch("TXINFUSIONENCHANTMENT");
+Research.removeResearch("TXINFUSIONENCHANTMENT");
+
+Research.orphanResearch("TXDISTILESSENTIA");
+Research.removeResearch("TXDISTILESSENTIA");
+
 Research.orphanResearch("alternateGolemBell");
 Research.removeResearch("alternateGolemBell");
 
@@ -476,6 +664,12 @@ Research.removeResearch("GADOMANCY.PSEUDO.GOLEMTALLOW");
 Research.orphanResearch("GADOMANCY.PSEUDO.JARLABEL");
 Research.removeResearch("GADOMANCY.PSEUDO.JARLABEL");
 
+Research.orphanResearch("GADOMANCY.PSEUDO.ESSENTIARESERVOIR");
+Research.removeResearch("GADOMANCY.PSEUDO.ESSENTIARESERVOIR");
+
+Research.orphanResearch("GADOMANCY.PSEUDO.INFUSIONENCHANTMENT");
+Research.removeResearch("GADOMANCY.PSEUDO.INFUSIONENCHANTMENT");
+
 Research.orphanResearch("GADOMANCY.PSEUDO.WANDPED");
 Research.removeResearch("GADOMANCY.PSEUDO.WANDPED");
 
@@ -490,6 +684,9 @@ Research.removeResearch("GADOMANCY.PSEUDO.COREGUARD");
 
 Research.orphanResearch("GADOMANCY.PSEUDO.COREHARVEST");
 Research.removeResearch("GADOMANCY.PSEUDO.COREHARVEST");
+
+Research.orphanResearch("ENCHANTER");
+Research.removeResearch("ENCHANTER");
 
 Research.moveResearch("TRANSGOLD", "ALCHEMY", 2, 4);
 
@@ -609,10 +806,12 @@ game.setLocalization("en_US", "tc.research_page.CRUSHNICKEL.1", "You have discov
 
 Research.addResearch("ALLOYBASIC", "ALCHEMY", "metallum 3, perditio 1", 2, 10, 8, <ThermalFoundation:material:41>);
 Research.setConcealed("ALLOYBASIC", true);
+Research.setRound("ALLOYBASIC", true);
+Research.addSibling("ALLOYBASIC", "CRUSHIRON");
 Research.addPage("ALLOYBASIC", "tc.research_page.ALLOYBASIC.1");
 Research.addPrereq("ALLOYBASIC", "CRUSHIRON", false);
 game.setLocalization("en_US", "tc.research_name.ALLOYBASIC", "Metal Alloying");
 game.setLocalization("en_US", "tc.research_text.ALLOYBASIC", "Alloying of basic metals into complex blend");
-game.setLocalization("en_US", "tc.research_page.ALLOYBASIC.1", "You have discovered a way to mix metal dusts into more complex versions of the base metals, you have tried multiple combinations and it seems like by mixing specific kind of metals together you can obtain more complex version of these same metal, which mean you can alloy metals by mixing their dusts.<BR>The first alloy you have discovered is Bronze, it seems to be pretty decent and sturdy for tools and seems to be a pretty good material. Made from copper and tin, it is easy to obtain.<BR>Maybe with more time you can find out other alloys.");
+game.setLocalization("en_US", "tc.research_page.ALLOYBASIC.1", "You have discovered a way to mix metal dusts into more complex versions of the base metals, you have tried multiple combinations and it seems like by mixing specific kind of metals together you can obtain more complex version of these same metal, which mean you can alloy metals by mixing their dusts.<BR>The first alloy you have discovered is Bronze, but you also found Invar, Electrum and Constantan. These alloys seems to be the best combination you can make from basic ores.");
 
 Research.refreshResearchRecipe("PLANTS");

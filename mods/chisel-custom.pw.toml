@@ -1,8 +1,8 @@
 name = "Chisel"
-filename = "chisel-2.16.4-GTNH.jar"
+filename = "chisel-2.16.5-GTNH.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/Chisel/releases/download/2.16.4-GTNH/chisel-2.16.4-GTNH.jar"
+url = "https://github.com/GTNewHorizons/Chisel/releases/download/2.16.5-GTNH/chisel-2.16.5-GTNH.jar"
 hash-format = "sha1"
-hash = "168d95133fa035c689be54cf6083446184458cd3"
+hash = "fa69e55b998ecef2f4f0715792dc81e9fd9e47db"

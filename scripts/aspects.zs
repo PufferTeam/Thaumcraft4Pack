@@ -1,5 +1,62 @@
 #Imports
 import mods.thaumcraft.Aspects;
+import mods.nei.NEI;
+
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "aer"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "terra"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "ignis"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "aqua"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "ordo"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "perditio"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "vacuos"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "lux"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "tempestas"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "motus"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "gelum"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "vitreus"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "victus"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "venenum"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "potentia"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "permutatio"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "metallum"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "mortuus"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "volatus"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "tenebrae"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "spiritus"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "sano"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "iter"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "alienis"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "auram"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "vitium"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "limus"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "herba"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "arbor"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "bestia"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "corpus"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "exanimis"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "cognitio"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "sensus"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "humanus"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "messis"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "perfodio"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "instrumentum"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "meto"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "telum"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "tutamen"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "fames"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "lucrum"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "fabrico"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "pannus"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "machina"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "vinculum"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "luxuria"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "infernus"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "superbia"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "gula"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "invidia"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "desidia"}]}));
+NEI.addEntry(<Thaumcraft:ItemCrystalEssence>.withTag({Aspects: [{amount: 1, key: "ira"}]}));
 
 /* 
    Aspects.add = add aspects to items/blocks

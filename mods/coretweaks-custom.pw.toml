@@ -1,8 +1,8 @@
 name = "CoreTweaks"
-filename = "CoreTweaks-1.7.10-0.3.3.2+nomixin.jar"
+filename = "coretweaks-0.3.3.4-GTNH.jar"
 side = "client"
 
 [download]
-url = "https://github.com/makamys/CoreTweaks/releases/download/0.3.3.2/CoreTweaks-1.7.10-0.3.3.2+nomixin.jar"
+url = "https://github.com/GTNewHorizons/CoreTweaks/releases/download/0.3.3.4-GTNH/coretweaks-0.3.3.4-GTNH.jar"
 hash-format = "sha1"
-hash = "33c6bd762dfd312e431ea8207aa2fd0a6bf461db"
+hash = "c0fb702936ec6a5f93992013d8804d65afc25b28"

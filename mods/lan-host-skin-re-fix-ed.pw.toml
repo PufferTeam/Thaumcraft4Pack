@@ -1,0 +1,13 @@
+name = "Lan Host Skin ReFixed"
+filename = "LanHostSkinReFixed-1.7.10-rv1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24d29f06339c3baabab7a250f23a6e38bfec43d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3920698
+project-id = 364836

@@ -1,5 +1,7 @@
+import mods.thaumcraft.Crucible;
 import mods.thaumcraft.Arcane;
 import mods.thaumcraft.Research;
+import mods.thaumcraft.Infusion;
 
 var arcaneBlock = <Thaumcraft:blockCosmeticSolid:6>;
 var arcaneSlab = <Thaumcraft:blockCosmeticSlabStone>;
@@ -50,6 +52,13 @@ var entropyShard = <Thaumcraft:ItemShard:5>;
 furnace.remove(quicksilver);
 furnace.addRecipe(quicksilver, cinnabar);
 furnace.addRecipe(quicksilver * 2, cinnabarCluster);
+
+Crucible.removeRecipe(<ThaumicTinkerer:fireAir>);
+Crucible.removeRecipe(<ThaumicTinkerer:fireFire>);
+Crucible.removeRecipe(<ThaumicTinkerer:fireChaos>);
+Crucible.removeRecipe(<ThaumicTinkerer:fireEarth>);
+Crucible.removeRecipe(<ThaumicTinkerer:fireOrder>);
+Crucible.removeRecipe(<ThaumicTinkerer:fireWater>);
 
 Arcane.removeRecipe(mirroredGlass);
 Arcane.addShapeless("BASICARTIFACE", mirroredGlass, "ordo 5", 
@@ -134,3 +143,5 @@ Arcane.addShaped("ESSENTIACRYSTAL", crystallizer, "terra 15, aqua 5, ordo 5",
 	[arcaneWood, tube, arcaneWood]]
 );
 Research.refreshResearchRecipe("ESSENTIACRYSTAL");
+
+Infusion.removeRecipe(<ThaumicTinkerer:enchanter>);

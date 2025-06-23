@@ -233,9 +233,27 @@ ArcFurnace.addRecipe(<ImmersiveEngineering:metal>, <Mekanism:EnrichedIron>, <Imm
 
 //Bronze
 recipes.remove(<ThermalFoundation:material:41>);
-Arcane.addShapeless("ALLOYBASIC", <ThermalFoundation:material:41> * 4, "ordo 1", [<ThermalFoundation:material:32>, <ThermalFoundation:material:32>, <ThermalFoundation:material:32>, <ThermalFoundation:material:33>]);
-Research.addArcanePage("ALLOYBASIC", <ThermalFoundation:material:41>);
+recipes.addShapeless(<ThermalFoundation:material:41> * 4, [<ThermalFoundation:material:33>, <ThermalFoundation:material:32>, <ThermalFoundation:material:32>, <ThermalFoundation:material:32>]);
 ArcFurnace.addRecipe(<ThermalFoundation:material:41> * 4, <ThermalFoundation:material:33>, null, 100, 512, [<ThermalFoundation:material:32>, <ThermalFoundation:material:32>, <ThermalFoundation:material:32>], "Alloying");
+Research.addCraftingPage("ALLOYBASIC", <ThermalFoundation:material:41>);
+
+//Electrum
+recipes.remove(<ThermalFoundation:material:39>);
+recipes.addShapeless(<ThermalFoundation:material:39> * 2, [<ThermalFoundation:material:1>, <ThermalFoundation:material:34>]);
+ArcFurnace.addRecipe(<ThermalFoundation:material:39> * 2, <ThermalFoundation:material:1>, null, 100, 512, [<ThermalFoundation:material:34>], "Alloying");
+Research.addCraftingPage("ALLOYBASIC", <ThermalFoundation:material:39>);
+
+//Invar
+recipes.remove(<ThermalFoundation:material:40>);
+recipes.addShapeless(<ThermalFoundation:material:40> * 3, [<ThermalFoundation:material>, <ThermalFoundation:material>, <ThermalFoundation:material:36>]);
+ArcFurnace.addRecipe(<ThermalFoundation:material:40> * 3, <ThermalFoundation:material>, null, 100, 512, [<ThermalFoundation:material>, <ThermalFoundation:material:36>], "Alloying");
+Research.addCraftingPage("ALLOYBASIC", <ThermalFoundation:material:40>);
+
+//Constantan
+recipes.remove(<ImmersiveEngineering:metal:15>);
+recipes.addShapeless(<ImmersiveEngineering:metal:15> * 2, [<ThermalFoundation:material:32>, <ThermalFoundation:material:36>]);
+ArcFurnace.addRecipe(<ImmersiveEngineering:metal:15> * 2, <ThermalFoundation:material:32>, null, 100, 512, [<ThermalFoundation:material:36>], "Alloying");
+Research.addCraftingPage("ALLOYBASIC", <ImmersiveEngineering:metal:15>);
 
 function recycling(name as IData, items as IItemStack[], outputs as IItemStack[], ingotValue as IData[], nuggetValue as IData[]) {    
     for i, item in items {

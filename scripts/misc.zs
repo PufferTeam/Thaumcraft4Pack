@@ -80,6 +80,11 @@ recipes.addShapeless(<campfirebackport:shadow_campfire_base>, [<ore:stickWood>, 
 recipes.remove(<RealisticTorches:Matchbox>);
 recipes.addShapeless(<RealisticTorches:Matchbox>, [<ore:stickWood>, <ore:stickWood>, <ore:stickWood>]);
 
+recipes.addShapeless(<campfirebackport:campfire>, [<campfirebackport:campfire_base>, <RealisticTorches:Matchbox>.transformDamage(8)]);
+recipes.addShapeless(<campfirebackport:soul_campfire>, [<campfirebackport:soul_campfire_base>, <RealisticTorches:Matchbox>.transformDamage(8)]);
+recipes.addShapeless(<campfirebackport:foxfire_campfire>, [<campfirebackport:foxfire_campfire_base>, <RealisticTorches:Matchbox>.transformDamage(8)]);
+recipes.addShapeless(<campfirebackport:shadow_campfire>, [<campfirebackport:shadow_campfire_base>, <RealisticTorches:Matchbox>.transformDamage(8)]);
+
 mods.campfirebackport.addCampfireRecipe("both", <RealisticTorches:TorchUnlit>, <RealisticTorches:TorchLit>, 1); 
 mods.campfirebackport.addCampfireRecipe("both", <RealisticTorches:TorchSmoldering>, <RealisticTorches:TorchLit>, 1); 
 mods.campfirebackport.addCampfireIgnitor("both", <RealisticTorches:Matchbox:*>, "damageable", 8, null, true);

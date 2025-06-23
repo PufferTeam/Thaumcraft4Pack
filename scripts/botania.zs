@@ -7,6 +7,7 @@ import mods.botania.Apothecary;
 import mods.botania.PureDaisy;
 import mods.botania.Lexicon;
 import mods.botania.ManaInfusion;
+import mods.botania.RuneAltar;
 
 var icon = <Botania:doubleFlower2:2>;
 var arcaneBlock = <Thaumcraft:blockCosmeticSolid:6>;
@@ -79,59 +80,59 @@ var basicRuneCost = 5000;
 var advancedRuneCost = 8000;
 
 //Research Tab
-mods.thaumcraft.Research.addTab("BOTANY", "thaumcraft", "textures/misc/botania_tab.png");
+Research.addTab("BOTANY", "thaumcraft", "textures/misc/botania_tab.png");
 game.setLocalization("en_US", "tc.research_category.BOTANY", "Botany");
 
 //Water Rune
 Lexicon.removePage("botania.entry.runeAltar", 7);
-mods.botania.RuneAltar.removeRecipe(waterRune);
-mods.botania.RuneAltar.addRecipe(waterRune, [manaPowder, manaSteel, waterShard, waterCrystal, waterCrystal, waterCrystal], basicRuneCost);
+RuneAltar.removeRecipe(waterRune);
+RuneAltar.addRecipe(waterRune, [manaPowder, manaSteel, waterShard, waterCrystal, waterCrystal, waterCrystal], basicRuneCost);
 
 //Earth Rune
 Lexicon.removePage("botania.entry.runeAltar", 7);
-mods.botania.RuneAltar.removeRecipe(earthRune);
-mods.botania.RuneAltar.addRecipe(earthRune, [manaPowder, manaSteel, earthShard, earthCrystal, earthCrystal, earthCrystal], basicRuneCost);
+RuneAltar.removeRecipe(earthRune);
+RuneAltar.addRecipe(earthRune, [manaPowder, manaSteel, earthShard, earthCrystal, earthCrystal, earthCrystal], basicRuneCost);
 
 //Air Rune
 Lexicon.removePage("botania.entry.runeAltar", 7);
-mods.botania.RuneAltar.removeRecipe(airRune);
-mods.botania.RuneAltar.addRecipe(airRune, [manaPowder, manaSteel, airShard, airCrystal, airCrystal, airCrystal], basicRuneCost);
+RuneAltar.removeRecipe(airRune);
+RuneAltar.addRecipe(airRune, [manaPowder, manaSteel, airShard, airCrystal, airCrystal, airCrystal], basicRuneCost);
 
 //Fire Rune
 Lexicon.removePage("botania.entry.runeAltar", 7);
-mods.botania.RuneAltar.removeRecipe(fireRune);
-mods.botania.RuneAltar.addRecipe(fireRune, [manaPowder, manaSteel, fireShard, fireCrystal, fireCrystal, fireCrystal], basicRuneCost);
+RuneAltar.removeRecipe(fireRune);
+RuneAltar.addRecipe(fireRune, [manaPowder, manaSteel, fireShard, fireCrystal, fireCrystal, fireCrystal], basicRuneCost);
 
 //Order Rune
-mods.botania.RuneAltar.addRecipe(orderRune, [manaPowder, manaSteel, orderShard, orderCrystal, orderCrystal, orderCrystal], basicRuneCost);
+RuneAltar.addRecipe(orderRune, [manaPowder, manaSteel, orderShard, orderCrystal, orderCrystal, orderCrystal], basicRuneCost);
 
 //Entropy Rune
-mods.botania.RuneAltar.addRecipe(entropyRune, [manaPowder, manaSteel, entropyShard, entropyCrystal, entropyCrystal, entropyCrystal], basicRuneCost);
+RuneAltar.addRecipe(entropyRune, [manaPowder, manaSteel, entropyShard, entropyCrystal, entropyCrystal, entropyCrystal], basicRuneCost);
 
 //Mana Rune
 Lexicon.removePage("botania.entry.runeAltar", 7);
-mods.botania.RuneAltar.removeRecipe(manaRune);
-mods.botania.RuneAltar.addRecipe(manaRune, [manaPowder, manaSteel, manaSteel, manaSteel, balancedShard, anyCrystal, anyCrystal, anyCrystal], basicRuneCost);
+RuneAltar.removeRecipe(manaRune);
+RuneAltar.addRecipe(manaRune, [manaPowder, manaSteel, manaSteel, manaSteel, balancedShard, anyCrystal, anyCrystal, anyCrystal], basicRuneCost);
 
 //Spring Rune
 Lexicon.removePage("botania.entry.runeAltar", 7);
-mods.botania.RuneAltar.removeRecipe(springRune);
-mods.botania.RuneAltar.addRecipe(springRune, [waterRune, fireRune, entropyRune, springCrystal, springCrystal], advancedRuneCost);
+RuneAltar.removeRecipe(springRune);
+RuneAltar.addRecipe(springRune, [waterRune, fireRune, entropyRune, springCrystal, springCrystal], advancedRuneCost);
 
 //Summer Rune
 Lexicon.removePage("botania.entry.runeAltar", 7);
-mods.botania.RuneAltar.removeRecipe(summerRune);
-mods.botania.RuneAltar.addRecipe(summerRune, [earthRune, airRune, entropyRune, summerCrystal, summerCrystal], advancedRuneCost);
+RuneAltar.removeRecipe(summerRune);
+RuneAltar.addRecipe(summerRune, [earthRune, airRune, entropyRune, summerCrystal, summerCrystal], advancedRuneCost);
 
 //Autumn Rune
 Lexicon.removePage("botania.entry.runeAltar", 7);
-mods.botania.RuneAltar.removeRecipe(autumnRune);
-mods.botania.RuneAltar.addRecipe(autumnRune, [fireRune, airRune, orderRune, autumnCrystal, autumnCrystal], advancedRuneCost);
+RuneAltar.removeRecipe(autumnRune);
+RuneAltar.addRecipe(autumnRune, [fireRune, airRune, orderRune, autumnCrystal, autumnCrystal], advancedRuneCost);
 
 //Winter Rune
 Lexicon.removePage("botania.entry.runeAltar", 7);
-mods.botania.RuneAltar.removeRecipe(winterRune);
-mods.botania.RuneAltar.addRecipe(winterRune, [waterRune, earthRune, orderRune, winterCrystal, winterCrystal], advancedRuneCost);
+RuneAltar.removeRecipe(winterRune);
+RuneAltar.addRecipe(winterRune, [waterRune, earthRune, orderRune, winterCrystal, winterCrystal], advancedRuneCost);
 
 //Basic Research
 Research.addResearch("BOTANY_START", "BOTANY", "herba 3, praecantatio 3, aqua 3", 0, -2 as int, 2, icon);
@@ -168,6 +169,7 @@ Apothecary.removeRecipe("spectranthemum");
 Apothecary.removeRecipe("bubbell");
 Apothecary.removeRecipe("solegnolia");
 
+//Petal Apothecary
 Research.addResearch("PETALALTAR", "BOTANY", "herba 3, praecantatio 3, aqua 3", 0, 0, 2, altar);
 Research.setConcealed("PETALALTAR", true);
 Research.addPage("PETALALTAR", "tc.research_page.PETALALTAR.1");
