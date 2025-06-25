@@ -127,7 +127,10 @@
       "endTimestamp": "",
       "buttons": {}
     },
-    "dynamicIcons": {},
+    "dynamicIcons": {
+      "JohnButlerThird": "https://mc-heads.net/avatar/1c2775d2c70833e88c9ac8ad95f70a42",
+      "Jerome226": "https://mc-heads.net/avatar/e5ee9dad040f3de280b520561fde7fe5"
+    },
     "dynamicVariables": {
       "mods": "{general.mods} Mod(s)",
       "player_info_coordinate": "At {player.position.x}, {player.position.z}",

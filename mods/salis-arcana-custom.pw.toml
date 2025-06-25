@@ -1,0 +1,8 @@
+name = "Salis Arcana"
+filename = "salisarcana-v2.2.0-JB.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PufferTeam-ModArchive/Salis-Arcana/releases/download/v2.2.0-JB/salisarcana-v2.2.0-JB.jar"
+hash-format = "sha1"
+hash = "8d1157833958c42e9ae597ebfaa620c4b04a6063"

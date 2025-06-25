@@ -1,13 +1,13 @@
 name = "TX Loader"
-filename = "txloader-1.8.4.jar"
+filename = "txloader-1.8.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/eh8us8FY/versions/ALI7mKzj/txloader-1.8.4.jar"
+url = "https://cdn.modrinth.com/data/eh8us8FY/versions/ESvYJcnK/txloader-1.8.5.jar"
 hash-format = "sha512"
-hash = "1e1c7bd850c79493521ea19c72d15dc4f00d03e1b3644573e0b92a15fe174d5713c29b05962e9d63a11697d3ed92354e48402851663d9146eaeb84b369a22e05"
+hash = "52309aeaab5c63140019ceafaf9dd8103ef1203cd21b9a26c85b76ab8000e4e3634623ffe4df9c852b47b0ea965032ffcfd2a39c669160fdef0669c68d5abb98"
 
 [update]
 [update.modrinth]
 mod-id = "eh8us8FY"
-version = "ALI7mKzj"
+version = "ESvYJcnK"

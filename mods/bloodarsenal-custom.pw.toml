@@ -1,0 +1,8 @@
+name = "Blood Arsenal"
+filename = "BloodArsenal-1.4.6.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/BloodArsenal/releases/download/1.4.6/BloodArsenal-1.4.6.jar"
+hash-format = "sha256"
+hash = "b5af9e590d87f311e6bd9fdc7c6c4b900354975d8e6d4a0f383e06ca700c90bf"

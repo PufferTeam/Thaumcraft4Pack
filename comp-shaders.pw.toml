@@ -1,8 +1,0 @@
-name = "Complementary Shaders"
-filename = "/shaderpacks/ComplementaryShaders.zip"
-side = "client"
-
-[download]
-url = "https://cdn.modrinth.com/data/R6NEzAwj/versions/1ng9gVp7/ComplementaryUnbound_r5.5.1.zip"
-hash-format = "sha256"
-hash = "61d133b24b6a92e46a3d7df791bb2ff163bbba10eed59df979b9bd727c24fbaf"
