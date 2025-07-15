@@ -1,7 +1,5 @@
 # Disable Git line ending conversion, to prevent packwiz index hashes changing when committing from Windows
 * -text
 
-*.vsh linguist-vendored
-*.fsh linguist-vendored
-*.csh linguist-vendored
-*.glsl linguist-vendored
+resourcepacks/** -linguist-detectable
+shaderpacks/** -linguist-detectable
