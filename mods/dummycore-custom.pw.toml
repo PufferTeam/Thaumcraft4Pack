@@ -1,0 +1,8 @@
+name = "DummyCore"
+filename = "DummyCore-1.19.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/DummyCore/releases/download/1.19.0/DummyCore-1.19.0.jar"
+hash-format = "sha256"
+hash = "d248703d81faa92d597ca2ec234770cbea43881fdb796048597f82de41584de2"

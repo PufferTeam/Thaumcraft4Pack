@@ -9,14 +9,10 @@ var arcaneWood = <customitems:arcane_wood_block>;
 var blankSlate = <AWWayofTime:blankSlate>;
 var bloodAltar = <AWWayofTime:Altar>;
 var alchemicalFurnace = <Thaumcraft:blockStoneDevice>;
-var lead = <ThermalFoundation:material:67>;
-var tin = <ThermalFoundation:material:65>;
+var lead = <materialis:ingot:5>;
+var tin = <materialis:ingot:3>;
 var manaDiamond = <Botania:manaResource:2>;
 var sacrificialKnife = <AWWayofTime:sacrificialKnife>.withTag({sacrifice: 0 as byte});
-
-//Research Tab
-Research.addTab("BLOODMAGIC", "thaumcraft", "textures/misc/bloodmagic_tab.png");
-game.setLocalization("en_US", "tc.research_category.BLOODMAGIC", "Blood Magic");
 
 //Blood Magic Start
 Research.addResearch("BLOODMAGIC_START", "BLOODMAGIC", "ira 3, mortuus 3, exanimus 3", 0, -2 as int, 2, sacrificialKnife);

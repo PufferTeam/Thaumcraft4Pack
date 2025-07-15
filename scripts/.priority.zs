@@ -4,7 +4,37 @@ import minetweaker.data.IData;
 import mods.nei.NEI;
 
 var itemsToRemove = [
-	<ThermalFoundation:lexicon>,
+	<minecraft:wooden_sword:*>,
+	<minecraft:wooden_shovel:*>,
+	<minecraft:wooden_pickaxe:*>,
+	<minecraft:wooden_axe:*>,
+	<minecraft:wooden_hoe:*>,
+	<minecraft:stone_sword:*>,
+	<minecraft:stone_shovel:*>,
+	<minecraft:stone_pickaxe:*>,
+	<minecraft:stone_axe:*>,
+	<minecraft:stone_hoe:*>,
+	<minecraft:diamond_sword:*>,
+	<minecraft:diamond_shovel:*>,
+	<minecraft:diamond_pickaxe:*>,
+	<minecraft:diamond_axe:*>,
+	<minecraft:diamond_hoe:*>,
+	<minecraft:diamond_helmet:*>,
+	<minecraft:diamond_chestplate:*>,
+	<minecraft:diamond_leggings:*>,
+	<minecraft:diamond_boots:*>,
+	<aether_legacy:skyroot_pickaxe:*>,
+	<aether_legacy:skyroot_axe:*>,
+	<aether_legacy:skyroot_shovel:*>,
+	<aether_legacy:skyroot_sword:*>,
+	<aether_legacy:holystone_pickaxe:*>,
+	<aether_legacy:holystone_axe:*>,
+	<aether_legacy:holystone_shovel:*>,
+	<aether_legacy:holystone_sword:*>,
+	<thebetweenlands:weedwoodSword:*>,
+	<thebetweenlands:weedwoodPickaxe:*>,
+	<thebetweenlands:weedwoodAxe:*>,
+	<thebetweenlands:weedwoodShovel:*>,
 	<chisel:limestone_slab:*>,
 	<chisel:marble_slab:*>,
 	<chisel:marble_pillar_slab:*>,
@@ -78,42 +108,9 @@ var itemsToRemove = [
 	<chisel:packedice_stairs.6:8>,
 	<chisel:packedice_stairs.7>,
 	<chisel:packedice_stairs.7:8>,
-	<Mekanism:BasicBlock:1>,
-	<Mekanism:BasicBlock:5>,
-	<Mekanism:BasicBlock:12>,
-	<Mekanism:BasicBlock:13>,
-	<MekanismTools:WoodPaxel>,
-	<MekanismTools:StonePaxel>,
-	<MekanismTools:IronPaxel>,
-	<MekanismTools:DiamondPaxel>,
-	<MekanismTools:GoldPaxel>,
-	<MekanismTools:ObsidianPaxel>,
-	<MekanismTools:LapisLazuliPaxel>,
-	<MekanismTools:OsmiumPaxel>,
-	<MekanismTools:BronzePaxel>,
-	<MekanismTools:GlowstonePaxel>,
-	<MekanismTools:SteelPaxel>,
-	<MekanismTools:LapisLazuliHelmet>,
-	<MekanismTools:LapisLazuliChestplate>,
-	<MekanismTools:LapisLazuliLeggings>,
-	<MekanismTools:LapisLazuliBoots>,
-	<MekanismTools:LapisLazuliPickaxe>,
-	<MekanismTools:LapisLazuliAxe>,
-	<MekanismTools:LapisLazuliShovel>,
-	<MekanismTools:LapisLazuliHoe>,
-	<MekanismTools:LapisLazuliSword>,
-	<MekanismTools:BronzeHelmet>,
-	<MekanismTools:BronzeChestplate>,
-	<MekanismTools:BronzeLeggings>,
-	<MekanismTools:BronzeBoots>,
-	<MekanismTools:BronzePickaxe>,
-	<MekanismTools:BronzeAxe>,
-	<MekanismTools:BronzeShovel>,
-	<MekanismTools:BronzeHoe>,
-	<MekanismTools:BronzeSword>,
+	<jaff:iron_nugget>,
+	<ForgeMicroblock:sawStone>,
 	<etfuturum:quartz_bricks>,
-	<netherlicious:QuartzWall>,
-	<netherlicious:QuartzWall:3>,
 	<etfuturum:red_netherbrick>,
 	<etfuturum:red_netherbrick:1>,
 	<etfuturum:red_netherbrick:2>,
@@ -122,56 +119,47 @@ var itemsToRemove = [
 	<etfuturum:purpur_block>,
 	<etfuturum:purpur_pillar>,
 	<etfuturum:end_bricks>,
-	<BiomesOPlenty:misc:5>,
+	<etfuturum:wooden_armorstand>,
+	<etfuturum:smooth_red_sandstone_slab>,
+	<etfuturum:smooth_red_sandstone_stairs>,
+	<netherlicious:QuartzWall>,
+	<netherlicious:QuartzWall:3>,
 	<netherlicious:dye:1>,
-	<BiomesOPlenty:misc:9>,
 	<netherlicious:dye>,
-	<BiomesOPlenty:misc:6>,
-	<BiomesOPlenty:misc:8>,
 	<netherlicious:dye:2>,
-	<BiomesOPlenty:misc:7>,
 	<netherlicious:Nugget>,
-	<Pistronics2:Block of Camou>,
-	<Pistronics2:Motion Block>,
-	<gravestone:death_info>,
 	<netherlicious:Stem2:2>,
 	<netherlicious:Stem2:3>,
 	<netherlicious:FullWood:6>,
 	<netherlicious:FullWood:7>,
+	<BiomesOPlenty:misc:5>,
+	<BiomesOPlenty:misc:9>,
+	<BiomesOPlenty:misc:6>,
+	<BiomesOPlenty:misc:8>,
+	<BiomesOPlenty:misc:7>,
 	<BiomesOPlenty:mudBricks>,
 	<BiomesOPlenty:stoneSingleSlab>,
 	<BiomesOPlenty:mudBricksStairs>,
 	<BiomesOPlenty:gemOre:15>,
 	<BiomesOPlenty:gemOre:14>,
 	<BiomesOPlenty:gems:7>,
+	<Pistronics2:Block of Camou>,
+	<Pistronics2:Motion Block>,
+	<gravestone:death_info>,
 	<TravellersGear:armorstand>,
 	<TravellersGear:simpleGear:5>,
 	<TravellersGear:simpleGear:4>,
 	<TravellersGear:simpleGear:2>,
 	<TravellersGear:simpleGear:3>,
-	<Botania:stone:*>,
-	<etfuturum:wooden_armorstand>,
 	<witchery:ingredient:52>,
 	<witchery:ingredient:53>,
-	<Botania:stone0Stairs:*>,
+	<Botania:stone:*>,
 	<Botania:stone1Stairs:*>,
-	<Botania:stone2Stairs:*>,
-	<Botania:stone3Stairs:*>,
-	<Botania:stone8Stairs:*>,
 	<Botania:stone9Stairs:*>,
-	<Botania:stone10Stairs:*>,
-	<Botania:stone11Stairs:*>,
-	<Botania:stone0Wall:*>,
-	<Botania:stone0Slab:*>,
+	<Botania:stone0Wall:1>,
 	<Botania:stone1Slab:*>,
-	<Botania:stone2Slab:*>,
-	<Botania:stone3Slab:*>,
-	<Botania:stone8Slab:*>,
 	<Botania:stone9Slab:*>,
-	<Botania:stone10Slab:*>,
-	<Botania:stone11Slab:*>,
 	<Botania:endStoneBrick>,
-	<Botania:endStoneBrick0Slab>,
 	<VillageNames:prismarine:*>,
 	<VillageNames:prismarine_shard>,
 	<VillageNames:prismarine_crystals>,
@@ -179,25 +167,43 @@ var itemsToRemove = [
 ] as IItemStack[];
 
 var oresToRemove = [
-	<ThermalFoundation:material:8>,
 	<Thaumcraft:ItemNugget:1>,
 	<Thaumcraft:ItemNugget:2>,
 	<Thaumcraft:ItemNugget:3>,
 	<Thaumcraft:ItemNugget:4>,
 	<etfuturum:copper_ingot>,
+	<GardenStuff:iron_nugget>,
+	<ForbiddenMagic:FMResource:2>,
+	<TConstruct:oreBerries:0>,
+	<TConstruct:oreBerries:1>,
+	<TConstruct:oreBerries:2>,
+	<TConstruct:oreBerries:3>,
+	<TConstruct:oreBerries:4>,
+	<Mekanism:OreBlock:1>,
+	<Mekanism:OreBlock:2>,
+	<Mekanism:DeepslateOreBlock:1>,
+	<Mekanism:DeepslateOreBlock:2>,
 	<Mekanism:Dust>,
 	<Mekanism:Dust:1>,
+	<Mekanism:Dust:2>,
 	<Mekanism:Dust:3>,
 	<Mekanism:Dust:4>,
 	<Mekanism:Dust:5>,
 	<Mekanism:Dust:6>,
+	<Mekanism:Ingot>,
 	<Mekanism:Ingot:2>,
+	<Mekanism:Ingot:3>,
 	<Mekanism:Ingot:4>,
 	<Mekanism:Ingot:5>,
 	<Mekanism:Ingot:6>,
 	<Mekanism:Ingot:7>,
+	<Mekanism:BasicBlock:1>,
+	<Mekanism:BasicBlock:5>,
+	<Mekanism:BasicBlock:12>,
+	<Mekanism:BasicBlock:13>,
 	<Mekanism:OtherDust:1>,
 	<ImmersiveEngineering:ore:0>,
+	<ImmersiveEngineering:ore:1>,
 	<ImmersiveEngineering:ore:2>,
 	<ImmersiveEngineering:ore:3>,
 	<ImmersiveEngineering:ore:4>,
@@ -205,6 +211,7 @@ var oresToRemove = [
 	<ImmersiveEngineering:storage:2>,
 	<ImmersiveEngineering:storage:3>,
 	<ImmersiveEngineering:storage:4>,
+	<ImmersiveEngineering:storage:5>,
 	<ImmersiveEngineering:storage:6>,
 	<ImmersiveEngineering:storageSlab>,
 	<ImmersiveEngineering:storageSlab:1>,
@@ -213,18 +220,41 @@ var oresToRemove = [
 	<ImmersiveEngineering:storageSlab:4>,
 	<ImmersiveEngineering:storageSlab:5>,
 	<ImmersiveEngineering:storageSlab:6>,
+	<ImmersiveEngineering:metal>,
+	<ImmersiveEngineering:metal:1>,
 	<ImmersiveEngineering:metal:2>,
 	<ImmersiveEngineering:metal:3>,
 	<ImmersiveEngineering:metal:4>,
+	<ImmersiveEngineering:metal:5>,
 	<ImmersiveEngineering:metal:6>,
+	<ImmersiveEngineering:metal:7>,
 	<ImmersiveEngineering:metal:8>,
 	<ImmersiveEngineering:metal:9>,
+	<ImmersiveEngineering:metal:10>,
+	<ImmersiveEngineering:metal:11>,
+	<ImmersiveEngineering:metal:12>,
+	<ImmersiveEngineering:metal:13>,
 	<ImmersiveEngineering:metal:14>,
+	<ImmersiveEngineering:metal:15>,
+	<ImmersiveEngineering:metal:16>,
 	<ImmersiveEngineering:metal:21>,
+	<ImmersiveEngineering:metal:22>,
+	<ImmersiveEngineering:metal:23>,
 	<ImmersiveEngineering:metal:24>,
 	<ImmersiveEngineering:metal:25>,
 	<ImmersiveEngineering:metal:26>,
-	<ImmersiveEngineering:metal:28>
+	<ImmersiveEngineering:metal:27>,
+	<ImmersiveEngineering:metal:28>,
+	<ImmersiveEngineering:metal:29>,
+	<ImmersiveEngineering:metal:30>,
+	<ImmersiveEngineering:metal:31>,
+	<ImmersiveEngineering:metal:32>,
+	<ImmersiveEngineering:metal:33>,
+	<ImmersiveEngineering:metal:34>,
+	<ImmersiveEngineering:metal:35>,
+	<ImmersiveEngineering:metal:36>,
+	<ImmersiveEngineering:metal:37>,
+	<ImmersiveEngineering:metal:38>,
 ] as IItemStack[];
 
 var removeFromOredicts = [
@@ -238,8 +268,12 @@ var removeFromOredicts = [
 	<ore:paxelSteel>,
 	<ore:blockAmber>,
 	<ore:oreCopper>,
+	<ore:oreDeepslateCopper>,
+	<ore:oreTin>,
+	<ore:oreDeepslateTin>,
 	<ore:oreLead>,
 	<ore:oreSilver>,
+	<ore:oreAluminum>,
 	<ore:oreNickel>,
 	<ore:blockCopper>,
 	<ore:blockLead>,
@@ -248,28 +282,65 @@ var removeFromOredicts = [
 	<ore:blockSilver>,
 	<ore:blockNickel>,
 	<ore:blockElectrum>,
+	<ore:blockConstantan>,
+	<ore:blockCupronickel>,
+	<ore:blockCobalt>,
+	<ore:blockArdite>,
+	<ore:blockManyullyn>,
+	<ore:blockAluminum>,
+	<ore:blockAluminium>,
+	<ore:blockAluminumBrass>,
+	<ore:blockAluminiumBrass>,
+	<ore:blockAlumite>,
+	<ore:blockSteel>,
+	<ore:blockEnder>,
 	<ore:ingotCopper>,
 	<ore:ingotLead>,
 	<ore:ingotSilver>,
 	<ore:ingotNickel>,
 	<ore:ingotRefinedLapis>,
 	<ore:ingotElectrum>,
+	<ore:ingotConstantan>,
+	<ore:ingotCupronickel>,
 	<ore:ingotSteel>,
 	<ore:ingotTin>,
 	<ore:ingotBronze>,
+	<ore:ingotAluminum>,
+	<ore:ingotRefinedObsidian>,
+	<ore:ingotRefinedGlowstone>,
+	<ore:nuggetGold>,
 	<ore:nuggetCopper>,
 	<ore:nuggetLead>,
+	<ore:nuggetAluminum>,
 	<ore:nuggetTin>,
 	<ore:nuggetSilver>,
 	<ore:nuggetNickel>,
 	<ore:nuggetElectrum>,
+	<ore:nuggetConstantan>,
+	<ore:nuggetCupronickel>,
+	<ore:nuggetManasteel>,
+	<ore:nuggetAluminum>,
+	<ore:nuggetAluminium>,
+	<ore:plateIron>,
+	<ore:plateAluminum>,
+	<ore:plateLead>,
+	<ore:plateCopper>,
+	<ore:plateElectrum>,
+	<ore:plateConstantan>,
+	<ore:plateNickel>,
+	<ore:plateSilver>,
+	<ore:plateSteel>,
 	<ore:dustIron>,
 	<ore:dustGold>,
 	<ore:dustCopper>,
+	<ore:dustAluminum>,
 	<ore:dustTin>,
 	<ore:dustLead>,
 	<ore:dustSilver>,
+	<ore:dustOsmium>,
 	<ore:dustNickel>,
+	<ore:dustConstantan>,
+	<ore:dustCupronickel>,
 	<ore:dye>,
 	<ore:dyeBlack>,	
 	<ore:dyeBlue>,
@@ -307,6 +378,43 @@ var groupsToRemoveFromChisel = [
 	"voidstonePillar2"
 ] as IData[];
 
+var axesToTag = [
+	<materialis:flint_axe:*>,
+	<materialis:bronze_axe:*>,
+	<materialis:steel_axe:*>,
+	<minecraft:iron_axe:*>,
+	<minecraft:diamond_axe:*>,
+	<minecraft:golden_axe:*>,
+	<AWWayofTime:boundAxe:*>,
+	<Botania:manasteelAxe:*>,
+	<Botania:elementiumAxe:*>,
+	<Botania:terraAxe:*>,
+	<ForbiddenMagic:MorphAxe:*>,
+	<TaintedMagic:ItemShadowmetalAxe:*>,
+	<Thaumcraft:ItemAxeThaumium:*>,
+	<Thaumcraft:ItemAxeElemental:*>,
+	<Thaumcraft:ItemAxeVoid:*>,
+	<aether_legacy:zanite_axe:*>,
+	<aether_legacy:gravitite_axe:*>,
+	<aether_legacy:valkyrie_axe:*>,
+	<etfuturum:netherite_axe:*>,
+	<netherlicious:EfrineAxe:*>,
+	<thebetweenlands:betweenstoneAxe:*>,
+	<thebetweenlands:octineAxe:*>,
+	<thebetweenlands:valoniteAxe:*>,
+] as IItemStack[];
+
+var sawsToTag = [
+	<ForgeMicroblock:sawFlint:*>,
+	<ForgeMicroblock:sawBronze:*>,
+	<ForgeMicroblock:sawIron:*>,
+	<ForgeMicroblock:sawThaumium:*>,
+	<ForgeMicroblock:sawManasteel:*>,
+	<ForgeMicroblock:sawGold:*>,
+	<ForgeMicroblock:sawDiamond:*>,
+	<ForgeMicroblock:sawSteel:*>,
+] as IItemStack[];
+
 for i, items in itemsToRemove {
 	recipes.remove(items);
 
@@ -315,12 +423,11 @@ for i, items in itemsToRemove {
 			oredicts.remove(items);
 		}
 	}
-
-	NEI.hide(items);
 }
 
 for i, items in oresToRemove {
 	recipes.remove(items);
+	furnace.remove(items);
 	mods.immersiveengineering.Crusher.removeRecipe(items);
 	mods.immersiveengineering.MetalPress.removeRecipe(items);
 	mods.immersiveengineering.ArcFurnace.removeRecipe(items);
@@ -332,11 +439,18 @@ for i, items in oresToRemove {
 	}
 }
 
+for i, items in axesToTag {
+	<ore:toolAxe>.add(items);
+}
+
+for i, items in sawsToTag {
+	<ore:toolSaw>.add(items);
+}
+
 for g, groups in groupsToRemoveFromChisel {
 	mods.chisel.Groups.removeGroup(groups);
 }
 
-NEI.addEntry(<BiomesOPlenty:woodenSingleSlab2:5>);
 recipes.remove(<minecraft:sandstone:1>);
 recipes.remove(<minecraft:sandstone:2>);
 recipes.remove(<minecraft:stonebrick:1>);
@@ -345,27 +459,7 @@ recipes.remove(<minecraft:quartz_block:1>);
 recipes.remove(<etfuturum:red_sandstone:2>);
 
 furnace.remove(<etfuturum:copper_ingot>);
-furnace.remove(<ImmersiveEngineering:metal:0>);
-furnace.remove(<ImmersiveEngineering:metal:2>);
-furnace.remove(<ImmersiveEngineering:metal:3>);
-furnace.remove(<ImmersiveEngineering:metal:4>);
-furnace.remove(<ImmersiveEngineering:metal:6>);
-
-function changeOre(item as IItemStack, oredicts as IOreDictEntry[], type as IData) {
-	recipes.remove(item);
-	if(type == 1) {
-		mods.immersiveengineering.Crusher.removeRecipe(item);
-	}
-	oredicts[0].remove(item);
-	oredicts[1].add(item);
-}
-
-changeOre(<ImmersiveEngineering:metal:22>, [<ore:nuggetCopper>, <ore:nuggetPigIron>], 0);
-changeOre(<ImmersiveEngineering:metal>, [<ore:ingotCopper>, <ore:ingotPigIron>], 0);
-changeOre(<ImmersiveEngineering:metal:10>, [<ore:dustCopper>, <ore:dustPigIron>], 1);
-changeOre(<ImmersiveEngineering:metal:12>, [<ore:dustLead>, <ore:dustBauxite>], 1);
-changeOre(<ImmersiveEngineering:metal:13>, [<ore:dustSilver>, <ore:dustAlumina>], 1);
-changeOre(<ImmersiveEngineering:metal:16>, [<ore:dustElectrum>, <ore:dustSteel>], 1);
+furnace.remove(<ImmersiveEngineering:metal:*>);
 
 recipes.removeShapeless(<WitchingGadgets:WG_MetalDevice>);
 

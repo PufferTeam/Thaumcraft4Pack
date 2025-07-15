@@ -79,10 +79,6 @@ var manaRune = <Botania:rune:7>;
 var basicRuneCost = 5000;
 var advancedRuneCost = 8000;
 
-//Research Tab
-Research.addTab("BOTANY", "thaumcraft", "textures/misc/botania_tab.png");
-game.setLocalization("en_US", "tc.research_category.BOTANY", "Botany");
-
 //Water Rune
 Lexicon.removePage("botania.entry.runeAltar", 7);
 RuneAltar.removeRecipe(waterRune);

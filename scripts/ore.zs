@@ -15,11 +15,8 @@ var none = <etfuturum:barrier>;
 furnace.addRecipe(<ImmersiveEngineering:metal:7>, none);
 InfernalBlastfurnace.removeRecipe(<ImmersiveEngineering:metal:1>);
 Crucible.removeRecipe(<WitchingGadgets:item.WG_Cluster>);
-InfernalBlastfurnace.removeRecipe(<ThermalFoundation:material:69>);
 Crucible.removeRecipe(<WitchingGadgets:item.WG_Cluster:7>);
 Crucible.removeRecipe(<WitchingGadgets:item.WG_Cluster:39>);
-InfernalBlastfurnace.removeRecipe(<ThermalFoundation:material:70>);
-Crucible.removeRecipe(<WitchingGadgets:item.WG_Cluster:24>);
 Crucible.removeRecipe(<WitchingGadgets:item.WG_Cluster:37>);
 function ore(name as IData, items as IItemStack[], ores as IItemStack[], type as IData[], bonus as IItemStack, tier as IData, research_key as IData[], elements as IData[]) {
     //Crafting
@@ -51,7 +48,7 @@ function ore(name as IData, items as IItemStack[], ores as IItemStack[], type as
             furnace.addRecipe(items[1], ores[0]);
 
             //Ore To Ingot
-            ArcFurnace.addRecipe(items[1], ores[0], <ImmersiveEngineering:material:13>, 20, 512, [], "Ores");
+            ArcFurnace.addRecipe(items[1], ores[0], <materialis:gem:1>, 20, 512, [], "Ores");
         }
 
         //Raw Ore Block
@@ -96,7 +93,7 @@ function ore(name as IData, items as IItemStack[], ores as IItemStack[], type as
             }
 
             //Arc Furnace
-            ArcFurnace.addRecipe(items[1] * 2, ores[2], <ImmersiveEngineering:material:13>, 20, 512, [], "Ores");
+            ArcFurnace.addRecipe(items[1] * 2, ores[2], <materialis:gem:1>, 20, 512, [], "Ores");
         }
 
         //Dust
@@ -190,25 +187,21 @@ function ore(name as IData, items as IItemStack[], ores as IItemStack[], type as
 //[block, ingot, nugget, dust, plate, gear, rod]
 //   0      1      2      3      4     5     6
 
-ore('iron', [<minecraft:iron_block>, <minecraft:iron_ingot>, <Thaumcraft:ItemNugget>, <ThermalFoundation:material:0>, <ImmersiveEngineering:metal:30>, <ThermalFoundation:material:12>, <ImmersiveEngineering:material:14>], [<etfuturum:raw_ore:1>, <etfuturum:raw_ore_block:1>, <Thaumcraft:ItemNugget:16>], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], <ThermalFoundation:material:36>, 1, ["PUREIRON", "TRANSIRON", "CRUSHIRON"], ["metallum 2, terra 1, ordo 1", "metallum 2, terra 1", "perditio 1"]);
-ore('gold', [<minecraft:gold_block>, <minecraft:gold_ingot>, <minecraft:gold_nugget>, <ThermalFoundation:material:1>, none, <ThermalFoundation:material:13>, none], [<etfuturum:raw_ore:2>, <etfuturum:raw_ore_block:2>, <Thaumcraft:ItemNugget:31>], [1, 1, 1, 1, 1, 1, 1, 0, 1, 0], <ThermalFoundation:material:20>, 1, ["PUREGOLD", "TRANSGOLD", "CRUSHGOLD"], ["metallum 2, ordo 1, perditio 1", "metallum 2, lucrum 1", "perditio 1"]);
-ore('copper', [<ThermalFoundation:Storage:0>, <ThermalFoundation:material:64>, <ThermalFoundation:material:96>, <ThermalFoundation:material:32>, <ImmersiveEngineering:metal:31>, <ThermalFoundation:material:128>, none], [<etfuturum:raw_ore:0>, <etfuturum:raw_ore_block:0>, <Thaumcraft:ItemNugget:17>], [1, 1, 1, 1, 1, 1, 1, 1, 1, 0], <ImmersiveEngineering:metal:9>, 1, ["PURECOPPER", "TRANSCOPPER", "CRUSHCOPPER"], ["metallum 2, ordo 1, perditio 1", "metallum 2, permutatio 1", "perditio 1"]);
-ore('tin', [<ThermalFoundation:Storage:1>, <ThermalFoundation:material:65>, <ThermalFoundation:material:97>, <ThermalFoundation:material:33>, none, <ThermalFoundation:material:129>, none], [<etfuturum:modded_raw_ore:1>, <etfuturum:modded_raw_ore_block:1>, <Thaumcraft:ItemNugget:18>], [1, 1, 1, 1, 1, 1, 1, 0, 1, 0], <ThermalFoundation:material:0>, 1, ["PURETIN", "TRANSTIN", "CRUSHTIN"], ["metallum 2, ordo 1, perditio 1", "metallum 2, vitreus 1", "perditio 1"]);
-ore('silver', [<ThermalFoundation:Storage:2>, <ThermalFoundation:material:66>, <ThermalFoundation:material:98>, <ThermalFoundation:material:34>, <ImmersiveEngineering:metal:34>, <ThermalFoundation:material:130>, none], [<etfuturum:modded_raw_ore:2>, <etfuturum:modded_raw_ore_block:2>, <Thaumcraft:ItemNugget:19>], [1, 1, 1, 1, 1, 1, 1, 1, 1, 0], <ThermalFoundation:material:35>, 1, ["PURESILVER", "TRANSSILVER", "CRUSHSILVER"], ["metallum 2, ordo 1, perditio 1", "metallum 2, lucrum 1", "perditio 1"]);
-ore('lead', [<ThermalFoundation:Storage:3>, <ThermalFoundation:material:67>, <ThermalFoundation:material:99>, <ThermalFoundation:material:35>, <ImmersiveEngineering:metal:33>, <ThermalFoundation:material:131>, none], [<etfuturum:modded_raw_ore:3>, <etfuturum:modded_raw_ore_block:3>, <Thaumcraft:ItemNugget:20>], [1, 1, 1, 1, 1, 1, 1, 1, 1, 0], <ThermalFoundation:material:34>, 1, ["PURELEAD", "TRANSLEAD", "CRUSHLEAD"], ["metallum 2, ordo 1, perditio 1", "metallum 2, ordo 1", "perditio 1"]);
-ore('nickel', [<ThermalFoundation:Storage:4>, <ThermalFoundation:material:68>, <ThermalFoundation:material:100>, <ThermalFoundation:material:36>, <ImmersiveEngineering:metal:35>, <ThermalFoundation:material:132>, none], [<etfuturum:modded_raw_ore:4>, <etfuturum:modded_raw_ore_block:4>, <WitchingGadgets:item.WG_Cluster:3>], [1, 1, 1, 1, 1, 1, 1, 1, 1, 0], <ThermalFoundation:material:37>, 2, ["PURENICKEL", "TRANSNICKEL", "CRUSHNICKEL"], ["metallum 2, ordo 1, perditio 1", "metallum 2, terra 1", "perditio 1"]);
-ore('aluminum', [<ImmersiveEngineering:storage:1>, <ImmersiveEngineering:metal:1>, <ImmersiveEngineering:metal:23>, <ImmersiveEngineering:metal:11>, <ImmersiveEngineering:metal:32>, none, <ImmersiveEngineering:material:16>], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 1, 0, 1], none, -1, [], []);
-ore('platinum', [<ThermalFoundation:Storage:5>, <ThermalFoundation:material:69>, <ThermalFoundation:material:101>, <ThermalFoundation:material:37>, none, <ThermalFoundation:material:133>, none], [<etfuturum:modded_raw_ore:5>, <etfuturum:modded_raw_ore_block:5>, none], [1, 1, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
-ore('mythril', [<ThermalFoundation:Storage:6>, <ThermalFoundation:material:70>, <ThermalFoundation:material:102>, <ThermalFoundation:material:38>, none, <ThermalFoundation:material:134>, none], [<etfuturum:modded_raw_ore:6>, <etfuturum:modded_raw_ore_block:6>, none], [1, 1, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
+ore('iron', [<minecraft:iron_block>, <minecraft:iron_ingot>, <Thaumcraft:ItemNugget>, <materialis:dust>, <materialis:plate>, <materialis:gear>, <ImmersiveEngineering:material:14>], [<etfuturum:raw_ore:1>, <etfuturum:raw_ore_block:1>, <Thaumcraft:ItemNugget:16>], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], <materialis:dust:6>, 1, ["PUREIRON", "TRANSIRON", "CRUSHIRON"], ["metallum 2, terra 1, ordo 1", "metallum 2, terra 1", "perditio 1"]);
+ore('gold', [<minecraft:gold_block>, <minecraft:gold_ingot>, <minecraft:gold_nugget>, <materialis:dust:1>, <materialis:plate:1>, <materialis:gear:1>, none], [<etfuturum:raw_ore:2>, <etfuturum:raw_ore_block:2>, <Thaumcraft:ItemNugget:31>], [1, 1, 1, 1, 1, 1, 1, 0, 1, 0], <materialis:gem>, 1, ["PUREGOLD", "TRANSGOLD", "CRUSHGOLD"], ["metallum 2, ordo 1, perditio 1", "metallum 2, lucrum 1", "perditio 1"]);
+ore('copper', [<materialis:block>, <materialis:ingot:2>, <materialis:nugget:2>, <materialis:dust:2>, <materialis:plate:2>, <materialis:gear:2>, none], [<etfuturum:raw_ore:0>, <etfuturum:raw_ore_block:0>, <Thaumcraft:ItemNugget:17>], [1, 1, 1, 1, 1, 1, 1, 1, 1, 0], <materialis:dust:1>, 1, ["PURECOPPER", "TRANSCOPPER", "CRUSHCOPPER"], ["metallum 2, ordo 1, perditio 1", "metallum 2, permutatio 1", "perditio 1"]);
+ore('tin', [<materialis:block:1>, <materialis:ingot:3>, <materialis:nugget:3>, <materialis:dust:3>, <materialis:plate:3>, <materialis:gear:3>, none], [<etfuturum:modded_raw_ore:1>, <etfuturum:modded_raw_ore_block:1>, <Thaumcraft:ItemNugget:18>], [1, 1, 1, 1, 1, 1, 1, 0, 1, 0], <materialis:dust>, 1, ["PURETIN", "TRANSTIN", "CRUSHTIN"], ["metallum 2, ordo 1, perditio 1", "metallum 2, vitreus 1", "perditio 1"]);
+ore('silver', [<materialis:block:2>, <materialis:ingot:4>, <materialis:nugget:4>, <materialis:dust:4>, <materialis:plate:4>, <materialis:gear:4>, none], [<etfuturum:modded_raw_ore:2>, <etfuturum:modded_raw_ore_block:2>, <Thaumcraft:ItemNugget:19>], [1, 1, 1, 1, 1, 1, 1, 1, 1, 0], <materialis:dust:5>, 1, ["PURESILVER", "TRANSSILVER", "CRUSHSILVER"], ["metallum 2, ordo 1, perditio 1", "metallum 2, lucrum 1", "perditio 1"]);
+ore('lead', [<materialis:block:3>, <materialis:ingot:5>, <materialis:nugget:5>, <materialis:dust:5>, <materialis:plate:5>, <materialis:gear:5>, none], [<etfuturum:modded_raw_ore:3>, <etfuturum:modded_raw_ore_block:3>, <Thaumcraft:ItemNugget:20>], [1, 1, 1, 1, 1, 1, 1, 1, 1, 0], <materialis:dust:4>, 1, ["PURELEAD", "TRANSLEAD", "CRUSHLEAD"], ["metallum 2, ordo 1, perditio 1", "metallum 2, ordo 1", "perditio 1"]);
+ore('nickel', [<materialis:block:4>, <materialis:ingot:6>, <materialis:nugget:6>, <materialis:dust:6>, <materialis:plate:6>, <materialis:gear:6>, none], [<etfuturum:modded_raw_ore:4>, <etfuturum:modded_raw_ore_block:4>, <WitchingGadgets:item.WG_Cluster:3>], [1, 1, 1, 1, 1, 1, 1, 1, 1, 0], <materialis:dust:11>, 2, ["PURENICKEL", "TRANSNICKEL", "CRUSHNICKEL"], ["metallum 2, ordo 1, perditio 1", "metallum 2, terra 1", "perditio 1"]);
+ore('aluminum', [<ImmersiveEngineering:storage:1>, <materialis:ingot:13>, <materialis:nugget:13>, <materialis:dust:13>, <materialis:plate:13>, <materialis:gear:13>, <ImmersiveEngineering:material:16>], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 1, 0, 1], none, -1, [], []);
+ore('platinum', [<materialis:block:9>, <materialis:ingot:11>, <materialis:nugget:11>, <materialis:dust:11>, <materialis:plate:11>, <materialis:gear:11>, none], [<etfuturum:modded_raw_ore:5>, <etfuturum:modded_raw_ore_block:5>, none], [1, 1, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
 
-ore('electrum', [<ThermalFoundation:Storage:7>, <ThermalFoundation:material:71>, <ThermalFoundation:material:103>, <ThermalFoundation:material:39>, <ImmersiveEngineering:metal:37>, <ThermalFoundation:material:135>, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 1, 1, 0], none, -1, [], []);
-ore('constantan', [<ImmersiveEngineering:storage:5>, <ImmersiveEngineering:metal:5>, <ImmersiveEngineering:metal:27>, <ImmersiveEngineering:metal:15>, <ImmersiveEngineering:metal:36>, none, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 1, 0, 0], none, -1, [], []);
-ore('steel', [<ImmersiveEngineering:storage:7>, <ImmersiveEngineering:metal:7>, <ImmersiveEngineering:metal:29>, <ImmersiveEngineering:metal:16>, <ImmersiveEngineering:metal:38>, none, <ImmersiveEngineering:material:15>], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 1, 0, 1], none, -1, [], []);
-ore('bronze', [<ThermalFoundation:Storage:9>, <ThermalFoundation:material:73>, <ThermalFoundation:material:105>, <ThermalFoundation:material:41>, none, <ThermalFoundation:material:137>, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
-ore('invar', [<ThermalFoundation:Storage:8>, <ThermalFoundation:material:72>, <ThermalFoundation:material:104>, <ThermalFoundation:material:40>, none, <ThermalFoundation:material:136>, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
-ore('signalum', [<ThermalFoundation:Storage:10>, <ThermalFoundation:material:74>, <ThermalFoundation:material:106>, <ThermalFoundation:material:42>, none, <ThermalFoundation:material:138>, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
-ore('lumium', [<ThermalFoundation:Storage:11>, <ThermalFoundation:material:75>, <ThermalFoundation:material:107>, <ThermalFoundation:material:43>, none, <ThermalFoundation:material:139>, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
-ore('enderium', [<ThermalFoundation:Storage:12>, <ThermalFoundation:material:76>, <ThermalFoundation:material:108>, <ThermalFoundation:material:44>, none, <ThermalFoundation:material:140>, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
+ore('electrum', [<materialis:block:6>, <materialis:ingot:8>, <materialis:nugget:8>, <materialis:dust:8>, <materialis:plate:8>, <materialis:gear:8>, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 1, 1, 0], none, -1, [], []);
+ore('constantan', [<materialis:block:8>, <materialis:ingot:10>, <materialis:nugget:10>, <materialis:dust:10>, <materialis:plate:10>, <materialis:gear:10>, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 1, 0, 0], none, -1, [], []);
+ore('steel', [<ImmersiveEngineering:storage:7>, <materialis:ingot:12>, <materialis:nugget:12>, <materialis:dust:12>, <materialis:plate:12>, <materialis:gear:12>, <ImmersiveEngineering:material:15>], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 1, 0, 1], none, -1, [], []);
+ore('bronze', [<materialis:block:5>, <materialis:ingot:7>, <materialis:nugget:7>, <materialis:dust:7>, <materialis:plate:7>, <materialis:gear:7>, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
+ore('invar', [<materialis:block:7>, <materialis:ingot:9>, <materialis:nugget:9>, <materialis:dust:9>, <materialis:plate:9>, <materialis:gear:9>, none], [none, none, none], [0, 0, 0, 1, 1, 1, 1, 0, 1, 0], none, -1, [], []);
 ore('pig_iron', [none, <ImmersiveEngineering:metal>, <ImmersiveEngineering:metal:22>, <ImmersiveEngineering:metal:10>, none, none, none], [none, none, none], [0, 0, 0, 0, 1, 1, 1, 0, 0, 0], none, -1, [], []);
 
 //Unused IE Ingots
@@ -227,33 +220,29 @@ InfernalBlastfurnace.removeRecipe(<ImmersiveEngineering:storage:7>);
 InfernalBlastfurnace.removeRecipe(<ImmersiveEngineering:metal:0>);
 ArcFurnace.removeRecipe(<ImmersiveEngineering:metal:0>);
 ArcFurnace.removeRecipe(<ImmersiveEngineering:metal:7>);
-BlastFurnace.addRecipe(<ImmersiveEngineering:metal>, <Mekanism:EnrichedIron>, 1200, <ImmersiveEngineering:material:13>);
+BlastFurnace.addRecipe(<ImmersiveEngineering:metal>, <Mekanism:EnrichedIron>, 1200, <materialis:gem:1>);
 InfernalBlastfurnace.addRecipe(<ImmersiveEngineering:metal:7>, <ImmersiveEngineering:metal>, 500, null, true);
-ArcFurnace.addRecipe(<ImmersiveEngineering:metal>, <Mekanism:EnrichedIron>, <ImmersiveEngineering:material:13>, 400, 512, [<ImmersiveEngineering:metal:17>], "Alloying");
+ArcFurnace.addRecipe(<ImmersiveEngineering:metal>, <Mekanism:EnrichedIron>, <materialis:gem:1>, 400, 512, [<ImmersiveEngineering:metal:17>], "Alloying");
 
 //Bronze
-recipes.remove(<ThermalFoundation:material:41>);
-recipes.addShapeless(<ThermalFoundation:material:41> * 4, [<ThermalFoundation:material:33>, <ThermalFoundation:material:32>, <ThermalFoundation:material:32>, <ThermalFoundation:material:32>]);
-ArcFurnace.addRecipe(<ThermalFoundation:material:41> * 4, <ThermalFoundation:material:33>, null, 100, 512, [<ThermalFoundation:material:32>, <ThermalFoundation:material:32>, <ThermalFoundation:material:32>], "Alloying");
-Research.addCraftingPage("ALLOYBASIC", <ThermalFoundation:material:41>);
+recipes.remove(<materialis:dust:7>);
+recipes.addShapeless(<materialis:dust:7> * 4, [<materialis:dust:3>, <materialis:dust:2>, <materialis:dust:2>, <materialis:dust:2>]);
+ArcFurnace.addRecipe(<materialis:dust:7> * 4, <materialis:dust:3>, null, 100, 512, [<materialis:dust:2>, <materialis:dust:2>, <materialis:dust:2>], "Alloying");
 
 //Electrum
-recipes.remove(<ThermalFoundation:material:39>);
-recipes.addShapeless(<ThermalFoundation:material:39> * 2, [<ThermalFoundation:material:1>, <ThermalFoundation:material:34>]);
-ArcFurnace.addRecipe(<ThermalFoundation:material:39> * 2, <ThermalFoundation:material:1>, null, 100, 512, [<ThermalFoundation:material:34>], "Alloying");
-Research.addCraftingPage("ALLOYBASIC", <ThermalFoundation:material:39>);
+recipes.remove(<materialis:dust:8>);
+recipes.addShapeless(<materialis:dust:8> * 2, [<materialis:dust:1>, <materialis:dust:4>]);
+ArcFurnace.addRecipe(<materialis:dust:8> * 2, <materialis:dust:1>, null, 100, 512, [<materialis:dust:4>], "Alloying");
 
 //Invar
-recipes.remove(<ThermalFoundation:material:40>);
-recipes.addShapeless(<ThermalFoundation:material:40> * 3, [<ThermalFoundation:material>, <ThermalFoundation:material>, <ThermalFoundation:material:36>]);
-ArcFurnace.addRecipe(<ThermalFoundation:material:40> * 3, <ThermalFoundation:material>, null, 100, 512, [<ThermalFoundation:material>, <ThermalFoundation:material:36>], "Alloying");
-Research.addCraftingPage("ALLOYBASIC", <ThermalFoundation:material:40>);
+recipes.remove(<materialis:dust:9>);
+recipes.addShapeless(<materialis:dust:9> * 3, [<materialis:dust>, <materialis:dust>, <materialis:dust:6>]);
+ArcFurnace.addRecipe(<materialis:dust:9> * 3, <materialis:dust>, null, 100, 512, [<materialis:dust>, <materialis:dust:6>], "Alloying");
 
 //Constantan
-recipes.remove(<ImmersiveEngineering:metal:15>);
-recipes.addShapeless(<ImmersiveEngineering:metal:15> * 2, [<ThermalFoundation:material:32>, <ThermalFoundation:material:36>]);
-ArcFurnace.addRecipe(<ImmersiveEngineering:metal:15> * 2, <ThermalFoundation:material:32>, null, 100, 512, [<ThermalFoundation:material:36>], "Alloying");
-Research.addCraftingPage("ALLOYBASIC", <ImmersiveEngineering:metal:15>);
+recipes.remove(<materialis:dust:10>);
+recipes.addShapeless(<materialis:dust:10> * 2, [<materialis:dust:2>, <materialis:dust:6>]);
+ArcFurnace.addRecipe(<materialis:dust:10> * 2, <materialis:dust:2>, null, 100, 512, [<materialis:dust:6>], "Alloying");
 
 function recycling(name as IData, items as IItemStack[], outputs as IItemStack[], ingotValue as IData[], nuggetValue as IData[]) {    
     for i, item in items {
@@ -268,14 +257,3 @@ function recycling(name as IData, items as IItemStack[], outputs as IItemStack[]
         }
 	}
 }
-
-recycling('iron', [<minecraft:iron_block>, <minecraft:iron_shovel>, <minecraft:iron_pickaxe>, <minecraft:iron_axe>, <minecraft:iron_sword>, <minecraft:iron_hoe>, <minecraft:iron_helmet>, <minecraft:iron_chestplate>, <minecraft:iron_leggings>, <minecraft:iron_boots>, <aether_legacy:iron_gloves>, <ThermalFoundation:tool.fishingRodIron>, <ThermalFoundation:tool.sickleIron>, <ThermalFoundation:tool.bowIron>, <Thaumcraft:WandCap>, <ImmersiveEngineering:metal:30>, <ThermalFoundation:material:12>, <ImmersiveEngineering:material:14>, <ImmersiveEngineering:metalDecoration:10>, <minecraft:shears>], [<minecraft:iron_ingot>, <Thaumcraft:ItemNugget>], [9, 1, 3, 3, 2, 1, 5, 8, 7, 4, 2, 2, 3, 2, 0, 1, 4, 0, 1, 2], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 4, 0, 0]);
-recycling('gold', [<minecraft:gold_block>, <minecraft:golden_shovel>, <minecraft:golden_pickaxe>, <minecraft:golden_axe>, <minecraft:golden_sword>, <minecraft:golden_hoe>, <minecraft:golden_helmet>, <minecraft:golden_chestplate>, <minecraft:golden_leggings>, <minecraft:golden_boots>, <aether_legacy:golden_gloves>, <ThermalFoundation:tool.fishingRodGold>, <ThermalFoundation:tool.sickleGold>, <ThermalFoundation:tool.bowGold>, <Thaumcraft:WandCap:1>, <ThermalFoundation:tool.shearsGold>, <ThermalFoundation:material:13>], [<minecraft:gold_ingot>, <minecraft:gold_nugget>], [9, 1, 3, 3, 2, 1, 5, 8, 7, 4, 2, 2, 3, 2, 0, 2, 4], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]);
-recycling('copper', [<ThermalFoundation:Storage:0>, <ThermalFoundation:tool.shovelCopper>, <ThermalFoundation:tool.pickaxeCopper>, <ThermalFoundation:tool.axeCopper>, <ThermalFoundation:tool.swordCopper>, <ThermalFoundation:tool.hoeCopper>, <ThermalFoundation:armor.helmetCopper>, <ThermalFoundation:armor.plateCopper>, <ThermalFoundation:armor.legsCopper>, <ThermalFoundation:armor.bootsCopper>, <ThermalFoundation:tool.fishingRodCopper>, <ThermalFoundation:tool.sickleCopper>, <ThermalFoundation:tool.bowCopper>, <Thaumcraft:WandCap:3>, <ThermalFoundation:tool.shearsCopper>, <ThermalFoundation:material:128>, <ImmersiveEngineering:metal:31>], [<ThermalFoundation:material:64>, <ThermalFoundation:material:96>], [9, 1, 3, 3, 2, 1, 5, 8, 7, 4, 2, 3, 2, 0, 2, 4, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0]);
-recycling('tin', [<ThermalFoundation:Storage:1>, <ThermalFoundation:tool.shovelTin>, <ThermalFoundation:tool.pickaxeTin>, <ThermalFoundation:tool.axeTin>, <ThermalFoundation:tool.swordTin>, <ThermalFoundation:tool.hoeTin>, <ThermalFoundation:armor.helmetTin>, <ThermalFoundation:armor.plateTin>, <ThermalFoundation:armor.legsTin>, <ThermalFoundation:armor.bootsTin>, <ThermalFoundation:tool.fishingRodTin>, <ThermalFoundation:tool.sickleTin>, <ThermalFoundation:tool.bowTin>, <ThermalFoundation:tool.shearsTin>, <ThermalFoundation:material:129>], [<ThermalFoundation:material:65>, <ThermalFoundation:material:97>], [9, 1, 3, 3, 2, 1, 5, 8, 7, 4, 2, 3, 2, 2, 4], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]);
-recycling('silver', [<ThermalFoundation:Storage:2>, <ThermalFoundation:tool.shovelSilver>, <ThermalFoundation:tool.pickaxeSilver>, <ThermalFoundation:tool.axeSilver>, <ThermalFoundation:tool.swordSilver>, <ThermalFoundation:tool.hoeSilver>, <ThermalFoundation:armor.helmetSilver>, <ThermalFoundation:armor.plateSilver>, <ThermalFoundation:armor.legsSilver>, <ThermalFoundation:armor.bootsSilver>, <ThermalFoundation:tool.fishingRodSilver>, <ThermalFoundation:tool.sickleSilver>, <ThermalFoundation:tool.bowSilver>, <Thaumcraft:WandCap:5>, <ThermalFoundation:tool.shearsSilver>, <ThermalFoundation:material:130>, <ImmersiveEngineering:metal:34>], [<ThermalFoundation:material:66>, <ThermalFoundation:material:98>], [9, 1, 3, 3, 2, 1, 5, 8, 7, 4, 2, 3, 2, 0, 2, 4, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0]);
-recycling('lead', [<ThermalFoundation:Storage:3>, <ThermalFoundation:tool.shovelLead>, <ThermalFoundation:tool.pickaxeLead>, <ThermalFoundation:tool.axeLead>, <ThermalFoundation:tool.swordLead>, <ThermalFoundation:tool.hoeLead>, <ThermalFoundation:armor.helmetLead>, <ThermalFoundation:armor.plateLead>, <ThermalFoundation:armor.legsLead>, <ThermalFoundation:armor.bootsLead>, <ThermalFoundation:tool.fishingRodLead>, <ThermalFoundation:tool.sickleLead>, <ThermalFoundation:tool.bowLead>, <ThermalFoundation:tool.shearsLead>, <ThermalFoundation:material:131>, <ImmersiveEngineering:metal:33>], [<ThermalFoundation:material:67>, <ThermalFoundation:material:99>], [9, 1, 3, 3, 2, 1, 5, 8, 7, 4, 2, 3, 2, 2, 4, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]);
-recycling('nickel', [<ThermalFoundation:Storage:4>, <ThermalFoundation:tool.shovelNickel>, <ThermalFoundation:tool.pickaxeNickel>, <ThermalFoundation:tool.axeNickel>, <ThermalFoundation:tool.swordNickel>, <ThermalFoundation:tool.hoeNickel>, <ThermalFoundation:armor.helmetNickel>, <ThermalFoundation:armor.plateNickel>, <ThermalFoundation:armor.legsNickel>, <ThermalFoundation:armor.bootsNickel>, <ThermalFoundation:tool.fishingRodNickel>, <ThermalFoundation:tool.sickleNickel>, <ThermalFoundation:tool.bowNickel>, <ThermalFoundation:tool.shearsNickel>, <ThermalFoundation:material:132>], [<ThermalFoundation:material:68>, <ThermalFoundation:material:100>], [9, 1, 3, 3, 2, 1, 5, 8, 7, 4, 2, 3, 2, 2, 4], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]);
-recycling('electrum', [<ThermalFoundation:Storage:7>, <ThermalFoundation:tool.shovelElectrum>, <ThermalFoundation:tool.pickaxeElectrum>, <ThermalFoundation:tool.axeElectrum>, <ThermalFoundation:tool.swordElectrum>, <ThermalFoundation:tool.hoeElectrum>, <ThermalFoundation:armor.helmetElectrum>, <ThermalFoundation:armor.plateElectrum>, <ThermalFoundation:armor.legsElectrum>, <ThermalFoundation:armor.bootsElectrum>, <ThermalFoundation:tool.fishingRodElectrum>, <ThermalFoundation:tool.sickleElectrum>, <ThermalFoundation:tool.bowElectrum>, <ThermalFoundation:tool.shearsElectrum>, <ThermalFoundation:material:135>, <ImmersiveEngineering:metal:37>], [<ThermalFoundation:material:71>, <ThermalFoundation:material:103>], [9, 1, 3, 3, 2, 1, 5, 8, 7, 4, 2, 3, 2, 2, 4, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]);
-recycling('bronze', [<ThermalFoundation:Storage:9>, <ThermalFoundation:tool.shovelBronze>, <ThermalFoundation:tool.pickaxeBronze>, <ThermalFoundation:tool.axeBronze>, <ThermalFoundation:tool.swordBronze>, <ThermalFoundation:tool.hoeBronze>, <ThermalFoundation:armor.helmetBronze>, <ThermalFoundation:armor.plateBronze>, <ThermalFoundation:armor.legsBronze>, <ThermalFoundation:armor.bootsBronze>, <ThermalFoundation:tool.fishingRodBronze>, <ThermalFoundation:tool.sickleBronze>, <ThermalFoundation:tool.bowBronze>, <ThermalFoundation:tool.shearsBronze>, <ThermalFoundation:material:137>], [<ThermalFoundation:material:73>, <ThermalFoundation:material:105>], [9, 1, 3, 3, 2, 1, 5, 8, 7, 4, 2, 3, 2, 2, 4], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]);
-recycling('invar', [<ThermalFoundation:Storage:8>, <ThermalFoundation:tool.shovelInvar>, <ThermalFoundation:tool.pickaxeInvar>, <ThermalFoundation:tool.axeInvar>, <ThermalFoundation:tool.swordInvar>, <ThermalFoundation:tool.hoeInvar>, <ThermalFoundation:armor.helmetInvar>, <ThermalFoundation:armor.plateInvar>, <ThermalFoundation:armor.legsInvar>, <ThermalFoundation:armor.bootsInvar>, <ThermalFoundation:tool.fishingRodInvar>, <ThermalFoundation:tool.sickleInvar>, <ThermalFoundation:tool.bowInvar>, <ThermalFoundation:tool.shearsInvar>, <ThermalFoundation:material:136>], [<ThermalFoundation:material:72>, <ThermalFoundation:material:104>], [9, 1, 3, 3, 2, 1, 5, 8, 7, 4, 2, 3, 2, 2, 4], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]);

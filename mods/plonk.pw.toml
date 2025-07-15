@@ -1,0 +1,13 @@
+name = "Plonk"
+filename = "plonk-1.7.10-10.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EUmBPkQn/versions/bX9Po7hr/plonk-1.7.10-10.0.4.jar"
+hash-format = "sha512"
+hash = "8fa684fdf3ecb95b82b6bcd9662ef2b30d1119948b75081990949a62698140f2e198945849f309c8cdf7e1cb3cd159b4399b051dfe6fc6c48eaab94eee60706b"
+
+[update]
+[update.modrinth]
+mod-id = "EUmBPkQn"
+version = "bX9Po7hr"

@@ -1,0 +1,8 @@
+name = "Tinker's Construct"
+filename = "TConstruct-1.13.44-JB.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PufferTeam-ModArchive/TinkersConstruct/releases/download/1.13.44-JB/TConstruct-1.13.44-JB.jar"
+hash-format = "sha256"
+hash = "d119ace1bf421f07dd64ed2d3351aeefcef7127255f50104dd60503eaa6b1a11"

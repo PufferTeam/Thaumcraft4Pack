@@ -1,31 +1,42 @@
 {
 minecraft:[
     {keep:[[*spawner],[0]]};
-	{hide:[[monster_egg],[]]};
+	{hide:[[monster_egg,lit_furnace],[]]};
+	{hide:[[wooden_sword,wooden_shovel,wooden_pickaxe,wooden_axe,wooden_hoe,stone_sword,stone_shovel,stone_pickaxe,stone_axe,stone_hoe],[]]};
 ],
 etfuturum:[
-	{hide:[[sign*,wall*,double_*,copper_ore,copper_ingot],[]]};
+	{hide:[[sign*,wall*,double_*,copper_ore,copper_ingot,quartz_bricks,red_netherbrick_slab,red_netherbrick_stairs,purpur_block,purpur_pillar,end_bricks,smooth_red_sandstone_slab,smooth_red_sandstone_stairs],[]]};
+	{hide:[[red_netherbrick],[0,1,2]]};
 ],
 saltymod:[
 	{hide:[[lit_evaporator,steam_evaporator,lit_stove],[]]};
 ],
+jaff:[
+	{hide:[[iron_nugget],[]]};
+],
 VillageNames:[
 	{hide:[[*prismarine*,sea_lantern],[]]};
-],
-ForgeMicroblock:[
-	{hide:[[microblock],[]]};
 ],
 netherlicious:[
 	{hide:[[Nugget],[0]]};
 	{hide:[[*SignStanding,*SignWall,doorcrimson,doorwarped,doorfoxfire,*DoubleSlab,*DoubleSlab2,ChainPowered,ChainPoweredGold,ChainPoweredEfrine,DevilishMaize,HellderBerryBush,AbyssalOat,CrimsonWartCrop,WarpedWartCrop,SoggyWartCrop,GhastlyGourdStem,InfernalReed],[]]};
+	{hide:[[dye],[0,1,2]]};
+	{hide:[[Stem2],[2,3]]};
+	{hide:[[FullWood],[6,7]]};
+	{hide:[[QuartzWall],[0,3]]};
 ],
 aether_legacy:[
 	{hide:[[skyroot_bed,aether_portal,aether_portal_frame,developer_stick,*_double_slab,locked_*,*_trap],[]]};
+	{hide:[[skyroot_sword,skyroot_shovel,skyroot_pickaxe,skyroot_axe,holystone_sword,holystone_shovel,holystone_pickaxe,holystone_axe],[]]};
 ],
 TwilightForest:[
-	{hide:[[tile.TFExperiment115,tile.TFTrophy,tile.CinderFurnaceIdle,tile.TFWoodSlabDouble*,tile.TFPortal,tile.CinderFurnaceLit,tile.CinderLog],[]]};
+	{hide:[[tile.TFExperiment115,tile.TFTrophy,tile.CinderFurnaceIdle,tile.TFWoodSlabDouble*,tile.TFPortal,tile.CinderFurnaceLit,tile.CinderLog,tile.AuroraDoubleSlab],[]]};
     {hide:[[tile.Slider],[1,2,3]]};
     {hide:[[tile.TFTowerTranslucent],[5]]};
+],
+thebetweenlands:[
+	{hide:[[*SlabDouble,testItem,testItem2,doorweedwood,doorrubber,doorsyrmorite,rubberTap,*SignStanding,*SignWall,furnaceBLLit,dualFurnaceBLLit,choca,mossBed],[]]};
+	{hide:[[weedwoodSword,weedwoodPickaxe,weedwoodAxe,weedwoodShovel],[]]};
 ],
 HardcoreEnderExpansion:[
 	{hide:[[death_flower_pot,corrupted_energy_high,corrupted_energy_low,enhanced_brewing_stand_block,temple_end_portal,item_special_effects,laser_beam],[]]};
@@ -45,34 +56,44 @@ RealisticTorches:[
 reccomplex:[
 	{hide:[[*],[]]};
 ],
-MekanismTools:[
-	{hide:[[*Paxel,LapisLazuli*,Bronze*],[]]};
+materialis:[
+	{hide:[[double*],[]]};
 ],
 Mekanism:[
+	{hide:[[OreBlock],[1,2]]};
+	{hide:[[DeepslateOreBlock],[1,2]]};
 	{hide:[[BasicBlock],[1,5,12,13]]};
-	{hide:[[Dust],[0,1,3,4,5,6]]};
-	{hide:[[Ingot],[2,4,5,6,7]]};
+	{hide:[[Dust],[0,1,2,3,4,5,6]]};
+	{hide:[[Ingot],[0,2,3,4,5,6,7]]};
 	{hide:[[OtherDust],[1]]};
 ],
 ForgeMicroblock:[
+	{hide:[[sawStone],[]]};
     {keep-one:[[microblock],[]]};
 ],
+TConstruct:[
+    {hide:[[metalPattern,clayPattern],[]]};
+],
 BiomesOPlenty:[
-	{hide:[[woodenDoubleSlab*,stoneDoubleSlab],[]]};
-	{keep:[[woodenSingleSlab2],[0,1,2,3,4,5]]};
+	{hide:[[woodenDoubleSlab*,stoneDoubleSlab,mudBricks,stoneSingleSlab,mudBricksStairs],[]]};
+	{hide:[[misc],[5,6,7,8,9]]};
+	{hide:[[gemOre],[14,15]]};
+	{show:[[woodenSingleSlab1],[0,1,2,3,4,5]]};
+	{hide:[[gems],[7]]};
 ],
 CarpentersBlocks:[
 	{hide:[[blockCarpentersDoor,blockCarpentersBed],[]]};
 ],
 chisel:[
-	{hide:[[*stairs*,amber],[]]};
+	{hide:[[*stairs*,amber,*slab*],[]]};
 ],
 BiblioCraft:[
    {hide:[[BiblioClipboard,BookcaseFilled],[]]};
+   {hide:[[BiblioPaneler],[0,1,2,3,4,5]]};
    {hide:[item.,[RecipeBook,AtlasPlate,EnchantedPlate,DeathCompass,PrintPlate,BiblioCreativeLock],[]]};
 ],
 Pistronics2:[
-	{hide:[[GearPart,Wrapper,Partblock],[]]};
+	{hide:[[GearPart,Wrapper,Partblock,Motion*,Block*],[]]};
 ],
 cuchaz.ships:[
 	{hide:[[blockAirWall,blockAirRoof,blockBerth],[]]};
@@ -88,7 +109,7 @@ Thaumcraft:[
 	{hide:[[ItemNugget],[1,2,3,4]]};
 ],
 ThaumicTinkerer:[
-	{hide:[[travelSlabFull,darkQuartzSlabFull,wardSlabFull],[]]};
+	{hide:[[travelSlabFull,darkQuartzSlabFull,wardSlabFull,fireFire,fireAir,fireChaos,fireWater,fireEarth],[]]};
 	{_hide:[[forcefield,gaseousLight,nitorGas,gaseousShadow],[]]};
 ],
 ThaumicConcilium:[
@@ -104,19 +125,26 @@ WitchingGadgets:[
 WarpTheory:[
 	{hide:[[blockVanish],[]]};
 ],
+GardenCore:[
+	{hide:[[garden_proxy,root_cover,small_fire],[]]};
+],
+GardenStuff:[
+	{hide:[[iron_nugget],[]]};
+],
 AWWayofTime:[
 	{hide:[[blockMimic,bloodLight,spectralContainer],[]]};
 ],
+BloodArsenal:[
+	{hide:[[blood_cake],[]]};
+],
 ImmersiveEngineering:[
 	{keep:[[metalMultiblock],[0,1,2,3,4,5,7,8,9,10,13]]};
-	{hide:[[ore],[0,2,3,4]]};
+	{hide:[[ore],[0,1,2,3,4]]};
 	{hide:[[storage],[0,2,3,4,6]]};
 	{hide:[[storageSlab],[]]};
-	{hide:[[metal],[2,3,4,6,8,9,14,21,24,25,26,28]]};
+	{hide:[[metal],[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38]]};
+	{hide:[[material],[13]]};
 	{hide:[[fakeLight],[]]};
-],
-ThermalFoundation:[
-	{hide:[[material],[8]]};
 ],
 witchery:[
 	{hide:[[*doubleslab,spiritportal,tormentportal,coffinblock,shadedglass_active],[]]};
@@ -124,6 +152,7 @@ witchery:[
 Botania:[
 	{keep:[[altar,manaBeacon,unstableBlock,flightTiara],[0]]};
 	{hide:[[quartz],[0]]};
-	{hide:[[gaiaHeadBlock,stone,stone0*,stone2*,stone3*,stone9*,stone8*,stone1*,stone10*,stone11*,stone8,solidVine,buriedPetals,manaFlame,fakeAir,quartz*,*SlabFull,*SlabManaFull,*SlabBlazeFull,*SlabLavenderFull,*SlabRedFull,*SlabElfFull,*SlabSunnyFull,*TypeDark,*StairsDark,*SlabDarkHalf,endStoneBrick*],[]]};
+	{hide:[[gaiaHeadBlock,stone,stone1Stairs,stone1Slab,stone9Stairs,stone9Slab,solidVine,buriedPetals,manaFlame,fakeAir,quartz*,*SlabFull,*SlabManaFull,*SlabBlazeFull,*SlabLavenderFull,*SlabRedFull,*SlabElfFull,*SlabSunnyFull,*TypeDark,*StairsDark,*SlabDarkHalf,endStoneBrick*],[]]};
+	{hide:[[stone0Wall],[1]]};
 ]
 }

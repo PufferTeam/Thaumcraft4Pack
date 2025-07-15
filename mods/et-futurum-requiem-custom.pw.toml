@@ -1,0 +1,8 @@
+name = "Et Futurum Requiem"
+filename = "etfuturum-2.6.5-JB.jar"
+side = "both"
+
+[download]
+url = "https://github.com/PufferTeam-ModArchive/Et-Futurum-Requiem/releases/download/2.6.5-JB/etfuturum-2.6.5-JB.jar"
+hash-format = "sha256"
+hash = "8e1893ac9f40920cea56ec2ea6a626842571ae84aacb9e6e6077cdc598a0e294"

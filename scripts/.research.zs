@@ -697,7 +697,7 @@ Research.addPage("TRANSIRON", "tc.research_page.TRANSIRON.1");
 
 Research.orphanResearch("TRANSCOPPER");
 Research.removeResearch("TRANSCOPPER");
-Research.addResearch("TRANSCOPPER", "ALCHEMY", "metallum 3, permutatio 3", 2, 5, 8, <ThermalFoundation:material:96>);
+Research.addResearch("TRANSCOPPER", "ALCHEMY", "metallum 3, permutatio 3", 2, 5, 8, <materialis:nugget:2>);
 Research.setConcealed("TRANSCOPPER", true);
 Research.setSecondary("TRANSCOPPER", true);
 Research.addPage("TRANSCOPPER", "tc.research_page.TRANSCOPPER.1");
@@ -709,7 +709,7 @@ mods.thaumcraft.Crucible.removeRecipe(<Thaumcraft:ItemNugget:4>);
 
 Research.orphanResearch("TRANSTIN");
 Research.removeResearch("TRANSTIN");
-Research.addResearch("TRANSTIN", "ALCHEMY", "metallum 3, permutatio 2, vitreus 1", 2, 6, 8, <ThermalFoundation:material:97>);
+Research.addResearch("TRANSTIN", "ALCHEMY", "metallum 3, permutatio 2, vitreus 1", 2, 6, 8, <materialis:nugget:3>);
 Research.setConcealed("TRANSTIN", true);
 Research.setSecondary("TRANSTIN", true);
 Research.addPage("TRANSTIN", "tc.research_page.TRANSTIN.1");
@@ -717,7 +717,7 @@ Research.addPrereq("TRANSTIN", "TRANSIRON", false);
 
 Research.orphanResearch("TRANSSILVER");
 Research.removeResearch("TRANSSILVER");
-Research.addResearch("TRANSSILVER", "ALCHEMY", "metallum 3, permutatio 2, lucrum 1", 1, 7, 8, <ThermalFoundation:material:98>);
+Research.addResearch("TRANSSILVER", "ALCHEMY", "metallum 3, permutatio 2, lucrum 1", 1, 7, 8, <materialis:nugget:4>);
 Research.setConcealed("TRANSSILVER", true);
 Research.setSecondary("TRANSSILVER", true);
 Research.addPage("TRANSSILVER", "tc.research_page.TRANSSILVER.1");
@@ -725,13 +725,13 @@ Research.addPrereq("TRANSSILVER", "TRANSIRON", false);
 
 Research.orphanResearch("TRANSLEAD");
 Research.removeResearch("TRANSLEAD");
-Research.addResearch("TRANSLEAD", "ALCHEMY", "metallum 3, permutatio 2, ordo 1", 0, 7, 8, <ThermalFoundation:material:99>);
+Research.addResearch("TRANSLEAD", "ALCHEMY", "metallum 3, permutatio 2, ordo 1", 0, 7, 8, <materialis:nugget:5>);
 Research.setConcealed("TRANSLEAD", true);
 Research.setSecondary("TRANSLEAD", true);
 Research.addPage("TRANSLEAD", "tc.research_page.TRANSLEAD.1");
 Research.addPrereq("TRANSLEAD", "TRANSIRON", false);
 
-Research.addResearch("TRANSNICKEL", "ALCHEMY", "metallum 3, permutatio 2, ordo 1", 1, 3, 8, <ThermalFoundation:material:100>);
+Research.addResearch("TRANSNICKEL", "ALCHEMY", "metallum 3, permutatio 2, ordo 1", 1, 3, 8, <materialis:nugget:6>);
 Research.setConcealed("TRANSNICKEL", true);
 Research.setSecondary("TRANSNICKEL", true);
 Research.addPage("TRANSNICKEL", "tc.research_page.TRANSNICKEL.1");
@@ -741,7 +741,7 @@ game.setLocalization("en_US", "tc.research_text.TRANSNICKEL", "Transformation of
 game.setLocalization("en_US", "tc.research_page.TRANSNICKEL.1", "You have discovered a way to multiply nickel by steeping nickel nuggets in elements harvested from other metals.");
 
 
-Research.addResearch("CRUSHIRON", "ALCHEMY", "metallum 3, perditio 1", -1 as int, 10, 8, <ThermalFoundation:material>);
+Research.addResearch("CRUSHIRON", "ALCHEMY", "metallum 3, perditio 1", -1 as int, 10, 8, <materialis:dust>);
 Research.setConcealed("CRUSHIRON", true);
 Research.addPage("CRUSHIRON", "tc.research_page.CRUSHIRON.1");
 Research.addPrereq("CRUSHIRON", "PUREIRON", false);
@@ -750,7 +750,7 @@ game.setLocalization("en_US", "tc.research_name.CRUSHIRON", "Metal Pulverization
 game.setLocalization("en_US", "tc.research_text.CRUSHIRON", "Pulverization of metal into dust");
 game.setLocalization("en_US", "tc.research_page.CRUSHIRON.1", "You have discovered a way to crush metal into its most basic form. This thin dust of smelted ores cannot be formed back into metal ingots, but it seems like it might be useful in the future as your knowledge of metallurgy progresses.<BR>Ore Dust seems to make the material easier to manipulate, which is something to note.");
 
-Research.addResearch("CRUSHGOLD", "ALCHEMY", "metallum 3, perditio 2, ordo 1", -3 as int, 9, 8, <ThermalFoundation:material:1>);
+Research.addResearch("CRUSHGOLD", "ALCHEMY", "metallum 3, perditio 2, ordo 1", -3 as int, 9, 8, <materialis:dust:1>);
 Research.setConcealed("CRUSHGOLD", true);
 Research.setSecondary("CRUSHGOLD", true);
 Research.addPage("CRUSHGOLD", "tc.research_page.CRUSHGOLD.1");
@@ -759,7 +759,7 @@ game.setLocalization("en_US", "tc.research_name.CRUSHGOLD", "Gold Pulverization"
 game.setLocalization("en_US", "tc.research_text.CRUSHGOLD", "Pulverization of gold into dust");
 game.setLocalization("en_US", "tc.research_page.CRUSHGOLD.1", "You have discovered a way to crush gold into its most basic form. This thin dust of smelted gold cannot be formed back into gold ingots, but it seems like it might be useful in the future as your knowledge of metallurgy progresses.<BR>Gold Dust seems to make gold easier to manipulate, which is something to note.");
 
-Research.addResearch("CRUSHCOPPER", "ALCHEMY", "metallum 3, perditio 2, ordo 1", -3 as int, 10, 8, <ThermalFoundation:material:32>);
+Research.addResearch("CRUSHCOPPER", "ALCHEMY", "metallum 3, perditio 2, ordo 1", -3 as int, 10, 8, <materialis:dust:2>);
 Research.setConcealed("CRUSHCOPPER", true);
 Research.setSecondary("CRUSHCOPPER", true);
 Research.addPage("CRUSHCOPPER", "tc.research_page.CRUSHCOPPER.1");
@@ -768,7 +768,7 @@ game.setLocalization("en_US", "tc.research_name.CRUSHCOPPER", "Copper Pulverizat
 game.setLocalization("en_US", "tc.research_text.CRUSHCOPPER", "Pulverization of copper into dust");
 game.setLocalization("en_US", "tc.research_page.CRUSHCOPPER.1", "You have discovered a way to crush copper into its most basic form. This thin dust of smelted copper cannot be formed back into copper ingots, but it seems like it might be useful in the future as your knowledge of metallurgy progresses.<BR>Copper Dust seems to make copper easier to manipulate, which is something to note.");
 
-Research.addResearch("CRUSHTIN", "ALCHEMY", "metallum 3, perditio 2, ordo 1", -3 as int, 11, 8, <ThermalFoundation:material:33>);
+Research.addResearch("CRUSHTIN", "ALCHEMY", "metallum 3, perditio 2, ordo 1", -3 as int, 11, 8, <materialis:dust:3>);
 Research.setConcealed("CRUSHTIN", true);
 Research.setSecondary("CRUSHTIN", true);
 Research.addPage("CRUSHTIN", "tc.research_page.CRUSHTIN.1");
@@ -777,7 +777,7 @@ game.setLocalization("en_US", "tc.research_name.CRUSHTIN", "Tin Pulverization");
 game.setLocalization("en_US", "tc.research_text.CRUSHTIN", "Pulverization of tin into dust");
 game.setLocalization("en_US", "tc.research_page.CRUSHTIN.1", "You have discovered a way to crush tin into its most basic form. This thin dust of smelted tin cannot be formed back into tin ingots, but it seems like it might be useful in the future as your knowledge of metallurgy progresses.<BR>Tin Dust seems to make tin easier to manipulate, which is something to note.");
 
-Research.addResearch("CRUSHSILVER", "ALCHEMY", "metallum 3, perditio 2, ordo 1", -2 as int, 12, 8, <ThermalFoundation:material:34>);
+Research.addResearch("CRUSHSILVER", "ALCHEMY", "metallum 3, perditio 2, ordo 1", -2 as int, 12, 8, <materialis:dust:4>);
 Research.setConcealed("CRUSHSILVER", true);
 Research.setSecondary("CRUSHSILVER", true);
 Research.addPage("CRUSHSILVER", "tc.research_page.CRUSHSILVER.1");
@@ -786,7 +786,7 @@ game.setLocalization("en_US", "tc.research_name.CRUSHSILVER", "Silver Pulverizat
 game.setLocalization("en_US", "tc.research_text.CRUSHSILVER", "Pulverization of silver into dust");
 game.setLocalization("en_US", "tc.research_page.CRUSHSILVER.1", "You have discovered a way to crush silver into its most basic form. This thin dust of smelted silver cannot be formed back into silver ingots, but it seems like it might be useful in the future as your knowledge of metallurgy progresses.<BR>Silver Dust seems to make silver easier to manipulate, which is something to note.");
 
-Research.addResearch("CRUSHLEAD", "ALCHEMY", "metallum 3, perditio 2, ordo 1", -1 as int, 12, 8, <ThermalFoundation:material:35>);
+Research.addResearch("CRUSHLEAD", "ALCHEMY", "metallum 3, perditio 2, ordo 1", -1 as int, 12, 8, <materialis:dust:5>);
 Research.setConcealed("CRUSHLEAD", true);
 Research.setSecondary("CRUSHLEAD", true);
 Research.addPage("CRUSHLEAD", "tc.research_page.CRUSHLEAD.1");
@@ -795,7 +795,7 @@ game.setLocalization("en_US", "tc.research_name.CRUSHLEAD", "Lead Pulverization"
 game.setLocalization("en_US", "tc.research_text.CRUSHLEAD", "Pulverization of lead into dust");
 game.setLocalization("en_US", "tc.research_page.CRUSHLEAD.1", "You have discovered a way to crush lead into its most basic form. This thin dust of smelted lead cannot be formed back into lead ingots, but it seems like it might be useful in the future as your knowledge of metallurgy progresses.<BR>Lead Dust seems to make lead easier to manipulate, which is something to note.");
 
-Research.addResearch("CRUSHNICKEL", "ALCHEMY", "metallum 3, perditio 2, ordo 1", -2 as int, 8, 8, <ThermalFoundation:material:36>);
+Research.addResearch("CRUSHNICKEL", "ALCHEMY", "metallum 3, perditio 2, ordo 1", -2 as int, 8, 8, <materialis:dust:6>);
 Research.setConcealed("CRUSHNICKEL", true);
 Research.setSecondary("CRUSHNICKEL", true);
 Research.addPage("CRUSHNICKEL", "tc.research_page.CRUSHNICKEL.1");
@@ -803,15 +803,5 @@ Research.addPrereq("CRUSHNICKEL", "CRUSHIRON", false);
 game.setLocalization("en_US", "tc.research_name.CRUSHNICKEL", "Nickel Pulverization");
 game.setLocalization("en_US", "tc.research_text.CRUSHNICKEL", "Pulverization of nickel into dust");
 game.setLocalization("en_US", "tc.research_page.CRUSHNICKEL.1", "You have discovered a way to crush nickel into its most basic form. This thin dust of smelted nickel cannot be formed back into nickel ingots, but it seems like it might be useful in the future as your knowledge of metallurgy progresses.<BR>Nickel Dust seems to make nickel easier to manipulate, which is something to note.");
-
-Research.addResearch("ALLOYBASIC", "ALCHEMY", "metallum 3, perditio 1", 2, 10, 8, <ThermalFoundation:material:41>);
-Research.setConcealed("ALLOYBASIC", true);
-Research.setRound("ALLOYBASIC", true);
-Research.addSibling("ALLOYBASIC", "CRUSHIRON");
-Research.addPage("ALLOYBASIC", "tc.research_page.ALLOYBASIC.1");
-Research.addPrereq("ALLOYBASIC", "CRUSHIRON", false);
-game.setLocalization("en_US", "tc.research_name.ALLOYBASIC", "Metal Alloying");
-game.setLocalization("en_US", "tc.research_text.ALLOYBASIC", "Alloying of basic metals into complex blend");
-game.setLocalization("en_US", "tc.research_page.ALLOYBASIC.1", "You have discovered a way to mix metal dusts into more complex versions of the base metals, you have tried multiple combinations and it seems like by mixing specific kind of metals together you can obtain more complex version of these same metal, which mean you can alloy metals by mixing their dusts.<BR>The first alloy you have discovered is Bronze, but you also found Invar, Electrum and Constantan. These alloys seems to be the best combination you can make from basic ores.");
 
 Research.refreshResearchRecipe("PLANTS");

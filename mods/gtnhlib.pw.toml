@@ -1,13 +1,13 @@
 name = "GTNH Lib"
-filename = "gtnhlib-0.6.32.jar"
+filename = "gtnhlib-0.6.36.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vTvnv7qp/versions/c7f0mByL/gtnhlib-0.6.32.jar"
+url = "https://cdn.modrinth.com/data/vTvnv7qp/versions/7APqVkfh/gtnhlib-0.6.36.jar"
 hash-format = "sha512"
-hash = "7bc369bc45de9903698e60e8e65b8fb05babfa8d95d99e6a4d6bbc2c883450d6192b89e3159857540839c9fd97684cc38abdb1c64a5265f3b7717ed8233152dd"
+hash = "0ed931492829f87a81df9eab53123612357f0e149d94523eeefb0909c06f4bbc713e6b938cb9df1bca152b681b6fc90c661a01eb0305f0985d1cceca5c890cb0"
 
 [update]
 [update.modrinth]
 mod-id = "vTvnv7qp"
-version = "c7f0mByL"
+version = "7APqVkfh"

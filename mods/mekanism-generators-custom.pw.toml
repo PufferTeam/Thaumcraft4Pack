@@ -1,0 +1,8 @@
+name = "Mekanism Generators"
+filename = "Mekanism-Community-Edition-1.7.10-9.10.43-Generators.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Thorfusion/Mekanism-Community-Edition/releases/download/9.10.43/Mekanism-Community-Edition-1.7.10-9.10.43-Generators.jar"
+hash-format = "sha256"
+hash = "72b58406126567b05d125ac35b1cd8c0f95b0eeb261c41e1b4db58cbff114968"

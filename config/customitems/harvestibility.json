@@ -1,0 +1,19 @@
+{
+    "changeBlocks": [
+        {
+            "name": "etfuturum:deepslate_copper_ore",
+            "harvestLevel": 0,
+            "toolClass": "pickaxe"
+        },
+        {
+            "name": "etfuturum:copper_ore",
+            "harvestLevel": 0,
+            "toolClass": "pickaxe"
+        },
+        {
+            "name": "saltymod:salt_ore",
+            "harvestLevel": 0,
+            "toolClass": "pickaxe"
+        }
+    ]
+}

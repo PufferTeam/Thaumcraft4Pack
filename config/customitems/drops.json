@@ -1,6 +1,56 @@
 {
     "blocksDrop": [
         {
+            "id": "chisel:andesite:0",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "materialis:cobblestone",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "chisel:diorite:0",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "materialis:cobblestone:1",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "chisel:granite:0",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "materialis:cobblestone:2",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "chisel:limestone:0",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "materialis:cobblestone:3",
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "id": "chisel:marble:0",
+            "overrides": true,
+            "drops": [
+                {
+                    "id": "materialis:cobblestone:4",
+                    "chance": 100
+                }
+            ]
+        },
+        {
             "id": "RealisticTorches:TorchLit:1",
             "overrides": true,
             "drops": [
@@ -215,7 +265,7 @@
             "overrides": true,
             "drops": [
                 {
-                    "id": "ThermalFoundation:material:20",
+                    "id": "materialis:gem",
                     "chance": 100
                 }
             ]
@@ -225,13 +275,13 @@
             "overrides": true,
             "drops": [
                 {
-                    "id": "ThermalFoundation:material:20",
+                    "id": "materialis:gem",
                     "chance": 100
                 }
             ]
         },
         {
-            "id": "ThermalFoundation:Ore",
+            "id": "materialis:ore",
             "overrides": true,
             "drops": [
                 {
@@ -251,7 +301,7 @@
             ]
         },
         {
-            "id": "ImmersiveEngineering:ore:1",
+            "id": "materialis:ore:7",
             "overrides": true,
             "drops": [
                 {
@@ -271,7 +321,7 @@
             ]
         },
         {
-            "id": "ThermalFoundation:Ore:1",
+            "id": "materialis:ore:1",
             "overrides": true,
             "drops": [
                 {
@@ -291,7 +341,7 @@
             ]
         },
         {
-            "id": "ThermalFoundation:Ore:2",
+            "id": "materialis:ore:2",
             "overrides": true,
             "drops": [
                 {
@@ -311,7 +361,7 @@
             ]
         },
         {
-            "id": "ThermalFoundation:Ore:3",
+            "id": "materialis:ore:3",
             "overrides": true,
             "drops": [
                 {
@@ -331,7 +381,7 @@
             ]
         },
         {
-            "id": "ThermalFoundation:Ore:4",
+            "id": "materialis:ore:4",
             "overrides": true,
             "drops": [
                 {
@@ -351,7 +401,7 @@
             ]
         },
         {
-            "id": "ThermalFoundation:Ore:5",
+            "id": "materialis:ore:5",
             "overrides": true,
             "drops": [
                 {
@@ -371,7 +421,7 @@
             ]
         },
         {
-            "id": "ThermalFoundation:Ore:6",
+            "id": "materialis:ore:6",
             "overrides": true,
             "drops": [
                 {

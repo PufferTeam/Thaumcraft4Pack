@@ -26,18 +26,36 @@ function cut(mod as IData, name as IData, blocks as IItemStack[], type as IData,
 		]);
 	}
 
-	if(type == 1) {
+	if(type == 1 || type == 10) {
 		for i, currentWood in logs {
 			recipes.removeShapeless(blocks[0] * 4, [currentWood]);
 			recipes.removeShaped(blocks[0] * 4, [[currentWood]]);
  			logsOreDict.add(currentWood);
+			<ore:logWood>.add(currentWood);
 		}
-		recipes.addShapeless(blocks[0] * 4, [logsOreDict]);
 
 		if(specialRemove != 5) {
 			<ore:plankWood>.add(blocks[0]);
 			<ore:slabWood>.add(blocks[1]);
 			<ore:stairWood>.add(blocks[2]);
+		}
+
+		if(type == 10) {
+			recipes.addShapeless(blocks[3] * 8, [logsOreDict, <ore:toolSaw>]);
+
+			recipes.addShaped(blocks[0], [
+				[blocks[3], blocks[3]],
+				[blocks[3], blocks[3]]
+			]);
+
+			recipes.addShaped(blocks[1], [
+				[blocks[3], blocks[3]]
+			]);
+
+			recipes.addShapedMirrored(blocks[2], [
+				[blocks[3], null],
+				[blocks[3], blocks[3]]
+			]);
 		}
 
 	}
@@ -108,26 +126,26 @@ function cut(mod as IData, name as IData, blocks as IItemStack[], type as IData,
 	}
 }
 
-cut('minecraft', 'oak', [<minecraft:planks>, <minecraft:wooden_slab>, <minecraft:oak_stairs>], 1, [<minecraft:log>, <etfuturum:bark>, <etfuturum:log_stripped>, <etfuturum:wood_stripped>], <ore:logWoodOak>, 0);
-cut('minecraft', 'spruce', [<minecraft:planks:1>, <minecraft:wooden_slab:1>, <minecraft:spruce_stairs>], 1, [<minecraft:log:1>, <etfuturum:bark:1>, <etfuturum:log_stripped:1>, <etfuturum:wood_stripped:1>], <ore:logWoodSpruce>, 0);
-cut('minecraft', 'birch', [<minecraft:planks:2>, <minecraft:wooden_slab:2>, <minecraft:birch_stairs>], 1, [<minecraft:log:2>, <etfuturum:bark:2>, <etfuturum:log_stripped:2>, <etfuturum:wood_stripped:2>], <ore:logWoodBirch>, 0);
-cut('minecraft', 'jungle', [<minecraft:planks:3>, <minecraft:wooden_slab:3>, <minecraft:jungle_stairs>], 1, [<minecraft:log:3>, <etfuturum:bark:3>, <etfuturum:log_stripped:3>, <etfuturum:wood_stripped:3>], <ore:logWoodJungle>, 0);
-cut('minecraft', 'acacia', [<minecraft:planks:4>, <minecraft:wooden_slab:4>, <minecraft:acacia_stairs>], 1, [<minecraft:log2>, <etfuturum:bark2>, <etfuturum:log2_stripped>, <etfuturum:wood2_stripped>], <ore:logWoodAcacia>, 0);
-cut('minecraft', 'dark_oak', [<minecraft:planks:5>, <minecraft:wooden_slab:5>, <minecraft:dark_oak_stairs>], 1, [<minecraft:log2:1>, <etfuturum:bark2:1>, <etfuturum:log2_stripped:1>, <etfuturum:wood2_stripped:1>], <ore:logWoodDarkOak>, 0);
-cut('BiomesOPlenty', 'sacredoak', [<BiomesOPlenty:planks>, <BiomesOPlenty:woodenSingleSlab1>, <BiomesOPlenty:sacredoakStairs>], 1, [<BiomesOPlenty:logs1>], <ore:logWoodSacredOak>, 0);
-cut('BiomesOPlenty', 'cherry', [<BiomesOPlenty:planks:1>, <BiomesOPlenty:woodenSingleSlab1:1>, <BiomesOPlenty:cherryStairs>], 1, [<BiomesOPlenty:logs1:1>], <ore:logWoodCherry>, 0);
-cut('BiomesOPlenty', 'dark', [<BiomesOPlenty:planks:2>, <BiomesOPlenty:woodenSingleSlab1:2>, <BiomesOPlenty:darkStairs>], 1, [<BiomesOPlenty:logs1:2>], <ore:logWoodDark>, 0);
-cut('BiomesOPlenty', 'fir', [<BiomesOPlenty:planks:3>, <BiomesOPlenty:woodenSingleSlab1:3>, <BiomesOPlenty:firStairs>], 1, [<BiomesOPlenty:logs1:3>], <ore:logWoodFir>, 0);
-cut('BiomesOPlenty', 'ethereal', [<BiomesOPlenty:planks:4>, <BiomesOPlenty:woodenSingleSlab1:4>, <BiomesOPlenty:etherealStairs>], 1, [<BiomesOPlenty:logs2>], <ore:logWoodEthereal>, 0);
-cut('BiomesOPlenty', 'magic', [<BiomesOPlenty:planks:5>, <BiomesOPlenty:woodenSingleSlab1:5>, <BiomesOPlenty:magicStairs>], 1, [<BiomesOPlenty:logs2:1>], <ore:logWoodMagic>, 0);
-cut('BiomesOPlenty', 'mangrove', [<BiomesOPlenty:planks:6>, <BiomesOPlenty:woodenSingleSlab1:6>, <BiomesOPlenty:mangroveStairs>], 1, [<BiomesOPlenty:logs2:2>], <ore:logWoodMangrove>, 0);
-cut('BiomesOPlenty', 'palm', [<BiomesOPlenty:planks:7>, <BiomesOPlenty:woodenSingleSlab1:7>, <BiomesOPlenty:palmStairs>], 1, [<BiomesOPlenty:logs2:3>], <ore:logWoodPalm>, 0);
-cut('BiomesOPlenty', 'redwood', [<BiomesOPlenty:planks:8>, <BiomesOPlenty:woodenSingleSlab2>, <BiomesOPlenty:redwoodStairs>], 1, [<BiomesOPlenty:logs3>], <ore:logWoodRedwood>, 0);
-cut('BiomesOPlenty', 'willow', [<BiomesOPlenty:planks:9>, <BiomesOPlenty:woodenSingleSlab2:1>, <BiomesOPlenty:willowStairs>], 1, [<BiomesOPlenty:logs3:1>], <ore:logWoodWillow>, 0);
-cut('BiomesOPlenty', 'pine', [<BiomesOPlenty:planks:11>, <BiomesOPlenty:woodenSingleSlab2:2>, <BiomesOPlenty:pineStairs>], 1, [<BiomesOPlenty:logs4>], <ore:logWoodPine>, 0);
-cut('BiomesOPlenty', 'hellBark', [<BiomesOPlenty:planks:12>, <BiomesOPlenty:woodenSingleSlab2:3>, <BiomesOPlenty:hellBarkStairs>], 1, [<BiomesOPlenty:logs4:1>], <ore:logWoodHellBark>, 0);
-cut('BiomesOPlenty', 'jacaranda', [<BiomesOPlenty:planks:13>, <BiomesOPlenty:woodenSingleSlab2:4>, <BiomesOPlenty:jacarandaStairs>], 1, [<BiomesOPlenty:logs4:2>], <ore:logWoodJacaranda>, 0);
-cut('BiomesOPlenty', 'mahogany', [<BiomesOPlenty:planks:14>, <BiomesOPlenty:woodenSingleSlab2:5>, <BiomesOPlenty:mahoganyStairs>], 1, [<BiomesOPlenty:logs4:3>], <ore:logWoodMahogany>, 0);
+cut('minecraft', 'oak', [<minecraft:planks>, <minecraft:wooden_slab>, <minecraft:oak_stairs>, <TConstruct:oak_lumber>], 10, [<minecraft:log>, <etfuturum:bark>, <etfuturum:log_stripped>, <etfuturum:wood_stripped>], <ore:logWoodOak>, 0);
+cut('minecraft', 'spruce', [<minecraft:planks:1>, <minecraft:wooden_slab:1>, <minecraft:spruce_stairs>, <TConstruct:spruce_lumber>], 10, [<minecraft:log:1>, <etfuturum:bark:1>, <etfuturum:log_stripped:1>, <etfuturum:wood_stripped:1>], <ore:logWoodSpruce>, 0);
+cut('minecraft', 'birch', [<minecraft:planks:2>, <minecraft:wooden_slab:2>, <minecraft:birch_stairs>, <TConstruct:birch_lumber>], 10, [<minecraft:log:2>, <etfuturum:bark:2>, <etfuturum:log_stripped:2>, <etfuturum:wood_stripped:2>], <ore:logWoodBirch>, 0);
+cut('minecraft', 'jungle', [<minecraft:planks:3>, <minecraft:wooden_slab:3>, <minecraft:jungle_stairs>, <TConstruct:jungle_lumber>], 10, [<minecraft:log:3>, <etfuturum:bark:3>, <etfuturum:log_stripped:3>, <etfuturum:wood_stripped:3>], <ore:logWoodJungle>, 0);
+cut('minecraft', 'acacia', [<minecraft:planks:4>, <minecraft:wooden_slab:4>, <minecraft:acacia_stairs>, <TConstruct:acacia_lumber>], 10, [<minecraft:log2>, <etfuturum:bark2>, <etfuturum:log2_stripped>, <etfuturum:wood2_stripped>], <ore:logWoodAcacia>, 0);
+cut('minecraft', 'dark_oak', [<minecraft:planks:5>, <minecraft:wooden_slab:5>, <minecraft:dark_oak_stairs>, <TConstruct:dark_oak_lumber>], 10, [<minecraft:log2:1>, <etfuturum:bark2:1>, <etfuturum:log2_stripped:1>, <etfuturum:wood2_stripped:1>], <ore:logWoodDarkOak>, 0);
+cut('BiomesOPlenty', 'sacredoak', [<BiomesOPlenty:planks>, <BiomesOPlenty:woodenSingleSlab1>, <BiomesOPlenty:sacredoakStairs>, <TConstruct:sacredoak_lumber>], 10, [<BiomesOPlenty:logs1>, <etfuturum:bop_wood>, <etfuturum:bop_log_stripped>, <etfuturum:bop_wood_stripped>], <ore:logWoodSacredOak>, 0);
+cut('BiomesOPlenty', 'cherry', [<BiomesOPlenty:planks:1>, <BiomesOPlenty:woodenSingleSlab1:1>, <BiomesOPlenty:cherryStairs>, <TConstruct:cherry_lumber>], 10, [<BiomesOPlenty:logs1:1>, <etfuturum:bop_wood:1>, <etfuturum:bop_log_stripped:1>, <etfuturum:bop_wood_stripped:1>], <ore:logWoodCherry>, 0);
+cut('BiomesOPlenty', 'dark', [<BiomesOPlenty:planks:2>, <BiomesOPlenty:woodenSingleSlab1:2>, <BiomesOPlenty:darkStairs>, <TConstruct:dark_lumber>], 10, [<BiomesOPlenty:logs1:2>, <etfuturum:bop_wood:2>, <etfuturum:bop_log_stripped:2>, <etfuturum:bop_wood_stripped:2>], <ore:logWoodDark>, 0);
+cut('BiomesOPlenty', 'fir', [<BiomesOPlenty:planks:3>, <BiomesOPlenty:woodenSingleSlab1:3>, <BiomesOPlenty:firStairs>, <TConstruct:fir_lumber>], 10, [<BiomesOPlenty:logs1:3>, <etfuturum:bop_wood:3>, <etfuturum:bop_log_stripped:3>, <etfuturum:bop_wood_stripped:3>], <ore:logWoodFir>, 0);
+cut('BiomesOPlenty', 'ethereal', [<BiomesOPlenty:planks:4>, <BiomesOPlenty:woodenSingleSlab1:4>, <BiomesOPlenty:etherealStairs>, <TConstruct:ethereal_lumber>], 10, [<BiomesOPlenty:logs2>, <etfuturum:bop_wood2>, <etfuturum:bop_log_stripped2>, <etfuturum:bop_wood_stripped2>], <ore:logWoodEthereal>, 0);
+cut('BiomesOPlenty', 'magic', [<BiomesOPlenty:planks:5>, <BiomesOPlenty:woodenSingleSlab1:5>, <BiomesOPlenty:magicStairs>, <TConstruct:magic_lumber>], 10, [<BiomesOPlenty:logs2:1>, <etfuturum:bop_wood2:1>, <etfuturum:bop_log_stripped2:1>, <etfuturum:bop_wood_stripped2:1>], <ore:logWoodMagic>, 0);
+cut('BiomesOPlenty', 'mangrove', [<BiomesOPlenty:planks:6>, <BiomesOPlenty:woodenSingleSlab1:6>, <BiomesOPlenty:mangroveStairs>, <TConstruct:mangrove_lumber>], 10, [<BiomesOPlenty:logs2:2>, <etfuturum:bop_wood2:2>, <etfuturum:bop_log_stripped2:2>, <etfuturum:bop_wood_stripped2:2>], <ore:logWoodMangrove>, 0);
+cut('BiomesOPlenty', 'palm', [<BiomesOPlenty:planks:7>, <BiomesOPlenty:woodenSingleSlab1:7>, <BiomesOPlenty:palmStairs>, <TConstruct:palm_lumber>], 10, [<BiomesOPlenty:logs2:3>, <etfuturum:bop_wood2:3>, <etfuturum:bop_log_stripped2:3>, <etfuturum:bop_wood_stripped2:3>], <ore:logWoodPalm>, 0);
+cut('BiomesOPlenty', 'redwood', [<BiomesOPlenty:planks:8>, <BiomesOPlenty:woodenSingleSlab2>, <BiomesOPlenty:redwoodStairs>, <TConstruct:redwood_lumber>], 10, [<BiomesOPlenty:logs3>, <etfuturum:bop_wood3>, <etfuturum:bop_log_stripped3>, <etfuturum:bop_wood_stripped3>], <ore:logWoodRedwood>, 0);
+cut('BiomesOPlenty', 'willow', [<BiomesOPlenty:planks:9>, <BiomesOPlenty:woodenSingleSlab2:1>, <BiomesOPlenty:willowStairs>, <TConstruct:willow_lumber>], 10, [<BiomesOPlenty:logs3:1>, <etfuturum:bop_wood3:1>, <etfuturum:bop_log_stripped3:1>, <etfuturum:bop_wood_stripped3:1>], <ore:logWoodWillow>, 0);
+cut('BiomesOPlenty', 'pine', [<BiomesOPlenty:planks:11>, <BiomesOPlenty:woodenSingleSlab2:2>, <BiomesOPlenty:pineStairs>, <TConstruct:pine_lumber>], 10, [<BiomesOPlenty:logs4>, <etfuturum:bop_wood4>, <etfuturum:bop_log_stripped4>, <etfuturum:bop_wood_stripped4>], <ore:logWoodPine>, 0);
+cut('BiomesOPlenty', 'hellBark', [<BiomesOPlenty:planks:12>, <BiomesOPlenty:woodenSingleSlab2:3>, <BiomesOPlenty:hellBarkStairs>, <TConstruct:hellbark_lumber>], 10, [<BiomesOPlenty:logs4:1>, <etfuturum:bop_wood4:1>, <etfuturum:bop_log_stripped4:1>, <etfuturum:bop_wood_stripped4:1>], <ore:logWoodHellBark>, 0);
+cut('BiomesOPlenty', 'jacaranda', [<BiomesOPlenty:planks:13>, <BiomesOPlenty:woodenSingleSlab2:4>, <BiomesOPlenty:jacarandaStairs>, <TConstruct:jacaranda_lumber>], 10, [<BiomesOPlenty:logs4:2>, <etfuturum:bop_wood4:2>, <etfuturum:bop_log_stripped4:2>, <etfuturum:bop_wood_stripped4:2>], <ore:logWoodJacaranda>, 0);
+cut('BiomesOPlenty', 'mahogany', [<BiomesOPlenty:planks:14>, <BiomesOPlenty:woodenSingleSlab2:5>, <BiomesOPlenty:mahoganyStairs>, <TConstruct:mahogany_lumber>], 10, [<BiomesOPlenty:logs4:3>, <etfuturum:bop_wood4:3>, <etfuturum:bop_log_stripped4:3>, <etfuturum:bop_wood_stripped4:3>], <ore:logWoodMahogany>, 0);
 
 cut('netherlicious', 'crimson', [<netherlicious:Planks>, <netherlicious:PlankSingleSlab>, <netherlicious:CrimsonStairs>], 1, [<netherlicious:Stem>, <netherlicious:FullWood>, <netherlicious:Stem:1>, <netherlicious:FullWood:1>], <ore:logWoodCrimson>, 0);
 cut('netherlicious', 'warped', [<netherlicious:Planks:1>, <netherlicious:PlankSingleSlab:1>, <netherlicious:WarpedStairs>], 1, [<netherlicious:Stem:2>, <netherlicious:FullWood:2>, <netherlicious:Stem:3>, <netherlicious:FullWood:3>], <ore:logWoodWarped>, 0);
@@ -148,8 +166,8 @@ cut('witchery', 'rowan', [<witchery:witchwood>, <witchery:witchwoodslab>, <witch
 cut('witchery', 'alder', [<witchery:witchwood:1>, <witchery:witchwoodslab:1>, <witchery:stairswoodalder>], 1, [<witchery:witchlog:1>], <ore:logWoodAlder>, 0);
 cut('witchery', 'hawthorn', [<witchery:witchwood:2>, <witchery:witchwoodslab:2>, <witchery:stairswoodhawthorn>], 1, [<witchery:witchlog:2>], <ore:logWoodHawthorn>, 0);
 
-cut('thaumcraft', 'greatwood', [<salisarcana:blockCustomPlank>, <Thaumcraft:blockCosmeticSlabWood>, <Thaumcraft:blockStairsGreatwood>], 1, [<Thaumcraft:blockMagicalLog>], <ore:logWoodGreatwood>, 0);
-cut('thaumcraft', 'silverwood', [<salisarcana:blockCustomPlank:1>, <Thaumcraft:blockCosmeticSlabWood:1>, <Thaumcraft:blockStairsSilverwood>], 1, [<Thaumcraft:blockMagicalLog:1>], <ore:logWoodSilverwood>, 0);
+cut('thaumcraft', 'greatwood', [<salisarcana:blockCustomPlank>, <Thaumcraft:blockCosmeticSlabWood>, <Thaumcraft:blockStairsGreatwood>, <TConstruct:greatwood_lumber>], 10, [<Thaumcraft:blockMagicalLog>, <etfuturum:thaumcraft_wood>, <etfuturum:thaumcraft_log_stripped>, <etfuturum:thaumcraft_wood_stripped>], <ore:logWoodGreatwood>, 0);
+cut('thaumcraft', 'silverwood', [<salisarcana:blockCustomPlank:1>, <Thaumcraft:blockCosmeticSlabWood:1>, <Thaumcraft:blockStairsSilverwood>, <TConstruct:silverwood_lumber>], 10, [<Thaumcraft:blockMagicalLog:1>, <etfuturum:thaumcraft_wood:1>, <etfuturum:thaumcraft_log_stripped:1>, <etfuturum:thaumcraft_wood_stripped:1>], <ore:logWoodSilverwood>, 0);
 
 cut('botania', 'livingwood', [<Botania:livingwood>, <Botania:livingwood0Slab>, <Botania:livingwood0Stairs>, <Botania:livingwood0Wall>], 3, [], <ore:none>, 5);
 cut('botania', 'livingwood_planks', [<Botania:livingwood:1>, <Botania:livingwood1Slab>, <Botania:livingwood1Stairs>], 1, [<Botania:livingwood>], <ore:logWoodLivingwood>, 5);
@@ -168,7 +186,6 @@ cut('etfuturum', 'deepslate_tiles', [<etfuturum:deepslate_bricks:2>, <etfuturum:
 cut('etfuturum', 'sandstone', [<minecraft:sandstone>, <minecraft:stone_slab:1>, <minecraft:sandstone_stairs>, <etfuturum:stone_wall:2>], 3, [], <ore:none>, 0);
 cut('etfuturum', 'cut_sandstone', [<minecraft:sandstone:2>, <etfuturum:stone_slab:3>], 2, [], <ore:none>, 0);
 cut('etfuturum', 'red_sandstone', [<etfuturum:red_sandstone>, <etfuturum:red_sandstone_slab>, <etfuturum:red_sandstone_stairs>, <etfuturum:red_sandstone_wall>], 3, [], <ore:none>, 0);
-cut('etfuturum', 'smooth_red_sandstone', [<etfuturum:smooth_red_sandstone>, <etfuturum:smooth_red_sandstone_slab>, <etfuturum:smooth_red_sandstone_stairs>], 0, [], <ore:none>, 0);
 cut('etfuturum', 'cut_red_sandstone', [<etfuturum:red_sandstone:2>, <etfuturum:red_sandstone_slab:1>], 2, [], <ore:none>, 0);
 cut('etfuturum', 'cut_copper', [<etfuturum:copper_block:4>, <etfuturum:cut_copper_slab>, <etfuturum:cut_copper_stairs>], 0, [], <ore:none>, 0);
 cut('etfuturum', 'cut_copper_exposed', [<etfuturum:copper_block:5>, <etfuturum:cut_copper_slab:1>, <etfuturum:exposed_cut_copper_stairs>], 0, [], <ore:none>, 0);
@@ -232,6 +249,14 @@ cut('botania', 'pavement_blue', [<Botania:pavement:2>, <Botania:pavement2Slab>, 
 cut('botania', 'pavement_red', [<Botania:pavement:3>, <Botania:pavement3Slab>, <Botania:pavement3Stairs>], 0, [], <ore:none>, 1);
 cut('botania', 'pavement_yellow', [<Botania:pavement:4>, <Botania:pavement4Slab>, <Botania:pavement4Stairs>], 0, [], <ore:none>, 1);
 cut('botania', 'pavement_green', [<Botania:pavement:5>, <Botania:pavement5Slab>, <Botania:pavement5Stairs>], 0, [], <ore:none>, 1);
+
+cut('botania', 'andesite', [<chisel:andesite>, <Botania:stone0Slab>, <Botania:stone0Stairs>, <Botania:stone0Wall:0>], 3, [], <ore:none>, 0);
+cut('botania', 'diorite', [<chisel:diorite>, <Botania:stone2Slab>, <Botania:stone2Stairs>, <Botania:stone0Wall:2>], 3, [], <ore:none>, 0);
+cut('botania', 'granite', [<chisel:granite>, <Botania:stone3Slab>, <Botania:stone3Stairs>, <Botania:stone0Wall:3>], 3, [], <ore:none>, 0);
+
+cut('botania', 'andesite_brick', [<chisel:andesite:3>, <Botania:stone8Slab>, <Botania:stone8Stairs>], 0, [], <ore:none>, 0);
+cut('botania', 'diorite_brick', [<chisel:diorite:3>, <Botania:stone10Slab>, <Botania:stone10Stairs>], 0, [], <ore:none>, 0);
+cut('botania', 'granite_brick', [<chisel:granite:3>, <Botania:stone11Slab>, <Botania:stone11Stairs>], 0, [], <ore:none>, 0);
 
 cut('botania', 'prismarine', [<Botania:prismarine>, <Botania:prismarine0Slab>, <Botania:prismarine0Stairs>, <Botania:prismarine0Wall>], 3, [], <ore:none>, 1);
 cut('botania', 'prismarine_bricks', [<Botania:prismarine:1>, <Botania:prismarine1Slab>, <Botania:prismarine1Stairs>], 0, [], <ore:none>, 1);
