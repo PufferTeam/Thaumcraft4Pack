@@ -1,1 +1,110 @@
 tile.coral1.kelpmiddle.name=Kelp
+
+tile.planks.sacredoakPlank.name=Sacred Oak Planks
+tile.planks.cherryPlank.name=Cherry Planks
+tile.planks.darkPlank.name=Umbran Planks
+tile.planks.firPlank.name=Fir Planks
+tile.planks.etherealPlank.name=Ethereal Planks
+tile.planks.magicPlank.name=Magic Planks
+tile.planks.mangrovePlank.name=Mangrove Planks
+tile.planks.palmPlank.name=Palm Planks
+tile.planks.redwoodPlank.name=Redwood Planks
+tile.planks.willowPlank.name=Willow Planks
+tile.planks.bambooThatching.name=Bamboo Thatching
+tile.planks.pinePlank.name=Pine Planks
+tile.planks.hellBarkPlank.name=Hellbark Planks
+tile.planks.jacarandaPlank.name=Jacaranda Planks
+tile.planks.mahoganyPlank.name=Mahogany Planks
+
+tile.logs1.sacredoakWood.name=Sacred Oak Log
+tile.logs1.cherryWood.name=Cherry Log
+tile.logs1.darkWood.name=Umbran Log
+tile.logs1.firWood.name=Fir Log
+
+tile.logs2.etherealWood.name=Ethereal Log
+tile.logs2.magicWood.name=Magic Log
+tile.logs2.mangroveWood.name=Mangrove Log
+tile.logs2.palmWood.name=Palm Log
+
+tile.logs3.redwoodWood.name=Redwood Log
+tile.logs3.willowWood.name=Willow Log
+tile.logs3.deadWood.name=Dead Log
+tile.logs3.bigflowerstemWood.name=Giant Flower Stem
+
+tile.logs4.pineWood.name=Pine Log
+tile.logs4.hellbarkWood.name=Hellbark Log
+tile.logs4.jacarandaWood.name=Jacaranda Log
+tile.logs4.mahoganyWood.name=Mahogany Log
+
+tile.leaves1.yellowautumn.name=Yellow Autumn Leaves
+tile.leaves1.bamboo.name=Bamboo Leaves
+tile.leaves1.magic.name=Magic Leaves
+tile.leaves1.dark.name=Umbran Leaves
+
+tile.leaves2.dead.name=Dying Leaves
+tile.leaves2.fir.name=Fir Leaves
+tile.leaves2.ethereal.name=Ethereal Leaves
+tile.leaves2.orangeautumn.name=Orange Autumn Leaves
+
+tile.leaves3.origin.name=Origin Leaves
+tile.leaves3.pinkcherry.name=Pink Cherry Leaves
+tile.leaves3.maple.name=Maple Leaves
+tile.leaves3.whitecherry.name=White Cherry Leaves
+
+tile.leaves4.hellbark.name=Hellbark Leaves
+tile.leaves4.jacaranda.name=Jacaranda Leaves
+
+tile.colorizedLeaves1.sacredoak.name=Sacred Oak Leaves
+tile.colorizedLeaves1.mangrove.name=Mangrove Leaves
+tile.colorizedLeaves1.palm.name=Palm Leaves
+tile.colorizedLeaves1.redwood.name=Redwood Leaves
+
+tile.colorizedLeaves2.willow.name=Willow Leaves
+tile.colorizedLeaves2.pine.name=Pine Leaves
+tile.colorizedLeaves2.mahogany.name=Mahogany Leaves
+tile.colorizedLeaves2.flowering.name=Flowering Oak Leaves
+
+tile.woodenDoubleSlab1.sacredoakSlab.name=Sacred Oak Slab
+tile.woodenDoubleSlab1.cherrySlab.name=Cherry Slab
+tile.woodenDoubleSlab1.darkSlab.name=Umbran Slab
+tile.woodenDoubleSlab1.firSlab.name=Fir Slab
+tile.woodenDoubleSlab1.etherealSlab.name=Ethereal Slab
+tile.woodenDoubleSlab1.magicSlab.name=Magic Slab
+tile.woodenDoubleSlab1.mangroveSlab.name=Mangrove Slab
+tile.woodenDoubleSlab1.palmSlab.name=Palm Slab
+tile.woodenDoubleSlab2.redwoodSlab.name=Redwood Slab
+tile.woodenDoubleSlab2.willowSlab.name=Willow Slab
+tile.woodenDoubleSlab2.pineSlab.name=Pine Slab
+tile.woodenDoubleSlab2.hell_barkSlab.name=Hellbark Slab
+tile.woodenDoubleSlab2.jacarandaSlab.name=Jacaranda Slab
+tile.woodenDoubleSlab2.mahoganySlab.name=Mahogany Slab
+
+tile.woodenSingleSlab1.sacredoakSlab.name=Sacred Oak Slab
+tile.woodenSingleSlab1.cherrySlab.name=Cherry Slab
+tile.woodenSingleSlab1.darkSlab.name=Umbran Slab
+tile.woodenSingleSlab1.firSlab.name=Fir Slab
+tile.woodenSingleSlab1.etherealSlab.name=Ethereal Slab
+tile.woodenSingleSlab1.magicSlab.name=Magic Slab
+tile.woodenSingleSlab1.mangroveSlab.name=Mangrove Slab
+tile.woodenSingleSlab1.palmSlab.name=Palm Slab
+tile.woodenSingleSlab2.redwoodSlab.name=Redwood Slab
+tile.woodenSingleSlab2.willowSlab.name=Willow Slab
+tile.woodenSingleSlab2.pineSlab.name=Pine Slab
+tile.woodenSingleSlab2.hell_barkSlab.name=Hellbark Slab
+tile.woodenSingleSlab2.jacarandaSlab.name=Jacaranda Slab
+tile.woodenSingleSlab2.mahoganySlab.name=Mahogany Slab
+
+tile.sacredoakStairs.name=Sacred Oak Stairs
+tile.cherryStairs.name=Cherry Stairs
+tile.darkStairs.name=Umbran Stairs
+tile.firStairs.name=Fir Stairs
+tile.etherealStairs.name=Ethereal Stairs
+tile.magicStairs.name=Magic Stairs
+tile.mangroveStairs.name=Mangrove Stairs
+tile.palmStairs.name=Palm Stairs
+tile.redwoodStairs.name=Redwood Stairs
+tile.willowStairs.name=Willow Stairs
+tile.pineStairs.name=Pine Stairs
+tile.hellBarkStairs.name=Hellbark Stairs
+tile.jacarandaStairs.name=Jacaranda Stairs
+tile.mahoganyStairs.name=Mahogany Stairs

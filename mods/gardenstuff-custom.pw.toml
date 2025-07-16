@@ -1,8 +1,8 @@
 name = "Garden Stuff"
-filename = "GardenStuff-1.7.4-JB.jar"
+filename = "GardenStuff-1.7.5-JB.jar"
 side = "both"
 
 [download]
-url = "https://github.com/PufferTeam-ModArchive/GardenCollection/releases/download/1.7.4-JB/GardenStuff-1.7.4-JB.jar"
+url = "https://github.com/PufferTeam-ModArchive/GardenCollection/releases/download/1.7.5-JB/GardenStuff-1.7.5-JB.jar"
 hash-format = "sha256"
-hash = "b960c805a609d163ba9a30e5015ac17d1ba914934c660d0542ec71d46c141043"
+hash = "399cd1e4125c101a5699365fe08e5933fb37801406d7fe339582a928f26c9b3e"
