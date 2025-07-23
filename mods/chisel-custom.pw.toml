@@ -1,8 +1,8 @@
 name = "Chisel"
-filename = "chisel-2.16.8-JB.jar"
+filename = "chisel-2.17.0-JB.jar"
 side = "both"
 
 [download]
-url = "https://github.com/PufferTeam-ModArchive/Chisel/releases/download/2.16.8-JB/chisel-2.16.8-JB.jar"
+url = "https://github.com/PufferTeam-ModArchive/Chisel/releases/download/2.17.0-JB/chisel-2.17.0-JB.jar"
 hash-format = "sha256"
-hash = "94f5dfcefce44f9a3ca185a592a64355f09e214a5b51864ad385644ecbc5a283"
+hash = "dc64d48b997861a0cdfabf9aba5741728cb68c114643abdaf14fef5a2d1d1708"

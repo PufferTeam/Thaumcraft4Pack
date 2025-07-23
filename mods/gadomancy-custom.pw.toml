@@ -1,8 +1,8 @@
 name = "Gadomancy"
-filename = "gadomancy-1.4.3.jar"
+filename = "gadomancy-1.4.7.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/Gadomancy/releases/download/1.4.3/gadomancy-1.4.3.jar"
-hash-format = "sha1"
-hash = "6f0383840bb5cf170c3177973cd4f8cb514af96f"
+url = "https://github.com/GTNewHorizons/Gadomancy/releases/download/1.4.7/gadomancy-1.4.7.jar"
+hash-format = "sha256"
+hash = "7b752526b3d66a1c222ca16fcdaa40c632e47614d25e5ab95f1cabe63a5c18e0"

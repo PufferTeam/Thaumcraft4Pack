@@ -174,7 +174,7 @@ hash = "2a534c7cf8b3e9344da62acd8fc2664a75a682dcbfe37897f21977ef9b1aa63d"
 
 [[files]]
 file = "config/Botania.cfg"
-hash = "cd755c6b9126ba3751567ea11e3a59d151a0bf7805dbb08cfe954413c85c05b6"
+hash = "4210e47c8df05195433aeebae8ca6df832fec63802f2526dceaf36430b2d8312"
 
 [[files]]
 file = "config/CarpentersBlocks.cfg"
@@ -826,7 +826,7 @@ hash = "a767b70ccc0f7cc8aa5bd8656257519f6018f65c3233efd144991465addcec89"
 
 [[files]]
 file = "config/WitchingGadgets.cfg"
-hash = "35b790ab2ce57d911487d3af8ddc5af531353fe6a03f2e60c180e78eebae82de"
+hash = "1fbb01d27ae8478a15a750a59361dcae766d073debe20425234d1df462122c99"
 
 [[files]]
 file = "config/adjachest.cfg"
@@ -1026,15 +1026,15 @@ hash = "1305e625d04e81377d8c2aa7d7144ca8acb7a195704c8f12ea148db29aef311f"
 
 [[files]]
 file = "config/etfuturum/blocksitems.cfg"
-hash = "02ed3b731dc4fbb7b42abc175c64b4c02f8e9cbd0ce1aa77298865e7b1564977"
+hash = "dac303232ced929cc3c8401e1b60429a137ca9786b12ac8e92d925c779d5db01"
 
 [[files]]
 file = "config/etfuturum/enchantspotions.cfg"
-hash = "4a4e923d6ee3bfc989a62de24b7a93bdfb210dae652abc6bff0eb239b1ca52a7"
+hash = "291e03b3c2a13a40af98c53c19ccfa9a84b585cd853faaa99402077a0ccae066"
 
 [[files]]
 file = "config/etfuturum/entities.cfg"
-hash = "8c5a02672793400ce9bd705d0f2f1496715871af0293f865761b3b628f1672b5"
+hash = "608a6f920ef4944aca8218bc819bff6fd853979ee664f2f7009a818f30141a54"
 
 [[files]]
 file = "config/etfuturum/experiments.cfg"
@@ -1042,7 +1042,7 @@ hash = "dc35ab9d35af27e0974fe17c586910f7e18a9f794fcf769a89e74d845177dd75"
 
 [[files]]
 file = "config/etfuturum/functions.cfg"
-hash = "883a9d90ac1cf1e326b6b69d3f4218f0134a7958ab6644080eadc8233aabb8d7"
+hash = "78007b0ffc8c503fbba25ec0dd38bbd7ed060df8d848aa754d0c60e3a4c6f1a6"
 
 [[files]]
 file = "config/etfuturum/mixins.cfg"
@@ -1058,11 +1058,11 @@ hash = "442ba1a6efd64419eb42a204c5b29768b3e07a8809cb5ec4ed42c9d7edeee9eb"
 
 [[files]]
 file = "config/etfuturum/tweaks.cfg"
-hash = "6a1e8ea628399d6089c5704f15f96cc1e4ffa5ca461ae6f4b39fc52b52f595de"
+hash = "719a8515af0528c3b91023c99dffadc0f91992eca2bd2fb7f337d9b7271c0a25"
 
 [[files]]
 file = "config/etfuturum/world.cfg"
-hash = "ca6b901df56ebb1bdf062e3b5b5b4e5d17a1e4f1676b7d518e92a35cff514c89"
+hash = "1192391fb8a8e74d553ada4ab51576405eaa4579ba063cdf8b3457e208fe1cc1"
 
 [[files]]
 file = "config/euphoria_patcher.properties"
@@ -1254,7 +1254,7 @@ hash = "e53478d1549b072f7741e9d97b1f1db371733b572ffdaf35c5199054ef8069f6"
 
 [[files]]
 file = "config/salisarcana/enhancements.cfg"
-hash = "2d0a5c39c191f97b53c45e8287dff81f8d43e0dfb7b5b095ef2806e8aacf15bf"
+hash = "f6ef33b6e11c219d86482097ff26e13310a45f462c952c6579886c0e12699a26"
 
 [[files]]
 file = "config/salisarcana/mod_integrations.cfg"
@@ -1592,8 +1592,8 @@ hash = "95b82c66e4c416f40fb812fc1e01ba0a216523c02a2df8a1007806ae9692eeb9"
 metafile = true
 
 [[files]]
-file = "mods/angelica-custom.pw.toml"
-hash = "d812790ce379eceb53c49052887c0e1af0e716846392906989e419a21b22fc39"
+file = "mods/angelica.pw.toml"
+hash = "d957b9851dc4947be14fedda6f97def539440d46bc654414b9f2cc7b1287b37a"
 metafile = true
 
 [[files]]
@@ -1728,7 +1728,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisel-custom.pw.toml"
-hash = "387a2d3a180f6deaecc8cd9b7ffc04d335528940f4bb1be44d1f1020653f4582"
+hash = "9d9f4a693ccf98f8d0bbe27916fef3043a55757d22c866d9d45e0975f4317f38"
 metafile = true
 
 [[files]]
@@ -1767,11 +1767,6 @@ hash = "181a98ce250b6500c19e04d4e116bc77c9aef95f709e75ab032241de3d43e786"
 metafile = true
 
 [[files]]
-file = "mods/crafttweaker-custom.pw.toml"
-hash = "5f2dc683b12ea43d8f9dfbb74e227993d56282450206fa0d48eef90e6aa86e0a"
-metafile = true
-
-[[files]]
 file = "mods/cuchaz-ships-custom.pw.toml"
 hash = "c6a6118840bb927a99c9fb0d4b16e0de24b3bd0fffeb16b543cedd1534c70726"
 metafile = true
@@ -1779,11 +1774,6 @@ metafile = true
 [[files]]
 file = "mods/custom-armor-bar.pw.toml"
 hash = "b7235aefef6b03691e412ff94eb9dcdfefa9e76e14c28843f35dba312ed87971"
-metafile = true
-
-[[files]]
-file = "mods/customitems-custom.pw.toml"
-hash = "c2556fb2ddaf7c73d794e914c9cd3d852f970fe11fbeb0f6b3ca2233a91e3c0f"
 metafile = true
 
 [[files]]
@@ -1822,8 +1812,8 @@ hash = "e549812fd32503c027f65092ffcd8667db52f43018baf8682110a1c1f5677d5d"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-surroundings.pw.toml"
-hash = "44198347f3f097d10d97132c645bc2b89d03be237ad98a9cca1b583a5c118222"
+file = "mods/dynamicsurroundings-custom.pw.toml"
+hash = "31d066b25eaee5bdffc60521c3d8262b4713b787bc02f9295b84f73f596f00f3"
 metafile = true
 
 [[files]]
@@ -1838,7 +1828,7 @@ metafile = true
 
 [[files]]
 file = "mods/et-futurum-requiem-custom.pw.toml"
-hash = "c6f53ddd1382fa14bd6f638e2192b12ad8884f6147e1c3a06721deb2deab30ff"
+hash = "8723687166992741cf7db5e0037b862f9d99a226842faed0e906a8c203fdf97e"
 metafile = true
 
 [[files]]
@@ -1868,7 +1858,7 @@ metafile = true
 
 [[files]]
 file = "mods/forbiddenmagic-custom.pw.toml"
-hash = "a7dfbe8962daeeed86cd39a90cf9a6136a7339630036cbb9f3f68bf0e60c0b93"
+hash = "1dc0fbf2ac9e30b740aa77d99bdc6722f7df64a1f3ca667b685cd79322000560"
 metafile = true
 
 [[files]]
@@ -1883,7 +1873,7 @@ metafile = true
 
 [[files]]
 file = "mods/gadomancy-custom.pw.toml"
-hash = "fdd9cd15e5cacbefcc49f21b103713aa4dc094c1f4df4235e2c4eca6f5765f2f"
+hash = "801b795357edb017c466315bdafa88df18840e37d69c642c0225f82a6152a668"
 metafile = true
 
 [[files]]
@@ -1898,7 +1888,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtnhlib.pw.toml"
-hash = "1bc9609c8f24782c5aaa67f7826783f98a3a7cf59a22ba1f51ff14783860e442"
+hash = "9d862e0598105e8e7f38d2aaa578fb9ebfa8ce410b4c0effcf1c3e037d5e96fb"
 metafile = true
 
 [[files]]
@@ -1908,7 +1898,7 @@ metafile = true
 
 [[files]]
 file = "mods/hardcoreenderexpansion-custom.pw.toml"
-hash = "1e44cee5de1e0789813d3bec0971be36cb45e1f679c91791893cbd792fa00c60"
+hash = "b9a1fc15190a3796b04a8e35746436c7a321129fb7748259dc9a48418fb721c1"
 metafile = true
 
 [[files]]
@@ -1918,7 +1908,7 @@ metafile = true
 
 [[files]]
 file = "mods/hodgepodge-custom.pw.toml"
-hash = "a10cd2d1828ba652ce6e76fbfec432863e32357d5e6f0db4ea8415d17f8084c3"
+hash = "467cf0c19cacfe7a1be6761674281d98e16028e75ebb7c001ba66ca1c4fd5e5c"
 metafile = true
 
 [[files]]
@@ -1948,7 +1938,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersiveengineering-custom.pw.toml"
-hash = "7fbcdb4cf7e683dbb80b459048585ad8b00fdce9d13cabb5d7620e753e780f48"
+hash = "de304a8cb9e4200208c9ab21e778c4c878040a5da821df046f0d61b9bea823c2"
 metafile = true
 
 [[files]]
@@ -1987,11 +1977,6 @@ hash = "8a9418939d020dcd6a0962de431d17f85f737e14939f9a4fe758fee5e0acdd7d"
 metafile = true
 
 [[files]]
-file = "mods/legiblenei.pw.toml"
-hash = "2d1f098694fde06fbbd12a79c2af5ef44e58ebbd8d82b29bc70687f855d5f0d5"
-metafile = true
-
-[[files]]
 file = "mods/lumi-custom.pw.toml"
 hash = "e41ac99fd79a190d9d8c1d17a29255258157118988c986d1e5f9b4f0ec4e6109"
 metafile = true
@@ -2007,9 +1992,12 @@ hash = "568abfecdd482f05a67ff38321048d8e877fa7ec53faca9d37c7cda2b8bdf7b9"
 metafile = true
 
 [[files]]
-file = "mods/materialis-custom.pw.toml"
-hash = "616c6a4d84fa78349d7705055dc6cdcaaa9cddb2d58bfc702d89897f41265add"
-metafile = true
+file = "mods/materialis-1.2.3-main+a433e6a7f3-dirty.jar"
+hash = "f96080f9aa2f4fed6850d8d15c7beabc1155131d22e1673ed9c7c4eade0bb487"
+
+[[files]]
+file = "mods/materialis-custom.toml"
+hash = "84bc7aee6adfe3bbfe864cccc1e4457e66df9a184582c192244ecb53ea63294c"
 
 [[files]]
 file = "mods/mekanism-custom.pw.toml"
@@ -2024,11 +2012,6 @@ metafile = true
 [[files]]
 file = "mods/modernkeybinding.pw.toml"
 hash = "2e464e9cbaf444551df4429aa016a5f916a741c6f2a527bc70b564c82e2bc8ef"
-metafile = true
-
-[[files]]
-file = "mods/modtweaker-custom.pw.toml"
-hash = "ca2bf6f5731021e75d9ec399d1bb105b37cfb6a19f0d582e6c8e5bdbada6352b"
 metafile = true
 
 [[files]]
@@ -2088,7 +2071,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-unofficial.pw.toml"
-hash = "6973ad682790ee83699944124b3f3da1e05154c30211ac0cb70eda484b10b630"
+hash = "743085f488f5333beef8273e0dacd6a62921d7c2bedca42b6f7d760d90303717"
 metafile = true
 
 [[files]]
@@ -2228,7 +2211,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-horizons.pw.toml"
-hash = "e8d27ccdf117752d636d2cf62720d6fbba36dea15e9e1e15ca457183149b9c53"
+hash = "2f325ec351e7fe9bdf6033a88b66a6f5806b975c24a0d011eb8021bf102fed0e"
 metafile = true
 
 [[files]]
@@ -2282,8 +2265,8 @@ hash = "13410dad551469c556184a2e20f39ab90fcab07e9601d3ae0f7acac9f001f22a"
 metafile = true
 
 [[files]]
-file = "mods/unimixins-custom.pw.toml"
-hash = "bc4a9ffdccca72f5f802d4b43f9a28f41719af83a251ba9fb85bb202ee975f44"
+file = "mods/unimixins.pw.toml"
+hash = "044b3d52eaeea8bb7d3745258f9be073457cd2f55bf70a26667efc36d40e5279"
 metafile = true
 
 [[files]]
@@ -2365,74 +2348,6 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 [[files]]
 file = "resourcepacks/Essential-Textures.zip"
 hash = "6b9489c69ebe3f6501437d24f5113af0a2160cc7d3c031b690fe25affc7f31cf"
-
-[[files]]
-file = "scripts/.priority.zs"
-hash = "d35e3919eaeb9394a9d668884af135a4d8f37d1f65612d9e13af362f81ad050b"
-
-[[files]]
-file = "scripts/.research.zs"
-hash = "8a30dea2bcfa7a5e72892a456757b4b650113323349018c220f9eae667166708"
-
-[[files]]
-file = "scripts/Symbiotic+Botania-245+and+Thaumcraft-4.2.3.5.zs"
-hash = "9953a02d45c9a50d305235ae8b86a901d289c878f799bb1b635cdb69965c0217"
-
-[[files]]
-file = "scripts/aspects.zs"
-hash = "e181a57d20af735163479f4bfe77303f7003d2524c8bd0dcfd95bd27c3f38def"
-
-[[files]]
-file = "scripts/bloodmagic.zs"
-hash = "0f044c0a69d8de13ca7bffd2fb2a350442dd85c04ee6003821da17e987775089"
-
-[[files]]
-file = "scripts/botania.zs"
-hash = "9bfd39292ef3b66e2886000cef6046bcb7fd71cddfc41006c338697b30237dd3"
-
-[[files]]
-file = "scripts/chisel.zs"
-hash = "42a39942b524a69df69a72dfab919393e2f8b5e2a4f008efd0747051955a41d4"
-
-[[files]]
-file = "scripts/cutting.zs"
-hash = "ce3298e572357a1537b142f42111750b9eb5282d74bd95a66b5678fc60c1b94b"
-
-[[files]]
-file = "scripts/dyeing.zs"
-hash = "1c1ab140f9c008e23a59dc734eb7a9e55f95b518abc27ab88a5661e8d56e51e0"
-
-[[files]]
-file = "scripts/framing.zs"
-hash = "2d84c243ca5ec2629c5f21dc049efd2aab649094e555127adedfc6b33ab1fcac"
-
-[[files]]
-file = "scripts/mekanism.zs"
-hash = "71136d1ce0cecec96377d85c38569e92e59cf49fa983075a4bf8c9ba0d7591c3"
-
-[[files]]
-file = "scripts/misc.zs"
-hash = "f445c4a5217818234594db9ef3d38e0072f8c7e6686a81c571f86be33620b464"
-
-[[files]]
-file = "scripts/ore.zs"
-hash = "f52eb809dc55f34f899cf8da4d075ca7856f37b5e5cd2b5153a246024762759a"
-
-[[files]]
-file = "scripts/pistronics.zs"
-hash = "847374d5e094556d21b63bca95bf2a9a35a331e853e9d2b2d18a15553d1041f4"
-
-[[files]]
-file = "scripts/tconstruct.zs"
-hash = "26500785981ec5aeeecc778af2c37e713f7b54ce0322f11a94fba15e4da85405"
-
-[[files]]
-file = "scripts/thaumcraft.zs"
-hash = "82eaf1bc8e0571843fcb1d9c8ae30ece1da5dc5b76188304f457540adc0b0c65"
-
-[[files]]
-file = "scripts/wood.zs"
-hash = "b590fb29ee859de893e7dec8e1b1a3cc149afef4f0df92c0f4efc1d7137999f3"
 
 [[files]]
 file = "server-icon.pw.toml"
