@@ -1,8 +1,0 @@
-name = "Blacksmith Tweaks"
-filename = "blacksmithTweaks_1.7.10-1.4.2.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Gamingb3ast/blacksmithTweaks/releases/download/1.4.2/blacksmithTweaks_1.7.10-1.4.2.jar"
-hash-format = "sha256"
-hash = "5fa070e09dc357e75dab18f5478a8b809654b3dbe25934e8421cc3f4fb271435"
