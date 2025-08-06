@@ -994,7 +994,7 @@ hash = "d29dc28f549e7de18025e5f5ad7d073d1d5e7ebd587cc26870593294b90b354e"
 
 [[files]]
 file = "config/endercore/endercore.cfg"
-hash = "8bc8b553d5e6aeb1bb9e6f27848ab78bc90cd548f34281be3f6dbb0f281a27b9"
+hash = "467bb332bfbe27b417954743247b3d210987280533cacef11d3510f9c8c05d96"
 
 [[files]]
 file = "config/entityculling.json"
@@ -2314,7 +2314,7 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/Essential-Textures.zip"
-hash = "73a00e37b3f96d5a0f73728d5f49dee44591b3f480db1907da2b391d752c75e1"
+hash = "f54acd37bdbcae4ca116d4d363d7c40b76c77b61a8ba80b50a367b275949afc7"
 
 [[files]]
 file = "server-icon.pw.toml"
