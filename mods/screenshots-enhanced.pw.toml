@@ -1,0 +1,13 @@
+name = "Screenshots Enhanced"
+filename = "screenshots-1.0.0-1.7.10-hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33a4cdf1a0fe72acd516219a8caa0eaf507dcedf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2228718
+project-id = 228090

@@ -1050,7 +1050,7 @@ hash = "3e00dd5ad72b4dba7ed0dc0ba56d9b21c7ff2fae789708982488772fdafe8b61"
 
 [[files]]
 file = "config/falsepatternlib-early.json"
-hash = "77efe9ae1bbf524bf63ed217a331276c9578f5b12092d46dcd9586fa566bc1e3"
+hash = "319e81be94da37114b477797a88f0b9998ccaca3ca22b80eb31d39c0a5d25a22"
 
 [[files]]
 file = "config/falsepatternlib.cfg"
@@ -1115,10 +1115,6 @@ hash = "05fc70aa05945e780c4f5dec50d0bf3000d8b69893bd3bf7ffe959208d80b536"
 [[files]]
 file = "config/jaff.cfg"
 hash = "197d68206989bdd8191417581e9464f7f58990c0d8e574c18ddd5c9f5235e38a"
-
-[[files]]
-file = "config/kleeslabs.cfg"
-hash = "bb5f76c905c776f3be437c00b2afddafb80c4ac073c8d055ca983890c610ea9e"
 
 [[files]]
 file = "config/lumi.cfg"
@@ -1787,7 +1783,7 @@ metafile = true
 
 [[files]]
 file = "mods/dummycore-custom.pw.toml"
-hash = "e549812fd32503c027f65092ffcd8667db52f43018baf8682110a1c1f5677d5d"
+hash = "3d1f594a027b4f9961f913c25b6f4b1a4cc5a47395d63573c33c0d593a92d7c1"
 metafile = true
 
 [[files]]
@@ -1807,7 +1803,7 @@ metafile = true
 
 [[files]]
 file = "mods/et-futurum-requiem-custom.pw.toml"
-hash = "c973d9f89694a7b295f1f88cca2311f090badb1b2f67dfdc8493010bc39b3778"
+hash = "fd6c41c5a96bf16d1b7f11158c5a1fa15d71420f655b78a884bd7b253a42667e"
 metafile = true
 
 [[files]]
@@ -1951,11 +1947,6 @@ hash = "7e401a069a8b36705644f3b2a321df4f3a98fe511c8ac74860908f84f459d6e0"
 metafile = true
 
 [[files]]
-file = "mods/kleeslabs.pw.toml"
-hash = "0e80cdacc83090e71279777fa04cad4df6228e99828051307674f10f766186a9"
-metafile = true
-
-[[files]]
 file = "mods/lan-host-skin-re-fix-ed.pw.toml"
 hash = "8a9418939d020dcd6a0962de431d17f85f737e14939f9a4fe758fee5e0acdd7d"
 metafile = true
@@ -2031,8 +2022,8 @@ hash = "94bcabc3b553229355935bdec56e8118f634be43076a5b6522824cdce28df585"
 metafile = true
 
 [[files]]
-file = "mods/netherportalfix.pw.toml"
-hash = "8d3060a92228264b9fda7216ece3965f1e2faa63ee3c33e9a26cbe2ce42adf81"
+file = "mods/netherportalfix-custom.pw.toml"
+hash = "f4651d6dbb3e762419df2b09c7a8052c843e5198bc2fd67763bb1f568de9c163"
 metafile = true
 
 [[files]]
@@ -2096,6 +2087,11 @@ hash = "c44029fa970e1ea1fcddd5223f3d7dd7a3029beca36716506d61bf0bb652efce"
 metafile = true
 
 [[files]]
+file = "mods/screenshots-enhanced.pw.toml"
+hash = "a32a1b79b36f1717b454e54f9b4ca8ee0c6812d736b133c583aab8ad26ccb9a8"
+metafile = true
+
+[[files]]
 file = "mods/serverutilities.pw.toml"
 hash = "ea24fb2a4a838ae363742783c684a24376167922f012daacce00918198a27745"
 metafile = true
@@ -2137,7 +2133,7 @@ metafile = true
 
 [[files]]
 file = "mods/taintedmagic-custom.pw.toml"
-hash = "18d636c9bf8060804a8afa8a24deba18617fb346bb99f42b2f568f4823fded6f"
+hash = "392547cccf2254b857312482902b92ae15896adda4b25703e528c9abbe40007d"
 metafile = true
 
 [[files]]
@@ -2287,7 +2283,7 @@ metafile = true
 
 [[files]]
 file = "mods/witching-gadgets-custom.pw.toml"
-hash = "a10fe3e59df285b8bd7a4e1c3c2b17c9f059aba314fb5a2027eb9e255a8c752d"
+hash = "fac01838c6b1de15389184c5d517e4b04beb6f872acccd9b7745fe541292aa9c"
 metafile = true
 
 [[files]]
@@ -2318,7 +2314,7 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/Essential-Textures.zip"
-hash = "b70cbcf84b8172f0ae3c88cf407341c324a92fb76e5b773820dda94eac4c6c9c"
+hash = "73a00e37b3f96d5a0f73728d5f49dee44591b3f480db1907da2b391d752c75e1"
 
 [[files]]
 file = "server-icon.pw.toml"
