@@ -42,7 +42,7 @@ hash = "5c6f555776bca6b050bb98dbba36a50435cbf75a04979580085a1a13c65bed66"
 
 [[files]]
 file = "config/BiblioCraft.cfg"
-hash = "cd2a3592706e2f95284310f271a6e85f85cb0a4049b89f5ebf74ce0100c63d5c"
+hash = "16f7a1e4d47c304a8db88dccf00b0a5e8a86134cec1edd1edea4b60d73cc5e48"
 
 [[files]]
 file = "config/BloodArsenal.cfg"
@@ -306,7 +306,7 @@ hash = "902d126efa43200b955b56611223a70d8b790daffbb1a1c05f7084f1c5b41d03"
 
 [[files]]
 file = "config/InfernalMobs.cfg"
-hash = "bd2025b8667da24a28cf5e2d165f629c2c622b8ed51ca0e586a2bcf1d2034579"
+hash = "2247a4836076e0c0358fa72499df23c014d212d1ec52c2d1788571065ff4e441"
 
 [[files]]
 file = "config/LegibleNei/LegibleNei.cfg"
@@ -338,7 +338,7 @@ hash = "7fb132078d78461a9dde309797c85302c48eb378e6c8b8dc1030e1505d2248b4"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "7b61601aac703a6def1633d4c4692b44d9a3db81f486cc118b6297e84119df58"
+hash = "067427fc3b4d79f1fa9e050824ee5388914f363ff112e96552dff5fe42cb27c2"
 
 [[files]]
 file = "config/NEI/catalysts.csv"
@@ -346,7 +346,7 @@ hash = "6937417c4dbe8398d7fd74a088608fdb2429574da3a4e2eae1043e6e48a4075a"
 
 [[files]]
 file = "config/NEI/client.cfg"
-hash = "5e692acb03ebeb82cf6d9caf8324f9e75c5cf943f2476ecc1e4175523dd14c44"
+hash = "cec41c28cf939257095a6cbc46141965c2d2048745242c8d1514218508a4a224"
 
 [[files]]
 file = "config/NEI/collapsibleitems.cfg"
@@ -993,6 +993,10 @@ file = "config/dsurround/dsurround.cfg"
 hash = "d29dc28f549e7de18025e5f5ad7d073d1d5e7ebd587cc26870593294b90b354e"
 
 [[files]]
+file = "config/endercore/cropConfig.json"
+hash = "9013767cf42aaf9ef10ce5a0aa45cab58aa9d536020c02b1eac8bd8fe01bf626"
+
+[[files]]
 file = "config/endercore/endercore.cfg"
 hash = "467bb332bfbe27b417954743247b3d210987280533cacef11d3510f9c8c05d96"
 
@@ -1098,7 +1102,7 @@ hash = "46f5715e638ee267855d40d30d45f03d194cd8c4142b81c347552c8e0e86a97a"
 
 [[files]]
 file = "config/hodgepodgeEarly.properties"
-hash = "db7c794f0f48b7fab7314fc8cfa1a798b85ae550663cfe74d2a8aafc9da05524"
+hash = "e1633fdc84c0633dd708683845f402d244c7e2f8ef039d8e70580fb84c79e4af"
 
 [[files]]
 file = "config/immersiveintegration.cfg"
@@ -1222,7 +1226,7 @@ hash = "20a97ca5eb90c5827ac996a19e2288771e8c153b6da1761ae61aa4a3709b9a79"
 
 [[files]]
 file = "config/salisarcana/bugfixes.cfg"
-hash = "dabfb18d14c9f00c8646b78f498c1e98a4b5a81e7391b02d17720818c57c3b02"
+hash = "ec9e753c10d9ab8daf150dc02c917484d3022809263c3ce988a760dfc371be7e"
 
 [[files]]
 file = "config/salisarcana/commands.cfg"
@@ -1230,7 +1234,7 @@ hash = "e53478d1549b072f7741e9d97b1f1db371733b572ffdaf35c5199054ef8069f6"
 
 [[files]]
 file = "config/salisarcana/enhancements.cfg"
-hash = "90fc7b64cad07b576caf3977ccf9891cf311e644bd37757ab792b0d1fb28aac3"
+hash = "374e70d0b2f62731dc98ccc775af4164d0125398c9d0fe1e97e5d41a5064f76b"
 
 [[files]]
 file = "config/salisarcana/mod_integrations.cfg"
@@ -1250,11 +1254,11 @@ hash = "b413b1bb8aec2fa67057044731077c8c90a8158c3cc576fc62f54fcb8a44862e"
 
 [[files]]
 file = "config/saltymod/items.cfg"
-hash = "737d9173c26319d4a33c9739a3025bfd73fa4886b8ada10180382c002d358d73"
+hash = "712635dce611279feebae18b25bcce413d7f6e136297f15bc43a813c264cd53b"
 
 [[files]]
 file = "config/saltymod/mod_compatibility.cfg"
-hash = "f116eb5ffb640bcff2983d51e91e537df852c52deee3fa9f6ddb37c2a2564bea"
+hash = "ebe656474b106d57d0066ffb4ff57511fedc6d381f0690f7936f04a9f921b72a"
 
 [[files]]
 file = "config/saltymod/other.cfg"
@@ -1262,7 +1266,7 @@ hash = "1adbfa7986b168227ab97327f1b148a46a2ffd7582fb82979c9610034687fb17"
 
 [[files]]
 file = "config/saltymod/vanilla_changes.cfg"
-hash = "651d739e82b44d72d4cd0788f787ca8de3bad58a88f75d2b9dbf2e498f0b5e0e"
+hash = "850984c9232585ea5511ebf0c22c7f328e514a8b045eb03f626f7d12bc4dfb5c"
 
 [[files]]
 file = "config/saltymod/world_generation.cfg"
@@ -1270,7 +1274,7 @@ hash = "18f47b4e6c52b25541200c8b3becc79210f896ba24f49e931cda0494f091ad58"
 
 [[files]]
 file = "config/shaders.properties"
-hash = "d9fc5377261305ff55d64a572ca594776ee9b8594f9f60c65856e14d9f8ad988"
+hash = "e89efc24c638f5bf04ed4c62e57fcf094359af9ccc50656a75415225035f0b65"
 
 [[files]]
 file = "config/shadersfixer/mixins.cfg"
@@ -1302,7 +1306,7 @@ hash = "e5e3f6dfb7deebbe932f03735a407fa87e967c85bf92dcaa23371f0a4e039719"
 
 [[files]]
 file = "config/splash.properties"
-hash = "1b1d77ed0796923aa604a3837012e8b09cfb0525aa3903680a623dfaec7b65f8"
+hash = "cc00d4ff067c65bbfdc6afa9460b5d15e579fe00f1af7ed507eb3a70d17c988a"
 
 [[files]]
 file = "config/tc4tweak.cfg"
@@ -1582,6 +1586,11 @@ hash = "51fbc3d8d97ef6a3bc640e40aaabfc09e0a13e98f31269a7be13bd16e17efc78"
 metafile = true
 
 [[files]]
+file = "mods/antiquities-custom.pw.toml"
+hash = "5b446754964bea647c4191ab98b9c26bf53d378a655d99f7d7167b9f288b7931"
+metafile = true
+
+[[files]]
 file = "mods/applecore-unofficial.pw.toml"
 hash = "2b1564294d29d35295c21842038a42ec96aca9d3d245d9ade76eb2a4e07db997"
 metafile = true
@@ -1678,7 +1687,7 @@ metafile = true
 
 [[files]]
 file = "mods/bugtorch.pw.toml"
-hash = "03f50daaea957bb3e75a7cb6e520232522a33ee33c92c97066d4412c50fdb5de"
+hash = "74f2d55ed4248473bdc8c0cd166afe146feeef44cbb5bdf26f45b080d5496b5b"
 metafile = true
 
 [[files]]
@@ -1968,7 +1977,7 @@ metafile = true
 
 [[files]]
 file = "mods/materialis-custom.pw.toml"
-hash = "538f39be4e336c9606208f994fc04a1ec31b1c776436d50b9293a713573e399d"
+hash = "515a4b5f362e41dedc482be2063b7f6314e84214ede89c47ecfdde5535fcaa1f"
 metafile = true
 
 [[files]]
@@ -2078,12 +2087,12 @@ metafile = true
 
 [[files]]
 file = "mods/salis-arcana-custom.pw.toml"
-hash = "6f1ad9afda63c14091c69c240abc023985b2cf26de6bc24b1de15e7a32b95c9e"
+hash = "e5ffb89818dc8a949fb138e21b1d206490ee9342a4010df7602130b7633bd682"
 metafile = true
 
 [[files]]
 file = "mods/saltymod-custom.pw.toml"
-hash = "c44029fa970e1ea1fcddd5223f3d7dd7a3029beca36716506d61bf0bb652efce"
+hash = "43f6496ead6f79b7e7b53543264d61e259a45fcd40114e255b9ec18f4569efdc"
 metafile = true
 
 [[files]]
@@ -2314,7 +2323,7 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/Essential-Textures.zip"
-hash = "f54acd37bdbcae4ca116d4d363d7c40b76c77b61a8ba80b50a367b275949afc7"
+hash = "fff094725b1546678fb8e1b2231a1d242bbf7e184c23df70a8fa36373eb049ba"
 
 [[files]]
 file = "server-icon.pw.toml"
