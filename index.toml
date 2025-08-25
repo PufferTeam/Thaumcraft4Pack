@@ -1831,11 +1831,6 @@ hash = "ebf34f60e49eed9b85a3bf4b1253c7aa35ab841d8f444ff8670dfdf2c59d4d01"
 metafile = true
 
 [[files]]
-file = "mods/floating-items-custom.pw.toml"
-hash = "50bf62cb1771f535f0cbf62784a8e486c0f87134bd911f435f3703cef2a3addb"
-metafile = true
-
-[[files]]
 file = "mods/fluidlogged-custom.pw.toml"
 hash = "7070fa5f92dc6146094ea821b71ebe8b719e6b23736710bcf78468c7387074f4"
 metafile = true
@@ -1977,7 +1972,7 @@ metafile = true
 
 [[files]]
 file = "mods/materialis-custom.pw.toml"
-hash = "515a4b5f362e41dedc482be2063b7f6314e84214ede89c47ecfdde5535fcaa1f"
+hash = "080cb079a38eeb6513132b11abf5520be35611f9a76855584c6d25baee8b1d0f"
 metafile = true
 
 [[files]]
