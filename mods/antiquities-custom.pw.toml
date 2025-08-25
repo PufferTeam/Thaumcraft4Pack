@@ -1,8 +1,8 @@
 name = "Antiquities"
-filename = "antiquities-0.2.6.jar"
+filename = "antiquities-0.2.7.jar"
 side = "both"
 
 [download]
-url = "https://github.com/PufferTeam-ModArchive/Antiquities/releases/download/0.2.6/antiquities-0.2.6.jar"
+url = "https://github.com/PufferTeam-ModArchive/Antiquities/releases/download/0.2.7/antiquities-0.2.7.jar"
 hash-format = "sha256"
-hash = "0d0597cf34cdea3d0b85b7448819be77c6071ab25ab4579987a4d7bf40249b5b"
+hash = "023414f5b72dcbdf517697752820afdfc723c3e704fb047599f986e210ec9441"

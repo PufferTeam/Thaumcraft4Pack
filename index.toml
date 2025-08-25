@@ -1587,7 +1587,7 @@ metafile = true
 
 [[files]]
 file = "mods/antiquities-custom.pw.toml"
-hash = "5b446754964bea647c4191ab98b9c26bf53d378a655d99f7d7167b9f288b7931"
+hash = "f54fa4672a55ef3f98da28b2b1583b74890a71df045f865133a9817cad69748d"
 metafile = true
 
 [[files]]
