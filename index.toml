@@ -166,7 +166,7 @@ hash = "2a534c7cf8b3e9344da62acd8fc2664a75a682dcbfe37897f21977ef9b1aa63d"
 
 [[files]]
 file = "config/Botania.cfg"
-hash = "4210e47c8df05195433aeebae8ca6df832fec63802f2526dceaf36430b2d8312"
+hash = "745f280f1dfb8d6ea46da3e476531be59b85311f008d569a8ef3b4b68c5e41a0"
 
 [[files]]
 file = "config/CarpentersBlocks.cfg"
@@ -338,7 +338,7 @@ hash = "7fb132078d78461a9dde309797c85302c48eb378e6c8b8dc1030e1505d2248b4"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "067427fc3b4d79f1fa9e050824ee5388914f363ff112e96552dff5fe42cb27c2"
+hash = "07c071ea7b345eae352d525ce2acc18334491395851b005e5538c3ded813af9d"
 
 [[files]]
 file = "config/NEI/catalysts.csv"
@@ -439,6 +439,10 @@ hash = "66871be1228b69e6ff42cce1c812fd863a3669de4ccd88d30d0f52758f006199"
 [[files]]
 file = "config/RealisticTorches.cfg"
 hash = "27e8845ac858e53b4b3c9afe823f31481d563aa8d8385fa5e9de05faf7184d43"
+
+[[files]]
+file = "config/Salutation.cfg"
+hash = "7b79ce44c9f1db50569a022a78cd82de8274fff2f8f9d12ffcb61d3be2259974"
 
 [[files]]
 file = "config/SlimeKnights/Mantle.cfg"
@@ -573,6 +577,10 @@ file = "config/ThaumcraftMobAspects/aetherlegacy.cfg"
 hash = "69d738ecc5ae2e33d69e32a5c3264fb2b03e916683543aced40bc8a0180e01c6"
 
 [[files]]
+file = "config/ThaumcraftMobAspects/antiquities.cfg"
+hash = "72f7c5026697c3f7564bbbec267bfd9600d47786ec7e0c2d55a38d7a9c769aa0"
+
+[[files]]
 file = "config/ThaumcraftMobAspects/appliedenergistics2.cfg"
 hash = "e4201e735cebfec19edd34cd0ef51c3ec2e996cbd84f168da9a4ae9b190b38c9"
 
@@ -615,6 +623,10 @@ hash = "415c5785f4d822125ddc6b8eabb792c1f330d1a94e856c1b73cfd008c8f28b0d"
 [[files]]
 file = "config/ThaumcraftMobAspects/makeo.cfg"
 hash = "d46aa6d7b7e9c4484654523fb75545a72d2c334e16a34cdbfc86a768c1f9f03e"
+
+[[files]]
+file = "config/ThaumcraftMobAspects/materialis.cfg"
+hash = "28bd6fe11eb032fbc7820a9bfdbe68d07f4cb7c3582a8d0c18b2b8a9a8780b25"
 
 [[files]]
 file = "config/ThaumcraftMobAspects/mowziesmobs.cfg"
@@ -817,16 +829,8 @@ file = "config/aether/AetherI.cfg"
 hash = "ae15820eac27dd309e61c609527e9da1507bb476020444f6e4793ffe29e4e9a4"
 
 [[files]]
-file = "config/angelica-compat.cfg"
-hash = "8b4df14395429fc56fae9fb7886f2c3378c0494b5fda8deff2626fa08fd75c28"
-
-[[files]]
-file = "config/angelica-modules.cfg"
-hash = "0335cded9b027c0e7a773e97c7fbba785b9c7751225b795ecd14eb65d6438d28"
-
-[[files]]
-file = "config/angelica-options.json"
-hash = "77d8157bf52a7083807252bf35ed5ea5217519c57df94fb01625bcad0f7fed42"
+file = "config/antiquities.cfg"
+hash = "4354f06521e414405d6e5a7e9169872cbf966722c784eb5f900c27fd8df22960"
 
 [[files]]
 file = "config/archaicfix.cfg"
@@ -847,6 +851,10 @@ hash = "ecd62b194f6e1f363eac07129c8442d8ef209325e455ad80c3f84e748232415f"
 [[files]]
 file = "config/bbm/overrides/minecraft.attack.collide.cfg"
 hash = "342cd8f89666b2f6174bf8fde70ab19d42cbf50d817da397a0748c046e83cd84"
+
+[[files]]
+file = "config/beddium.cfg"
+hash = "70ee388ac33db013ef63890c4fbd9c9561c750fe11c6b596b9197adfc9cedce4"
 
 [[files]]
 file = "config/biomesoplenty/biomegen.cfg"
@@ -890,11 +898,11 @@ hash = "a7a8c9b40581a7d092d27d8deef898133d1543146763363dca27bda149c763a6"
 
 [[files]]
 file = "config/bugtorch/base.cfg"
-hash = "22c7c400ad4d4f05483546c3aa8322f54461c65a913d04c4755c099498ee07c1"
+hash = "8fff8dd56686ce22a90e466b3aed5fb985abcca49aa6d416b70d2c139691b10f"
 
 [[files]]
 file = "config/bugtorch/mixins.cfg"
-hash = "a25df13048bd598d2f0a90138ceb60064f659cd7d336ee5a16d1392e7a922bc5"
+hash = "6d3bee31d613c185aec10cb57c4b2c241bf78cd5099ec337e184e6326dcfbde9"
 
 [[files]]
 file = "config/bugtorch/mixinsModSupport.cfg"
@@ -902,7 +910,7 @@ hash = "bb45db1cfe2f1cec810905f5d0d4ccd74094581ae9e507059ff912a7f904b2a1"
 
 [[files]]
 file = "config/bugtorch/modSupport.cfg"
-hash = "3152bce064cf30a7bddfd46d632880ade0e7ec0aabaebacb2c2c10f213cc3a41"
+hash = "1e03bca1f0cd52d87daa5af901246864e6d2011e168af625fcff9a6457a7ca11"
 
 [[files]]
 file = "config/campfirebackport.cfg"
@@ -911,6 +919,10 @@ hash = "dd63d2c1305e80c1a38a67f5fb58ca503df2f585d2bab984a03c4117ad4bbcde"
 [[files]]
 file = "config/campfirebackportmixins.cfg"
 hash = "50ef80924dd80062c0f221caf6f7459879d2a63b44ab9a282c5cad4e8e228264"
+
+[[files]]
+file = "config/carbonconfig.cfg"
+hash = "bb9797f584384be7fb67fd4e188b4a80ebce50c08471e1d9487ac45f2e1b6e8f"
 
 [[files]]
 file = "config/chisel.cfg"
@@ -1054,11 +1066,19 @@ hash = "3e00dd5ad72b4dba7ed0dc0ba56d9b21c7ff2fae789708982488772fdafe8b61"
 
 [[files]]
 file = "config/falsepatternlib-early.json"
-hash = "319e81be94da37114b477797a88f0b9998ccaca3ca22b80eb31d39c0a5d25a22"
+hash = "77efe9ae1bbf524bf63ed217a331276c9578f5b12092d46dcd9586fa566bc1e3"
 
 [[files]]
 file = "config/falsepatternlib.cfg"
 hash = "297092fc54fc9f34cf9438bbcb4e984c9785db26ce4febe0141fa2e31842bac4"
+
+[[files]]
+file = "config/falsetweaks.cfg"
+hash = "6d750955b6ca3444228c5139ad4ff906585f3247beff0ac65c499fd89cc9189f"
+
+[[files]]
+file = "config/falsetweaks_userspecific.cfg"
+hash = "41b47997662b3eb42f6a520e4067595fdfd58b7181e27929fe63d8b42071053f"
 
 [[files]]
 file = "config/fastleafdecay.cfg"
@@ -1070,7 +1090,7 @@ hash = "fa4279b4142f0fd24e78d2f6e7c607b99626d359730d0c41051a31fe8249b1f6"
 
 [[files]]
 file = "config/foamfix.cfg"
-hash = "1ec1a8b1761318e956308170d786cd1f20a3ba23454474410c666d6098277a5e"
+hash = "fd55573c2b5d0dea0b05bbcd942e0e4275895611deb07d7d0d07b13f5d309d0c"
 
 [[files]]
 file = "config/forge.cfg"
@@ -1093,16 +1113,20 @@ file = "config/gtnhlib.cfg"
 hash = "775d3032ece97ed66a72ee9457d0fa602fcb1b99e897327aea6631ecb287e8fb"
 
 [[files]]
+file = "config/gtnhlibEarly.properties"
+hash = "293a27b046c6cdc5ca804d846d3dc475653e3a0ff292f067bdd1cdef2505d2a8"
+
+[[files]]
 file = "config/hardcorewither.cfg"
 hash = "2a15c46326733ad444cf530dd1db33b5084a0aee9a4e2eaa45e9b0d81b205d07"
 
 [[files]]
 file = "config/hodgepodge.cfg"
-hash = "46f5715e638ee267855d40d30d45f03d194cd8c4142b81c347552c8e0e86a97a"
+hash = "e52bf749d37c480443b164522810eef1711a81f8d41d74f392f250f06547b2c9"
 
 [[files]]
 file = "config/hodgepodgeEarly.properties"
-hash = "e1633fdc84c0633dd708683845f402d244c7e2f8ef039d8e70580fb84c79e4af"
+hash = "768e080aa8eed56ba560f5de4e58b5a49c52e4ce94da2a6ba7135d85f8560482"
 
 [[files]]
 file = "config/immersiveintegration.cfg"
@@ -1126,19 +1150,23 @@ hash = "bc2a4f333afcad46c4a4217f32ab34a083b95fe0877a20710525ffc641381e41"
 
 [[files]]
 file = "config/lwjgl3ify-early.json"
-hash = "62580cb2c98fef722e2e76952a1f59cc6acb1deb8b17a5aff3c2cb32523fcd29"
+hash = "fd7eb1951a7d282b45c66ad7d9d6ce5a0af8010cc7a3a01a94b65a4e5b039e88"
 
 [[files]]
 file = "config/lwjgl3ify.cfg"
-hash = "a5066674b2c9267432bfd6903677908f5e8f11a5626f425d379edb735b299a0b"
+hash = "97cb095b7c9a7f937333e2fac78b41127fb8c02323594033924eb0a1eb5604b6"
 
 [[files]]
 file = "config/materialis.cfg"
 hash = "0c688e5656840aa67d9ae2daa72637effdcfd95bd53d8849f2c78b0bf4998c63"
 
 [[files]]
+file = "config/mcpatcher.cfg"
+hash = "e55db8715c503037939cecec32dbb38ddbcf44fa369bbe215e3d97c5751a6851"
+
+[[files]]
 file = "config/mcpatcherforge.cfg"
-hash = "ea89aa2d2ab61d7706b50aef21e7fc64172459a6feb38ecc43fb7c07e478a779"
+hash = "55ea5ab7a311539d017ea2395d6dffb28376c2371402d5f714ba51ba022f7bcc"
 
 [[files]]
 file = "config/mekanism/Mekanism.cfg"
@@ -1186,7 +1214,7 @@ hash = "9442fc20f7f23fc6a1c2fa1c6c236c442b4ca655d783cffa4467c0266e8d5345"
 
 [[files]]
 file = "config/mycelium.properties"
-hash = "5a19837fc0c55562059522fe01441c96d7177221d260328c7026a999c6bbb235"
+hash = "de6d86f5907156cf907cb9d2a533a06e1bdb8ee63e78b94801d1357bcba3f069"
 
 [[files]]
 file = "config/navigator.cfg"
@@ -1202,7 +1230,7 @@ hash = "27a572a90c85de8bbf7cafeab09f8dfc8ddc308e6d664782d1d60990905afbab"
 
 [[files]]
 file = "config/notfine/notfine.cfg"
-hash = "e7d32744a499aaf2ce3e476225dd38996101f593f17eadffaa52a369a2dbdf7b"
+hash = "88e0c8d4f66f5b3ea86e378de4032065dab19ff8172c9a86ab4ea9ad658e87a7"
 
 [[files]]
 file = "config/overloadedarmorbar.cfg"
@@ -1219,6 +1247,22 @@ hash = "bc509c2a2e7e76f72f098817f5152a007af42591c9a0d821de89ee4040b84d38"
 [[files]]
 file = "config/roguelike_dungeons/roguelike.cfg"
 hash = "e1de18ae4b61be9bd335abc9d6e1e0dc5cf9de7699cc00eee291813956145565"
+
+[[files]]
+file = "config/rple.cfg"
+hash = "32fc09c968819c91fa0b9e2cbc05323bafa8442c51db30032cfa7ef033cefaa4"
+
+[[files]]
+file = "config/rple/README.txt"
+hash = "03b611b7b06a5571b8f2d306be5a9921f829e9480cf960157da2ad27cd3483e8"
+
+[[files]]
+file = "config/rple/custom_colors.json"
+hash = "6b65a9fe7047ab8ed5aa5c2b1afa1f28222f63369cfb3c856118818e67744382"
+
+[[files]]
+file = "config/rple/generated_colors.json"
+hash = "75d0caed7ab25b173e79f38858e94287392a9245bcbb7c17954c39650d07c340"
 
 [[files]]
 file = "config/salisarcana.cfg"
@@ -1306,7 +1350,11 @@ hash = "e5e3f6dfb7deebbe932f03735a407fa87e967c85bf92dcaa23371f0a4e039719"
 
 [[files]]
 file = "config/splash.properties"
-hash = "cc00d4ff067c65bbfdc6afa9460b5d15e579fe00f1af7ed507eb3a70d17c988a"
+hash = "b38fd1bfa0bbdcc72e0ce6a2b984beedb385900bf1178feee511f8b3620b044a"
+
+[[files]]
+file = "config/swansong.cfg"
+hash = "f54e686c9c4d8b55102cd8e12fc4ab796fc7328ee6a1ac777b82684fbdf36f7c"
 
 [[files]]
 file = "config/tc4tweak.cfg"
@@ -1541,6 +1589,30 @@ file = "config/xaeroworldmap.txt"
 hash = "a5b0fe3a120708f8f464126872fc124d9ede2e8bd62f40eb30055e1bcb9b3c23"
 
 [[files]]
+file = "falsepattern/com.ventooth-venterceptor-service-api-2.0.0-rc4.jar"
+hash = "aae8b16949d8d8aa6adfb045d506cc0006c91bc10f119ab63f8f19b4cce49cdf"
+
+[[files]]
+file = "falsepattern/it.unimi.dsi-fastutil-8.5.16.jar"
+hash = "317a1c26252da2c6f5cb32454e2995f6b93940f09c6642969a330c6b9ff67342"
+
+[[files]]
+file = "falsepattern/it.unimi.dsi-fastutil-8.5.16.jar.sha1"
+hash = "a999c612a8960beda4eff203198fb6a2edddea114157d7352faa8e4a4c09c943"
+
+[[files]]
+file = "falsepattern/mega-megatraceservice-1.2.0.jar"
+hash = "f3b09a7d240a56b3f62a84f5e08dead1ffa25c8a8d1dc671696afeecf036a177"
+
+[[files]]
+file = "falsepattern/org.joml-joml-1.10.8.jar"
+hash = "bf19510145178df82cd3bd37edd514c13f411531ec5545299fd3abcbc98fe7c2"
+
+[[files]]
+file = "falsepattern/org.joml-joml-1.10.8.jar.sha512"
+hash = "9bb6269ceb95c73bc4cc9d5cb16d040afd30b69347c272e161232ec0e4606c8c"
+
+[[files]]
 file = "forge-server-installer.pw.toml"
 hash = "1bf34f3f497c6ac7523bee7fe5bf60941a265007d52bfae3b8d2e98aaabb1433"
 metafile = true
@@ -1552,7 +1624,7 @@ metafile = true
 
 [[files]]
 file = "lwjgl3ify-forgepatches.pw.toml"
-hash = "86560658125637ae51dab48865f05411b31d2e151cfe243a5ed34df0b3e377c0"
+hash = "423d65dce8a5d86e2fb7d343fe4d0214c04440fb710a7804a1dac537bd200d20"
 metafile = true
 
 [[files]]
@@ -1576,18 +1648,13 @@ hash = "95b82c66e4c416f40fb812fc1e01ba0a216523c02a2df8a1007806ae9692eeb9"
 metafile = true
 
 [[files]]
-file = "mods/angelica.pw.toml"
-hash = "d957b9851dc4947be14fedda6f97def539440d46bc654414b9f2cc7b1287b37a"
-metafile = true
-
-[[files]]
 file = "mods/angry-pixel-the-betweenlands-mod.pw.toml"
 hash = "51fbc3d8d97ef6a3bc640e40aaabfc09e0a13e98f31269a7be13bd16e17efc78"
 metafile = true
 
 [[files]]
 file = "mods/antiquities-custom.pw.toml"
-hash = "f54fa4672a55ef3f98da28b2b1583b74890a71df045f865133a9817cad69748d"
+hash = "c1ed2e8bfa8b5fb738b4e559f9797435ef38ac0f7c72563249d0e2a0429cbfb2"
 metafile = true
 
 [[files]]
@@ -1602,7 +1669,7 @@ metafile = true
 
 [[files]]
 file = "mods/archaicfix.pw.toml"
-hash = "e2ea462f068b9b84ab0e1d302f56f300cb2b4938d1ace27eb88c23b7ed514c9b"
+hash = "c57697806ba7ff5d4b88011e20cabdbb476a58a1b544cb759032292be4992cba"
 metafile = true
 
 [[files]]
@@ -1618,6 +1685,11 @@ metafile = true
 [[files]]
 file = "mods/baubles-expanded.pw.toml"
 hash = "37e2264165794378c98a4c75b3f16f9b0908dcc0dc30e0c8d567171523607490"
+metafile = true
+
+[[files]]
+file = "mods/beddium.pw.toml"
+hash = "92e5fe2b2db3e5807f414a502be9115a50b144be68e2e23ad5aa1c67c5130f0b"
 metafile = true
 
 [[files]]
@@ -1687,12 +1759,17 @@ metafile = true
 
 [[files]]
 file = "mods/bugtorch.pw.toml"
-hash = "74f2d55ed4248473bdc8c0cd166afe146feeef44cbb5bdf26f45b080d5496b5b"
+hash = "6f1ed8588dacaae26c4882ddabd30eee68e5c3f7220639b51cac23d7252eda7d"
 metafile = true
 
 [[files]]
 file = "mods/campfire-backport.pw.toml"
 hash = "760f9a6172aa82dd0499342ec7954d5f4dd698ae2e0a6bf3f1f5f66c7d2315ba"
+metafile = true
+
+[[files]]
+file = "mods/carbon-config.pw.toml"
+hash = "e695863bb27a7b1771a8aaaa59698f1f85b93065df38f7fc9339b15920f7c900"
 metafile = true
 
 [[files]]
@@ -1716,8 +1793,8 @@ hash = "06f26e9fd39b0b85c5f10629fc861bc889ff86b51f14a09e569c64b207bd5918"
 metafile = true
 
 [[files]]
-file = "mods/chunkapi-custom.pw.toml"
-hash = "a931a6c78fbf4eeb09a9d8958873359ed2cfed94c6d7100d92d563f769b30131"
+file = "mods/chunkapi.pw.toml"
+hash = "b2fdbaab47cd749e5a2f4fcf165210755cb9e81191f395e51c0feaba566396a7"
 metafile = true
 
 [[files]]
@@ -1821,8 +1898,8 @@ hash = "1224dcd820088c7c0954e6923544c6853ea75629f3ba9a89ce0d0d605383d27d"
 metafile = true
 
 [[files]]
-file = "mods/falsepatternlib-custom.pw.toml"
-hash = "5a49a3e2c8666a9b61a490aae5b55f943174b5d5aec6108eea928868b197bc70"
+file = "mods/falsetweaks.pw.toml"
+hash = "05ca3e81a1ffa7de87d6e80ae80bd2de05846b4acd26164c2dc132a4c5f9c737"
 metafile = true
 
 [[files]]
@@ -1856,6 +1933,11 @@ hash = "180043516eea79642f21f42342a0fcd54597e4204615bc46e6b1d84226d6a76a"
 metafile = true
 
 [[files]]
+file = "mods/fplib.pw.toml"
+hash = "8f8485761693d025abd7ce037843e9a31e4e921a858a388a757f90ef7921dd7d"
+metafile = true
+
+[[files]]
 file = "mods/gadomancy-custom.pw.toml"
 hash = "801b795357edb017c466315bdafa88df18840e37d69c642c0225f82a6152a668"
 metafile = true
@@ -1872,7 +1954,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtnhlib.pw.toml"
-hash = "9d862e0598105e8e7f38d2aaa578fb9ebfa8ce410b4c0effcf1c3e037d5e96fb"
+hash = "c40e47dab611362a82714418793577a20657c758ede61a9a003b11f9493711cf"
 metafile = true
 
 [[files]]
@@ -1891,8 +1973,8 @@ hash = "c8a188b12912cd18ee68c3d9b343e1c96f36e10dccee8ae34dae5b244326a7b6"
 metafile = true
 
 [[files]]
-file = "mods/hodgepodge-custom.pw.toml"
-hash = "f63d944e175549e8591821ce9769267f33975bb3c9e6a2ecc2c2390a997e8299"
+file = "mods/hodgepodge.pw.toml"
+hash = "e0af3eac960dc479f5adde50db45da9942304426b92ea2fc97fd6c1c6e3ee7ee"
 metafile = true
 
 [[files]]
@@ -1962,7 +2044,7 @@ metafile = true
 
 [[files]]
 file = "mods/lwjgl3ify.pw.toml"
-hash = "ebc0b0554f47d2102801f0aba57bb2e3a6d358a5e78c26f247e28c6e82f94255"
+hash = "6fed87144a3b18d0a7faa03eb597ff31dfe24948d5cbff07c6a2497b6dc957bc"
 metafile = true
 
 [[files]]
@@ -1973,6 +2055,11 @@ metafile = true
 [[files]]
 file = "mods/materialis-custom.pw.toml"
 hash = "8dc4ca777a9ecac21eba90b09bdffb30ac9c9fbb701806de01e11e0afabf4fad"
+metafile = true
+
+[[files]]
+file = "mods/mcpatcher.pw.toml"
+hash = "176a3c7e99be8f9da0ce14b3b100fa36ebaeb4a686e4ec8b1b7225a638ebe817"
 metafile = true
 
 [[files]]
@@ -2051,6 +2138,11 @@ hash = "181e2001d6fbacc2e235f5e9c1d58327ac11aebe79f0d59773c3f7157c58fc4e"
 metafile = true
 
 [[files]]
+file = "mods/notfine-custom.pw.toml"
+hash = "c15367d6a9ac7e1fa42b148a6498f09c5ae745dbb46cd3d03b74781c77407a3b"
+metafile = true
+
+[[files]]
 file = "mods/pistronics-custom.pw.toml"
 hash = "f29252f6db40c13fdbbd3a8a2c49c38af67a2faeba4d16208cdcfd62c22dcb5d"
 metafile = true
@@ -2081,6 +2173,11 @@ hash = "8d894465e7ad48de25bdd47187ff0a649a1d7fc71e68cc9ad273c34a6f67af5f"
 metafile = true
 
 [[files]]
+file = "mods/rple-custom.pw.toml"
+hash = "a538b71645fecc21c9d3ce324ad59b8bfb4d64535eaf73410c45db52db57ec44"
+metafile = true
+
+[[files]]
 file = "mods/salis-arcana-custom.pw.toml"
 hash = "e5ffb89818dc8a949fb138e21b1d206490ee9342a4010df7602130b7633bd682"
 metafile = true
@@ -2088,6 +2185,11 @@ metafile = true
 [[files]]
 file = "mods/saltymod-custom.pw.toml"
 hash = "43f6496ead6f79b7e7b53543264d61e259a45fcd40114e255b9ec18f4569efdc"
+metafile = true
+
+[[files]]
+file = "mods/salutation.pw.toml"
+hash = "2abc83267eba824043b1b229f823fb2faf015702d1c1905ad8121943efb995e0"
 metafile = true
 
 [[files]]
@@ -2133,6 +2235,11 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers-unofficial.pw.toml"
 hash = "5250ac97327c9591e4d9786095fd42746f000c6edc8b6e3b7fb7a50a783cf2dd"
+metafile = true
+
+[[files]]
+file = "mods/swansong.pw.toml"
+hash = "4fd95d7def291077d26bc0870f554a54d7134d7c7004e85bcaf3217378003cbf"
 metafile = true
 
 [[files]]
@@ -2303,6 +2410,10 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "c5c5a1825b42a0eddd4a0cfc7e417b7c3b953f8518a08172a5167cd6a4ad22d8"
+
+[[files]]
+file = "options_shaders.cfg"
+hash = "6a4c359997182ecc793b1de89378b4b75c8dab68e0a23bb0e439149452e49c89"
 
 [[files]]
 file = "optionsnf.txt"

@@ -1,8 +1,8 @@
 name = "BugTorch"
-filename = "bugtorch-1.2.15-JB.jar"
+filename = "bugtorch-1.2.17-JB.jar"
 side = "both"
 
 [download]
-url = "https://github.com/PufferTeam-ModArchive/BugTorch/releases/download/1.2.15-JB/bugtorch-1.2.15-JB.jar"
+url = "https://github.com/PufferTeam-ModArchive/BugTorch/releases/download/1.2.17-JB/bugtorch-1.2.17-JB.jar"
 hash-format = "sha256"
-hash = "b230102db6289f2c2e08d8ea526d908b9edb48836c1c8f98f360deb396fbf562"
+hash = "8416f456b2b4872750b961c094c5b316d74dc49568f32ff15882c335de6a4698"

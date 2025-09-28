@@ -1,8 +1,13 @@
 name = "lwjgl3ify"
-filename = "lwjgl3ify-2.1.12.jar"
+filename = "lwjgl3ify-2.1.15.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.12/lwjgl3ify-2.1.12.jar"
-hash-format = "sha256"
-hash = "ed8ab556c085b867fa0a4cee1947bcc42eeb27c13cbca9b19fc6f3c12878c62d"
+url = "https://cdn.modrinth.com/data/eC4lt4Oy/versions/YFJZ7KNI/lwjgl3ify-2.1.15.jar"
+hash-format = "sha512"
+hash = "020672be750a5177560b02543b134b51f51f74db665928074479874b542ba3fd580051d18149920e0648720fa3d2c09d5909c01277c6491ef796c471109f0f53"
+
+[update]
+[update.modrinth]
+mod-id = "eC4lt4Oy"
+version = "YFJZ7KNI"

@@ -3,6 +3,6 @@ filename = "lwjgl3ify-forgePatches.jar"
 side = "server"
 
 [download]
-url = "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.12/lwjgl3ify-2.1.12-forgePatches.jar"
-hash-format = "sha1"
-hash = "f88f0bda1af3ad5c395a4c75e8cb818668d9c80f"
+url = "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.15/lwjgl3ify-2.1.15-forgePatches.jar"
+hash-format = "sha256"
+hash = "da6a6124f7e84a84cb4ed6b12909bf8c13e1f8c4ac0ad847c0f24e0066842f54"

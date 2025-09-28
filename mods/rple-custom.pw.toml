@@ -1,0 +1,8 @@
+name = "RPLE"
+filename = "rple-mc1.7.10-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTMEGA/RPLE/releases/download/2.0.3/rple-mc1.7.10-2.0.3.jar"
+hash-format = "sha256"
+hash = "812fa6c7002ad708fa9cf140440966265acb13ba8ee7f415dcd0892644788003"

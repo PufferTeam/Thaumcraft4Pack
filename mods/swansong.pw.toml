@@ -1,0 +1,13 @@
+name = "SwanSong Shaders"
+filename = "swansong-mc1.7.10-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2mCumCZs/versions/Aw2nvLE5/swansong-mc1.7.10-1.2.0.jar"
+hash-format = "sha512"
+hash = "68e1e0ef04b3df1a1dca5c12709774c5ab70b9db7f524f8447aee2470f4040b355276ff6c8f66d74adebc814359fd05e297aee3717ef8dbdf676f8020a31b03f"
+
+[update]
+[update.modrinth]
+mod-id = "2mCumCZs"
+version = "Aw2nvLE5"

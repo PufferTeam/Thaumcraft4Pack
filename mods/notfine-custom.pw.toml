@@ -1,0 +1,8 @@
+name = "NotFine"
+filename = "notfine-0.2.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/jss2a98aj/NotFine/releases/download/0.2.7/notfine-0.2.7.jar"
+hash-format = "sha256"
+hash = "cb33a117c42080ba50c0be1bc47224997bdf9e9ba0be6aa2a3ef8ec66f48b619"

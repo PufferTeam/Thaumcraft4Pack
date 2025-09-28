@@ -1,8 +1,0 @@
-name = "ChunkAPI"
-filename = "chunkapi-mc1.7.10-0.6.4.jar"
-side = "both"
-
-[download]
-url = "https://github.com/LegacyModdingMC/ChunkAPI/releases/download/0.6.4/chunkapi-mc1.7.10-0.6.4.jar"
-hash-format = "sha256"
-hash = "23887dd55e244052de86065e7c2cfe68ec9e4280e80aeb54b707093c58e713ad"
