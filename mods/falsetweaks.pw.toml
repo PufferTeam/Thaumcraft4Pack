@@ -1,13 +1,13 @@
 name = "FalseTweaks"
-filename = "falsetweaks-mc1.7.10-4.0.6.jar"
+filename = "falsetweaks-mc1.7.10-4.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VTGi3upD/versions/A3mx7jj7/falsetweaks-mc1.7.10-4.0.6.jar"
+url = "https://cdn.modrinth.com/data/VTGi3upD/versions/Bwam6Eoc/falsetweaks-mc1.7.10-4.1.1.jar"
 hash-format = "sha512"
-hash = "e832bb20f370637f868c8827740767a3219c3aa50d954589688485ae8634c5841b3fcdd3cdba36f54a0de132509bccb1ce0324f8ecb0e6daeb7fc752605e18a0"
+hash = "1cab2ff2c7a946eab1a3337be2cc77b7b23512f52015065327b9bb5eeed64f3545b98c6be54575ba0a1342364cfa67a578871e83323d0f260ef4932246225ff7"
 
 [update]
 [update.modrinth]
 mod-id = "VTGi3upD"
-version = "A3mx7jj7"
+version = "Bwam6Eoc"

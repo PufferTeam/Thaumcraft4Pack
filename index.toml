@@ -14,7 +14,7 @@ hash = "738f883141b9dec00b9698a3b323ee0e05ec4b82a68861492c0ffd2503dd706b"
 
 [[files]]
 file = "config/AppleCore.cfg"
-hash = "e389dcd715b573bead04fa0740ca64d58725780df43b40f1c1f0ba9dcd1fb54f"
+hash = "8210a31d1b6df498427459da854caa1770974347e7dc6e37265730699e78df13"
 
 [[files]]
 file = "config/Automagy.cfg"
@@ -174,7 +174,7 @@ hash = "da706551e55e3ef5f7b99d3587483a70a6e224e686b1a3ae932a5fa393a2179c"
 
 [[files]]
 file = "config/CodeChickenCore.cfg"
-hash = "1889b089c3d2ae796e1d691b566eb311907f54e885c3af581b31c137fa607058"
+hash = "db537a2e10fe87be0b4e0baa282fb65936ce5d4e5e149ae60d3d412de3c0088b"
 
 [[files]]
 file = "config/CustomMainMenu/mainmenu.json"
@@ -306,7 +306,7 @@ hash = "902d126efa43200b955b56611223a70d8b790daffbb1a1c05f7084f1c5b41d03"
 
 [[files]]
 file = "config/InfernalMobs.cfg"
-hash = "2247a4836076e0c0358fa72499df23c014d212d1ec52c2d1788571065ff4e441"
+hash = "d26526e4a1ead879ef48530753330942c0027f99f44709ffb110e050d92a4359"
 
 [[files]]
 file = "config/LegibleNei/LegibleNei.cfg"
@@ -338,7 +338,7 @@ hash = "7fb132078d78461a9dde309797c85302c48eb378e6c8b8dc1030e1505d2248b4"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "07c071ea7b345eae352d525ce2acc18334491395851b005e5538c3ded813af9d"
+hash = "5a3ebdad5a72fff60a36de2096d96c550cfad734bace23a338111e86ce6a82a1"
 
 [[files]]
 file = "config/NEI/catalysts.csv"
@@ -346,7 +346,7 @@ hash = "6937417c4dbe8398d7fd74a088608fdb2429574da3a4e2eae1043e6e48a4075a"
 
 [[files]]
 file = "config/NEI/client.cfg"
-hash = "cec41c28cf939257095a6cbc46141965c2d2048745242c8d1514218508a4a224"
+hash = "fe7c63907b1f3932b49364f04f8bb4bb7bb9571a614b202444ced76539759d7b"
 
 [[files]]
 file = "config/NEI/collapsibleitems.cfg"
@@ -355,6 +355,10 @@ hash = "fa0b17b7fd146bb34f21493681bcff1724bbb248ce9d0a76416364642a7a2243"
 [[files]]
 file = "config/NEI/enableautofocus.cfg"
 hash = "0e23694895239e786f0f839dd4083c3c34cad26ffd9bb15588c2203cd4c751da"
+
+[[files]]
+file = "config/NEI/guicraftablesblacklist.cfg"
+hash = "5b7b1c1fcf211f62158f5151b854db5dd9bee7b4323e032aca87ea9edba19141"
 
 [[files]]
 file = "config/NEI/guidfilters.cfg"
@@ -379,6 +383,10 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "config/NEI/hiddenitems.cfg"
 hash = "1c75641e19513cdf8be0d9ee1ab028a5414bb22a2989aa2b285270cf2c13db05"
+
+[[files]]
+file = "config/NEI/informationpages.cfg"
+hash = "5c2af186f031743b8adb60cf0e7d5782b7a0a75a69858c8b7324f439c6cbb4fe"
 
 [[files]]
 file = "config/NEI/serialhandlers.cfg"
@@ -1074,11 +1082,11 @@ hash = "297092fc54fc9f34cf9438bbcb4e984c9785db26ce4febe0141fa2e31842bac4"
 
 [[files]]
 file = "config/falsetweaks.cfg"
-hash = "6d750955b6ca3444228c5139ad4ff906585f3247beff0ac65c499fd89cc9189f"
+hash = "2a41ce680d7c67a9581dd4d3683043b2632ae8ce71158b084ab5d99c8e6fef3b"
 
 [[files]]
 file = "config/falsetweaks_userspecific.cfg"
-hash = "41b47997662b3eb42f6a520e4067595fdfd58b7181e27929fe63d8b42071053f"
+hash = "20b903e572498e0a30fac195c44bec1f9e7fbf8896adb92d4ee210df606d3a6f"
 
 [[files]]
 file = "config/fastleafdecay.cfg"
@@ -1114,7 +1122,7 @@ hash = "775d3032ece97ed66a72ee9457d0fa602fcb1b99e897327aea6631ecb287e8fb"
 
 [[files]]
 file = "config/gtnhlibEarly.properties"
-hash = "293a27b046c6cdc5ca804d846d3dc475653e3a0ff292f067bdd1cdef2505d2a8"
+hash = "7373402e4e27a65bea31c08ed5fc3a83bdd90f1142a4572c42bb09cb1d3653a1"
 
 [[files]]
 file = "config/hardcorewither.cfg"
@@ -1126,7 +1134,7 @@ hash = "e52bf749d37c480443b164522810eef1711a81f8d41d74f392f250f06547b2c9"
 
 [[files]]
 file = "config/hodgepodgeEarly.properties"
-hash = "768e080aa8eed56ba560f5de4e58b5a49c52e4ce94da2a6ba7135d85f8560482"
+hash = "9e837e3a6569da7781bca79454696b069456841a0e825775635fbb4164d8f0c6"
 
 [[files]]
 file = "config/immersiveintegration.cfg"
@@ -1250,7 +1258,7 @@ hash = "e1de18ae4b61be9bd335abc9d6e1e0dc5cf9de7699cc00eee291813956145565"
 
 [[files]]
 file = "config/rple.cfg"
-hash = "32fc09c968819c91fa0b9e2cbc05323bafa8442c51db30032cfa7ef033cefaa4"
+hash = "597f11537908b36f936408687c812b258d0349be83648023707498b7699487da"
 
 [[files]]
 file = "config/rple/README.txt"
@@ -1258,7 +1266,7 @@ hash = "03b611b7b06a5571b8f2d306be5a9921f829e9480cf960157da2ad27cd3483e8"
 
 [[files]]
 file = "config/rple/custom_colors.json"
-hash = "6b65a9fe7047ab8ed5aa5c2b1afa1f28222f63369cfb3c856118818e67744382"
+hash = "0c0de5f53991931be8c101680d9b480c8dee5d30b4fc5689270b9daee0d92cda"
 
 [[files]]
 file = "config/rple/generated_colors.json"
@@ -1317,6 +1325,22 @@ file = "config/saltymod/world_generation.cfg"
 hash = "18f47b4e6c52b25541200c8b3becc79210f896ba24f49e931cda0494f091ad58"
 
 [[files]]
+file = "config/shaderfixer/mixinsEarly_GENERAL.cfg"
+hash = "755c43a7b060c68cba0ef44d8b76757c15172c0ee437bc00ead2f89ad3da505d"
+
+[[files]]
+file = "config/shaderfixer/mixinsEarly_TWEAKS.cfg"
+hash = "4aa197ec4428cfaeb6ae09140bdab2fcc0e303a8eda362f5b9ae506e4bcdc384"
+
+[[files]]
+file = "config/shaderfixer/mixinsLate_GENERAL.cfg"
+hash = "6d7239a72cc0eb0c7f607cb7c75bdd6ee227b4eaf611d2c008024fbaeb83110c"
+
+[[files]]
+file = "config/shaderfixer/mixinsLate_TWEAKS.cfg"
+hash = "c2c2b6eff66abbc442f82353c240cab3db745858ca5dfbac28c2542f983e2868"
+
+[[files]]
 file = "config/shaders.properties"
 hash = "e89efc24c638f5bf04ed4c62e57fcf094359af9ccc50656a75415225035f0b65"
 
@@ -1350,7 +1374,7 @@ hash = "e5e3f6dfb7deebbe932f03735a407fa87e967c85bf92dcaa23371f0a4e039719"
 
 [[files]]
 file = "config/splash.properties"
-hash = "b38fd1bfa0bbdcc72e0ce6a2b984beedb385900bf1178feee511f8b3620b044a"
+hash = "e2435c4a68b9acbaa1ad5fecd4f9903f3c0ba982df7c3e9556c57e616d3aa491"
 
 [[files]]
 file = "config/swansong.cfg"
@@ -1358,7 +1382,7 @@ hash = "f54e686c9c4d8b55102cd8e12fc4ab796fc7328ee6a1ac777b82684fbdf36f7c"
 
 [[files]]
 file = "config/tc4tweak.cfg"
-hash = "b01a5be2cb28dd05186e21d1190d15c4fa56bdf93e50bf6bb81057ab9dce8f4d"
+hash = "0b20081296d3527fb8a6cf2f5aa3e8caa16889a5413c92ab2f879645aea02b4c"
 
 [[files]]
 file = "config/tcaltarcull.cfg"
@@ -1659,7 +1683,7 @@ metafile = true
 
 [[files]]
 file = "mods/applecore-unofficial.pw.toml"
-hash = "2b1564294d29d35295c21842038a42ec96aca9d3d245d9ade76eb2a4e07db997"
+hash = "2257dcb19e4be76f7be4e78009f8a1e3781e5af76c6a413e85a9af589e6bb66d"
 metafile = true
 
 [[files]]
@@ -1804,7 +1828,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
-hash = "54b7dba2cdc3142d7dc55ed68c6fa31cc7051406bae864c8b43058b154a6c151"
+hash = "e3ac56beb0d6695bec995196aa7ed1d9b905961ab82e30cba11a63e6d7f8f02d"
 metafile = true
 
 [[files]]
@@ -1899,7 +1923,7 @@ metafile = true
 
 [[files]]
 file = "mods/falsetweaks.pw.toml"
-hash = "05ca3e81a1ffa7de87d6e80ae80bd2de05846b4acd26164c2dc132a4c5f9c737"
+hash = "66d2f39ad4208e87195e610b125f11395484cfa445c6fec0ce0fd67181ea97fc"
 metafile = true
 
 [[files]]
@@ -1924,7 +1948,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-multipart-custom.pw.toml"
-hash = "60fb740d8ef88d281e5c605d7f207eacc66c5f76181d890cfc3a73c96f49c887"
+hash = "0d73f27d36c6f7a034407a60de6cfa9d4c2d872c911e08e7307926d1ab7a90c8"
 metafile = true
 
 [[files]]
@@ -2043,6 +2067,11 @@ hash = "e41ac99fd79a190d9d8c1d17a29255258157118988c986d1e5f9b4f0ec4e6109"
 metafile = true
 
 [[files]]
+file = "mods/lumi1710.pw.toml"
+hash = "51ecc1da6354a87a0c00dc150620ff4fc9f8b370ac5b6f37fa0ed4b0df41c079"
+metafile = true
+
+[[files]]
 file = "mods/lwjgl3ify.pw.toml"
 hash = "6fed87144a3b18d0a7faa03eb597ff31dfe24948d5cbff07c6a2497b6dc957bc"
 metafile = true
@@ -2134,7 +2163,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-unofficial.pw.toml"
-hash = "181e2001d6fbacc2e235f5e9c1d58327ac11aebe79f0d59773c3f7157c58fc4e"
+hash = "1a829d6ac523de689999f30c841990644404e262e21b42db9d20a455c41dcce9"
 metafile = true
 
 [[files]]
@@ -2173,8 +2202,8 @@ hash = "8d894465e7ad48de25bdd47187ff0a649a1d7fc71e68cc9ad273c34a6f67af5f"
 metafile = true
 
 [[files]]
-file = "mods/rple-custom.pw.toml"
-hash = "a538b71645fecc21c9d3ce324ad59b8bfb4d64535eaf73410c45db52db57ec44"
+file = "mods/rple.pw.toml"
+hash = "cc6e239ab8c14dd4417a4a60bb163df4863ee7222249d60889dcbf33375ae4ce"
 metafile = true
 
 [[files]]
@@ -2204,7 +2233,7 @@ metafile = true
 
 [[files]]
 file = "mods/shader-fixer.pw.toml"
-hash = "c11813de843bf83705af7c8189069a4758fb7c00ed478a9132e47d86a09c03e0"
+hash = "5c569170d72ab96079c5327766d8aaaf3af6a89dc540fc52ef049cd0738b9f7e"
 metafile = true
 
 [[files]]
@@ -2234,12 +2263,12 @@ metafile = true
 
 [[files]]
 file = "mods/storage-drawers-unofficial.pw.toml"
-hash = "5250ac97327c9591e4d9786095fd42746f000c6edc8b6e3b7fb7a50a783cf2dd"
+hash = "2f8cd57c4893eb4c9a26fcc7bf326aa2098bd70ab88f6b478e00ddeb02dacd4b"
 metafile = true
 
 [[files]]
 file = "mods/swansong.pw.toml"
-hash = "4fd95d7def291077d26bc0870f554a54d7134d7c7004e85bcaf3217378003cbf"
+hash = "337e9fa1cc4f987424bdb2965d8897e00cc05470e80929a5607ad1079eea5806"
 metafile = true
 
 [[files]]
@@ -2249,7 +2278,7 @@ metafile = true
 
 [[files]]
 file = "mods/tc4tweaks.pw.toml"
-hash = "b65ad6e682326c0f1a2d13600912c26fc7d5619417e1413bf6a0671c4071b86b"
+hash = "4f0248e147979b4664affb2d551947086d913cde1e1068ad9d4bd290c6f99917"
 metafile = true
 
 [[files]]
@@ -2299,7 +2328,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-horizons.pw.toml"
-hash = "2f325ec351e7fe9bdf6033a88b66a6f5806b975c24a0d011eb8021bf102fed0e"
+hash = "d969995ecaf72129f2bdab7ff2883871b9b35a83b131909c3e7a5ba720750551"
 metafile = true
 
 [[files]]
@@ -2339,7 +2368,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "13410dad551469c556184a2e20f39ab90fcab07e9601d3ae0f7acac9f001f22a"
+hash = "b3303b44ab3ede0d9afb8a59ee886938aec0e42a07e155fc98f1b6017e08bc1a"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Colored Lights (RPLE)"
+filename = "rple-mc1.7.10-2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/glC7saXJ/versions/8IlLg0ve/rple-mc1.7.10-2.1.2.jar"
+hash-format = "sha512"
+hash = "0e7646074ab90339c16ac20268cbf334538e85adcf9d1cd8146f1317e00004d4062496684c54ee8b8f28ff2cc0e5302ad4bbce7c24c3084f04023ee1984fc9eb"
+
+[update]
+[update.modrinth]
+mod-id = "glC7saXJ"
+version = "8IlLg0ve"

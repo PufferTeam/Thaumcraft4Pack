@@ -1,13 +1,13 @@
 name = "Thaumic Horizons"
-filename = "ThaumicHorizons-1.7.6.jar"
+filename = "ThaumicHorizons-1.7.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1wDWP1tN/versions/J2xdE4XJ/ThaumicHorizons-1.7.6.jar"
+url = "https://cdn.modrinth.com/data/1wDWP1tN/versions/yYGrDBnk/ThaumicHorizons-1.7.8.jar"
 hash-format = "sha512"
-hash = "93ca1a8bc81406081ed0ef8d63c532dfb072ff1e825d2342d472ddaade9023fc51d70111163771a3bf91033e155338be359bb1119764c723cb508409689094a1"
+hash = "0a27ad8f475571b2d3eb649140cdf315b6e7a9708ae87b478d033086e8562249dd2aff0f001e18506a74daa4b680da06c0b852a06a6b7a56c2cc793d0a6027c3"
 
 [update]
 [update.modrinth]
 mod-id = "1wDWP1tN"
-version = "J2xdE4XJ"
+version = "yYGrDBnk"
