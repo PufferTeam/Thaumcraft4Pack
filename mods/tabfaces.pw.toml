@@ -1,0 +1,13 @@
+name = "TabFaces"
+filename = "tabfaces-1.0.11-rc1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jzw8TKEK/versions/99MiXr3u/tabfaces-1.0.11-rc1.jar"
+hash-format = "sha512"
+hash = "cc5d7e2886da237b418e7037e89c90eca86b73470b25c0b4f68e6817e546e16231e313c5cd5ba8462b23568cc1541434d9382e1766ccef1bf951e062e39d0e5f"
+
+[update]
+[update.modrinth]
+mod-id = "Jzw8TKEK"
+version = "99MiXr3u"

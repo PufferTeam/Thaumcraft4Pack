@@ -1,8 +1,8 @@
 name = "Salis Arcana"
-filename = "salisarcana-v2.2.0.jar"
+filename = "salisarcana-v2.3.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/rndmorris/Salis-Arcana/releases/download/v2.2.0/salisarcana-v2.2.0.jar"
+url = "https://github.com/rndmorris/Salis-Arcana/releases/download/v2.3.0/salisarcana-v2.3.0.jar"
 hash-format = "sha256"
-hash = "0b0e894a5b89f34d7a7e9af723eb76194e5755ddfb568b280a0be711cd4a8bfe"
+hash = "aa99d1abe26060ed3276e3236f9ba6ac7637580aff405eb0e7e95755605ec432"

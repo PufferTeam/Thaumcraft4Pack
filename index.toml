@@ -306,7 +306,7 @@ hash = "902d126efa43200b955b56611223a70d8b790daffbb1a1c05f7084f1c5b41d03"
 
 [[files]]
 file = "config/InfernalMobs.cfg"
-hash = "d26526e4a1ead879ef48530753330942c0027f99f44709ffb110e050d92a4359"
+hash = "e31b542d139dc7bed4bfd7b1cc5ff27bdb1cf5d6d9a85d2b1e70f51eaa670304"
 
 [[files]]
 file = "config/LegibleNei/LegibleNei.cfg"
@@ -338,7 +338,7 @@ hash = "7fb132078d78461a9dde309797c85302c48eb378e6c8b8dc1030e1505d2248b4"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "5a3ebdad5a72fff60a36de2096d96c550cfad734bace23a338111e86ce6a82a1"
+hash = "65909debd49ce158d39f86f89716786f74b350a44bd539ead5e6c52e2ae1d462"
 
 [[files]]
 file = "config/NEI/catalysts.csv"
@@ -842,7 +842,7 @@ hash = "4354f06521e414405d6e5a7e9169872cbf966722c784eb5f900c27fd8df22960"
 
 [[files]]
 file = "config/archaicfix.cfg"
-hash = "b91ea9725b3c836c99882c5c6cca750c451485bc761fc7b2b29d41f3863358c0"
+hash = "583a023bd7849705bebd675ad44b1a770824c6c399c0789a3cf6a4c4716d1f2c"
 
 [[files]]
 file = "config/aroma1997/Aroma1997Core.cfg"
@@ -1082,7 +1082,7 @@ hash = "297092fc54fc9f34cf9438bbcb4e984c9785db26ce4febe0141fa2e31842bac4"
 
 [[files]]
 file = "config/falsetweaks.cfg"
-hash = "2a41ce680d7c67a9581dd4d3683043b2632ae8ce71158b084ab5d99c8e6fef3b"
+hash = "e4ea2bc363e29ed9d197836a3e97a03ad52df9dc33fb6b2e7e13b03d90b366d4"
 
 [[files]]
 file = "config/falsetweaks_userspecific.cfg"
@@ -1091,6 +1091,10 @@ hash = "20b903e572498e0a30fac195c44bec1f9e7fbf8896adb92d4ee210df606d3a6f"
 [[files]]
 file = "config/fastleafdecay.cfg"
 hash = "5a8c5caee6f90244b51ae5d56d7fa9fbdd98506cb04804092e1536c6b341535b"
+
+[[files]]
+file = "config/fentlib.cfg"
+hash = "53a145cce8dbd3c6287c8b84aa087686e38973cbf8aa9cdb1e053d72ed4af330"
 
 [[files]]
 file = "config/floatingitems.cfg"
@@ -1122,7 +1126,7 @@ hash = "775d3032ece97ed66a72ee9457d0fa602fcb1b99e897327aea6631ecb287e8fb"
 
 [[files]]
 file = "config/gtnhlibEarly.properties"
-hash = "7373402e4e27a65bea31c08ed5fc3a83bdd90f1142a4572c42bb09cb1d3653a1"
+hash = "83581f03f331be99d45c09cc14f089ec4688d1e081d509513b221e74703a86fb"
 
 [[files]]
 file = "config/hardcorewither.cfg"
@@ -1134,7 +1138,7 @@ hash = "e52bf749d37c480443b164522810eef1711a81f8d41d74f392f250f06547b2c9"
 
 [[files]]
 file = "config/hodgepodgeEarly.properties"
-hash = "9e837e3a6569da7781bca79454696b069456841a0e825775635fbb4164d8f0c6"
+hash = "fb14a75ec73d1b7fff0db504bea531c1f60ec98bddcd1c5f0fc01842326e2150"
 
 [[files]]
 file = "config/immersiveintegration.cfg"
@@ -1266,7 +1270,7 @@ hash = "03b611b7b06a5571b8f2d306be5a9921f829e9480cf960157da2ad27cd3483e8"
 
 [[files]]
 file = "config/rple/custom_colors.json"
-hash = "0c0de5f53991931be8c101680d9b480c8dee5d30b4fc5689270b9daee0d92cda"
+hash = "f8b76802d91f052bb5ca1ebffe6d5a962c4251955e48273be984bc29f858dd06"
 
 [[files]]
 file = "config/rple/generated_colors.json"
@@ -1274,11 +1278,11 @@ hash = "75d0caed7ab25b173e79f38858e94287392a9245bcbb7c17954c39650d07c340"
 
 [[files]]
 file = "config/salisarcana.cfg"
-hash = "20a97ca5eb90c5827ac996a19e2288771e8c153b6da1761ae61aa4a3709b9a79"
+hash = "831b3d30e1f7ed430fd5ea6e61a4a5b36f6d5cd160b9ac5247ac2bb5a1333cdd"
 
 [[files]]
 file = "config/salisarcana/bugfixes.cfg"
-hash = "ec9e753c10d9ab8daf150dc02c917484d3022809263c3ce988a760dfc371be7e"
+hash = "c317223fc3e9c0151963e30d20f8b696fb0962945f9b0002f385b7c1050574aa"
 
 [[files]]
 file = "config/salisarcana/commands.cfg"
@@ -1286,11 +1290,15 @@ hash = "e53478d1549b072f7741e9d97b1f1db371733b572ffdaf35c5199054ef8069f6"
 
 [[files]]
 file = "config/salisarcana/enhancements.cfg"
-hash = "374e70d0b2f62731dc98ccc775af4164d0125398c9d0fe1e97e5d41a5064f76b"
+hash = "e3321eb36594c6a3ac43cb95dc6ae9391647338485955502b570bd8ff6daaa72"
 
 [[files]]
 file = "config/salisarcana/mod_integrations.cfg"
 hash = "81363d1b602721fff1b4baa4bba5a444ea933d94ac30968becc40973333f1b1f"
+
+[[files]]
+file = "config/salisarcana/thaumcraft_configuration.cfg"
+hash = "137602b627ceed76c5cd21a91fb2fea8dc1bbcf3c589a2f0d705a36c942929fc"
 
 [[files]]
 file = "config/saltymod/blocks.cfg"
@@ -1374,11 +1382,15 @@ hash = "e5e3f6dfb7deebbe932f03735a407fa87e967c85bf92dcaa23371f0a4e039719"
 
 [[files]]
 file = "config/splash.properties"
-hash = "e2435c4a68b9acbaa1ad5fecd4f9903f3c0ba982df7c3e9556c57e616d3aa491"
+hash = "71fe43f96570935bf4e7488743329ef25eae0fc64edda64623f0212252434c4f"
 
 [[files]]
 file = "config/swansong.cfg"
 hash = "f54e686c9c4d8b55102cd8e12fc4ab796fc7328ee6a1ac777b82684fbdf36f7c"
+
+[[files]]
+file = "config/tabfaces.cfg"
+hash = "c6667c72942139d7932c3879c1f396c4b8c2227347c5c78782362a790946f350"
 
 [[files]]
 file = "config/tc4tweak.cfg"
@@ -1692,8 +1704,8 @@ hash = "9d02471a0016889bc4821aaf084db8d5136ee2e79a6d425a43c711c573f7d5f1"
 metafile = true
 
 [[files]]
-file = "mods/archaicfix.pw.toml"
-hash = "c57697806ba7ff5d4b88011e20cabdbb476a58a1b544cb759032292be4992cba"
+file = "mods/archaicfix-custom.pw.toml"
+hash = "5fc67ec6a63c7a1a5214b6f20435d4284a531d002979f87e52d2c9a9370a1355"
 metafile = true
 
 [[files]]
@@ -1929,6 +1941,11 @@ metafile = true
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "ebf34f60e49eed9b85a3bf4b1253c7aa35ab841d8f444ff8670dfdf2c59d4d01"
+metafile = true
+
+[[files]]
+file = "mods/fentlib.pw.toml"
+hash = "62896ed431ab77c8cbedde82c1a287a14896876db7dea58f81d6c0d275adf915"
 metafile = true
 
 [[files]]
@@ -2208,7 +2225,7 @@ metafile = true
 
 [[files]]
 file = "mods/salis-arcana-custom.pw.toml"
-hash = "e5ffb89818dc8a949fb138e21b1d206490ee9342a4010df7602130b7633bd682"
+hash = "ad6d56e7f8e26077b4a1144e4d79e57d8b29faf4221365be21543b33d8b8572d"
 metafile = true
 
 [[files]]
@@ -2272,6 +2289,11 @@ hash = "337e9fa1cc4f987424bdb2965d8897e00cc05470e80929a5607ad1079eea5806"
 metafile = true
 
 [[files]]
+file = "mods/tabfaces.pw.toml"
+hash = "92791a979c2ea05dc951ac9cfcb4b1180ff86185a444040ecc3b17401412b6d7"
+metafile = true
+
+[[files]]
 file = "mods/taintedmagic-custom.pw.toml"
 hash = "392547cccf2254b857312482902b92ae15896adda4b25703e528c9abbe40007d"
 metafile = true
@@ -2323,7 +2345,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-exploration-custom.pw.toml"
-hash = "5cd994055e0a160e6df0359ec8e8d15f102ef7fe6f7642f8ecaf870f6c58b061"
+hash = "58b23026d061febf686e6f80a3d6a5f8456339b10b16e6fac98b5fea35d457de"
 metafile = true
 
 [[files]]
@@ -2333,7 +2355,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-tinkerer-custom.pw.toml"
-hash = "1273524d4d1200b8e2e5a3ef35da7957449c0c054a6c9632cd576f700cfc0c81"
+hash = "7638d4ba19dc165d0c9e2aa72842abae78ce258dac6129f145d2a85183a5eed2"
 metafile = true
 
 [[files]]
