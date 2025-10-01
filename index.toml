@@ -1074,7 +1074,7 @@ hash = "3e00dd5ad72b4dba7ed0dc0ba56d9b21c7ff2fae789708982488772fdafe8b61"
 
 [[files]]
 file = "config/falsepatternlib-early.json"
-hash = "77efe9ae1bbf524bf63ed217a331276c9578f5b12092d46dcd9586fa566bc1e3"
+hash = "319e81be94da37114b477797a88f0b9998ccaca3ca22b80eb31d39c0a5d25a22"
 
 [[files]]
 file = "config/falsepatternlib.cfg"
@@ -1684,6 +1684,11 @@ hash = "95b82c66e4c416f40fb812fc1e01ba0a216523c02a2df8a1007806ae9692eeb9"
 metafile = true
 
 [[files]]
+file = "mods/angelica.pw.toml"
+hash = "62b9f4310723d838aaeda8135cdb85c311773f60785a33222540847f17dce74a"
+metafile = true
+
+[[files]]
 file = "mods/angry-pixel-the-betweenlands-mod.pw.toml"
 hash = "51fbc3d8d97ef6a3bc640e40aaabfc09e0a13e98f31269a7be13bd16e17efc78"
 metafile = true
@@ -1721,11 +1726,6 @@ metafile = true
 [[files]]
 file = "mods/baubles-expanded.pw.toml"
 hash = "37e2264165794378c98a4c75b3f16f9b0908dcc0dc30e0c8d567171523607490"
-metafile = true
-
-[[files]]
-file = "mods/beddium.pw.toml"
-hash = "92e5fe2b2db3e5807f414a502be9115a50b144be68e2e23ad5aa1c67c5130f0b"
 metafile = true
 
 [[files]]
@@ -1934,11 +1934,6 @@ hash = "1224dcd820088c7c0954e6923544c6853ea75629f3ba9a89ce0d0d605383d27d"
 metafile = true
 
 [[files]]
-file = "mods/falsetweaks.pw.toml"
-hash = "66d2f39ad4208e87195e610b125f11395484cfa445c6fec0ce0fd67181ea97fc"
-metafile = true
-
-[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "ebf34f60e49eed9b85a3bf4b1253c7aa35ab841d8f444ff8670dfdf2c59d4d01"
 metafile = true
@@ -2104,11 +2099,6 @@ hash = "8dc4ca777a9ecac21eba90b09bdffb30ac9c9fbb701806de01e11e0afabf4fad"
 metafile = true
 
 [[files]]
-file = "mods/mcpatcher.pw.toml"
-hash = "176a3c7e99be8f9da0ce14b3b100fa36ebaeb4a686e4ec8b1b7225a638ebe817"
-metafile = true
-
-[[files]]
 file = "mods/mekanism-custom.pw.toml"
 hash = "3238add706d08771671550373cd7ce693b0217fb2c7009e1ca2d37e18ec07e82"
 metafile = true
@@ -2117,6 +2107,10 @@ metafile = true
 file = "mods/mekanism-generators-custom.pw.toml"
 hash = "0a2b123c16f4a0f2e776b5119129a7136501686e19e5e7b07c4ae7640ee24b0d"
 metafile = true
+
+[[files]]
+file = "mods/metaworlds-mixins-1.3.7.jar"
+hash = "0fc7bb03c1ab22dc8b39a68b5ba8c6e9dada89dfa92c99233208d0a162a55753"
 
 [[files]]
 file = "mods/modernkeybinding.pw.toml"
@@ -2136,11 +2130,6 @@ metafile = true
 [[files]]
 file = "mods/myceliumlib.pw.toml"
 hash = "2571da525deecad90e2217c24b773302e1c8cacc00ab0f72ff02d6d448b3c3dc"
-metafile = true
-
-[[files]]
-file = "mods/navigator.pw.toml"
-hash = "dd9a315610ab2da4ec46114128b9079ebd47e4169faf4a44d78ceb221550e204"
 metafile = true
 
 [[files]]
@@ -2184,11 +2173,6 @@ hash = "1a829d6ac523de689999f30c841990644404e262e21b42db9d20a455c41dcce9"
 metafile = true
 
 [[files]]
-file = "mods/notfine-custom.pw.toml"
-hash = "c15367d6a9ac7e1fa42b148a6498f09c5ae745dbb46cd3d03b74781c77407a3b"
-metafile = true
-
-[[files]]
 file = "mods/pistronics-custom.pw.toml"
 hash = "f29252f6db40c13fdbbd3a8a2c49c38af67a2faeba4d16208cdcfd62c22dcb5d"
 metafile = true
@@ -2209,6 +2193,10 @@ hash = "95141fceb18686db85f3b7e1160cb681f383667ee2ea7b3ba922e7a036dd9ef3"
 metafile = true
 
 [[files]]
+file = "mods/recreate-NO-GIT-TAG-SET.jar"
+hash = "946d30d1683228c3b45e53ff3ffa66c47131221f2b8dc006c271ec76e87c6c61"
+
+[[files]]
 file = "mods/recurrent-complex-unofficial.pw.toml"
 hash = "cb0b74ad558cff8eb32e1f7d9ab93a3f2000f28fccac706e0231978644be11cc"
 metafile = true
@@ -2216,11 +2204,6 @@ metafile = true
 [[files]]
 file = "mods/roguelike-dungeons.pw.toml"
 hash = "8d894465e7ad48de25bdd47187ff0a649a1d7fc71e68cc9ad273c34a6f67af5f"
-metafile = true
-
-[[files]]
-file = "mods/rple.pw.toml"
-hash = "cc6e239ab8c14dd4417a4a60bb163df4863ee7222249d60889dcbf33375ae4ce"
 metafile = true
 
 [[files]]
@@ -2241,11 +2224,6 @@ metafile = true
 [[files]]
 file = "mods/screenshots-enhanced.pw.toml"
 hash = "a32a1b79b36f1717b454e54f9b4ca8ee0c6812d736b133c583aab8ad26ccb9a8"
-metafile = true
-
-[[files]]
-file = "mods/serverutilities.pw.toml"
-hash = "ea24fb2a4a838ae363742783c684a24376167922f012daacce00918198a27745"
 metafile = true
 
 [[files]]
@@ -2281,11 +2259,6 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers-unofficial.pw.toml"
 hash = "2f8cd57c4893eb4c9a26fcc7bf326aa2098bd70ab88f6b478e00ddeb02dacd4b"
-metafile = true
-
-[[files]]
-file = "mods/swansong.pw.toml"
-hash = "337e9fa1cc4f987424bdb2965d8897e00cc05470e80929a5607ad1079eea5806"
 metafile = true
 
 [[files]]
