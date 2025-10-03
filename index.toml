@@ -1222,7 +1222,7 @@ hash = "e837dc092b502c353910c2ca44befe0965cdb8af28edc15bfe7e5ff8bef6f19c"
 
 [[files]]
 file = "config/mod-director/mods.bundle.json"
-hash = "cb3f51b1c74fad9b7bf86c3e508b98dd962493fc378d53bb84c44cac01464f4a"
+hash = "4183e30d87a13417187fa12c148084c94ae5fb01ac65511261753731d1d91b67"
 
 [[files]]
 file = "config/multipart.cfg"
