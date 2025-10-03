@@ -3,9 +3,9 @@ filename = "BaublesExpanded-2.2.1.jar"
 side = "both"
 
 [download]
+hash-format = "sha256"
+hash = "81fd9436556f6cc4492bcd7d061e21d413cedf146ca1e9fa6e56f8e46995e378"
 url = "https://cdn.modrinth.com/data/pAqS7wsC/versions/vX4kVuYP/BaublesExpanded-2.2.1.jar"
-hash-format = "sha512"
-hash = "104b7a8674261a70eccace8eb12d2a199ec3615a65f66a1ed801ea7f8a565ced80b224cbaf9b79a5d747a85dcde6a0783acf9a7301f28844d1cfd7831443c2c7"
 
 [update]
 [update.modrinth]

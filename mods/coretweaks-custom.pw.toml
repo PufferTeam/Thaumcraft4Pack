@@ -1,8 +1,0 @@
-name = "CoreTweaks"
-filename = "coretweaks-0.3.3.4-GTNH.jar"
-side = "client"
-
-[download]
-url = "https://github.com/GTNewHorizons/CoreTweaks/releases/download/0.3.3.4-GTNH/coretweaks-0.3.3.4-GTNH.jar"
-hash-format = "sha1"
-hash = "c0fb702936ec6a5f93992013d8804d65afc25b28"

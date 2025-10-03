@@ -1,0 +1,8 @@
+name = "Ex Nihilo"
+filename = "exnihilo-1.50.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "71f4767e2ec9783e7b395035265a6369bbd01e36de32babfee5623759b9c341f"
+url = "https://github.com/PufferTeam-ModArchive/ex-nihilo/releases/download/1.50.1/exnihilo-1.50.1.jar"

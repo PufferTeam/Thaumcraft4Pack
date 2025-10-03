@@ -1,11 +1,11 @@
-name = "Mycelium"
+name = "MyceliumLib"
 filename = "+Mycelium-2.3.jar"
 side = "both"
 
 [download]
+hash-format = "sha256"
+hash = "bd5d9a3baf2114bfb7d0862700c3f1c47fdcc4aec8b79f7f0f00eb416019cc24"
 url = "https://cdn.modrinth.com/data/3EqWeoiF/versions/4FQLH0Ow/%2BMycelium-2.3.jar"
-hash-format = "sha512"
-hash = "1b756f9b60b10601f8843d98d9ad58809af9be8cce71caa1a34d138d250137d2c7f17b7dff3da71ac9875b7c2021d13e91f1d5ade2994203215c043c17fc2a85"
 
 [update]
 [update.modrinth]

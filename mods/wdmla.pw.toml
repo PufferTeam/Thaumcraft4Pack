@@ -1,0 +1,8 @@
+name = "WarpTheory"
+filename = "wdmla-2.8.1-JB.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "0f773663e5975ff58e5cc1e6d9b8c427a713ce092f7cdcf4eb5461dfe86df368"
+url = "https://github.com/PufferTeam-ModArchive/WDMla/releases/download/2.8.1-JB/wdmla-2.8.1-JB.jar"

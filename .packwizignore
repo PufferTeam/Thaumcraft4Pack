@@ -9,3 +9,11 @@
 /config/witchery_debug.cfg
 /config/time.history
 /config/itlt/icon.png
+/node_modules/*
+cf-key.txt
+package.json
+package-lock.json
+pack.js
+run.bat
+download.bat
+cache.json

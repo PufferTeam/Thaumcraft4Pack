@@ -1,0 +1,8 @@
+name = "NEI Integration"
+filename = "NEIIntegration-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "484cabee25950ca2b6d3d34722242b85638d271397d4dac5d5c6a87f8f3f019c"
+url = "https://github.com/GTNewHorizons/NEI-Integration/releases/download/1.4.0/NEIIntegration-1.4.0.jar"

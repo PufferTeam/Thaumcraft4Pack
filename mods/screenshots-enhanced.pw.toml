@@ -1,10 +1,10 @@
 name = "Screenshots Enhanced"
 filename = "screenshots-1.0.0-1.7.10-hotfix.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "33a4cdf1a0fe72acd516219a8caa0eaf507dcedf"
+hash-format = "sha256"
+hash = "5fe9bf33fac54640b901e2478e36cbb213b254190796cf023f3a172113b27c63"
 mode = "metadata:curseforge"
 
 [update]

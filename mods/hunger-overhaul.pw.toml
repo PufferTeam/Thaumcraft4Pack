@@ -3,8 +3,8 @@ filename = "HungerOverhaul-1.7.10-1.0.0.jenkins104.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "384b4867faac1b329bd5a1dd8a79056f615a2f2b"
+hash-format = "sha256"
+hash = "800e55c375575941e7eb6ce1f5c13be518453016171af1ba77a7b607c92641f9"
 mode = "metadata:curseforge"
 
 [update]

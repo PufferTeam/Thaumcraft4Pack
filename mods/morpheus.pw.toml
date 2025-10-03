@@ -3,8 +3,8 @@ filename = "Morpheus-1.7.10-1.6.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b6f94b849d8a4a106f4aca32a9d1ede9b55cc5c5"
+hash-format = "sha256"
+hash = "37014340a0400277b1202233f75619d53e84c0cf37d2d3561a993241a45cb412"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "witchery-1.7.10-0.24.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b3f02f7049eedef71ebd7ad192c3cc23cf1268c9"
+hash-format = "sha256"
+hash = "68c331f624cea6c0827a31e96a6dce2e75461227c42da70f11ba765a8c6a8cec"
 mode = "metadata:curseforge"
 
 [update]

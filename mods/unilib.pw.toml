@@ -3,9 +3,9 @@ filename = "UniLib-1.1.1+1.7.10-forge.jar"
 side = "client"
 
 [download]
+hash-format = "sha256"
+hash = "76f70291c2f02f8ec49fe25e46439d58eedf29637bc55a4f82f6a2ba9f2b260a"
 url = "https://cdn.modrinth.com/data/nT86WUER/versions/OP0Ufek9/UniLib-1.1.1%2B1.7.10-forge.jar"
-hash-format = "sha512"
-hash = "ecb95c67e2d399fea301cb0c6a11da98af3dd112f5e387fdc37e102868a8fb56fbbcf5b21f7e4a04da5adabf93e357d6cf8d56b3a6b3ad02330905920ed120e6"
 
 [update]
 [update.modrinth]

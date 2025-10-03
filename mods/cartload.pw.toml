@@ -3,9 +3,9 @@ filename = "cartload-mc1.7.10-1.0.2.jar"
 side = "both"
 
 [download]
+hash-format = "sha256"
+hash = "9f8cbb2af9ba6d570fa7ecb9310e7868628fcd964e5d2afd84b150bf013c1ab9"
 url = "https://cdn.modrinth.com/data/25cIpBfY/versions/88GRp9A1/cartload-mc1.7.10-1.0.2.jar"
-hash-format = "sha1"
-hash = "8c47f9e1730436065050c42e120d15d8b3d0dbbd"
 
 [update]
 [update.modrinth]

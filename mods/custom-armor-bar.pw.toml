@@ -3,9 +3,9 @@ filename = "overloadedarmorbar-1.7.10-1.0.0.jar"
 side = "client"
 
 [download]
+hash-format = "sha256"
+hash = "b94ccdcf64a83007b3279a2332e1c0f1d75a0d51793c2956f81217446a4a6575"
 url = "https://cdn.modrinth.com/data/fJUppOop/versions/1.0.0/overloadedarmorbar-1.7.10-1.0.0.jar"
-hash-format = "sha512"
-hash = "e9b1f1bcbfea307a92cf6b1a51bf257a29915bcfec79575a278a22aacfec528a78b9ed6df1d91fb0953f5e1f787e40740c5d8657bec55de283b6cc3a7eee36b5"
 
 [update]
 [update.modrinth]

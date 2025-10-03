@@ -3,8 +3,8 @@ filename = "thaumcraftneiplugin-1.7.10-1.7a.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1cad010865aa455cc5eafbffc4ef915ac4ab2ecc"
+hash-format = "sha256"
+hash = "d39e6c8fc27709b04d58ec4c1b625648776dbf01cdf7af2d51388ee215d5d4e8"
 mode = "metadata:curseforge"
 
 [update]

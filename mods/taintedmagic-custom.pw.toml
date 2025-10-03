@@ -1,8 +1,0 @@
-name = "Tainted Magic"
-filename = "Tainted-Magic-7.6.25-GTNH.jar"
-side = "both"
-
-[download]
-url = "https://github.com/GTNewHorizons/Tainted-Magic/releases/download/7.6.25-GTNH/Tainted-Magic-7.6.25-GTNH.jar"
-hash-format = "sha256"
-hash = "c2d75be4cd2ec5329df0044744e66a9f81ec005692c1956718e00fdea80c8e8c"

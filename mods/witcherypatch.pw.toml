@@ -3,8 +3,8 @@ filename = "WitcheryPatch-1.7.10-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cab602f48279df46fb0c4aec0af735502c7b315d"
+hash-format = "sha256"
+hash = "d46b2e41483228bebaa94f8e4d7d1c5cfa4a05ae57d0c489b5eee384dacab983"
 mode = "metadata:curseforge"
 
 [update]

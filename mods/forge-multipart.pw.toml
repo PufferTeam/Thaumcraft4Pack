@@ -1,0 +1,8 @@
+name = "Forge Multipart"
+filename = "./1.7.10/ForgeMultipart-1.6.11-JB.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "a35087cb5dc7a85ca24021addc39d7afd9b0268333ddd789f7df7df38c02501d"
+url = "https://github.com/PufferTeam-ModArchive/ForgeMultipart/releases/download/1.6.11-JB/ForgeMultipart-1.6.11-JB.jar"

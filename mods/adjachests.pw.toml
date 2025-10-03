@@ -1,0 +1,8 @@
+name = "AdjaChests"
+filename = "adjachest-0.9.9.9beta10.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "712dab69e1b955bb80a6d7c98409301354e8df420c8df6ef01927a6e862bc051"
+url = "https://github.com/Myask-sl/adjachest-1.7.10/releases/download/v0.9.9.9beta10/adjachest-0.9.9.9beta10.jar"

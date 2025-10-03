@@ -3,8 +3,8 @@ filename = "Hardcore Wither-1.7.10-1.1.3-21-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2361ec06984c217cd63260989ac0835c975f05e5"
+hash-format = "sha256"
+hash = "9031d1cf2e35835a0a63d0d6e7e23da954f08b771d7bd9ef7550d905c73cf64a"
 mode = "metadata:curseforge"
 
 [update]

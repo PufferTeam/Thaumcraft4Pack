@@ -1,0 +1,8 @@
+name = "D-Mod"
+filename = "DMod-1.7.10-1.0.3.6-JB.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "39a1e48cccaeffa3cb9660dd1ec2e50513be0e9576010af290e85cd89ae5c425"
+url = "https://github.com/PufferTeam-ModArchive/DMod/releases/download/1.0.3.6-JB/DMod-1.7.10-1.0.3.6-JB.jar"

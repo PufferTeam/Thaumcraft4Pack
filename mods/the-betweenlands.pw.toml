@@ -1,0 +1,13 @@
+name = "The Betweenlands"
+filename = "TheBetweenlands-1.0.6-alpha-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "beb21f21a40dc0014096124226d4ae90cc1286461a359947ff07211dff1be3e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2317389
+project-id = 243363

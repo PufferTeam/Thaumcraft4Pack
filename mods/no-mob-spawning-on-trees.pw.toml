@@ -3,8 +3,8 @@ filename = "NoMobSpawningOnTrees-1.2.0-mc1.7.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "69c0901e21cdd0f1c7a7f0e728177e3bd04ee034"
+hash-format = "sha256"
+hash = "c3c19dd8ebe701add87183effacde288831be301765de5853c59b6be818910c8"
 mode = "metadata:curseforge"
 
 [update]

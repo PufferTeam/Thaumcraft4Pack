@@ -1,11 +1,11 @@
 name = "Modern KeyBinding"
 filename = "ModernKeyBinding-Forge-1.7.10-2.1.0.jar"
-side = "client"
+side = "both"
 
 [download]
+hash-format = "sha256"
+hash = "a0ee2259308e4a44fd32d08478f66f9c775d050de81e9872c0456ca67f5f330b"
 url = "https://cdn.modrinth.com/data/rQszQPD2/versions/IbFXGfVn/ModernKeyBinding-Forge-1.7.10-2.1.0.jar"
-hash-format = "sha1"
-hash = "3187a0e41767890af62e1cb78646f16de6057c79"
 
 [update]
 [update.modrinth]

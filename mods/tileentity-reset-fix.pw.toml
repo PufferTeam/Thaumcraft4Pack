@@ -3,9 +3,9 @@ filename = "TileEntityResetFix-1.0.1-noreq.jar"
 side = "both"
 
 [download]
+hash-format = "sha256"
+hash = "97fdd03ebf6b519c7687f05b7052acbd44c270248163f357001db207ac175474"
 url = "https://cdn.modrinth.com/data/cKitwCSu/versions/uxSWLWki/TileEntityResetFix-1.0.1-noreq.jar"
-hash-format = "sha1"
-hash = "57c03601740c3d2e6d031b49762b534d1c57c499"
 
 [update]
 [update.modrinth]

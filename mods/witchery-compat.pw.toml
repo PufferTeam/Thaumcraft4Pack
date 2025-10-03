@@ -1,0 +1,8 @@
+name = "Witchery Compat"
+filename = "witcherycompat-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "0143108a04a84047855259ddd9613bbae99af0d056c55038c0b4d5df019435cf"
+url = "https://github.com/PufferTeam-ModArchive/WitcheryCompat/releases/download/1.0.6/witcherycompat-1.0.6.jar"

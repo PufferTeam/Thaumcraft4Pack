@@ -1,10 +1,10 @@
 name = "Damage Tilt"
 filename = "DamageTilt-1.7.10-0.1.0.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "d9049a2f3683276b4a3279b8d5377bd60ad3b786"
+hash-format = "sha256"
+hash = "479f651bd806c0fb31e1e489feac83f605726138e10c571316901176f97a30d0"
 mode = "metadata:curseforge"
 
 [update]

@@ -1,0 +1,8 @@
+name = "FluidLogged"
+filename = "fluidlogged-mc1.7.10-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "097d09ef9988f19ff367b566238101fceed32ed57d92262584ef5e09a5c6c6ac"
+url = "https://github.com/GTMEGA/FluidLogged/releases/download/0.2.0/fluidlogged-mc1.7.10-0.2.0.jar"

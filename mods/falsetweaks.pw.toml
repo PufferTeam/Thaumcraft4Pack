@@ -3,9 +3,9 @@ filename = "falsetweaks-mc1.7.10-4.1.1.jar"
 side = "both"
 
 [download]
+hash-format = "sha256"
+hash = "7af06004c8ae2c06a55a0b250df48e93867b3a10581055a6ece038e23311c43a"
 url = "https://cdn.modrinth.com/data/VTGi3upD/versions/Bwam6Eoc/falsetweaks-mc1.7.10-4.1.1.jar"
-hash-format = "sha512"
-hash = "1cab2ff2c7a946eab1a3337be2cc77b7b23512f52015065327b9bb5eeed64f3545b98c6be54575ba0a1342364cfa67a578871e83323d0f260ef4932246225ff7"
 
 [update]
 [update.modrinth]

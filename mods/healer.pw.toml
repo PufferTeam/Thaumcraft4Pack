@@ -3,8 +3,8 @@ filename = "Healer-1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "39df5f14b72a3386675cb7edf7120a665aaab0e8"
+hash-format = "sha256"
+hash = "db046268d6dd862c21d85374c4c5c18d149554d6cb43a4578ccc8057f44baefc"
 mode = "metadata:curseforge"
 
 [update]

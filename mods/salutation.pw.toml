@@ -3,8 +3,8 @@ filename = "Salutation-1.7.10-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "12bf2fb5797771797b443c9f551c6213627e7a12"
+hash-format = "sha256"
+hash = "adc70d68c8afc7331a2c7105afb0bf879df96940fa1aa0f5950115c9ebafb184"
 mode = "metadata:curseforge"
 
 [update]

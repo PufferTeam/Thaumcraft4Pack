@@ -3,8 +3,8 @@ filename = "itlt-1.7.x-1.0.3.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "f8cf490ab1d1eefd70bb5d8ceb6ba3f2c2af2491"
+hash-format = "sha256"
+hash = "22d67d13ba4ac7a93a42776437b9a1232d0094e6774b7cd65bba196e1b0ef309"
 mode = "metadata:curseforge"
 
 [update]

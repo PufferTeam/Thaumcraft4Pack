@@ -1,8 +1,0 @@
-name = "DynamicSurroundings"
-filename = "DynamicSurroundings-1.7.10-1.0.7.6.jar"
-side = "client"
-
-[download]
-url = "https://github.com/mist475/DynamicSurroundings/releases/download/1.0.7.6/DynamicSurroundings-1.7.10-1.0.7.6.jar"
-hash-format = "sha256"
-hash = "b11571649dad4a179f741b877e3018b8caf6edc19553e53f4631336644eb2405"

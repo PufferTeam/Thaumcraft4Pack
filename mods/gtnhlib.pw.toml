@@ -1,11 +1,11 @@
-name = "GTNH Lib"
+name = "GTNHLib"
 filename = "gtnhlib-0.6.40.jar"
 side = "both"
 
 [download]
+hash-format = "sha256"
+hash = "a59da7c0bce389c9a7ff77a58318e4a41f5fd5faaa2f74994dd540502feaeb47"
 url = "https://cdn.modrinth.com/data/vTvnv7qp/versions/DuKGtw0Q/gtnhlib-0.6.40.jar"
-hash-format = "sha512"
-hash = "7c7d4918a7d6bfcae4b8e00fe397a1a856bb43b61f00181dc48788cd72701457f71766e7561d1a93452f166bb2dc00e4f17ea390d4bb178bea36cc86084863bf"
 
 [update]
 [update.modrinth]

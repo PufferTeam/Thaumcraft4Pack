@@ -3,8 +3,8 @@ filename = "Automagy-1.7.10-0.28.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "125d0d24ce4cca204bb8e38f9b93ed5b4c3f8961"
+hash-format = "sha256"
+hash = "4c1d78e0adee1754675d93ffbadc8c9fe205710cb77538b953e57810f9528efc"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "IvToolkit-1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dbfd202496e3f89b8d1fbb42c69263e92e92c13b"
+hash-format = "sha256"
+hash = "546a8c0d88c00f1e66062db73a47de1aa5f54099f18292e488ae8de54b18ad92"
 mode = "metadata:curseforge"
 
 [update]

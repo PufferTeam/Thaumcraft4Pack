@@ -3,8 +3,8 @@ filename = "immersiveintegration-0.6.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b4a0e7ab2e183e0d1cef15f7d404ccf3450a2e21"
+hash-format = "sha256"
+hash = "b6ca939d86fd24c28e3552a748939ee18763838b0a02d68f60e281ece2232be0"
 mode = "metadata:curseforge"
 
 [update]

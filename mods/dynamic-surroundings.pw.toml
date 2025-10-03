@@ -1,0 +1,8 @@
+name = "Dynamic Surroundings"
+filename = "DynamicSurroundings-1.7.10-1.0.7.7.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "b973515a8aa81978a4cfd91a047c523c7e972c2e2a00d74bf66be68849d44a85"
+url = "https://github.com/mist475/DynamicSurroundings/releases/download/1.0.7.7/DynamicSurroundings-1.7.10-1.0.7.7.jar"

@@ -3,6 +3,6 @@ filename = "fentlib-0.0.34.jar"
 side = "both"
 
 [download]
-url = "https://github.com/JackOfNoneTrades/FentLib/releases/download/0.0.34/fentlib-0.0.34.jar"
 hash-format = "sha256"
 hash = "966e7cdd6f08c40b855dd7db28744c504587b4cbf7defe5ccc8920120a9efa19"
+url = "https://github.com/JackOfNoneTrades/FentLib/releases/download/0.0.34/fentlib-0.0.34.jar"

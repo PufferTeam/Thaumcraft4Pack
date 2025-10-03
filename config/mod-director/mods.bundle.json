@@ -1,0 +1,2856 @@
+{
+  "url": [
+    {
+      "fileName": "materialis-1.2.15.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/Materialis/releases/download/1.2.15/materialis-1.2.15.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Materialis"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "946342382dbce2feaa55f7c8f590a076",
+          "SHA-256": "c21fe5ffc6a2c002f5059f42e9aa5740ac16c262730704631e472eaec877c859"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "adjachest-0.9.9.9beta10.jar",
+      "url": "https://github.com/Myask-sl/adjachest-1.7.10/releases/download/v0.9.9.9beta10/adjachest-0.9.9.9beta10.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "AdjaChests"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "c69c08ca27fa515bd36d6094448892d0",
+          "SHA-256": "712dab69e1b955bb80a6d7c98409301354e8df420c8df6ef01927a6e862bc051"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "antiquities-0.2.33.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/Antiquities/releases/download/0.2.33/antiquities-0.2.33.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Antiquities"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "8a05bd91240cbd8a56c6102b92317862",
+          "SHA-256": "12eb01fb10130f0ee45b6d5ff37ec017029b9da93fa20f7fdc7ca09b67ff17bb"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "archaicfix-0.7.8.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/ArchaicFix/releases/download/0.7.8/archaicfix-0.7.8.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Archaic Fix"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "19d3c3ec9daa6cc1434bd5a7e2998320",
+          "SHA-256": "35c912383d8ce6a69ec3dce742b1e8571ec321d273e195ec12b8896e0eced7af"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "BetterAchievements-0.3.1-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/BetterAchievements/releases/download/0.3.1-JB/BetterAchievements-0.3.1-JB.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Better Achievements"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "59a855f72fddd3688f1cab9845baedee",
+          "SHA-256": "4579d0c0a9c5270f5d47470fe54f90a0bd941290c5c05a939a4b0766f0adc05e"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "betterloadingscreen-1.7.1-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/BetterLoadingScreen/releases/download/1.7.1-JB/betterloadingscreen-1.7.1-JB.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Better Loading Screen"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "2591054739fd5fe6cf4cea955a0f4311",
+          "SHA-256": "c1127cf32ef87439204adfe039f3ed949577857df3195f7dd16a59413f059c3c"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "BloodArsenal-1.4.6.jar",
+      "url": "https://github.com/GTNewHorizons/BloodArsenal/releases/download/1.4.6/BloodArsenal-1.4.6.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Blood Arsenal"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "4e9c3d2a3e33a259c4bf24f721fdd84b",
+          "SHA-256": "b5af9e590d87f311e6bd9fdc7c6c4b900354975d8e6d4a0f383e06ca700c90bf"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "BloodMagic-1.7.40.jar",
+      "url": "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.7.40/BloodMagic-1.7.40.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Blood Magic"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "85e814b7ac4d861ad3863128e6651b63",
+          "SHA-256": "ea014deed7582ef176acbdfc4e5f8f544bcf94756e02d0e2015f3dec6967611a"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "Botania-1.12.15-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/Botania/releases/download/1.12.15-JB/Botania-1.12.15-JB.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Botania"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "31e041f31ee5d9043d5668402c58ad6e",
+          "SHA-256": "4d8da22b0611c66e62aad96aeaf6ad3abd301de6a7999288b98bc152f0b92384"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "bugtorch-1.2.17-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/BugTorch/releases/download/1.2.17-JB/bugtorch-1.2.17-JB.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "BugTorch"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "644929f58fed96ae0931137d9387c367",
+          "SHA-256": "8416f456b2b4872750b961c094c5b316d74dc49568f32ff15882c335de6a4698"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "CarpentersBlocks-3.7.0-GTNH.jar",
+      "url": "https://github.com/GTNewHorizons/CarpentersBlocks/releases/download/3.7.0-GTNH/CarpentersBlocks-3.7.0-GTNH.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Carpenter's Blocks"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "e83b74e29fe50e1471b0a752f83389eb",
+          "SHA-256": "61d7adbb94e57063f9e1279d557bd1986d0a32e6e4f9787060a0841d76afe387"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "chisel-2.17.1-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/Chisel/releases/download/2.17.1-JB/chisel-2.17.1-JB.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Chisel"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "60060451e8bdd5e3289c18ef0966c816",
+          "SHA-256": "f613acd73aba408afc0cc01a6f9ddddbcd8c9456d95d6badaa1b047c0381a351"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "coretweaks-0.3.3.4-GTNH.jar",
+      "url": "https://github.com/GTNewHorizons/CoreTweaks/releases/download/0.3.3.4-GTNH/coretweaks-0.3.3.4-GTNH.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "CoreTweaks"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "364fc9d2059f80cbf399eae8ebd24341",
+          "SHA-256": "8ba60d85d60d7b20fe4ebd6290ab558b9e528ba0736ad5baf1e9fd5d203d8a58"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "cuchaz.ships-1.1.7-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/Cuchaz-Ships/releases/download/1.1.7-JB/cuchaz.ships-1.1.7-JB.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Cuchaz Ships"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "87d906808eb9abdee6af0e29f09054e3",
+          "SHA-256": "c361aa2637ed302b688ea81f6418da8683f61ed98a2de0edf70c310fba384ec4"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "custommainmenu-1.12.1.jar",
+      "url": "https://github.com/GTNewHorizons/Custom-Main-Menu/releases/download/1.12.1/custommainmenu-1.12.1.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "CustomMainMenu"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "16b4b71592e2284352a18452075dc416",
+          "SHA-256": "abbe587d59ec7f03635d25348c879f687748358176a3461992dadd6753bcf5e2"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "DMod-1.7.10-1.0.3.6-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/DMod/releases/download/1.0.3.6-JB/DMod-1.7.10-1.0.3.6-JB.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "D-Mod"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "0b6a7e1adbe01e979ddf3871197947ca",
+          "SHA-256": "39a1e48cccaeffa3cb9660dd1ec2e50513be0e9576010af290e85cd89ae5c425"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "DummyCore-1.20.0.jar",
+      "url": "https://github.com/GTNewHorizons/DummyCore/releases/download/1.20.0/DummyCore-1.20.0.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "DummyCore"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "d699efba81195ff98d6ac7074a2dbcad",
+          "SHA-256": "36b24729d67986690803cb4031307ffbe926b1a498f3b8abe9136baa44830a8b"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "DynamicSurroundings-1.7.10-1.0.7.7.jar",
+      "url": "https://github.com/mist475/DynamicSurroundings/releases/download/1.0.7.7/DynamicSurroundings-1.7.10-1.0.7.7.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Dynamic Surroundings"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "ebbbdd24b18bda929fad94a69e3110a8",
+          "SHA-256": "b973515a8aa81978a4cfd91a047c523c7e972c2e2a00d74bf66be68849d44a85"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "endercore-0.4.9-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/EnderCore/releases/download/0.4.9-JB/endercore-0.4.9-JB.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "EnderCore"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "8e8f37ff59c7021baf579767ff16e1c3",
+          "SHA-256": "250ac5383df1f64a39955fa22103c844a829edc209bb9f51ee94ae63dceb2bfd"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "etfuturum-2.6.12-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/Et-Futurum-Requiem/releases/download/2.6.12-JB/etfuturum-2.6.12-JB.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Et Futurum Requiem"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "32f9491dea2438289f64df4b027bfcaf",
+          "SHA-256": "148cccc130d14c4bc24089c98c5b21dc8a529421f91718acda0331d063a74aa0"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "exnihilo-1.50.1.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/ex-nihilo/releases/download/1.50.1/exnihilo-1.50.1.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Ex Nihilo"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "c009acd36f3d29b7ab4eb72717ef6bdf",
+          "SHA-256": "71f4767e2ec9783e7b395035265a6369bbd01e36de32babfee5623759b9c341f"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "fentlib-0.0.34.jar",
+      "url": "https://github.com/JackOfNoneTrades/FentLib/releases/download/0.0.34/fentlib-0.0.34.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "FentLib"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "1c3c60e7922f6b288c03f76a9c523dad",
+          "SHA-256": "966e7cdd6f08c40b855dd7db28744c504587b4cbf7defe5ccc8920120a9efa19"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "fluidlogged-mc1.7.10-0.2.0.jar",
+      "url": "https://github.com/GTMEGA/FluidLogged/releases/download/0.2.0/fluidlogged-mc1.7.10-0.2.0.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "FluidLogged"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "c0c32646e1eae9b33627389f4419e542",
+          "SHA-256": "097d09ef9988f19ff367b566238101fceed32ed57d92262584ef5e09a5c6c6ac"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "Forbidden.Magic-0.8.1-GTNH.jar",
+      "url": "https://github.com/GTNewHorizons/ForbiddenMagic/releases/download/0.8.1-GTNH/Forbidden.Magic-0.8.1-GTNH.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Forbidden Magic"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "bc9dbabfb0d4848599beef121fb11bdf",
+          "SHA-256": "dec0f91b0e25bffd2da3f80e0631ae007de7b71aca46333f44dc4adbcb72b922"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "ForgeMultipart-1.6.11-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/ForgeMultipart/releases/download/1.6.11-JB/ForgeMultipart-1.6.11-JB.jar",
+      "folder": "./mods/1.7.10/",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Forge Multipart"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "5b298d40f61015f623417cbd84b9d7ce",
+          "SHA-256": "a35087cb5dc7a85ca24021addc39d7afd9b0268333ddd789f7df7df38c02501d"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "gadomancy-1.4.7.jar",
+      "url": "https://github.com/GTNewHorizons/Gadomancy/releases/download/1.4.7/gadomancy-1.4.7.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Gadomancy"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "a14045d98c32d8f3bd6e62df14c5fa07",
+          "SHA-256": "7b752526b3d66a1c222ca16fcdaa40c632e47614d25e5ab95f1cabe63a5c18e0"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "GardenStuff-1.7.5-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/GardenCollection/releases/download/1.7.5-JB/GardenStuff-1.7.5-JB.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Garden Stuff"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "4ef09c36b09b145dde1bc7ee45d116b2",
+          "SHA-256": "399cd1e4125c101a5699365fe08e5933fb37801406d7fe339582a928f26c9b3e"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "gravestone-1.7.10-1.1.0.jar",
+      "url": "https://github.com/TeloDev/gravestone/releases/download/1.1.0/gravestone-1.7.10-1.1.0.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Gravestone"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "c29acee6acaa92a5cd37cfaa4b7c2c61",
+          "SHA-256": "cc02e4b0290766b86ce8f17c84f2c8ea83222ed5ea96502113b0f84cf3547cb4"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "HardcoreEnderExpansion-1.12.13-GTNH.jar",
+      "url": "https://github.com/GTNewHorizons/Hardcore-Ender-Expansion/releases/download/1.12.13-GTNH/HardcoreEnderExpansion-1.12.13-GTNH.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Hardcore Ender Expansion"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "ae9c6c90a9fb73e576ae0a28991d6ef3",
+          "SHA-256": "dd19644c1f3429e045199001e9427e80992e48d83a7e52d7a3ba3cf4f92c8aa3"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "ImmersiveEngineering-0.7.11-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/ImmersiveEngineering/releases/download/0.7.11-JB/ImmersiveEngineering-0.7.11-JB.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Immersive Engineering"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "d98a947ec1d44ccc1cf16a730d326a92",
+          "SHA-256": "ebe14daf79f104a079204ba40abfba7275c0d847d890a5f5f328b7bd25ba9ced"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "incommand-1.7.10-1.0.6.1.jar",
+      "url": "https://github.com/Myask-sl/InCommand-1.7.10/releases/download/v1.6.0.1/incommand-1.7.10-1.0.6.1.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "InCommand"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "ca95e41272f3c50cef2bd204bb3dddfa",
+          "SHA-256": "79f5cd1627ddea2a512fb400f8bab2e6bb167ceba1725b8c8ec791003d69be9f"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "InfernalMobs-1.10.2-GTNH.jar",
+      "url": "https://github.com/GTNewHorizons/Infernal-Mobs/releases/download/1.10.2-GTNH/InfernalMobs-1.10.2-GTNH.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Infernal Mobs"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "62649d40033812d596cd54c5136bf485",
+          "SHA-256": "adf7d8e2979a03106fa63ed25add0350adf387186ac7972ff7ccd18238f3cf85"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "lwjgl3ify-2.1.15.jar",
+      "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.15/lwjgl3ify-2.1.15.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "lwjgl3ify"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "d9725ddf093b68c292eacdeac6f7d1aa",
+          "SHA-256": "9e543032e99079eefc0b9f480089aca8bb140739e7c3b5afa2626c19668fd98a"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "Mantle-0.5.1.jar",
+      "url": "https://github.com/GTNewHorizons/Mantle/releases/download/0.5.1/Mantle-0.5.1.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Mantle"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "c88e5aead588dfb0c538e6fcb3288dd9",
+          "SHA-256": "6a48d327d3442235a697b1cb57447e50e136374706c7a650262a533f16edd360"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "Mekanism-Community-Edition-1.7.10-9.10.43-Core.jar",
+      "url": "https://github.com/Thorfusion/Mekanism-Community-Edition/releases/download/9.10.43/Mekanism-Community-Edition-1.7.10-9.10.43-Core.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Mekanism"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "632187720dea3ec0acc4e9a3f68280a2",
+          "SHA-256": "66d1cd94e46bd2b87c3f7a526187bbb2c04a691ad4f5c5b31a8790fbfcfe1b03"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "Mekanism-Community-Edition-1.7.10-9.10.43-Generators.jar",
+      "url": "https://github.com/Thorfusion/Mekanism-Community-Edition/releases/download/9.10.43/Mekanism-Community-Edition-1.7.10-9.10.43-Generators.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Mekanism: Generators"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "2f3019fab712ba973ec089c09e6f991f",
+          "SHA-256": "72b58406126567b05d125ac35b1cd8c0f95b0eeb261c41e1b4db58cbff114968"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "navigator-1.0.16.jar",
+      "url": "https://github.com/GTNewHorizons/Navigator/releases/download/1.0.16/navigator-1.0.16.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Navigator"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "fbd59ec2ac548d5c653472d4552d46c4",
+          "SHA-256": "cd660562a87172d451e72c3fc3d6c8d722f6978720c98c80111fed9b5af1384d"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "NEIAddons-1.16.0.jar",
+      "url": "https://github.com/GTNewHorizons/neiaddons/releases/download/1.16.0/NEIAddons-1.16.0.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "NEI Addons"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "c409b40bf3a8f803fe1b3521a26c811d",
+          "SHA-256": "3ab0e3286b21887887920728f8e0164dd7e8c7e7c104cd95135588d3e080a768"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "NEIIntegration-1.4.0.jar",
+      "url": "https://github.com/GTNewHorizons/NEI-Integration/releases/download/1.4.0/NEIIntegration-1.4.0.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "NEI Integration"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "f983ab6bb26847c6b7075103fa4a0e31",
+          "SHA-256": "484cabee25950ca2b6d3d34722242b85638d271397d4dac5d5c6a87f8f3f019c"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "netherportalfix-1.4.0.jar",
+      "url": "https://github.com/GTNewHorizons/NetherPortalFix/releases/download/1.4.0/netherportalfix-1.4.0.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "NetherPortalFix"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "4f6a72133733d803f76533171846fcfb",
+          "SHA-256": "406ebffcc216a9cde9f503d411239c79ad672a1d634ec32ec7f696aa7405c6b4"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "notfine-0.2.7.jar",
+      "url": "https://github.com/jss2a98aj/NotFine/releases/download/0.2.7/notfine-0.2.7.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "NotFine"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "435b32866f25d3f69b76aaa4c666474d",
+          "SHA-256": "cb33a117c42080ba50c0be1bc47224997bdf9e9ba0be6aa2a3ef8ec66f48b619"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "Pistronics2-1.7.10-0.6.4-patched.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/Pistronics-2/releases/download/2.2/Pistronics2-1.7.10-0.6.4-patched.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Pistronics 2"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "b0ab35e983878e46dc4a5f7176a23e9f",
+          "SHA-256": "1b586d9a9254c0ddf774564959d5af6421d7d577dfcca6b6cef554dd5967930b"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "saltymod-2.0.15.4-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/SaltyMod-Expanded/releases/download/2.0.15.4-JB/saltymod-2.0.15.4-JB.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "SaltyMod Expanded"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "c6261eef976832259ab24cca6c98746a",
+          "SHA-256": "5e467f3c1ab28a337df6b65d6f54a571d97f509c4474e23266d9684f2ade88ee"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "ServerUtilities-2.1.54.jar",
+      "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.54/ServerUtilities-2.1.54.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Server Utilities"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "9283b066f6719993737bcb30a1429357",
+          "SHA-256": "878534830d62f5a238a44b7c9b734618dca6bd1118cbeebd736b0ec3de73dce0"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "simpleskinbackport-0.1.0.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/SimpleSkinBackport/releases/download/0.1.0/simpleskinbackport-0.1.0.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Simple Skin Backport"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "b1dc19f889779d33431f2f33ff3c6d6a",
+          "SHA-256": "6e458c1125684c7ec0ffb0fdc6a562d8ffd6542c25d3e85a520ff23f03a22c61"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "SpecialAI-1.2.0.jar",
+      "url": "https://github.com/GTNewHorizons/SpecialAI/releases/download/1.2.0/SpecialAI-1.2.0.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Special AI"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "c7c6617f851305bbbae0a30e9e89aab6",
+          "SHA-256": "a50fd29ca5bf221f23698fb05bbe0640e8a3e48414a4323f11b0373eb7cfcd8d"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "SpecialMobs-3.7.0.jar",
+      "url": "https://github.com/GTNewHorizons/SpecialMobs/releases/download/3.7.0/SpecialMobs-3.7.0.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Special Mobs"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "fedad1d9bdfd08c567c88a7bf2471a60",
+          "SHA-256": "442ece50b3d5d1bb70cd5fda9533c1dbe36f48ec48e92fba0f9fafb5bab280be"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "Tainted-Magic-7.6.25-GTNH.jar",
+      "url": "https://github.com/GTNewHorizons/Tainted-Magic/releases/download/7.6.25-GTNH/Tainted-Magic-7.6.25-GTNH.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Tainted Magic"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "ac342787f92bc568968f5379ccf98327",
+          "SHA-256": "c2d75be4cd2ec5329df0044744e66a9f81ec005692c1956718e00fdea80c8e8c"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "tcneiadditions-1.5.0.jar",
+      "url": "https://github.com/GTNewHorizons/TCNEIAdditions/releases/download/1.5.0/tcneiadditions-1.5.0.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "TC NEI Additions"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "c845a34a31f1186352366cf13984eb80",
+          "SHA-256": "088859824130e87f14ce57142e6870504c577b39b1f605f7b3dc8c0e74bac913"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "tcnodetracker-1.3.2.jar",
+      "url": "https://github.com/GTNewHorizons/TCNodeTracker/releases/download/1.3.2/tcnodetracker-1.3.2.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "TC Node Tracker"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "1b9665dea964e65e8e60fb9764360c20",
+          "SHA-256": "5e96144ad709d0856c626fae6ca9e0c816387826f9b891990ac04f32210b4ebe"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "ThaumcraftMobAspects-1.1.2-GTNH.jar",
+      "url": "https://github.com/GTNewHorizons/ThaumcraftMobAspects/releases/download/1.1.2-GTNH/ThaumcraftMobAspects-1.1.2-GTNH.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Thaumcraft Mob Aspects"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "e108099379f8fb7559ce35b7108ff896",
+          "SHA-256": "1212792defe3451f0308c6c0377b659b1ad0d4c01495dec329e5fccb4d2870ac"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "thaumicdyes-1.10.11-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/Thaumic-Dyes/releases/download/1.10.11-JB/thaumicdyes-1.10.11-JB.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Thaumic Dyes"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "06d751a2a014273f4ff1fb8b9a4a7755",
+          "SHA-256": "54f270ba0eb97f7b2923c505c84ee90e5a9264a186169ec355d70e00b7566028"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "Thaumic-Exploration-1.4.7-GTNH.jar",
+      "url": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.4.7-GTNH/Thaumic-Exploration-1.4.7-GTNH.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Thaumic Exploration"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "92c6b705a58b1268d91a9838cb3e8bc4",
+          "SHA-256": "4ff01486d423163ab0fafdc7ae6465bcfad7b61a9047d106061bf6194e489bd1"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "ThaumicTinkerer-2.11.26.jar",
+      "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.11.26/ThaumicTinkerer-2.11.26.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Thaumic Tinkerer"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "71a5c38c3402702b23f4f4b653a0faae",
+          "SHA-256": "ba54eed406776c513bfde2f027709667ee9ca85cbec61c9611ccdb87e37f4db0"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "TConstruct-1.13.47-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/TinkersConstruct/releases/download/1.13.47-JB/TConstruct-1.13.47-JB.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Tinker's Construct"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "656587a1d21e8d58bc69ebadc85542c1",
+          "SHA-256": "b5e791a0a50c87fddc24243c53905417f4773918de803354c504eba467d2efed"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "TwilightForest-2.7.8.jar",
+      "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.8/TwilightForest-2.7.8.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Twilight Forest"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "0bdfeb2abc0d45491df8cf86e1745393",
+          "SHA-256": "f654cac4b0f06d919d018f99296dc6586d3433e92a7e99c4e881357bc309fce3"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "ultimatecavesmod-1.0.4.jar",
+      "url": "https://github.com/kotmatross28729/UltimateCavesMod/releases/download/1.0.4/ultimatecavesmod-1.0.4.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Ultimate Caves Mod"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "960fb735c1959f3e1cb7893748b76fce",
+          "SHA-256": "ef3de372912aec48031ef1a8156933e40136898b8c5dc4905996877c033bcc47"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "+unimixins-all-1.7.10-0.1.23.jar",
+      "url": "https://github.com/LegacyModdingMC/UniMixins/releases/download/0.1.23/+unimixins-all-1.7.10-0.1.23.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "UniMixins"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "931c10d0498cdcb34bb817de2c9640fe",
+          "SHA-256": "53b1721a9fef8e3351ece7c6b1b9598ed5290f67b1d00f312244ef603845425e"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "WAILAPlugins-0.6.0.jar",
+      "url": "https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.6.0/WAILAPlugins-0.6.0.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Waila Plugins"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "243627c9556aa9d04ee1f496f0212302",
+          "SHA-256": "f96982b5916cf3090aaa9031ab6a9463de5ad0c53466b8285c9137a09933e045"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "WarpTheory-1.5.0-GTNH.jar",
+      "url": "https://github.com/GTNewHorizons/WarpTheory/releases/download/1.5.0-GTNH/WarpTheory-1.5.0-GTNH.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "WarpTheory"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "6ffb92b792be1fc4f8f1cc11284c97eb",
+          "SHA-256": "e22539a0f7252e8485209f2a4327236f1da0fcf1d53314c3bd6a95436e9793fa"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "wdmla-2.8.1-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/WDMla/releases/download/2.8.1-JB/wdmla-2.8.1-JB.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "WarpTheory"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "3117da0fd8e4a5e99bbd420fc3b221ed",
+          "SHA-256": "0f773663e5975ff58e5cc1e6d9b8c427a713ce092f7cdcf4eb5461dfe86df368"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "wildmobsmod-1.5.4.2-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/wildmobs/releases/download/1.5.4.2-JB/wildmobsmod-1.5.4.2-JB.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "WarpTheory"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "ad5d02133a09255d55b0460894009b33",
+          "SHA-256": "4a51120fa827b61626d7fb0de307c8bd0ff4d1932d878eab6f97057f0ad5befb"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "witcherycompat-1.0.6.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/WitcheryCompat/releases/download/1.0.6/witcherycompat-1.0.6.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Witchery Compat"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "6b989b3c3d289a90726276e286a52d6e",
+          "SHA-256": "0143108a04a84047855259ddd9613bbae99af0d056c55038c0b4d5df019435cf"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "WitcheryExtras-1.3.0.jar",
+      "url": "https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.3.0/WitcheryExtras-1.3.0.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Witchery Extras"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "962df4514f98d73efed25679a2c5f4a9",
+          "SHA-256": "b205e3cca4b0445bdaf0e62ec908de42db9a84cef5603a71b694583f4ddaa247"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "WitchingGadgets-1.7.17-GTNH.jar",
+      "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.7.17-GTNH/WitchingGadgets-1.7.17-GTNH.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Witching Gadgets"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "d7f5e59af845ad8836dbbd49f1f0b51f",
+          "SHA-256": "2dd07a9673a291022bb5915e4eb04b4458c12127a3927cd3873ca881a733baa1"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    }
+  ],
+  "curse": [
+    {
+      "fileName": "Advanced Botany 1.3.1.7.jar",
+      "addonId": 575841,
+      "fileId": 3862595,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Advanced Botany"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "7db945be66928454cdbb91162db2781f",
+          "SHA-256": "4a19941c365e8be1d9da08c0e8c6e316aafb3a707d93e53f7b548805f855defb"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "alchgrate-1.0.jar",
+      "addonId": 397344,
+      "fileId": 3011853,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Alchemy Grate"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "2e55434f7a32b6f3a5251eace8291f12",
+          "SHA-256": "71e1ef0821bd1499714295a5e163c095723544caf4e6e779736ef0d99a9c8db3"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "TheBetweenlands-1.0.6-alpha-universal.jar",
+      "addonId": 243363,
+      "fileId": 2317389,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "The Betweenlands"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "7cdfbd6f2fc576fe22ff8b9db72d1725",
+          "SHA-256": "beb21f21a40dc0014096124226d4ae90cc1286461a359947ff07211dff1be3e0"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "arcane_engineering-0.2.7.jar",
+      "addonId": 237593,
+      "fileId": 2299527,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Arcane Engineering"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "a55411db1d548064dff62af0279b7c29",
+          "SHA-256": "c67f8c1fec8df814300fe9c8689d3ef906665573e503c5737bf240bad7be9f1d"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "Automagy-1.7.10-0.28.2.jar",
+      "addonId": 222153,
+      "fileId": 2285272,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Automagy"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "0d1b46683a9c69a59368406b7db4671f",
+          "SHA-256": "4c1d78e0adee1754675d93ffbadc8c9fe205710cb77538b953e57810f9528efc"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "BasaltWalker-Reborn-Forge-1.7.10-1.0.0.jar",
+      "addonId": 614949,
+      "fileId": 3759159,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Basalt Walker"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "8e7bd5d8dc1a8a570f09554d6c1d42fb",
+          "SHA-256": "674450d5ac14b6a41a96a86b72d2f81130a8639587e9ebcc7f18740bb6e2fa3e"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "BetterHorseHud-1.7.10-1.0.jar",
+      "addonId": 223091,
+      "fileId": 2210775,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Better Horse Hud"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "9d769c58631fe1ceff850b5b320ebbde",
+          "SHA-256": "6bd85f95f3a9078ae3818f92780303a4be753b7d03aad8da769ae6d6d9c8700b"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "BetterInvalidSession-1.7.10-1.0.3.jar",
+      "addonId": 324881,
+      "fileId": 2781339,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Better Invalid Session"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "d449f654220c616ffe78e3f5944b357a",
+          "SHA-256": "79beca3cb33f9cde15eca1b08e6988693c8bf78e38e55fd64ab7d18fe92635d5"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "alreadydecoratingfix-1.0a.jar",
+      "addonId": 533258,
+      "fileId": 3479308,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Biome Decoration Fix"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "58851924d42464cb7e3f5aa52d9f004f",
+          "SHA-256": "60486623ee5a7bd02db5aaab9c044a51f6018db0cfd864352909298cfe273963"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar",
+      "addonId": 220318,
+      "fileId": 2499612,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Biomes O' Plenty"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "08d7ffbce53615cb516cb4d1916eecb5",
+          "SHA-256": "5382d1c156c871c896b6cebd036b80f58ceaff36b09d416b113f32884b7b4a2a"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "quicksandreducer.v.1.0.0.jar",
+      "addonId": 385125,
+      "fileId": 2963253,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "BoP Quicksand Reducer"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "db256e92e7f123f4675af9df16c1262f",
+          "SHA-256": "16aea7230603eee4c23f9e1d48c930e24d254ba10b427076fd64b932c053c9d5"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "campfirebackport-1.7.10-1.11.3.jar",
+      "addonId": 387444,
+      "fileId": 5940198,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Campfire Backport"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "3d06092d2ac97a92d4aab18fd634e709",
+          "SHA-256": "4cfed5e942f9afec0af201b30c3a0c2590f144d555d703f4ab043ef94b5817de"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "CarbonConfig-1.7.10-1.2.4.jar",
+      "addonId": 898104,
+      "fileId": 5504468,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Carbon Config"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "903f183f03df7b7e3e8d06c5c28b879e",
+          "SHA-256": "c441715a2a2e37bde2a6083694128599078de97532295eecd8678e9df7373c90"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "Careful Cast Corrector-2.0.jar",
+      "addonId": 324714,
+      "fileId": 3310159,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Careful Cast Corrector"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "808209069f5af8661f67a0df592032c6",
+          "SHA-256": "dd141e71eff5a963ef12e9d176916a5d871b6351a7324836080dc5ae0252b87e"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "ClayBucket-1.7.10-1.2.jar",
+      "addonId": 242568,
+      "fileId": 2293402,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Clay Bucket"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "0082af5b053c6107c67249ad571a35fc",
+          "SHA-256": "8e472f7b774ddaf4f339f6c6b9e26a084b760999b84640c9c10303302b54ddb2"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "CoFHCore-%5b1.7.10%5d3.1.4-329.jar",
+      "addonId": 69162,
+      "fileId": 2388750,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "CoFH Core"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "de527c101a1f2c62203f99515f3d0957",
+          "SHA-256": "acefa71392eff745dcfd6d6d5e49b6586e2e4e103d1260f4674f622152ef6f60"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "Controlling-1.7.10-1.0.0.8.jar",
+      "addonId": 250398,
+      "fileId": 5507281,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Controlling"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "eb6ba217e25826a5120a954e0dc7e3dd",
+          "SHA-256": "233f5dac426020b9ddd8585b2a0005e632128e4fba1be75d99a356e099d7f58f"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "DamageTilt-1.7.10-0.1.0.jar",
+      "addonId": 411705,
+      "fileId": 3097543,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Damage Tilt"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "f0a66fca0a96e9bb113a37ed74f462b2",
+          "SHA-256": "479f651bd806c0fb31e1e489feac83f605726138e10c571316901176f97a30d0"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "DefaultWorldGenerator-1.7.10-0.1-b13-universal.jar",
+      "addonId": 226188,
+      "fileId": 2225179,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Default World Generator"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "be6e0e0e8797ee5bfa3ecff6358a0c99",
+          "SHA-256": "70203c1f5d8bb5a10250b54d0b6e0fae0690e3228aab5cc734e832a9392fc8ca"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "DoomlikeDungeons-1.11.0.1-MC1.7.10.jar",
+      "addonId": 74246,
+      "fileId": 2615918,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Doomlike Dungeons"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "c039db431808413c61a515b5f62b5f1f",
+          "SHA-256": "47ebca98b641dc90980bf1a1a5a32a6a3c414abf03cdbb1cf08cfc220484be9a"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "FastLeafDecay-1.7.10-1.4.jar",
+      "addonId": 230976,
+      "fileId": 2272838,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Fast Leaf Decay"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "96404c6169bd47e011ca8f484969a8b4",
+          "SHA-256": "17cf47a96cd31da7bd13f72d1afe97f35df601297446b21e30e051e9ae2107e2"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "FoamFix-1.7.10-universal-1.0.4.jar",
+      "addonId": 278494,
+      "fileId": 4473363,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Foam​Fix"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "807adb4d146b3c314ca90302038f661f",
+          "SHA-256": "3c82a60149f024d9a02cd582ffd49aee36dba2394af3065e054d8e6b5364d3c6"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "Hardcore Wither-1.7.10-1.1.3-21-universal.jar",
+      "addonId": 237407,
+      "fileId": 2282681,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Hardcore Wither"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "268cc475fc71a06fcce9aa5a9469a425",
+          "SHA-256": "9031d1cf2e35835a0a63d0d6e7e23da954f08b771d7bd9ef7550d905c73cf64a"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "Healer-1.2.1.jar",
+      "addonId": 554840,
+      "fileId": 4367893,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Healer"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "6da099a3b7e865eee45fc6d0712eb1a9",
+          "SHA-256": "db046268d6dd862c21d85374c4c5c18d149554d6cb43a4578ccc8057f44baefc"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "hopperductmod-1.7.10-1.3.2.jar",
+      "addonId": 72210,
+      "fileId": 2211247,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Hopper Ducts"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "ce2fccc34724fd91e12a80ba91989fbd",
+          "SHA-256": "d4eb6a9ea8a90ea86f2f6c43b8b8dd7542da920792d38ea6f209df26e2e7692f"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "HungerOverhaul-1.7.10-1.0.0.jenkins104.jar",
+      "addonId": 224476,
+      "fileId": 2332505,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Hunger Overhaul"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "2b9d670b119b4a50d10dd38def4d7b8c",
+          "SHA-256": "800e55c375575941e7eb6ce1f5c13be518453016171af1ba77a7b607c92641f9"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "immersiveintegration-0.6.8.jar",
+      "addonId": 232159,
+      "fileId": 2289306,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Immersive Integration"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "57ee0a14a8cb09a759bc23787f1de40f",
+          "SHA-256": "b6ca939d86fd24c28e3552a748939ee18763838b0a02d68f60e281ece2232be0"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "itlt-1.7.x-1.0.3.jar",
+      "addonId": 232791,
+      "fileId": 3335234,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "It's the little things"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "09f5a6de1a1a977e0a134b9a1062ea65",
+          "SHA-256": "22d67d13ba4ac7a93a42776437b9a1232d0094e6774b7cd65bba196e1b0ef309"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "IvToolkit-1.2.1.jar",
+      "addonId": 224535,
+      "fileId": 2294442,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "IvToolkit"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "dd91e34daaa9be33bfa522d7a058c549",
+          "SHA-256": "546a8c0d88c00f1e66062db73a47de1aa5f54099f18292e488ae8de54b18ad92"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "JustAFewFish-1.4.2_for_1.7.10.jar",
+      "addonId": 235261,
+      "fileId": 2329496,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Just a Few Fish"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "395db100c2a0411a533fcb50d2b7a666",
+          "SHA-256": "8163d28c7ec49ac2492a4c29aa469fc36fedf4dced5d42d46b19c7464c60c8a0"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "LanHostSkinReFixed-1.7.10-rv1.jar",
+      "addonId": 364836,
+      "fileId": 3920698,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Lan Host Skin ReFixed"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "9178d7cf148be31ba6c7e9b31ec4b99f",
+          "SHA-256": "dbdbbde782b2ace61c6352ea2da6d8adc72506456331785d3d759fc3c932ef72"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "Morpheus-1.7.10-1.6.21.jar",
+      "addonId": 69118,
+      "fileId": 2280761,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Morpheus"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "5d31a1480db8b091757ea5ccd4e220d9",
+          "SHA-256": "37014340a0400277b1202233f75619d53e84c0cf37d2d3561a993241a45cb412"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "MouseTweaks-2.4.4-mc1.7.10.jar",
+      "addonId": 60089,
+      "fileId": 2209265,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Mouse Tweaks"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "d4968eb0b513066313259fcd80bb8eb0",
+          "SHA-256": "8b141026e0be476978015a789680f2e550c1bef4518065ff5dbf5ad640ea2164"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "netherlicious-3.2.8.jar",
+      "addonId": 385860,
+      "fileId": 4363437,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Netherlicious"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "8b69b856edd585066506ed2c12175717",
+          "SHA-256": "bfd24eedf6011773a215b9096fddf034a1d7c066a6d2a30dd61db6786efb9497"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "NoMobSpawningOnTrees-1.2.0-mc1.7.10.jar",
+      "addonId": 226779,
+      "fileId": 2362270,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "No Mob Spawning on Trees"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "6007bab7ac174a8d7fcbd4cde56556ef",
+          "SHA-256": "c3c19dd8ebe701add87183effacde288831be301765de5853c59b6be818910c8"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "ReAuth-1.7.10-Forge-4.0.7.jar",
+      "addonId": 237701,
+      "fileId": 4407995,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "ReAuth"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "39c89dd8410184b7a196b18e941a3c4b",
+          "SHA-256": "e8bbf2e7320210bbe3fd826b07742b0c3695499eca4aa3d4d380ba415c656bc6"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "RecurrentComplex-0.9.7.1.2_Unoffical.jar",
+      "addonId": 419129,
+      "fileId": 3108489,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Recurrent Complex Unofficial"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "f9f74f5658fb20c6694d9f89db28ed8a",
+          "SHA-256": "055f9400a35e185551aaed88bb152fa21c1d3469ef5dc5543fb3f966ceb34f6c"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "roguelike-1.7.10-1.5.0b.jar",
+      "addonId": 221585,
+      "fileId": 2294894,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Roguelike Dungeons"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "d62d30d52d3f51dc39bdc61ce224e6c6",
+          "SHA-256": "21dc2a1752540f8d09a6f332020c60c5a8e3b6170fed16e083b7340ec8ec367f"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "Salutation-1.7.10-1.0.0.jar",
+      "addonId": 1336558,
+      "fileId": 6937877,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Salutation"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "b2dd3ccb75b33df77d8f389b2a7748b8",
+          "SHA-256": "adc70d68c8afc7331a2c7105afb0bf879df96940fa1aa0f5950115c9ebafb184"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "screenshots-1.0.0-1.7.10-hotfix.jar",
+      "addonId": 228090,
+      "fileId": 2228718,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Screenshots Enhanced"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "4515e7a1c9c3cd903ba51e2da727fbc4",
+          "SHA-256": "5fe9bf33fac54640b901e2478e36cbb213b254190796cf023f3a172113b27c63"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "SoundFilters-0.8_for_1.7.X.jar",
+      "addonId": 222789,
+      "fileId": 2224003,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Sound Filters"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "772f4a162fa649ce421926a302a7f8fe",
+          "SHA-256": "40757863dd2814fc65c60a80690011c4c153519e7210f1f785dd594919b6197e"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "squidless-1.7.10-0.6.1.jar",
+      "addonId": 226115,
+      "fileId": 2233504,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Squidless"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "cd03141748be9827e79c6f8c0be4fc94",
+          "SHA-256": "2d409b7879541ca5657d5190a56a31154553060f772c1cb93fd4f139b19e90b2"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "Thaumcraft4Tweaks-1.5.39.jar",
+      "addonId": 431297,
+      "fileId": 6929888,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Thaumcraft 4 Tweaks"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "5c60b77aab7f09f45dc4c76e7aeffa20",
+          "SHA-256": "1b411a54c3fccdb3f7259dfa6bdd11bea8701e3f94515ef78245abd85c97c1f4"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "thaumcraftneiplugin-1.7.10-1.7a.jar",
+      "addonId": 225095,
+      "fileId": 2241913,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Thaumcraft NEI Plugin"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "f71559fa64c1996b03e796b660914637",
+          "SHA-256": "d39e6c8fc27709b04d58ec4c1b625648776dbf01cdf7af2d51388ee215d5d4e8"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "Thaumcraft-1.7.10-4.2.3.5.jar",
+      "addonId": 223628,
+      "fileId": 2227552,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Thaumcraft"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "17f2e60dabd4961c9a3a2dad3ad6528a",
+          "SHA-256": "3dba9786966974701578a658d1bb369bf35bdf5f363079f5ac9c4910a39113be"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "witchery-1.7.10-0.24.1.jar",
+      "addonId": 69673,
+      "fileId": 2234410,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Witchery"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "22096b8e462fa5cca3a6c8054116d4fc",
+          "SHA-256": "68c331f624cea6c0827a31e96a6dce2e75461227c42da70f11ba765a8c6a8cec"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "WitcheryPatch-1.7.10-1.0.0.jar",
+      "addonId": 253015,
+      "fileId": 2340610,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "WitcheryPatch"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "2a7651d98a8b3632ad2687de2031987e",
+          "SHA-256": "d46b2e41483228bebaa94f8e4d7d1c5cfa4a05ae57d0c489b5eee384dacab983"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    }
+  ],
+  "modrinth": [
+    {
+      "fileName": "aether-1.7.10-v1.1.2.5.jar",
+      "addonId": "YhmgMVyu",
+      "fileId": "sDnmimXy",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Aether Legacy"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "b7143188aef1553ddd09ba8984548bf2",
+          "SHA-256": "a5a1036ef9f163509cdd17b1e1ccb5c47f5822be514b356aaa0b580e7fb5566e"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "AppleCore-3.3.7.jar",
+      "addonId": "c3I7Akgu",
+      "fileId": "5u2XT9ic",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "AppleCore"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "b7a50a973f8a94f5889d219e6092d0cc",
+          "SHA-256": "c4f611f48444da713c2e90bb60120da12f649b5085467e269508276cbd7b7486"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "BaublesExpanded-2.2.1.jar",
+      "addonId": "pAqS7wsC",
+      "fileId": "vX4kVuYP",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Baubles Expanded"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "6dd47acaca58a65c340d0a374b350020",
+          "SHA-256": "81fd9436556f6cc4492bcd7d061e21d413cedf146ca1e9fa6e56f8e46995e378"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "beddium-mc1.7.10-1.0.4-j21.jar",
+      "addonId": "kPtHpb7z",
+      "fileId": "DqYwP6mT",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Beddium"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "fcb8a62a3875f8410ff302a071a3c3dc",
+          "SHA-256": "87f9dcb3d98ffec64a2aa19e926a6de78c5bfd5ede0e067e5873331ce79f7548"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "blockreplace-mc1.7.10-v1.3.jar",
+      "addonId": "u97M0r8k",
+      "fileId": "eNqeK22b",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Block Replacement"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "9062f4c0b2afc68d8f120ffab0193d15",
+          "SHA-256": "e165e70660d5eab0c0c4864b7027ddbca50687a8e5097de9e7b3ee4c3e89dbf8"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "cartload-mc1.7.10-1.0.2.jar",
+      "addonId": "25cIpBfY",
+      "fileId": "88GRp9A1",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "CartLoad"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "a9ac67f69ba54d89fe66d50d3fbc96cc",
+          "SHA-256": "9f8cbb2af9ba6d570fa7ecb9310e7868628fcd964e5d2afd84b150bf013c1ab9"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "chunkapi-mc1.7.10-0.6.4.jar",
+      "addonId": "y0vBUOla",
+      "fileId": "331yjk2B",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "ChunkAPI"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "145f42e95f667ee50df27e9dee8b7571",
+          "SHA-256": "23887dd55e244052de86065e7c2cfe68ec9e4280e80aeb54b707093c58e713ad"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "CodeChickenCore-1.4.7.jar",
+      "addonId": "qMOdaUOs",
+      "fileId": "yJUaA8Wo",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "CodeChickenCore Unofficial"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "7b3ad499fdcbccafe894f370737440eb",
+          "SHA-256": "3e5200db5c81df3cca7a15ee0729136654d791e8e598cd977a8b53dd59212b11"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "CraftPresence-2.6.2+1.7.10-forge.jar",
+      "addonId": "DFqQfIBR",
+      "fileId": "5GGIPEIx",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "CraftPresence"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "520a1a84632ff59ff49a84a646cc546a",
+          "SHA-256": "7ab60237fd6e1409063a2dfd7a2f3d72ffb9d0e5e7c40803d2243d6040019bea"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "overloadedarmorbar-1.7.10-1.0.0.jar",
+      "addonId": "fJUppOop",
+      "fileId": "DhhltppF",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Custom Armor Bar"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "25041bf5056170e441512b2a298baf33",
+          "SHA-256": "b94ccdcf64a83007b3279a2332e1c0f1d75a0d51793c2956f81217446a4a6575"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "deathlyhallows-1.1.5.jar",
+      "addonId": "6xIfBqzY",
+      "fileId": "69FX5E7l",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Deathly Hallows"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "49c2f4ec8fb684a6c6a50e3b9a0c8866",
+          "SHA-256": "e4dd2c1b0fee48d0ba6e8f45df0ad57fe347a8664f9358083af99c8eb6773309"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "entityculling-1.6.4-mc1.7.10.jar",
+      "addonId": "NNAgCjsB",
+      "fileId": "SLiFyIon",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Entity Culling"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "d4fa052002f24d3df9e4e3ba4cdd0122",
+          "SHA-256": "dd1b15c1abfe3756051987c17924810a4e433a26c29b5defdeccedced15567e7"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "falsetweaks-mc1.7.10-4.1.1.jar",
+      "addonId": "VTGi3upD",
+      "fileId": "Bwam6Eoc",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "FalseTweaks"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "c4e4644b37548232f5bba781a55012ce",
+          "SHA-256": "7af06004c8ae2c06a55a0b250df48e93867b3a10581055a6ece038e23311c43a"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "falsepatternlib-mc1.7.10-1.9.0.jar",
+      "addonId": "eGLBEILf",
+      "fileId": "pONBWnV9",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "FalsePatternLib"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "f609238cde20bdebc287a895c5959eb9",
+          "SHA-256": "f7bf19ecc6eb601246387999930d87d66fb7663f958c71e0006401ab8acd7479"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "ForgottenRelics-1.7.10-1.7.4.jar",
+      "addonId": "ruYpd5sW",
+      "fileId": "ZEzrCjEe",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Forgotten Relics"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "9271c65254846706d3c5302abcc51819",
+          "SHA-256": "7d5aad8cc6a563a0f6ec31d3e4919e5c921c0e54fc3a641192a3cfd794b8caf1"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "gtnhlib-0.6.40.jar",
+      "addonId": "vTvnv7qp",
+      "fileId": "DuKGtw0Q",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "GTNHLib"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "d7a04722f3930d9c9fbde3c17e662e65",
+          "SHA-256": "a59da7c0bce389c9a7ff77a58318e4a41f5fd5faaa2f74994dd540502feaeb47"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "hodgepodge-2.7.0.jar",
+      "addonId": "6QQe8Ldy",
+      "fileId": "7zYT6HV8",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Hodgepodge"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "dd24c0739e7c12c1ab65ae5480a683b2",
+          "SHA-256": "1a04efb19e08fd33c7bb0a2c4fcbcb40cc6414381b378ae16519d60dbd4ed411"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "HorizontalBackport-mc1.7.10-v1.0.0.jar",
+      "addonId": "qmc7cEUQ",
+      "fileId": "cCpFm5RS",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Horizontal Backport"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "f1c45e12a35be07d0c031f3d90948267",
+          "SHA-256": "0a3070199b145865910d12a719287f92ee05ba2ee6f6041a22c2bd0a1521c92c"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "lumi-mc1.7.10-1.2.0.jar",
+      "addonId": "RIP6DWIB",
+      "fileId": "fzHaqXCn",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Lumi Light Engine"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "8b2f33e1e157dda03290c931a3586151",
+          "SHA-256": "4beea487caf686749509dcf2a5bb33e458b5e3687a2977686723efa14905ce74"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "mcpatcher-mc1.7.10-0.1.2.jar",
+      "addonId": "kvBHaMRv",
+      "fileId": "Ki9ZLfCs",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Right Proper MCPatcher"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "d68a8be141af0f4e21f8e34ac8e961c5",
+          "SHA-256": "5f0e2f54b3c94943440973043e410aba8da1a3e9596278ee81140dc7a74e9206"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "ModernKeyBinding-Forge-1.7.10-2.1.0.jar",
+      "addonId": "rQszQPD2",
+      "fileId": "IbFXGfVn",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Modern KeyBinding"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "bc92b20234cb145676539eba1624291c",
+          "SHA-256": "a0ee2259308e4a44fd32d08478f66f9c775d050de81e9872c0456ca67f5f330b"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "+Mycelium-2.3.jar",
+      "addonId": "3EqWeoiF",
+      "fileId": "4FQLH0Ow",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "MyceliumLib"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "9232907177520ce0840a3dc30690592a",
+          "SHA-256": "bd5d9a3baf2114bfb7d0862700c3f1c47fdcc4aec8b79f7f0f00eb416019cc24"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "NotEnoughPets-1.7.10-2.4.1.jar",
+      "addonId": "flsPN5I7",
+      "fileId": "fPvFAVAb",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Not Enough Pets"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "935503e0326ca9c64f2204a66b7a73b3",
+          "SHA-256": "d6ddb3c49d4d9acb5b31554d1101959853242dda3cde1439c6e3b1d5b0d39e68"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "NotEnoughItems-2.7.91-GTNH.jar",
+      "addonId": "iNPc3Onu",
+      "fileId": "hOnia99R",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "NotEnoughItems Unofficial"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "27d0372f45896279cc79a1971fd6a2b1",
+          "SHA-256": "809b92054043635eb1da05a25faa1f3c11c3fb67624339c580642680e25162ee"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "plonk-1.7.10-10.0.4.jar",
+      "addonId": "EUmBPkQn",
+      "fileId": "bX9Po7hr",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Plonk"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "6c15032d275e92f4239b5d27a4c52d7e",
+          "SHA-256": "e970135ffaeee32df8514d3439f97dd8db55e1db63b6ca2672b4b7c31306e1d7"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "RealisticTorches-1.7.10-1.6.3.jar",
+      "addonId": "iQYnQIfP",
+      "fileId": "fJYEaV9Q",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Realistic Torches"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "8dcbdc084b75f634e4fae7678300fead",
+          "SHA-256": "8b9d95a780343384c86ee9598fa83624caa814b579c40bfc617a7bb355041a56"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "rple-mc1.7.10-2.1.2.jar",
+      "addonId": "glC7saXJ",
+      "fileId": "8IlLg0ve",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Right Proper Colored Lights"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "885414dfab25ed3d28553b172dc11262",
+          "SHA-256": "8a79913398433235b07d82a86ea01ad926bcf994322d0cb5ca1486982429fed9"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "salisarcana-v2.3.0.jar",
+      "addonId": "y1bqIjK6",
+      "fileId": "Ky1AqmQp",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Salis Arcana"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "6770e625340ab320b39e8fbd6a31154b",
+          "SHA-256": "aa99d1abe26060ed3276e3236f9ba6ac7637580aff405eb0e7e95755605ec432"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "StorageDrawers-2.1.8-GTNH.jar",
+      "addonId": "C0xOkNfT",
+      "fileId": "HYLYRjPh",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Storage Drawers Unofficial"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "e82aa8d5d121e94ec74d77558562aafd",
+          "SHA-256": "91ac857db373cc6b51abf101c5c6028656f8a865ea83d3a0604aaa511a171f88"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "swansong-mc1.7.10-1.2.1.jar",
+      "addonId": "2mCumCZs",
+      "fileId": "VK51MPwL",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "SwanSong Shaders"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "e79f632d6b1cf8f6b093b9d59fefd863",
+          "SHA-256": "a7cd1e705063eea4f5ef9dab7876f29493a8c5a6ae48cb02e3d2541ae0caa048"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "tabfaces-1.0.11-rc1.jar",
+      "addonId": "Jzw8TKEK",
+      "fileId": "99MiXr3u",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "TabFaces"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "62c5834508e7c1198fd45e0da1045257",
+          "SHA-256": "9b198f089f2a7ca0b6916d5e1f5fdfa645885f5cfc7cc54259147147140adbd6"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "tcaltarcull-77d2309.jar",
+      "addonId": "FiyX1gSA",
+      "fileId": "KF3zD0is",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Thaumcraft Altar Cull"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "fca4b0560570a8795611834afafe4ba4",
+          "SHA-256": "ce60ccde8a17793a75916e628429e44a6c843060bc86813699ebb10572014496"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "ThaumicConcilium-1.0.11.jar",
+      "addonId": "K39gnZpI",
+      "fileId": "jmdPv1Km",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Thaumic Concilium"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "b39b609f3e5783de4cb703439efd716f",
+          "SHA-256": "52562d37f85bc81b77017d16f49a36592ac5d67f02ac19c3273745d08a86412e"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "ThaumicHorizons-1.7.8.jar",
+      "addonId": "1wDWP1tN",
+      "fileId": "yYGrDBnk",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Thaumic Horizons"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "7150108c839d067d154771ef95dee290",
+          "SHA-256": "3c3e5eb34410bd6830180eca99d1fbadc64b53f83d12360a171f33891158b21d"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "TileEntityResetFix-1.0.1-noreq.jar",
+      "addonId": "cKitwCSu",
+      "fileId": "uxSWLWki",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "TileEntity Reset Fix"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "c3267ac2a510e38d02eb5cb5d9c1b5aa",
+          "SHA-256": "97fdd03ebf6b519c7687f05b7052acbd44c270248163f357001db207ac175474"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "txloader-1.8.5.jar",
+      "addonId": "eh8us8FY",
+      "fileId": "ESvYJcnK",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "TX Loader"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "1d99cff0af9082dd5a0d9337bd7cfbc0",
+          "SHA-256": "cc3af646a495a2435424c99a1637ecbd41a14e543a99587f4951fa6afdcd329f"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "UniLib-1.1.1+1.7.10-forge.jar",
+      "addonId": "nT86WUER",
+      "fileId": "OP0Ufek9",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "UniLib"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "99f9519ef5a7e7860f940fb21a9811b8",
+          "SHA-256": "76f70291c2f02f8ec49fe25e46439d58eedf29637bc55a4f82f6a2ba9f2b260a"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "VillageNames-1.12.2-4.4.13.jar",
+      "addonId": "ea7aacaC",
+      "fileId": "kkKXh6H7",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Village Names"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "063c562a1206f202aeca1eff47085ae0",
+          "SHA-256": "77d6ef0e64bde530cf59b87229c85bd257336340c45db94a011c600994f19a27"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "Xaeros_Minimap_21.10.44_Forge_1.7.10.jar",
+      "addonId": "1bokaNcj",
+      "fileId": "EeB36MIM",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Xaero's Minimap"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "5a10999324f264d826cfbd088e64ead4",
+          "SHA-256": "c62e38b956d2b8aec0ccf1e8a7cbeb867520bfcb3eb1d5d427dd4571dce0d769"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "XaerosWorldMap_1.14.1.33_Forge_1.7.10.jar",
+      "addonId": "NcUtCpym",
+      "fileId": "p1yJWyyU",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Xaero's World Map"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "d37bd64cf8182f896e1dcc0d197edfff",
+          "SHA-256": "d6912e46cffe0f2b9de810265fe17125d5f17f560c10dbba013b2254c35e179d"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    }
+  ]
+}

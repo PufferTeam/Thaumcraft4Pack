@@ -3,8 +3,8 @@ filename = "roguelike-1.7.10-1.5.0b.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ad43bc7492081f8c2cc9003754defa47aa798971"
+hash-format = "sha256"
+hash = "21dc2a1752540f8d09a6f332020c60c5a8e3b6170fed16e083b7340ec8ec367f"
 mode = "metadata:curseforge"
 
 [update]

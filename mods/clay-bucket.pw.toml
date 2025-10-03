@@ -3,8 +3,8 @@ filename = "ClayBucket-1.7.10-1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "794977b4d4a22b541203c9004755612f1ed582f1"
+hash-format = "sha256"
+hash = "8e472f7b774ddaf4f339f6c6b9e26a084b760999b84640c9c10303302b54ddb2"
 mode = "metadata:curseforge"
 
 [update]

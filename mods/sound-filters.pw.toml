@@ -3,8 +3,8 @@ filename = "SoundFilters-0.8_for_1.7.X.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "6a13333476b793f09991a31627be5e66027a5550"
+hash-format = "sha256"
+hash = "40757863dd2814fc65c60a80690011c4c153519e7210f1f785dd594919b6197e"
 mode = "metadata:curseforge"
 
 [update]

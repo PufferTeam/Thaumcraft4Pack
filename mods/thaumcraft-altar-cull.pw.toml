@@ -1,0 +1,13 @@
+name = "Thaumcraft Altar Cull"
+filename = "tcaltarcull-77d2309.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "ce60ccde8a17793a75916e628429e44a6c843060bc86813699ebb10572014496"
+url = "https://cdn.modrinth.com/data/FiyX1gSA/versions/KF3zD0is/tcaltarcull-77d2309.jar"
+
+[update]
+[update.modrinth]
+mod-id = "FiyX1gSA"
+version = "KF3zD0is"

@@ -3,8 +3,8 @@ filename = "DoomlikeDungeons-1.11.0.1-MC1.7.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5d0cd33ca25f71227784907ba22515abbea6e79a"
+hash-format = "sha256"
+hash = "47ebca98b641dc90980bf1a1a5a32a6a3c414abf03cdbb1cf08cfc220484be9a"
 mode = "metadata:curseforge"
 
 [update]

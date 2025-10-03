@@ -1,0 +1,8 @@
+name = "TC Node Tracker"
+filename = "tcnodetracker-1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "5e96144ad709d0856c626fae6ca9e0c816387826f9b891990ac04f32210b4ebe"
+url = "https://github.com/GTNewHorizons/TCNodeTracker/releases/download/1.3.2/tcnodetracker-1.3.2.jar"

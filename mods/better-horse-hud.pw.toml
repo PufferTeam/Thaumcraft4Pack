@@ -3,8 +3,8 @@ filename = "BetterHorseHud-1.7.10-1.0.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "1b54b4232494852b2ea1711eebbb9ab10a0e6468"
+hash-format = "sha256"
+hash = "6bd85f95f3a9078ae3818f92780303a4be753b7d03aad8da769ae6d6d9c8700b"
 mode = "metadata:curseforge"
 
 [update]

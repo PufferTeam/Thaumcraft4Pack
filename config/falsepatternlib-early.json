@@ -1,4 +1,4 @@
 {
-  "enableLibraryDownloads": false,
+  "enableLibraryDownloads": true,
   "enableLetsEncryptRoot": true
 }

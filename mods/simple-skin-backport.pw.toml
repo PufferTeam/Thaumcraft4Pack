@@ -1,0 +1,8 @@
+name = "Simple Skin Backport"
+filename = "simpleskinbackport-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "6e458c1125684c7ec0ffb0fdc6a562d8ffd6542c25d3e85a520ff23f03a22c61"
+url = "https://github.com/PufferTeam-ModArchive/SimpleSkinBackport/releases/download/0.1.0/simpleskinbackport-0.1.0.jar"

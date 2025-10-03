@@ -1,0 +1,8 @@
+name = "Gravestone"
+filename = "gravestone-1.7.10-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "cc02e4b0290766b86ce8f17c84f2c8ea83222ed5ea96502113b0f84cf3547cb4"
+url = "https://github.com/TeloDev/gravestone/releases/download/1.1.0/gravestone-1.7.10-1.1.0.jar"

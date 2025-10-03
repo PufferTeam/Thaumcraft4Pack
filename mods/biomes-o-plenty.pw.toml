@@ -3,8 +3,8 @@ filename = "BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b0d13f227f0fe0ec1be8b401d916831fc533048d"
+hash-format = "sha256"
+hash = "5382d1c156c871c896b6cebd036b80f58ceaff36b09d416b113f32884b7b4a2a"
 mode = "metadata:curseforge"
 
 [update]

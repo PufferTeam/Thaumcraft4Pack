@@ -1,0 +1,1 @@
+shadowMapResolution=2048

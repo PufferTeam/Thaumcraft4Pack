@@ -1,0 +1,13 @@
+name = "Lumi Light Engine"
+filename = "lumi-mc1.7.10-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "4beea487caf686749509dcf2a5bb33e458b5e3687a2977686723efa14905ce74"
+url = "https://cdn.modrinth.com/data/RIP6DWIB/versions/fzHaqXCn/lumi-mc1.7.10-1.2.0.jar"
+
+[update]
+[update.modrinth]
+mod-id = "RIP6DWIB"
+version = "fzHaqXCn"

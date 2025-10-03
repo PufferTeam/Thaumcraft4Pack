@@ -1,0 +1,8 @@
+name = "CustomMainMenu"
+filename = "custommainmenu-1.12.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "abbe587d59ec7f03635d25348c879f687748358176a3461992dadd6753bcf5e2"
+url = "https://github.com/GTNewHorizons/Custom-Main-Menu/releases/download/1.12.1/custommainmenu-1.12.1.jar"

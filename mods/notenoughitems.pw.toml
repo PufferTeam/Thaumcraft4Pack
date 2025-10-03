@@ -1,0 +1,13 @@
+name = "NotEnoughItems Unofficial"
+filename = "NotEnoughItems-2.7.91-GTNH.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "809b92054043635eb1da05a25faa1f3c11c3fb67624339c580642680e25162ee"
+url = "https://cdn.modrinth.com/data/iNPc3Onu/versions/hOnia99R/NotEnoughItems-2.7.91-GTNH.jar"
+
+[update]
+[update.modrinth]
+mod-id = "iNPc3Onu"
+version = "hOnia99R"

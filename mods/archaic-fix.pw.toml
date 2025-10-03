@@ -1,0 +1,8 @@
+name = "Archaic Fix"
+filename = "archaicfix-0.7.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "35c912383d8ce6a69ec3dce742b1e8571ec321d273e195ec12b8896e0eced7af"
+url = "https://github.com/PufferTeam-ModArchive/ArchaicFix/releases/download/0.7.8/archaicfix-0.7.8.jar"

@@ -3,8 +3,8 @@ filename = "CarbonConfig-1.7.10-1.2.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "315180003b92633b095b317da58c75ea597abf34"
+hash-format = "sha256"
+hash = "c441715a2a2e37bde2a6083694128599078de97532295eecd8678e9df7373c90"
 mode = "metadata:curseforge"
 
 [update]

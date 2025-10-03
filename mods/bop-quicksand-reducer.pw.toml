@@ -3,8 +3,8 @@ filename = "quicksandreducer.v.1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b3c3ff1e8c9bbbf5d3e011725366384865bf9a24"
+hash-format = "sha256"
+hash = "16aea7230603eee4c23f9e1d48c930e24d254ba10b427076fd64b932c053c9d5"
 mode = "metadata:curseforge"
 
 [update]

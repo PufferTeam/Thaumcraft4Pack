@@ -3,8 +3,8 @@ filename = "alreadydecoratingfix-1.0a.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8296281ae3a71b82c7bd5762f474206621c7df74"
+hash-format = "sha256"
+hash = "60486623ee5a7bd02db5aaab9c044a51f6018db0cfd864352909298cfe273963"
 mode = "metadata:curseforge"
 
 [update]

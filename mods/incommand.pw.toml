@@ -1,0 +1,8 @@
+name = "InCommand"
+filename = "incommand-1.7.10-1.0.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "79f5cd1627ddea2a512fb400f8bab2e6bb167ceba1725b8c8ec791003d69be9f"
+url = "https://github.com/Myask-sl/InCommand-1.7.10/releases/download/v1.6.0.1/incommand-1.7.10-1.0.6.1.jar"

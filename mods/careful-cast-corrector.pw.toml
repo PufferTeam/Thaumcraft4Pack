@@ -1,0 +1,13 @@
+name = "Careful Cast Corrector"
+filename = "Careful Cast Corrector-2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "dd141e71eff5a963ef12e9d176916a5d871b6351a7324836080dc5ae0252b87e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3310159
+project-id = 324714

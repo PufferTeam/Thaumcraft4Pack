@@ -1,0 +1,876 @@
+{
+    "mods": {
+        "materialis": {
+            "name": "Materialis",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/Materialis/releases/download/1.2.15/materialis-1.2.15.jar"
+        },
+        "adjachests": {
+            "name": "AdjaChests",
+            "type": "github",
+            "link": "https://github.com/Myask-sl/adjachest-1.7.10/releases/download/v0.9.9.9beta10/adjachest-0.9.9.9beta10.jar"
+        },
+        "advanced-botany": {
+            "name": "Advanced Botany",
+            "type": "curseforge",
+            "project-id": 575841,
+            "file-id": 3862595
+        },
+        "aether": {
+            "name": "Aether Legacy",
+            "type": "modrinth",
+            "project-id": "YhmgMVyu",
+            "file-id": "sDnmimXy"
+        },
+        "alchemy-grate": {
+            "name": "Alchemy Grate",
+            "type": "curseforge",
+            "project-id": 397344,
+            "file-id": 3011853
+        },
+        "the-betweenlands": {
+            "name": "The Betweenlands",
+            "type": "curseforge",
+            "project-id": 243363,
+            "file-id": 2317389
+        },
+        "antiquities": {
+            "name": "Antiquities",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/Antiquities/releases/download/0.2.33/antiquities-0.2.33.jar"
+        },
+        "applecore": {
+            "name": "AppleCore",
+            "type": "modrinth",
+            "project-id": "c3I7Akgu",
+            "file-id": "5u2XT9ic"
+        },
+        "arcane-engineering": {
+            "name": "Arcane Engineering",
+            "type": "curseforge",
+            "project-id": 237593,
+            "file-id": 2299527
+        },
+        "archaic-fix": {
+            "name": "Archaic Fix",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/ArchaicFix/releases/download/0.7.8/archaicfix-0.7.8.jar"
+        },
+        "automagy": {
+            "name": "Automagy",
+            "type": "curseforge",
+            "project-id": 222153,
+            "file-id": 2285272
+        },
+        "basalt-walker": {
+            "name": "Basalt Walker",
+            "type": "curseforge",
+            "project-id": 614949,
+            "file-id": 3759159
+        },
+        "baubles-expanded": {
+            "name": "Baubles Expanded",
+            "type": "modrinth",
+            "project-id": "pAqS7wsC",
+            "file-id": "vX4kVuYP"
+        },
+        "beddium": {
+            "name": "Beddium",
+            "type": "modrinth",
+            "project-id": "kPtHpb7z",
+            "file-id": "DqYwP6mT"
+        },
+        "better-achievements": {
+            "client": true,
+            "name": "Better Achievements",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/BetterAchievements/releases/download/0.3.1-JB/BetterAchievements-0.3.1-JB.jar"
+        },
+        "better-horse-hud": {
+            "client": true,
+            "name": "Better Horse Hud",
+            "type": "curseforge",
+            "project-id": 223091,
+            "file-id": 2210775
+        },
+        "better-invalid-session": {
+            "client": true,
+            "name": "Better Invalid Session",
+            "type": "curseforge",
+            "project-id": 324881,
+            "file-id": 2781339
+        },
+        "better-loading-screen": {
+            "client": true,
+            "name": "Better Loading Screen",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/BetterLoadingScreen/releases/download/1.7.1-JB/betterloadingscreen-1.7.1-JB.jar"
+        },
+        "biome-decoration-fix": {
+            "name": "Biome Decoration Fix",
+            "type": "curseforge",
+            "project-id": 533258,
+            "file-id": 3479308
+        },
+        "biomes-o-plenty": {
+            "name": "Biomes O' Plenty",
+            "type": "curseforge",
+            "project-id": 220318,
+            "file-id": 2499612
+        },
+        "block-replacement": {
+            "name": "Block Replacement",
+            "type": "modrinth",
+            "project-id": "u97M0r8k",
+            "file-id": "eNqeK22b"
+        },
+        "blood-arsenal": {
+            "name": "Blood Arsenal",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/BloodArsenal/releases/download/1.4.6/BloodArsenal-1.4.6.jar"
+        },
+        "blood-magic": {
+            "name": "Blood Magic",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.7.40/BloodMagic-1.7.40.jar"
+        },
+        "bop-quicksand-reducer": {
+            "name": "BoP Quicksand Reducer",
+            "type": "curseforge",
+            "project-id": 385125,
+            "file-id": 2963253
+        },
+        "botania": {
+            "name": "Botania",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/Botania/releases/download/1.12.15-JB/Botania-1.12.15-JB.jar"
+        },
+        "bugtorch": {
+            "name": "BugTorch",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/BugTorch/releases/download/1.2.17-JB/bugtorch-1.2.17-JB.jar"
+        },
+        "campfire-backport": {
+            "name": "Campfire Backport",
+            "type": "curseforge",
+            "project-id": 387444,
+            "file-id": 5940198
+        },
+        "carbon-config": {
+            "name": "Carbon Config",
+            "type": "curseforge",
+            "project-id": 898104,
+            "file-id": 5504468
+        },
+        "careful-cast-corrector": {
+            "name": "Careful Cast Corrector",
+            "type": "curseforge",
+            "project-id": 324714,
+            "file-id": 3310159
+        },
+        "carpenters-blocks": {
+            "name": "Carpenter's Blocks",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/CarpentersBlocks/releases/download/3.7.0-GTNH/CarpentersBlocks-3.7.0-GTNH.jar"
+        },
+        "cartload": {
+            "name": "CartLoad",
+            "type": "modrinth",
+            "project-id": "25cIpBfY",
+            "file-id": "88GRp9A1"
+        },
+        "chisel": {
+            "name": "Chisel",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/Chisel/releases/download/2.17.1-JB/chisel-2.17.1-JB.jar"
+        },
+        "chunk-api": {
+            "name": "ChunkAPI",
+            "type": "modrinth",
+            "project-id": "y0vBUOla",
+            "file-id": "331yjk2B"
+        },
+        "clay-bucket": {
+            "name": "Clay Bucket",
+            "type": "curseforge",
+            "project-id": 242568,
+            "file-id": 2293402
+        },
+        "codechickencore": {
+            "name": "CodeChickenCore Unofficial",
+            "type": "modrinth",
+            "project-id": "qMOdaUOs",
+            "file-id": "yJUaA8Wo"
+        },
+        "cofh-core": {
+            "name": "CoFH Core",
+            "type": "curseforge",
+            "project-id": 69162,
+            "file-id": 2388750
+        },
+        "controlling": {
+            "client": true,
+            "name": "Controlling",
+            "type": "curseforge",
+            "project-id": 250398,
+            "file-id": 5507281
+        },
+        "coretweaks": {
+            "client": true,
+            "name": "CoreTweaks",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/CoreTweaks/releases/download/0.3.3.4-GTNH/coretweaks-0.3.3.4-GTNH.jar"
+        },
+        "craftpresence": {
+            "client": true,
+            "name": "CraftPresence",
+            "type": "modrinth",
+            "project-id": "DFqQfIBR",
+            "file-id": "5GGIPEIx"
+        },
+        "cuchaz-ships": {
+            "name": "Cuchaz Ships",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/Cuchaz-Ships/releases/download/1.1.7-JB/cuchaz.ships-1.1.7-JB.jar"
+        },
+        "custom-armor-bar": {
+            "client": true,
+            "name": "Custom Armor Bar",
+            "type": "modrinth",
+            "project-id": "fJUppOop",
+            "file-id": "DhhltppF"
+        },
+        "custommainmenu": {
+            "client": true,
+            "name": "CustomMainMenu",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/Custom-Main-Menu/releases/download/1.12.1/custommainmenu-1.12.1.jar"
+        },
+        "damage-tilt": {
+            "client": true,
+            "name": "Damage Tilt",
+            "type": "curseforge",
+            "project-id": 411705,
+            "file-id": 3097543
+        },
+        "deathly-hallows": {
+            "name": "Deathly Hallows",
+            "type": "modrinth",
+            "project-id": "6xIfBqzY",
+            "file-id": "69FX5E7l"
+        },
+        "default-world-generator": {
+            "client": true,
+            "name": "Default World Generator",
+            "type": "curseforge",
+            "project-id": 226188,
+            "file-id": 2225179
+        },
+        "dmod": {
+            "name": "D-Mod",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/DMod/releases/download/1.0.3.6-JB/DMod-1.7.10-1.0.3.6-JB.jar"
+        },
+        "doomlike-dungeons": {
+            "name": "Doomlike Dungeons",
+            "type": "curseforge",
+            "project-id": 74246,
+            "file-id": 2615918
+        },
+        "dummycore": {
+            "name": "DummyCore",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/DummyCore/releases/download/1.20.0/DummyCore-1.20.0.jar"
+        },
+        "dynamic-surroundings": {
+            "client": true,
+            "name": "Dynamic Surroundings",
+            "type": "github",
+            "link": "https://github.com/mist475/DynamicSurroundings/releases/download/1.0.7.7/DynamicSurroundings-1.7.10-1.0.7.7.jar"
+        },
+        "endercore": {
+            "name": "EnderCore",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/EnderCore/releases/download/0.4.9-JB/endercore-0.4.9-JB.jar"
+        },
+        "entity-culling": {
+            "client": true,
+            "name": "Entity Culling",
+            "type": "modrinth",
+            "project-id": "NNAgCjsB",
+            "file-id": "SLiFyIon"
+        },
+        "et-futurum-requiem": {
+            "name": "Et Futurum Requiem",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/Et-Futurum-Requiem/releases/download/2.6.12-JB/etfuturum-2.6.12-JB.jar"
+        },
+        "ex-nihilo": {
+            "name": "Ex Nihilo",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/ex-nihilo/releases/download/1.50.1/exnihilo-1.50.1.jar"
+        },
+        "falsetweaks": {
+            "name": "FalseTweaks",
+            "type": "modrinth",
+            "project-id": "VTGi3upD",
+            "file-id": "Bwam6Eoc"
+        },
+        "falsepatternlib": {
+            "name": "FalsePatternLib",
+            "type": "modrinth",
+            "project-id": "eGLBEILf",
+            "file-id": "pONBWnV9"
+        },
+        "fast-leaf-decay": {
+            "name": "Fast Leaf Decay",
+            "type": "curseforge",
+            "project-id": 230976,
+            "file-id": 2272838
+        },
+        "fentlib": {
+            "name": "FentLib",
+            "type": "github",
+            "link": "https://github.com/JackOfNoneTrades/FentLib/releases/download/0.0.34/fentlib-0.0.34.jar"
+        },
+        "fluidlogged": {
+            "name": "FluidLogged",
+            "type": "github",
+            "link": "https://github.com/GTMEGA/FluidLogged/releases/download/0.2.0/fluidlogged-mc1.7.10-0.2.0.jar"
+        },
+        "foamfix": {
+            "name": "Foam​Fix",
+            "type": "curseforge",
+            "project-id": 278494,
+            "file-id": 4473363
+        },
+        "forbidden-magic": {
+            "name": "Forbidden Magic",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/ForbiddenMagic/releases/download/0.8.1-GTNH/Forbidden.Magic-0.8.1-GTNH.jar"
+        },
+        "forge-multipart": {
+            "name": "Forge Multipart",
+            "type": "github",
+            "folder": "1.7.10",
+            "link": "https://github.com/PufferTeam-ModArchive/ForgeMultipart/releases/download/1.6.11-JB/ForgeMultipart-1.6.11-JB.jar"
+        },
+        "forgotten-relics": {
+            "name": "Forgotten Relics",
+            "type": "modrinth",
+            "project-id": "ruYpd5sW",
+            "file-id": "ZEzrCjEe"
+        },
+        "gadomancy": {
+            "name": "Gadomancy",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/Gadomancy/releases/download/1.4.7/gadomancy-1.4.7.jar"
+        },
+        "garden-stuff": {
+            "name": "Garden Stuff",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/GardenCollection/releases/download/1.7.5-JB/GardenStuff-1.7.5-JB.jar"
+        },
+        "gravestone": {
+            "name": "Gravestone",
+            "type": "github",
+            "link": "https://github.com/TeloDev/gravestone/releases/download/1.1.0/gravestone-1.7.10-1.1.0.jar"
+        },
+        "gtnhlib": {
+            "name": "GTNHLib",
+            "type": "modrinth",
+            "project-id": "vTvnv7qp",
+            "file-id": "DuKGtw0Q"
+        },
+        "hardcore-wither": {
+            "name": "Hardcore Wither",
+            "type": "curseforge",
+            "project-id": 237407,
+            "file-id": 2282681
+        },
+        "hardcore-ender-expansion": {
+            "name": "Hardcore Ender Expansion",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/Hardcore-Ender-Expansion/releases/download/1.12.13-GTNH/HardcoreEnderExpansion-1.12.13-GTNH.jar"
+        },
+        "healer": {
+            "name": "Healer",
+            "type": "curseforge",
+            "project-id": 554840,
+            "file-id": 4367893
+        },
+        "hodgepodge": {
+            "name": "Hodgepodge",
+            "type": "modrinth",
+            "project-id": "6QQe8Ldy",
+            "file-id": "7zYT6HV8"
+        },
+        "hopper-ducts": {
+            "name": "Hopper Ducts",
+            "type": "curseforge",
+            "project-id": 72210,
+            "file-id": 2211247
+        },
+        "horizontal-backport": {
+            "name": "Horizontal Backport",
+            "type": "modrinth",
+            "project-id": "qmc7cEUQ",
+            "file-id": "cCpFm5RS"
+        },
+        "hunger-overhaul": {
+            "name": "Hunger Overhaul",
+            "type": "curseforge",
+            "project-id": 224476,
+            "file-id": 2332505
+        },
+        "immersive-integration": {
+            "name": "Immersive Integration",
+            "type": "curseforge",
+            "project-id": 232159,
+            "file-id": 2289306
+        },
+        "immersive-engineering": {
+            "name": "Immersive Engineering",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/ImmersiveEngineering/releases/download/0.7.11-JB/ImmersiveEngineering-0.7.11-JB.jar"
+        },
+        "incommand": {
+            "name": "InCommand",
+            "type": "github",
+            "link": "https://github.com/Myask-sl/InCommand-1.7.10/releases/download/v1.6.0.1/incommand-1.7.10-1.0.6.1.jar"
+        },
+        "infernal-mobs": {
+            "name": "Infernal Mobs",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/Infernal-Mobs/releases/download/1.10.2-GTNH/InfernalMobs-1.10.2-GTNH.jar"
+        },
+        "its-the-little-things": {
+            "client": true,
+            "name": "It's the little things",
+            "type": "curseforge",
+            "project-id": 232791,
+            "file-id": 3335234
+        },
+        "ivtoolkit": {
+            "name": "IvToolkit",
+            "type": "curseforge",
+            "project-id": 224535,
+            "file-id": 2294442
+        },
+        "just-a-few-fish": {
+            "name": "Just a Few Fish",
+            "type": "curseforge",
+            "project-id": 235261,
+            "file-id": 2329496
+        },
+        "lan-host-skin-re-fix-ed": {
+            "name": "Lan Host Skin ReFixed",
+            "type": "curseforge",
+            "project-id": 364836,
+            "file-id": 3920698
+        },
+        "lumi-light-engine": {
+            "name": "Lumi Light Engine",
+            "type": "modrinth",
+            "project-id": "RIP6DWIB",
+            "file-id": "fzHaqXCn"
+        },
+        "lwjgl3ify": {
+            "name": "lwjgl3ify",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.15/lwjgl3ify-2.1.15.jar"
+        },
+        "mantle": {
+            "name": "Mantle",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/Mantle/releases/download/0.5.1/Mantle-0.5.1.jar"
+        },
+        "mcpatcher": {
+            "client": true,
+            "name": "Right Proper MCPatcher",
+            "type": "modrinth",
+            "project-id": "kvBHaMRv",
+            "file-id": "Ki9ZLfCs"
+        },
+        "mekanism": {
+            "name": "Mekanism",
+            "type": "github",
+            "link": "https://github.com/Thorfusion/Mekanism-Community-Edition/releases/download/9.10.43/Mekanism-Community-Edition-1.7.10-9.10.43-Core.jar"
+        },
+        "mekanism-generators": {
+            "name": "Mekanism: Generators",
+            "type": "github",
+            "link": "https://github.com/Thorfusion/Mekanism-Community-Edition/releases/download/9.10.43/Mekanism-Community-Edition-1.7.10-9.10.43-Generators.jar"
+        },
+        "modernkeybinding": {
+            "name": "Modern KeyBinding",
+            "type": "modrinth",
+            "project-id": "rQszQPD2",
+            "file-id": "IbFXGfVn"
+        },
+        "morpheus": {
+            "name": "Morpheus",
+            "type": "curseforge",
+            "project-id": 69118,
+            "file-id": 2280761
+        },
+        "mouse-tweaks": {
+            "client": true,
+            "name": "Mouse Tweaks",
+            "type": "curseforge",
+            "project-id": 60089,
+            "file-id": 2209265
+        },
+        "myceliumlib": {
+            "name": "MyceliumLib",
+            "type": "modrinth",
+            "project-id": "3EqWeoiF",
+            "file-id": "4FQLH0Ow"
+        },
+        "navigator": {
+            "name": "Navigator",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/Navigator/releases/download/1.0.16/navigator-1.0.16.jar"
+        },
+        "nei-addons": {
+            "name": "NEI Addons",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/neiaddons/releases/download/1.16.0/NEIAddons-1.16.0.jar"
+        },
+        "nei-integration": {
+            "name": "NEI Integration",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/NEI-Integration/releases/download/1.4.0/NEIIntegration-1.4.0.jar"
+        },
+        "netherlicious": {
+            "name": "Netherlicious",
+            "type": "curseforge",
+            "project-id": 385860,
+            "file-id": 4363437
+        },
+        "netherportalfix": {
+            "name": "NetherPortalFix",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/NetherPortalFix/releases/download/1.4.0/netherportalfix-1.4.0.jar"
+        },
+        "no-mob-spawning-on-trees": {
+            "name": "No Mob Spawning on Trees",
+            "type": "curseforge",
+            "project-id": 226779,
+            "file-id": 2362270
+        },
+        "not-enough-pets": {
+            "name": "Not Enough Pets",
+            "type": "modrinth",
+            "project-id": "flsPN5I7",
+            "file-id": "fPvFAVAb"
+        },
+        "notenoughitems": {
+            "name": "NotEnoughItems Unofficial",
+            "type": "modrinth",
+            "project-id": "iNPc3Onu",
+            "file-id": "hOnia99R"
+        },
+        "notfine": {
+            "client": true,
+            "name": "NotFine",
+            "type": "github",
+            "link": "https://github.com/jss2a98aj/NotFine/releases/download/0.2.7/notfine-0.2.7.jar"
+        },
+        "pistronics": {
+            "name": "Pistronics 2",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/Pistronics-2/releases/download/2.2/Pistronics2-1.7.10-0.6.4-patched.jar"
+        },
+        "plonk": {
+            "name": "Plonk",
+            "type": "modrinth",
+            "project-id": "EUmBPkQn",
+            "file-id": "bX9Po7hr"
+        },
+        "realistic-torches": {
+            "name": "Realistic Torches",
+            "type": "modrinth",
+            "project-id": "iQYnQIfP",
+            "file-id": "fJYEaV9Q"
+        },
+        "reauth": {
+            "client": true,
+            "name": "ReAuth",
+            "type": "curseforge",
+            "project-id": 237701,
+            "file-id": 4407995
+        },
+        "recurrent-complex": {
+            "name": "Recurrent Complex Unofficial",
+            "type": "curseforge",
+            "project-id": 419129,
+            "file-id": 3108489
+        },
+        "roguelike-dungeons": {
+            "name": "Roguelike Dungeons",
+            "type": "curseforge",
+            "project-id": 221585,
+            "file-id": 2294894
+        },
+        "colored-lights": {
+            "name": "Right Proper Colored Lights",
+            "type": "modrinth",
+            "project-id": "glC7saXJ",
+            "file-id": "8IlLg0ve"
+        },
+        "salis-arcana": {
+            "name": "Salis Arcana",
+            "type": "modrinth",
+            "project-id": "y1bqIjK6",
+            "file-id": "Ky1AqmQp"
+        },
+        "saltymod-expanded": {
+            "name": "SaltyMod Expanded",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/SaltyMod-Expanded/releases/download/2.0.15.4-JB/saltymod-2.0.15.4-JB.jar"
+        },
+        "salutation": {
+            "name": "Salutation",
+            "type": "curseforge",
+            "project-id": 1336558,
+            "file-id": 6937877
+        },
+        "screenshots-enhanced": {
+            "client": true,
+            "name": "Screenshots Enhanced",
+            "type": "curseforge",
+            "project-id": 228090,
+            "file-id": 2228718
+        },
+        "server-utilities": {
+            "name": "Server Utilities",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.54/ServerUtilities-2.1.54.jar"
+        },
+        "simple-skin-backport": {
+            "name": "Simple Skin Backport",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/SimpleSkinBackport/releases/download/0.1.0/simpleskinbackport-0.1.0.jar"
+        },
+        "sound-filters": {
+            "client": true,
+            "name": "Sound Filters",
+            "type": "curseforge",
+            "project-id": 222789,
+            "file-id": 2224003
+        },
+        "special-ai": {
+            "name": "Special AI",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/SpecialAI/releases/download/1.2.0/SpecialAI-1.2.0.jar"
+        },
+        "special-mobs": {
+            "name": "Special Mobs",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/SpecialMobs/releases/download/3.7.0/SpecialMobs-3.7.0.jar"
+        },
+        "squidless": {
+            "name": "Squidless",
+            "type": "curseforge",
+            "project-id": 226115,
+            "file-id": 2233504
+        },
+        "storage-drawers": {
+            "name": "Storage Drawers Unofficial",
+            "type": "modrinth",
+            "project-id": "C0xOkNfT",
+            "file-id": "HYLYRjPh"
+        },
+        "swansong-shaders": {
+            "client": true,
+            "name": "SwanSong Shaders",
+            "type": "modrinth",
+            "project-id": "2mCumCZs",
+            "file-id": "VK51MPwL"
+        },
+        "tabfaces": {
+            "client": true,
+            "name": "TabFaces",
+            "type": "modrinth",
+            "project-id": "Jzw8TKEK",
+            "file-id": "99MiXr3u"
+        },
+        "tainted-magic": {
+            "name": "Tainted Magic",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/Tainted-Magic/releases/download/7.6.25-GTNH/Tainted-Magic-7.6.25-GTNH.jar"
+        },
+        "thaumcraft-tweaks": {
+            "name": "Thaumcraft 4 Tweaks",
+            "type": "curseforge",
+            "project-id": 431297,
+            "file-id": 6929888
+        },
+        "tc-nei-additions": {
+            "name": "TC NEI Additions",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/TCNEIAdditions/releases/download/1.5.0/tcneiadditions-1.5.0.jar"
+        },
+        "tc-node-tracker": {
+            "name": "TC Node Tracker",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/TCNodeTracker/releases/download/1.3.2/tcnodetracker-1.3.2.jar"
+        },
+        "thaumcraft-nei-plugin": {
+            "name": "Thaumcraft NEI Plugin",
+            "type": "curseforge",
+            "project-id": 225095,
+            "file-id": 2241913
+        },
+        "thaumcraft": {
+            "name": "Thaumcraft",
+            "type": "curseforge",
+            "project-id": 223628,
+            "file-id": 2227552
+        },
+        "thaumcraft-altar-cull": {
+            "client": true,
+            "name": "Thaumcraft Altar Cull",
+            "type": "modrinth",
+            "project-id": "FiyX1gSA",
+            "file-id": "KF3zD0is"
+        },
+        "thaumcraft-mob-aspects": {
+            "name": "Thaumcraft Mob Aspects",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/ThaumcraftMobAspects/releases/download/1.1.2-GTNH/ThaumcraftMobAspects-1.1.2-GTNH.jar"
+        },
+        "thaumic-concilium": {
+            "name": "Thaumic Concilium",
+            "type": "modrinth",
+            "project-id": "K39gnZpI",
+            "file-id": "jmdPv1Km"
+        },
+        "thaumic-dyes": {
+            "name": "Thaumic Dyes",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/Thaumic-Dyes/releases/download/1.10.11-JB/thaumicdyes-1.10.11-JB.jar"
+        },
+        "thaumic-exploration": {
+            "name": "Thaumic Exploration",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.4.7-GTNH/Thaumic-Exploration-1.4.7-GTNH.jar"
+        },
+        "thaumic-horizons": {
+            "name": "Thaumic Horizons",
+            "type": "modrinth",
+            "project-id": "1wDWP1tN",
+            "file-id": "yYGrDBnk"
+        },
+        "thaumic-tinkerer": {
+            "name": "Thaumic Tinkerer",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.11.26/ThaumicTinkerer-2.11.26.jar"
+        },
+        "tileentity-reset-fix": {
+            "name": "TileEntity Reset Fix",
+            "type": "modrinth",
+            "project-id": "cKitwCSu",
+            "file-id": "uxSWLWki"
+        },
+        "tinkers-construct": {
+            "name": "Tinker's Construct",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/TinkersConstruct/releases/download/1.13.47-JB/TConstruct-1.13.47-JB.jar"
+        },
+        "twilight-forest": {
+            "name": "Twilight Forest",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.8/TwilightForest-2.7.8.jar"
+        },
+        "tx-loader": {
+            "name": "TX Loader",
+            "type": "modrinth",
+            "project-id": "eh8us8FY",
+            "file-id": "ESvYJcnK"
+        },
+        "ultimate-caves-mod": {
+            "name": "Ultimate Caves Mod",
+            "type": "github",
+            "link": "https://github.com/kotmatross28729/UltimateCavesMod/releases/download/1.0.4/ultimatecavesmod-1.0.4.jar"
+        },
+        "unilib": {
+            "client": true,
+            "name": "UniLib",
+            "type": "modrinth",
+            "project-id": "nT86WUER",
+            "file-id": "OP0Ufek9"
+        },
+        "unimixins": {
+            "name": "UniMixins",
+            "type": "github",
+            "link": "https://github.com/LegacyModdingMC/UniMixins/releases/download/0.1.23/+unimixins-all-1.7.10-0.1.23.jar"
+        },
+        "village-names": {
+            "name": "Village Names",
+            "type": "modrinth",
+            "project-id": "ea7aacaC",
+            "file-id": "kkKXh6H7"
+        },
+        "waila-plugins": {
+            "name": "Waila Plugins",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.6.0/WAILAPlugins-0.6.0.jar"
+        },
+        "warptheory": {
+            "name": "WarpTheory",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/WarpTheory/releases/download/1.5.0-GTNH/WarpTheory-1.5.0-GTNH.jar"
+        },
+        "wdmla": {
+            "name": "WarpTheory",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/WDMla/releases/download/2.8.1-JB/wdmla-2.8.1-JB.jar"
+        },
+        "wildmobs": {
+            "name": "WarpTheory",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/wildmobs/releases/download/1.5.4.2-JB/wildmobsmod-1.5.4.2-JB.jar"
+        },
+        "witchery-compat": {
+            "name": "Witchery Compat",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/WitcheryCompat/releases/download/1.0.6/witcherycompat-1.0.6.jar"
+        },
+        "witchery-extras": {
+            "name": "Witchery Extras",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.3.0/WitcheryExtras-1.3.0.jar"
+        },
+        "witchery": {
+            "name": "Witchery",
+            "type": "curseforge",
+            "project-id": 69673,
+            "file-id": 2234410
+        },
+        "witcherypatch": {
+            "name": "WitcheryPatch",
+            "type": "curseforge",
+            "project-id": 253015,
+            "file-id": 2340610
+        },
+        "witching-gadgets": {
+            "name": "Witching Gadgets",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.7.17-GTNH/WitchingGadgets-1.7.17-GTNH.jar"
+        },
+        "xaeros-minimap": {
+            "name": "Xaero's Minimap",
+            "type": "modrinth",
+            "project-id": "1bokaNcj",
+            "file-id": "EeB36MIM"
+        },
+        "xaeros-world-map": {
+            "name": "Xaero's World Map",
+            "type": "modrinth",
+            "project-id": "NcUtCpym",
+            "file-id": "p1yJWyyU"
+        }
+    }
+}

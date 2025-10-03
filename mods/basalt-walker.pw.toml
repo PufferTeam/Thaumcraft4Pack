@@ -1,0 +1,13 @@
+name = "Basalt Walker"
+filename = "BasaltWalker-Reborn-Forge-1.7.10-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "674450d5ac14b6a41a96a86b72d2f81130a8639587e9ebcc7f18740bb6e2fa3e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3759159
+project-id = 614949

@@ -3,8 +3,8 @@ filename = "DefaultWorldGenerator-1.7.10-0.1-b13-universal.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "13e8a97e1216461ed6a88a4c92844431db990dfd"
+hash-format = "sha256"
+hash = "70203c1f5d8bb5a10250b54d0b6e0fae0690e3228aab5cc734e832a9392fc8ca"
 mode = "metadata:curseforge"
 
 [update]

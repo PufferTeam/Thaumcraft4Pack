@@ -3,8 +3,8 @@ filename = "LanHostSkinReFixed-1.7.10-rv1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "24d29f06339c3baabab7a250f23a6e38bfec43d6"
+hash-format = "sha256"
+hash = "dbdbbde782b2ace61c6352ea2da6d8adc72506456331785d3d759fc3c932ef72"
 mode = "metadata:curseforge"
 
 [update]

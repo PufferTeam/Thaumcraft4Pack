@@ -3,9 +3,9 @@ filename = "NotEnoughPets-1.7.10-2.4.1.jar"
 side = "both"
 
 [download]
+hash-format = "sha256"
+hash = "d6ddb3c49d4d9acb5b31554d1101959853242dda3cde1439c6e3b1d5b0d39e68"
 url = "https://cdn.modrinth.com/data/flsPN5I7/versions/fPvFAVAb/NotEnoughPets-1.7.10-2.4.1.jar"
-hash-format = "sha1"
-hash = "1762183e174ff247b0058e10f83f8a421555d32c"
 
 [update]
 [update.modrinth]

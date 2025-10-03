@@ -3,8 +3,8 @@ filename = "JustAFewFish-1.4.2_for_1.7.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "889a2c3de760b14639313366d8244776b89cc6bc"
+hash-format = "sha256"
+hash = "8163d28c7ec49ac2492a4c29aa469fc36fedf4dced5d42d46b19c7464c60c8a0"
 mode = "metadata:curseforge"
 
 [update]

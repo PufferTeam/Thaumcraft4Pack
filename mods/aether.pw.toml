@@ -1,11 +1,11 @@
-name = "The Aether"
+name = "Aether Legacy"
 filename = "aether-1.7.10-v1.1.2.5.jar"
 side = "both"
 
 [download]
+hash-format = "sha256"
+hash = "a5a1036ef9f163509cdd17b1e1ccb5c47f5822be514b356aaa0b580e7fb5566e"
 url = "https://cdn.modrinth.com/data/YhmgMVyu/versions/sDnmimXy/aether-1.7.10-v1.1.2.5.jar"
-hash-format = "sha1"
-hash = "1a8423455e0dc93b548b051e18df9011c23c2fe5"
 
 [update]
 [update.modrinth]

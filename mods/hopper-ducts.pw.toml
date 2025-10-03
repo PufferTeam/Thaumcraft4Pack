@@ -3,8 +3,8 @@ filename = "hopperductmod-1.7.10-1.3.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "caf1c64444de14666d9155c32952df73edd84861"
+hash-format = "sha256"
+hash = "d4eb6a9ea8a90ea86f2f6c43b8b8dd7542da920792d38ea6f209df26e2e7692f"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "alchgrate-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "murmur2"
-hash = "1206442618"
+hash-format = "sha256"
+hash = "71e1ef0821bd1499714295a5e163c095723544caf4e6e779736ef0d99a9c8db3"
 mode = "metadata:curseforge"
 
 [update]

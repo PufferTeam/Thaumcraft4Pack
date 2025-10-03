@@ -1,0 +1,8 @@
+name = "Better Loading Screen"
+filename = "betterloadingscreen-1.7.1-JB.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "c1127cf32ef87439204adfe039f3ed949577857df3195f7dd16a59413f059c3c"
+url = "https://github.com/PufferTeam-ModArchive/BetterLoadingScreen/releases/download/1.7.1-JB/betterloadingscreen-1.7.1-JB.jar"

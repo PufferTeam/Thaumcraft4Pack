@@ -1,0 +1,8 @@
+name = "Waila Plugins"
+filename = "WAILAPlugins-0.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "f96982b5916cf3090aaa9031ab6a9463de5ad0c53466b8285c9137a09933e045"
+url = "https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.6.0/WAILAPlugins-0.6.0.jar"

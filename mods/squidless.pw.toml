@@ -3,8 +3,8 @@ filename = "squidless-1.7.10-0.6.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f5114d1000b087aecde4f34c5fa9f9c5db379905"
+hash-format = "sha256"
+hash = "2d409b7879541ca5657d5190a56a31154553060f772c1cb93fd4f139b19e90b2"
 mode = "metadata:curseforge"
 
 [update]

@@ -1,0 +1,13 @@
+name = "Recurrent Complex Unofficial"
+filename = "RecurrentComplex-0.9.7.1.2_Unoffical.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "055f9400a35e185551aaed88bb152fa21c1d3469ef5dc5543fb3f966ceb34f6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3108489
+project-id = 419129

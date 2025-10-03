@@ -1,0 +1,13 @@
+name = "AppleCore"
+filename = "AppleCore-3.3.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "c4f611f48444da713c2e90bb60120da12f649b5085467e269508276cbd7b7486"
+url = "https://cdn.modrinth.com/data/c3I7Akgu/versions/5u2XT9ic/AppleCore-3.3.7.jar"
+
+[update]
+[update.modrinth]
+mod-id = "c3I7Akgu"
+version = "5u2XT9ic"

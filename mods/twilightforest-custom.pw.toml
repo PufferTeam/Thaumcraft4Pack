@@ -1,8 +1,0 @@
-name = "Twilight Forest"
-filename = "TwilightForest-2.7.8.jar"
-side = "both"
-
-[download]
-url = "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.8/TwilightForest-2.7.8.jar"
-hash-format = "sha1"
-hash = "d77d3545c4381c686bc62989e0869aca9e82e0ef"

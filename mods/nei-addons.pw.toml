@@ -1,0 +1,8 @@
+name = "NEI Addons"
+filename = "NEIAddons-1.16.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "3ab0e3286b21887887920728f8e0164dd7e8c7e7c104cd95135588d3e080a768"
+url = "https://github.com/GTNewHorizons/neiaddons/releases/download/1.16.0/NEIAddons-1.16.0.jar"

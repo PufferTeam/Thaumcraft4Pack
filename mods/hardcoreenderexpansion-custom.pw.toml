@@ -1,8 +1,0 @@
-name = "Hardcore Ender Expansion"
-filename = "HardcoreEnderExpansion-1.12.13-GTNH.jar"
-side = "both"
-
-[download]
-url = "https://github.com/GTNewHorizons/Hardcore-Ender-Expansion/releases/download/1.12.13-GTNH/HardcoreEnderExpansion-1.12.13-GTNH.jar"
-hash-format = "sha256"
-hash = "dd19644c1f3429e045199001e9427e80992e48d83a7e52d7a3ba3cf4f92c8aa3"

@@ -3,8 +3,8 @@ filename = "arcane_engineering-0.2.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f325ec1a054a7f8f4178f955232ac4f8b58d2b44"
+hash-format = "sha256"
+hash = "c67f8c1fec8df814300fe9c8689d3ef906665573e503c5737bf240bad7be9f1d"
 mode = "metadata:curseforge"
 
 [update]

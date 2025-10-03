@@ -3,8 +3,8 @@ filename = "BetterInvalidSession-1.7.10-1.0.3.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "4611d0cb76571ce9c1449ca34ac5159673f7f800"
+hash-format = "sha256"
+hash = "79beca3cb33f9cde15eca1b08e6988693c8bf78e38e55fd64ab7d18fe92635d5"
 mode = "metadata:curseforge"
 
 [update]

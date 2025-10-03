@@ -3,9 +3,9 @@ filename = "ThaumicHorizons-1.7.8.jar"
 side = "both"
 
 [download]
+hash-format = "sha256"
+hash = "3c3e5eb34410bd6830180eca99d1fbadc64b53f83d12360a171f33891158b21d"
 url = "https://cdn.modrinth.com/data/1wDWP1tN/versions/yYGrDBnk/ThaumicHorizons-1.7.8.jar"
-hash-format = "sha512"
-hash = "0a27ad8f475571b2d3eb649140cdf315b6e7a9708ae87b478d033086e8562249dd2aff0f001e18506a74daa4b680da06c0b852a06a6b7a56c2cc793d0a6027c3"
 
 [update]
 [update.modrinth]
