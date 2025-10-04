@@ -41,9 +41,9 @@
         },
         "applecore": {
             "name": "AppleCore",
-            "type": "modrinth",
-            "project-id": "c3I7Akgu",
-            "file-id": "5u2XT9ic"
+            "type": "curseforge",
+            "project-id": 782158,
+            "file-id": 6881356
         },
         "arcane-engineering": {
             "name": "Arcane Engineering",
@@ -70,15 +70,15 @@
         },
         "baubles-expanded": {
             "name": "Baubles Expanded",
-            "type": "modrinth",
-            "project-id": "pAqS7wsC",
-            "file-id": "vX4kVuYP"
+            "type": "github",
+            "folder": "1.7.10",
+            "link": "https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.2.0-GTNH/BaublesExpanded-2.2.0-GTNH.jar"
         },
         "beddium": {
             "name": "Beddium",
-            "type": "modrinth",
-            "project-id": "kPtHpb7z",
-            "file-id": "DqYwP6mT"
+            "type": "curseforge",
+            "project-id": 1065808,
+            "file-id": 7040654
         },
         "better-achievements": {
             "client": true,
@@ -127,12 +127,12 @@
         "blood-arsenal": {
             "name": "Blood Arsenal",
             "type": "github",
-            "link": "https://github.com/GTNewHorizons/BloodArsenal/releases/download/1.4.6/BloodArsenal-1.4.6.jar"
+            "link": "https://github.com/GTNewHorizons/BloodArsenal/releases/download/1.4.10/BloodArsenal-1.4.10.jar"
         },
         "blood-magic": {
             "name": "Blood Magic",
             "type": "github",
-            "link": "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.7.40/BloodMagic-1.7.40.jar"
+            "link": "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.8.1-pre/BloodMagic-1.8.1-pre.jar"
         },
         "bop-quicksand-reducer": {
             "name": "BoP Quicksand Reducer",
@@ -186,9 +186,9 @@
         },
         "chunk-api": {
             "name": "ChunkAPI",
-            "type": "modrinth",
-            "project-id": "y0vBUOla",
-            "file-id": "331yjk2B"
+            "type": "curseforge",
+            "project-id": 844484,
+            "file-id": 6692807
         },
         "clay-bucket": {
             "name": "Clay Bucket",
@@ -198,9 +198,9 @@
         },
         "codechickencore": {
             "name": "CodeChickenCore Unofficial",
-            "type": "modrinth",
-            "project-id": "qMOdaUOs",
-            "file-id": "yJUaA8Wo"
+            "type": "curseforge",
+            "project-id": 746279,
+            "file-id": 6875232
         },
         "cofh-core": {
             "name": "CoFH Core",
@@ -312,15 +312,15 @@
         },
         "falsetweaks": {
             "name": "FalseTweaks",
-            "type": "modrinth",
-            "project-id": "VTGi3upD",
-            "file-id": "Bwam6Eoc"
+            "type": "curseforge",
+            "project-id": 665744,
+            "file-id": 7043347
         },
         "falsepatternlib": {
             "name": "FalsePatternLib",
-            "type": "modrinth",
-            "project-id": "eGLBEILf",
-            "file-id": "pONBWnV9"
+            "type": "curseforge",
+            "project-id": 665627,
+            "file-id": 7053321
         },
         "fast-leaf-decay": {
             "name": "Fast Leaf Decay",
@@ -378,9 +378,9 @@
         },
         "gtnhlib": {
             "name": "GTNHLib",
-            "type": "modrinth",
-            "project-id": "vTvnv7qp",
-            "file-id": "DuKGtw0Q"
+            "type": "curseforge",
+            "project-id": 688894,
+            "file-id": 7053973
         },
         "hardcore-wither": {
             "name": "Hardcore Wither",
@@ -401,9 +401,8 @@
         },
         "hodgepodge": {
             "name": "Hodgepodge",
-            "type": "modrinth",
-            "project-id": "6QQe8Ldy",
-            "file-id": "7zYT6HV8"
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.1/hodgepodge-2.7.1.jar"
         },
         "hopper-ducts": {
             "name": "Hopper Ducts",
@@ -471,9 +470,9 @@
         },
         "lumi-light-engine": {
             "name": "Lumi Light Engine",
-            "type": "modrinth",
-            "project-id": "RIP6DWIB",
-            "file-id": "fzHaqXCn"
+            "type": "curseforge",
+            "project-id": 1050470,
+            "file-id": 6543345
         },
         "lwjgl3ify": {
             "name": "lwjgl3ify",
@@ -488,9 +487,9 @@
         "mcpatcher": {
             "client": true,
             "name": "Right Proper MCPatcher",
-            "type": "modrinth",
-            "project-id": "kvBHaMRv",
-            "file-id": "Ki9ZLfCs"
+            "type": "curseforge",
+            "project-id": 1344779,
+            "file-id": 7032456
         },
         "mekanism": {
             "name": "Mekanism",
@@ -567,9 +566,9 @@
         },
         "notenoughitems": {
             "name": "NotEnoughItems Unofficial",
-            "type": "modrinth",
-            "project-id": "iNPc3Onu",
-            "file-id": "hOnia99R"
+            "type": "curseforge",
+            "project-id": 358228,
+            "file-id": 7057875
         },
         "notfine": {
             "client": true,
@@ -615,15 +614,15 @@
         },
         "colored-lights": {
             "name": "Right Proper Colored Lights",
-            "type": "modrinth",
-            "project-id": "glC7saXJ",
-            "file-id": "8IlLg0ve"
+            "type": "curseforge",
+            "project-id": 1050511,
+            "file-id": 7050850
         },
         "salis-arcana": {
             "name": "Salis Arcana",
-            "type": "modrinth",
-            "project-id": "y1bqIjK6",
-            "file-id": "Ky1AqmQp"
+            "type": "curseforge",
+            "project-id": 1162488,
+            "file-id": 7016994
         },
         "saltymod-expanded": {
             "name": "SaltyMod Expanded",
@@ -678,23 +677,23 @@
         },
         "storage-drawers": {
             "name": "Storage Drawers Unofficial",
-            "type": "modrinth",
-            "project-id": "C0xOkNfT",
-            "file-id": "HYLYRjPh"
+            "type": "curseforge",
+            "project-id": 1099276,
+            "file-id": 7054341
         },
         "swansong-shaders": {
             "client": true,
             "name": "SwanSong Shaders",
-            "type": "modrinth",
-            "project-id": "2mCumCZs",
-            "file-id": "VK51MPwL"
+            "type": "curseforge",
+            "project-id": 1349982,
+            "file-id": 7043050
         },
         "tabfaces": {
             "client": true,
             "name": "TabFaces",
-            "type": "modrinth",
-            "project-id": "Jzw8TKEK",
-            "file-id": "99MiXr3u"
+            "type": "curseforge",
+            "project-id": 667392,
+            "file-id": 7005754
         },
         "tainted-magic": {
             "name": "Tainted Magic",
@@ -710,12 +709,12 @@
         "tc-nei-additions": {
             "name": "TC NEI Additions",
             "type": "github",
-            "link": "https://github.com/GTNewHorizons/TCNEIAdditions/releases/download/1.5.0/tcneiadditions-1.5.0.jar"
+            "link": "https://github.com/GTNewHorizons/TCNEIAdditions/releases/download/1.5.4/tcneiadditions-1.5.4.jar"
         },
         "tc-node-tracker": {
             "name": "TC Node Tracker",
             "type": "github",
-            "link": "https://github.com/GTNewHorizons/TCNodeTracker/releases/download/1.3.2/tcnodetracker-1.3.2.jar"
+            "link": "https://github.com/GTNewHorizons/TCNodeTracker/releases/download/1.4.0/tcnodetracker-1.4.0.jar"
         },
         "thaumcraft-nei-plugin": {
             "name": "Thaumcraft NEI Plugin",
@@ -739,13 +738,12 @@
         "thaumcraft-mob-aspects": {
             "name": "Thaumcraft Mob Aspects",
             "type": "github",
-            "link": "https://github.com/GTNewHorizons/ThaumcraftMobAspects/releases/download/1.1.2-GTNH/ThaumcraftMobAspects-1.1.2-GTNH.jar"
+            "link": "https://github.com/GTNewHorizons/ThaumcraftMobAspects/releases/download/1.2.1-GTNH/ThaumcraftMobAspects-1.2.1-GTNH.jar"
         },
         "thaumic-concilium": {
             "name": "Thaumic Concilium",
-            "type": "modrinth",
-            "project-id": "K39gnZpI",
-            "file-id": "jmdPv1Km"
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/ThaumicConcilium/releases/download/1.0.12-beta/ThaumicConcilium-1.0.12-beta.jar"
         },
         "thaumic-dyes": {
             "name": "Thaumic Dyes",
@@ -755,18 +753,17 @@
         "thaumic-exploration": {
             "name": "Thaumic Exploration",
             "type": "github",
-            "link": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.4.7-GTNH/Thaumic-Exploration-1.4.7-GTNH.jar"
+            "link": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.5.1-GTNH-pre/Thaumic-Exploration-1.5.1-GTNH-pre.jar"
         },
         "thaumic-horizons": {
             "name": "Thaumic Horizons",
-            "type": "modrinth",
-            "project-id": "1wDWP1tN",
-            "file-id": "yYGrDBnk"
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.0/ThaumicHorizons-1.8.0.jar"
         },
         "thaumic-tinkerer": {
             "name": "Thaumic Tinkerer",
             "type": "github",
-            "link": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.11.26/ThaumicTinkerer-2.11.26.jar"
+            "link": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.1-pre/ThaumicTinkerer-2.12.1-pre.jar"
         },
         "tileentity-reset-fix": {
             "name": "TileEntity Reset Fix",
@@ -782,7 +779,7 @@
         "twilight-forest": {
             "name": "Twilight Forest",
             "type": "github",
-            "link": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.8/TwilightForest-2.7.8.jar"
+            "link": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.13/TwilightForest-2.7.13.jar"
         },
         "tx-loader": {
             "name": "TX Loader",
@@ -824,12 +821,12 @@
             "link": "https://github.com/GTNewHorizons/WarpTheory/releases/download/1.5.0-GTNH/WarpTheory-1.5.0-GTNH.jar"
         },
         "wdmla": {
-            "name": "WarpTheory",
+            "name": "WDMLa",
             "type": "github",
             "link": "https://github.com/PufferTeam-ModArchive/WDMla/releases/download/2.8.1-JB/wdmla-2.8.1-JB.jar"
         },
         "wildmobs": {
-            "name": "WarpTheory",
+            "name": "Wild Mobs",
             "type": "github",
             "link": "https://github.com/PufferTeam-ModArchive/wildmobs/releases/download/1.5.4.2-JB/wildmobsmod-1.5.4.2-JB.jar"
         },
@@ -841,7 +838,7 @@
         "witchery-extras": {
             "name": "Witchery Extras",
             "type": "github",
-            "link": "https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.3.0/WitcheryExtras-1.3.0.jar"
+            "link": "https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.4.0/WitcheryExtras-1.4.0.jar"
         },
         "witchery": {
             "name": "Witchery",
@@ -858,19 +855,19 @@
         "witching-gadgets": {
             "name": "Witching Gadgets",
             "type": "github",
-            "link": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.7.17-GTNH/WitchingGadgets-1.7.17-GTNH.jar"
+            "link": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.7.24-GTNH/WitchingGadgets-1.7.24-GTNH.jar"
         },
         "xaeros-minimap": {
             "name": "Xaero's Minimap",
-            "type": "modrinth",
-            "project-id": "1bokaNcj",
-            "file-id": "EeB36MIM"
+            "type": "curseforge",
+            "project-id": 263420,
+            "file-id": 6012805
         },
         "xaeros-world-map": {
             "name": "Xaero's World Map",
-            "type": "modrinth",
-            "project-id": "NcUtCpym",
-            "file-id": "p1yJWyyU"
+            "type": "curseforge",
+            "project-id": 317780,
+            "file-id": 5987124
         }
     }
 }

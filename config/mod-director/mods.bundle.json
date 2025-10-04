@@ -73,6 +73,25 @@
       }
     },
     {
+      "fileName": "BaublesExpanded-2.2.0-GTNH.jar",
+      "url": "https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.2.0-GTNH/BaublesExpanded-2.2.0-GTNH.jar",
+      "folder": "./mods/1.7.10/",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Baubles Expanded"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "f207a64176e08e1bc96970dc8e65a4ac",
+          "SHA-256": "72629775c4acd983b964271b9888f29447ebd87edf34142ee828dd33bbcb0ded"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
       "fileName": "BetterAchievements-0.3.1-JB.jar",
       "url": "https://github.com/PufferTeam-ModArchive/BetterAchievements/releases/download/0.3.1-JB/BetterAchievements-0.3.1-JB.jar",
       "installationPolicy": {
@@ -111,8 +130,8 @@
       }
     },
     {
-      "fileName": "BloodArsenal-1.4.6.jar",
-      "url": "https://github.com/GTNewHorizons/BloodArsenal/releases/download/1.4.6/BloodArsenal-1.4.6.jar",
+      "fileName": "BloodArsenal-1.4.10.jar",
+      "url": "https://github.com/GTNewHorizons/BloodArsenal/releases/download/1.4.10/BloodArsenal-1.4.10.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -120,8 +139,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "4e9c3d2a3e33a259c4bf24f721fdd84b",
-          "SHA-256": "b5af9e590d87f311e6bd9fdc7c6c4b900354975d8e6d4a0f383e06ca700c90bf"
+          "MD5": "e2cfbe13ae34233a8bef8035a30b8a93",
+          "SHA-256": "e60b9a9bcbd3a8c42f7fc5377642748c711de141f574522773119943e7740f42"
         }
       },
       "options": {
@@ -129,8 +148,8 @@
       }
     },
     {
-      "fileName": "BloodMagic-1.7.40.jar",
-      "url": "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.7.40/BloodMagic-1.7.40.jar",
+      "fileName": "BloodMagic-1.8.1-pre.jar",
+      "url": "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.8.1-pre/BloodMagic-1.8.1-pre.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -138,8 +157,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "85e814b7ac4d861ad3863128e6651b63",
-          "SHA-256": "ea014deed7582ef176acbdfc4e5f8f544bcf94756e02d0e2015f3dec6967611a"
+          "MD5": "c0160f14b5dbf99e9a4ac126a7aa55a3",
+          "SHA-256": "2068bfacd2112abefe9c70e812e1b5a1295f23be322c89ddad6d7fa8ebe020d1"
         }
       },
       "options": {
@@ -529,6 +548,24 @@
       }
     },
     {
+      "fileName": "hodgepodge-2.7.1.jar",
+      "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.1/hodgepodge-2.7.1.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Hodgepodge"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "dbe771e83de691c34e12e5a190ece56d",
+          "SHA-256": "c2a4664586a231044324072582922cc366f4564268329d2dd1769c0f9d50d69d"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
       "fileName": "ImmersiveEngineering-0.7.11-JB.jar",
       "url": "https://github.com/PufferTeam-ModArchive/ImmersiveEngineering/releases/download/0.7.11-JB/ImmersiveEngineering-0.7.11-JB.jar",
       "installationPolicy": {
@@ -872,8 +909,8 @@
       }
     },
     {
-      "fileName": "tcneiadditions-1.5.0.jar",
-      "url": "https://github.com/GTNewHorizons/TCNEIAdditions/releases/download/1.5.0/tcneiadditions-1.5.0.jar",
+      "fileName": "tcneiadditions-1.5.4.jar",
+      "url": "https://github.com/GTNewHorizons/TCNEIAdditions/releases/download/1.5.4/tcneiadditions-1.5.4.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -881,8 +918,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "c845a34a31f1186352366cf13984eb80",
-          "SHA-256": "088859824130e87f14ce57142e6870504c577b39b1f605f7b3dc8c0e74bac913"
+          "MD5": "27b2c5d70c4fef8bf5228d1c64304780",
+          "SHA-256": "e7d14bd6b2ca948e79adfb4bcb519d877649ff8aab9f5030fcd08fc4301d6c09"
         }
       },
       "options": {
@@ -890,8 +927,8 @@
       }
     },
     {
-      "fileName": "tcnodetracker-1.3.2.jar",
-      "url": "https://github.com/GTNewHorizons/TCNodeTracker/releases/download/1.3.2/tcnodetracker-1.3.2.jar",
+      "fileName": "tcnodetracker-1.4.0.jar",
+      "url": "https://github.com/GTNewHorizons/TCNodeTracker/releases/download/1.4.0/tcnodetracker-1.4.0.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -899,8 +936,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "1b9665dea964e65e8e60fb9764360c20",
-          "SHA-256": "5e96144ad709d0856c626fae6ca9e0c816387826f9b891990ac04f32210b4ebe"
+          "MD5": "e2b966b82e773c07859b71a4b07c680b",
+          "SHA-256": "efa9e4e3a65423bb07897c5cb80f644b02853d74b9e82523743517c3e58e4d2e"
         }
       },
       "options": {
@@ -908,8 +945,8 @@
       }
     },
     {
-      "fileName": "ThaumcraftMobAspects-1.1.2-GTNH.jar",
-      "url": "https://github.com/GTNewHorizons/ThaumcraftMobAspects/releases/download/1.1.2-GTNH/ThaumcraftMobAspects-1.1.2-GTNH.jar",
+      "fileName": "ThaumcraftMobAspects-1.2.1-GTNH.jar",
+      "url": "https://github.com/GTNewHorizons/ThaumcraftMobAspects/releases/download/1.2.1-GTNH/ThaumcraftMobAspects-1.2.1-GTNH.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -917,8 +954,26 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "e108099379f8fb7559ce35b7108ff896",
-          "SHA-256": "1212792defe3451f0308c6c0377b659b1ad0d4c01495dec329e5fccb4d2870ac"
+          "MD5": "0f62fe64fc19f24a0c54090f604c513d",
+          "SHA-256": "929e86ec61d65850c18524e5153f5ecec4c8e9b08374fe21dd269bf2e66dfa65"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "ThaumicConcilium-1.0.12-beta.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/ThaumicConcilium/releases/download/1.0.12-beta/ThaumicConcilium-1.0.12-beta.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Thaumic Concilium"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "03388a09a74e901c53649df8426f35a7",
+          "SHA-256": "07ccf1e97d96258896a98b5a3cdb8cf83f66360015b2d2fe75ae670336fd03d3"
         }
       },
       "options": {
@@ -944,8 +999,8 @@
       }
     },
     {
-      "fileName": "Thaumic-Exploration-1.4.7-GTNH.jar",
-      "url": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.4.7-GTNH/Thaumic-Exploration-1.4.7-GTNH.jar",
+      "fileName": "Thaumic-Exploration-1.5.1-GTNH-pre.jar",
+      "url": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.5.1-GTNH-pre/Thaumic-Exploration-1.5.1-GTNH-pre.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -953,8 +1008,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "92c6b705a58b1268d91a9838cb3e8bc4",
-          "SHA-256": "4ff01486d423163ab0fafdc7ae6465bcfad7b61a9047d106061bf6194e489bd1"
+          "MD5": "c82e531109556ae541e4b07080b6bd22",
+          "SHA-256": "a62471cd16a6f2e8f73e8b9341f43c2b48affe0c1924a462a875890daa18e839"
         }
       },
       "options": {
@@ -962,8 +1017,26 @@
       }
     },
     {
-      "fileName": "ThaumicTinkerer-2.11.26.jar",
-      "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.11.26/ThaumicTinkerer-2.11.26.jar",
+      "fileName": "ThaumicHorizons-1.8.0.jar",
+      "url": "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.0/ThaumicHorizons-1.8.0.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Thaumic Horizons"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "724ee2e21d4834f55cb22bb01341755c",
+          "SHA-256": "76a857678e19175e35b5b72059d0d75c685a437b6f0329c4890696a8dc9b61c9"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "ThaumicTinkerer-2.12.1-pre.jar",
+      "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.1-pre/ThaumicTinkerer-2.12.1-pre.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -971,8 +1044,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "71a5c38c3402702b23f4f4b653a0faae",
-          "SHA-256": "ba54eed406776c513bfde2f027709667ee9ca85cbec61c9611ccdb87e37f4db0"
+          "MD5": "cda96c0d9dbc07d740969cb89f1c0ef2",
+          "SHA-256": "f9b228fcc50f8d0d74a03530202c8deadb9faea17f25b8074503f299fdc11f29"
         }
       },
       "options": {
@@ -998,8 +1071,8 @@
       }
     },
     {
-      "fileName": "TwilightForest-2.7.8.jar",
-      "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.8/TwilightForest-2.7.8.jar",
+      "fileName": "TwilightForest-2.7.13.jar",
+      "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.13/TwilightForest-2.7.13.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -1007,8 +1080,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "0bdfeb2abc0d45491df8cf86e1745393",
-          "SHA-256": "f654cac4b0f06d919d018f99296dc6586d3433e92a7e99c4e881357bc309fce3"
+          "MD5": "c76c59a718098a930f8df1639fd29ec3",
+          "SHA-256": "3f5c14c79c74824e354cc9817d03d2c603dca2a993db2a612b12c16fc381582d"
         }
       },
       "options": {
@@ -1093,7 +1166,7 @@
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
-        "name": "WarpTheory"
+        "name": "WDMLa"
       },
       "metadata": {
         "hash": {
@@ -1111,7 +1184,7 @@
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
-        "name": "WarpTheory"
+        "name": "Wild Mobs"
       },
       "metadata": {
         "hash": {
@@ -1142,8 +1215,8 @@
       }
     },
     {
-      "fileName": "WitcheryExtras-1.3.0.jar",
-      "url": "https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.3.0/WitcheryExtras-1.3.0.jar",
+      "fileName": "WitcheryExtras-1.4.0.jar",
+      "url": "https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.4.0/WitcheryExtras-1.4.0.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -1151,8 +1224,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "962df4514f98d73efed25679a2c5f4a9",
-          "SHA-256": "b205e3cca4b0445bdaf0e62ec908de42db9a84cef5603a71b694583f4ddaa247"
+          "MD5": "fb14bb63886c2acdc4afaaec5ce28a84",
+          "SHA-256": "98a91f1b5a1bdeffd709fb49a608a04e4cde1ffcd67cc62e649fc7e6bac0d6f6"
         }
       },
       "options": {
@@ -1160,8 +1233,8 @@
       }
     },
     {
-      "fileName": "WitchingGadgets-1.7.17-GTNH.jar",
-      "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.7.17-GTNH/WitchingGadgets-1.7.17-GTNH.jar",
+      "fileName": "WitchingGadgets-1.7.24-GTNH.jar",
+      "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.7.24-GTNH/WitchingGadgets-1.7.24-GTNH.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -1169,8 +1242,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "d7f5e59af845ad8836dbbd49f1f0b51f",
-          "SHA-256": "2dd07a9673a291022bb5915e4eb04b4458c12127a3927cd3873ca881a733baa1"
+          "MD5": "b712d5669191e6d1634e0e26a5f83c61",
+          "SHA-256": "61e8015dc17c34132b860033d5f8fe9f31185fda16616d31569333cc4dca6b92"
         }
       },
       "options": {
@@ -1237,6 +1310,25 @@
       }
     },
     {
+      "fileName": "AppleCore-3.3.7.jar",
+      "addonId": 782158,
+      "fileId": 6881356,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "AppleCore"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "b7a50a973f8a94f5889d219e6092d0cc",
+          "SHA-256": "c4f611f48444da713c2e90bb60120da12f649b5085467e269508276cbd7b7486"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
       "fileName": "arcane_engineering-0.2.7.jar",
       "addonId": 237593,
       "fileId": 2299527,
@@ -1287,6 +1379,25 @@
         "hash": {
           "MD5": "8e7bd5d8dc1a8a570f09554d6c1d42fb",
           "SHA-256": "674450d5ac14b6a41a96a86b72d2f81130a8639587e9ebcc7f18740bb6e2fa3e"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "beddium-mc1.7.10-1.0.4-j21.jar",
+      "addonId": 1065808,
+      "fileId": 7040654,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Beddium"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "fcb8a62a3875f8410ff302a071a3c3dc",
+          "SHA-256": "87f9dcb3d98ffec64a2aa19e926a6de78c5bfd5ede0e067e5873331ce79f7548"
         }
       },
       "options": {
@@ -1448,6 +1559,25 @@
       }
     },
     {
+      "fileName": "chunkapi-mc1.7.10-0.6.4.jar",
+      "addonId": 844484,
+      "fileId": 6692807,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "ChunkAPI"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "145f42e95f667ee50df27e9dee8b7571",
+          "SHA-256": "23887dd55e244052de86065e7c2cfe68ec9e4280e80aeb54b707093c58e713ad"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
       "fileName": "ClayBucket-1.7.10-1.2.jar",
       "addonId": 242568,
       "fileId": 2293402,
@@ -1460,6 +1590,25 @@
         "hash": {
           "MD5": "0082af5b053c6107c67249ad571a35fc",
           "SHA-256": "8e472f7b774ddaf4f339f6c6b9e26a084b760999b84640c9c10303302b54ddb2"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "CodeChickenCore-1.4.7.jar",
+      "addonId": 746279,
+      "fileId": 6875232,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "CodeChickenCore Unofficial"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "7b3ad499fdcbccafe894f370737440eb",
+          "SHA-256": "3e5200db5c81df3cca7a15ee0729136654d791e8e598cd977a8b53dd59212b11"
         }
       },
       "options": {
@@ -1565,6 +1714,44 @@
       }
     },
     {
+      "fileName": "falsetweaks-mc1.7.10-4.1.1.jar",
+      "addonId": 665744,
+      "fileId": 7043347,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "FalseTweaks"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "c4e4644b37548232f5bba781a55012ce",
+          "SHA-256": "7af06004c8ae2c06a55a0b250df48e93867b3a10581055a6ece038e23311c43a"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "falsepatternlib-mc1.7.10-1.9.1.jar",
+      "addonId": 665627,
+      "fileId": 7053321,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "FalsePatternLib"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "ac1e1d053304351c8a4c3fac36de65b7",
+          "SHA-256": "7a46a5ca223da80f3db62e3ac54edf3fe6d9adf8bcb75ba0f8780343b6a1f465"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
       "fileName": "FastLeafDecay-1.7.10-1.4.jar",
       "addonId": 230976,
       "fileId": 2272838,
@@ -1596,6 +1783,25 @@
         "hash": {
           "MD5": "807adb4d146b3c314ca90302038f661f",
           "SHA-256": "3c82a60149f024d9a02cd582ffd49aee36dba2394af3065e054d8e6b5364d3c6"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "gtnhlib-0.7.0.jar",
+      "addonId": 688894,
+      "fileId": 7053973,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "GTNHLib"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "39960eb310f7beb9d492de57bdae66ff",
+          "SHA-256": "4ff92a721d585a295ff6e892c58d8e30aea8c3b66ebfa00460bded9f2bfa45d7"
         }
       },
       "options": {
@@ -1775,6 +1981,45 @@
       }
     },
     {
+      "fileName": "lumi-mc1.7.10-1.2.0.jar",
+      "addonId": 1050470,
+      "fileId": 6543345,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Lumi Light Engine"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "8b2f33e1e157dda03290c931a3586151",
+          "SHA-256": "4beea487caf686749509dcf2a5bb33e458b5e3687a2977686723efa14905ce74"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "mcpatcher-mc1.7.10-0.1.2.jar",
+      "addonId": 1344779,
+      "fileId": 7032456,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Right Proper MCPatcher"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "d68a8be141af0f4e21f8e34ac8e961c5",
+          "SHA-256": "5f0e2f54b3c94943440973043e410aba8da1a3e9596278ee81140dc7a74e9206"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
       "fileName": "Morpheus-1.7.10-1.6.21.jar",
       "addonId": 69118,
       "fileId": 2280761,
@@ -1852,6 +2097,25 @@
       }
     },
     {
+      "fileName": "NotEnoughItems-2.8.4-GTNH.jar",
+      "addonId": 358228,
+      "fileId": 7057875,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "NotEnoughItems Unofficial"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "4049fb5467749a7216969c58b960c2aa",
+          "SHA-256": "af9b7fee5e46aabe84a76af99f54ef77a6038dc9e6f786e5b5814f4dea781de2"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
       "fileName": "ReAuth-1.7.10-Forge-4.0.7.jar",
       "addonId": 237701,
       "fileId": 4407995,
@@ -1903,6 +2167,44 @@
         "hash": {
           "MD5": "d62d30d52d3f51dc39bdc61ce224e6c6",
           "SHA-256": "21dc2a1752540f8d09a6f332020c60c5a8e3b6170fed16e083b7340ec8ec367f"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "rple-mc1.7.10-2.1.3.jar",
+      "addonId": 1050511,
+      "fileId": 7050850,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Right Proper Colored Lights"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "06a5e9a6c43a1de698f54e1bb430bd4d",
+          "SHA-256": "83b2493ed1003cffc04683885e7019e4e57c5c2d2a10e25176551893ca0f3aad"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "salisarcana-v2.3.0.jar",
+      "addonId": 1162488,
+      "fileId": 7016994,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Salis Arcana"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "6770e625340ab320b39e8fbd6a31154b",
+          "SHA-256": "aa99d1abe26060ed3276e3236f9ba6ac7637580aff405eb0e7e95755605ec432"
         }
       },
       "options": {
@@ -1982,6 +2284,65 @@
           "MD5": "cd03141748be9827e79c6f8c0be4fc94",
           "SHA-256": "2d409b7879541ca5657d5190a56a31154553060f772c1cb93fd4f139b19e90b2"
         }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "StorageDrawers-2.2.0-GTNH.jar",
+      "addonId": 1099276,
+      "fileId": 7054341,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Storage Drawers Unofficial"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "683f98586f5cbcf979a2c52e99a035d8",
+          "SHA-256": "5bcf7ae195381d04612c2e16dd2119170f30bc6037229ffad226860fe8fdec0f"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "swansong-mc1.7.10-1.2.1.jar",
+      "addonId": 1349982,
+      "fileId": 7043050,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "SwanSong Shaders"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "e79f632d6b1cf8f6b093b9d59fefd863",
+          "SHA-256": "a7cd1e705063eea4f5ef9dab7876f29493a8c5a6ae48cb02e3d2541ae0caa048"
+        },
+        "side": "CLIENT"
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "tabfaces-1.0.11-rc1.jar",
+      "addonId": 667392,
+      "fileId": 7005754,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "TabFaces"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "62c5834508e7c1198fd45e0da1045257",
+          "SHA-256": "9b198f089f2a7ca0b6916d5e1f5fdfa645885f5cfc7cc54259147147140adbd6"
+        },
+        "side": "CLIENT"
       },
       "options": {
         "launchwrapperTweakerForceNext": true
@@ -2081,6 +2442,44 @@
       "options": {
         "launchwrapperTweakerForceNext": true
       }
+    },
+    {
+      "fileName": "Xaeros_Minimap_21.10.44_Forge_1.7.10.jar",
+      "addonId": 263420,
+      "fileId": 6012805,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Xaero's Minimap"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "5a10999324f264d826cfbd088e64ead4",
+          "SHA-256": "c62e38b956d2b8aec0ccf1e8a7cbeb867520bfcb3eb1d5d427dd4571dce0d769"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "XaerosWorldMap_1.14.1.33_Forge_1.7.10.jar",
+      "addonId": 317780,
+      "fileId": 5987124,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Xaero's World Map"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "d37bd64cf8182f896e1dcc0d197edfff",
+          "SHA-256": "d6912e46cffe0f2b9de810265fe17125d5f17f560c10dbba013b2254c35e179d"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
     }
   ],
   "modrinth": [
@@ -2097,63 +2496,6 @@
         "hash": {
           "MD5": "b7143188aef1553ddd09ba8984548bf2",
           "SHA-256": "a5a1036ef9f163509cdd17b1e1ccb5c47f5822be514b356aaa0b580e7fb5566e"
-        }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
-      "fileName": "AppleCore-3.3.7.jar",
-      "addonId": "c3I7Akgu",
-      "fileId": "5u2XT9ic",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "AppleCore"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "b7a50a973f8a94f5889d219e6092d0cc",
-          "SHA-256": "c4f611f48444da713c2e90bb60120da12f649b5085467e269508276cbd7b7486"
-        }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
-      "fileName": "BaublesExpanded-2.2.1.jar",
-      "addonId": "pAqS7wsC",
-      "fileId": "vX4kVuYP",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "Baubles Expanded"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "6dd47acaca58a65c340d0a374b350020",
-          "SHA-256": "81fd9436556f6cc4492bcd7d061e21d413cedf146ca1e9fa6e56f8e46995e378"
-        }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
-      "fileName": "beddium-mc1.7.10-1.0.4-j21.jar",
-      "addonId": "kPtHpb7z",
-      "fileId": "DqYwP6mT",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "Beddium"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "fcb8a62a3875f8410ff302a071a3c3dc",
-          "SHA-256": "87f9dcb3d98ffec64a2aa19e926a6de78c5bfd5ede0e067e5873331ce79f7548"
         }
       },
       "options": {
@@ -2192,44 +2534,6 @@
         "hash": {
           "MD5": "a9ac67f69ba54d89fe66d50d3fbc96cc",
           "SHA-256": "9f8cbb2af9ba6d570fa7ecb9310e7868628fcd964e5d2afd84b150bf013c1ab9"
-        }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
-      "fileName": "chunkapi-mc1.7.10-0.6.4.jar",
-      "addonId": "y0vBUOla",
-      "fileId": "331yjk2B",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "ChunkAPI"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "145f42e95f667ee50df27e9dee8b7571",
-          "SHA-256": "23887dd55e244052de86065e7c2cfe68ec9e4280e80aeb54b707093c58e713ad"
-        }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
-      "fileName": "CodeChickenCore-1.4.7.jar",
-      "addonId": "qMOdaUOs",
-      "fileId": "yJUaA8Wo",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "CodeChickenCore Unofficial"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "7b3ad499fdcbccafe894f370737440eb",
-          "SHA-256": "3e5200db5c81df3cca7a15ee0729136654d791e8e598cd977a8b53dd59212b11"
         }
       },
       "options": {
@@ -2316,44 +2620,6 @@
       }
     },
     {
-      "fileName": "falsetweaks-mc1.7.10-4.1.1.jar",
-      "addonId": "VTGi3upD",
-      "fileId": "Bwam6Eoc",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "FalseTweaks"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "c4e4644b37548232f5bba781a55012ce",
-          "SHA-256": "7af06004c8ae2c06a55a0b250df48e93867b3a10581055a6ece038e23311c43a"
-        }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
-      "fileName": "falsepatternlib-mc1.7.10-1.9.0.jar",
-      "addonId": "eGLBEILf",
-      "fileId": "pONBWnV9",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "FalsePatternLib"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "f609238cde20bdebc287a895c5959eb9",
-          "SHA-256": "f7bf19ecc6eb601246387999930d87d66fb7663f958c71e0006401ab8acd7479"
-        }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
       "fileName": "ForgottenRelics-1.7.10-1.7.4.jar",
       "addonId": "ruYpd5sW",
       "fileId": "ZEzrCjEe",
@@ -2366,44 +2632,6 @@
         "hash": {
           "MD5": "9271c65254846706d3c5302abcc51819",
           "SHA-256": "7d5aad8cc6a563a0f6ec31d3e4919e5c921c0e54fc3a641192a3cfd794b8caf1"
-        }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
-      "fileName": "gtnhlib-0.6.40.jar",
-      "addonId": "vTvnv7qp",
-      "fileId": "DuKGtw0Q",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "GTNHLib"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "d7a04722f3930d9c9fbde3c17e662e65",
-          "SHA-256": "a59da7c0bce389c9a7ff77a58318e4a41f5fd5faaa2f74994dd540502feaeb47"
-        }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
-      "fileName": "hodgepodge-2.7.0.jar",
-      "addonId": "6QQe8Ldy",
-      "fileId": "7zYT6HV8",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "Hodgepodge"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "dd24c0739e7c12c1ab65ae5480a683b2",
-          "SHA-256": "1a04efb19e08fd33c7bb0a2c4fcbcb40cc6414381b378ae16519d60dbd4ed411"
         }
       },
       "options": {
@@ -2424,45 +2652,6 @@
           "MD5": "f1c45e12a35be07d0c031f3d90948267",
           "SHA-256": "0a3070199b145865910d12a719287f92ee05ba2ee6f6041a22c2bd0a1521c92c"
         }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
-      "fileName": "lumi-mc1.7.10-1.2.0.jar",
-      "addonId": "RIP6DWIB",
-      "fileId": "fzHaqXCn",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "Lumi Light Engine"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "8b2f33e1e157dda03290c931a3586151",
-          "SHA-256": "4beea487caf686749509dcf2a5bb33e458b5e3687a2977686723efa14905ce74"
-        }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
-      "fileName": "mcpatcher-mc1.7.10-0.1.2.jar",
-      "addonId": "kvBHaMRv",
-      "fileId": "Ki9ZLfCs",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "Right Proper MCPatcher"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "d68a8be141af0f4e21f8e34ac8e961c5",
-          "SHA-256": "5f0e2f54b3c94943440973043e410aba8da1a3e9596278ee81140dc7a74e9206"
-        },
-        "side": "CLIENT"
       },
       "options": {
         "launchwrapperTweakerForceNext": true
@@ -2526,25 +2715,6 @@
       }
     },
     {
-      "fileName": "NotEnoughItems-2.7.91-GTNH.jar",
-      "addonId": "iNPc3Onu",
-      "fileId": "hOnia99R",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "NotEnoughItems Unofficial"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "27d0372f45896279cc79a1971fd6a2b1",
-          "SHA-256": "809b92054043635eb1da05a25faa1f3c11c3fb67624339c580642680e25162ee"
-        }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
       "fileName": "plonk-1.7.10-10.0.4.jar",
       "addonId": "EUmBPkQn",
       "fileId": "bX9Po7hr",
@@ -2583,103 +2753,6 @@
       }
     },
     {
-      "fileName": "rple-mc1.7.10-2.1.2.jar",
-      "addonId": "glC7saXJ",
-      "fileId": "8IlLg0ve",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "Right Proper Colored Lights"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "885414dfab25ed3d28553b172dc11262",
-          "SHA-256": "8a79913398433235b07d82a86ea01ad926bcf994322d0cb5ca1486982429fed9"
-        }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
-      "fileName": "salisarcana-v2.3.0.jar",
-      "addonId": "y1bqIjK6",
-      "fileId": "Ky1AqmQp",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "Salis Arcana"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "6770e625340ab320b39e8fbd6a31154b",
-          "SHA-256": "aa99d1abe26060ed3276e3236f9ba6ac7637580aff405eb0e7e95755605ec432"
-        }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
-      "fileName": "StorageDrawers-2.1.8-GTNH.jar",
-      "addonId": "C0xOkNfT",
-      "fileId": "HYLYRjPh",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "Storage Drawers Unofficial"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "e82aa8d5d121e94ec74d77558562aafd",
-          "SHA-256": "91ac857db373cc6b51abf101c5c6028656f8a865ea83d3a0604aaa511a171f88"
-        }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
-      "fileName": "swansong-mc1.7.10-1.2.1.jar",
-      "addonId": "2mCumCZs",
-      "fileId": "VK51MPwL",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "SwanSong Shaders"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "e79f632d6b1cf8f6b093b9d59fefd863",
-          "SHA-256": "a7cd1e705063eea4f5ef9dab7876f29493a8c5a6ae48cb02e3d2541ae0caa048"
-        },
-        "side": "CLIENT"
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
-      "fileName": "tabfaces-1.0.11-rc1.jar",
-      "addonId": "Jzw8TKEK",
-      "fileId": "99MiXr3u",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "TabFaces"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "62c5834508e7c1198fd45e0da1045257",
-          "SHA-256": "9b198f089f2a7ca0b6916d5e1f5fdfa645885f5cfc7cc54259147147140adbd6"
-        },
-        "side": "CLIENT"
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
       "fileName": "tcaltarcull-77d2309.jar",
       "addonId": "FiyX1gSA",
       "fileId": "KF3zD0is",
@@ -2694,44 +2767,6 @@
           "SHA-256": "ce60ccde8a17793a75916e628429e44a6c843060bc86813699ebb10572014496"
         },
         "side": "CLIENT"
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
-      "fileName": "ThaumicConcilium-1.0.11.jar",
-      "addonId": "K39gnZpI",
-      "fileId": "jmdPv1Km",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "Thaumic Concilium"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "b39b609f3e5783de4cb703439efd716f",
-          "SHA-256": "52562d37f85bc81b77017d16f49a36592ac5d67f02ac19c3273745d08a86412e"
-        }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
-      "fileName": "ThaumicHorizons-1.7.8.jar",
-      "addonId": "1wDWP1tN",
-      "fileId": "yYGrDBnk",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "Thaumic Horizons"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "7150108c839d067d154771ef95dee290",
-          "SHA-256": "3c3e5eb34410bd6830180eca99d1fbadc64b53f83d12360a171f33891158b21d"
-        }
       },
       "options": {
         "launchwrapperTweakerForceNext": true
@@ -2808,44 +2843,6 @@
         "hash": {
           "MD5": "063c562a1206f202aeca1eff47085ae0",
           "SHA-256": "77d6ef0e64bde530cf59b87229c85bd257336340c45db94a011c600994f19a27"
-        }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
-      "fileName": "Xaeros_Minimap_21.10.44_Forge_1.7.10.jar",
-      "addonId": "1bokaNcj",
-      "fileId": "EeB36MIM",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "Xaero's Minimap"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "5a10999324f264d826cfbd088e64ead4",
-          "SHA-256": "c62e38b956d2b8aec0ccf1e8a7cbeb867520bfcb3eb1d5d427dd4571dce0d769"
-        }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
-      "fileName": "XaerosWorldMap_1.14.1.33_Forge_1.7.10.jar",
-      "addonId": "NcUtCpym",
-      "fileId": "p1yJWyyU",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "Xaero's World Map"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "d37bd64cf8182f896e1dcc0d197edfff",
-          "SHA-256": "d6912e46cffe0f2b9de810265fe17125d5f17f560c10dbba013b2254c35e179d"
         }
       },
       "options": {

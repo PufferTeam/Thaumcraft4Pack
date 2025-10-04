@@ -5,9 +5,9 @@ side = "both"
 [download]
 hash-format = "sha256"
 hash = "3e5200db5c81df3cca7a15ee0729136654d791e8e598cd977a8b53dd59212b11"
-url = "https://cdn.modrinth.com/data/qMOdaUOs/versions/yJUaA8Wo/CodeChickenCore-1.4.7.jar"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "qMOdaUOs"
-version = "yJUaA8Wo"
+[update.curseforge]
+file-id = 6875232
+project-id = 746279

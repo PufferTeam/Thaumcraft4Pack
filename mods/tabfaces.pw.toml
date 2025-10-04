@@ -5,9 +5,9 @@ side = "client"
 [download]
 hash-format = "sha256"
 hash = "9b198f089f2a7ca0b6916d5e1f5fdfa645885f5cfc7cc54259147147140adbd6"
-url = "https://cdn.modrinth.com/data/Jzw8TKEK/versions/99MiXr3u/tabfaces-1.0.11-rc1.jar"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "Jzw8TKEK"
-version = "99MiXr3u"
+[update.curseforge]
+file-id = 7005754
+project-id = 667392

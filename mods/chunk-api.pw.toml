@@ -5,9 +5,9 @@ side = "both"
 [download]
 hash-format = "sha256"
 hash = "23887dd55e244052de86065e7c2cfe68ec9e4280e80aeb54b707093c58e713ad"
-url = "https://cdn.modrinth.com/data/y0vBUOla/versions/331yjk2B/chunkapi-mc1.7.10-0.6.4.jar"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "y0vBUOla"
-version = "331yjk2B"
+[update.curseforge]
+file-id = 6692807
+project-id = 844484

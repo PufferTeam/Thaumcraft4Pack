@@ -5,9 +5,9 @@ side = "both"
 [download]
 hash-format = "sha256"
 hash = "aa99d1abe26060ed3276e3236f9ba6ac7637580aff405eb0e7e95755605ec432"
-url = "https://cdn.modrinth.com/data/y1bqIjK6/versions/Ky1AqmQp/salisarcana-v2.3.0.jar"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "y1bqIjK6"
-version = "Ky1AqmQp"
+[update.curseforge]
+file-id = 7016994
+project-id = 1162488

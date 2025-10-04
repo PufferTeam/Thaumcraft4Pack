@@ -5,9 +5,9 @@ side = "both"
 [download]
 hash-format = "sha256"
 hash = "87f9dcb3d98ffec64a2aa19e926a6de78c5bfd5ede0e067e5873331ce79f7548"
-url = "https://cdn.modrinth.com/data/kPtHpb7z/versions/DqYwP6mT/beddium-mc1.7.10-1.0.4-j21.jar"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "kPtHpb7z"
-version = "DqYwP6mT"
+[update.curseforge]
+file-id = 7040654
+project-id = 1065808

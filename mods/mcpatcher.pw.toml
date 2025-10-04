@@ -5,9 +5,9 @@ side = "client"
 [download]
 hash-format = "sha256"
 hash = "5f0e2f54b3c94943440973043e410aba8da1a3e9596278ee81140dc7a74e9206"
-url = "https://cdn.modrinth.com/data/kvBHaMRv/versions/Ki9ZLfCs/mcpatcher-mc1.7.10-0.1.2.jar"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "kvBHaMRv"
-version = "Ki9ZLfCs"
+[update.curseforge]
+file-id = 7032456
+project-id = 1344779

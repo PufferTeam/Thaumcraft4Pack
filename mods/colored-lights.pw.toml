@@ -1,13 +1,13 @@
 name = "Right Proper Colored Lights"
-filename = "rple-mc1.7.10-2.1.2.jar"
+filename = "rple-mc1.7.10-2.1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha256"
-hash = "8a79913398433235b07d82a86ea01ad926bcf994322d0cb5ca1486982429fed9"
-url = "https://cdn.modrinth.com/data/glC7saXJ/versions/8IlLg0ve/rple-mc1.7.10-2.1.2.jar"
+hash = "83b2493ed1003cffc04683885e7019e4e57c5c2d2a10e25176551893ca0f3aad"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "glC7saXJ"
-version = "8IlLg0ve"
+[update.curseforge]
+file-id = 7050850
+project-id = 1050511

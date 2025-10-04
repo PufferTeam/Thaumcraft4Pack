@@ -5,9 +5,9 @@ side = "client"
 [download]
 hash-format = "sha256"
 hash = "a7cd1e705063eea4f5ef9dab7876f29493a8c5a6ae48cb02e3d2541ae0caa048"
-url = "https://cdn.modrinth.com/data/2mCumCZs/versions/VK51MPwL/swansong-mc1.7.10-1.2.1.jar"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "2mCumCZs"
-version = "VK51MPwL"
+[update.curseforge]
+file-id = 7043050
+project-id = 1349982

@@ -1,13 +1,8 @@
 name = "Thaumic Concilium"
-filename = "ThaumicConcilium-1.0.11.jar"
+filename = "ThaumicConcilium-1.0.12-beta.jar"
 side = "both"
 
 [download]
 hash-format = "sha256"
-hash = "52562d37f85bc81b77017d16f49a36592ac5d67f02ac19c3273745d08a86412e"
-url = "https://cdn.modrinth.com/data/K39gnZpI/versions/jmdPv1Km/ThaumicConcilium-1.0.11.jar"
-
-[update]
-[update.modrinth]
-mod-id = "K39gnZpI"
-version = "jmdPv1Km"
+hash = "07ccf1e97d96258896a98b5a3cdb8cf83f66360015b2d2fe75ae670336fd03d3"
+url = "https://github.com/PufferTeam-ModArchive/ThaumicConcilium/releases/download/1.0.12-beta/ThaumicConcilium-1.0.12-beta.jar"

@@ -1,13 +1,8 @@
 name = "Baubles Expanded"
-filename = "BaublesExpanded-2.2.1.jar"
+filename = "./1.7.10/BaublesExpanded-2.2.0-GTNH.jar"
 side = "both"
 
 [download]
 hash-format = "sha256"
-hash = "81fd9436556f6cc4492bcd7d061e21d413cedf146ca1e9fa6e56f8e46995e378"
-url = "https://cdn.modrinth.com/data/pAqS7wsC/versions/vX4kVuYP/BaublesExpanded-2.2.1.jar"
-
-[update]
-[update.modrinth]
-mod-id = "pAqS7wsC"
-version = "vX4kVuYP"
+hash = "72629775c4acd983b964271b9888f29447ebd87edf34142ee828dd33bbcb0ded"
+url = "https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.2.0-GTNH/BaublesExpanded-2.2.0-GTNH.jar"

@@ -1,8 +1,8 @@
 name = "Thaumic Exploration"
-filename = "Thaumic-Exploration-1.4.7-GTNH.jar"
+filename = "Thaumic-Exploration-1.5.1-GTNH-pre.jar"
 side = "both"
 
 [download]
 hash-format = "sha256"
-hash = "4ff01486d423163ab0fafdc7ae6465bcfad7b61a9047d106061bf6194e489bd1"
-url = "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.4.7-GTNH/Thaumic-Exploration-1.4.7-GTNH.jar"
+hash = "a62471cd16a6f2e8f73e8b9341f43c2b48affe0c1924a462a875890daa18e839"
+url = "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.5.1-GTNH-pre/Thaumic-Exploration-1.5.1-GTNH-pre.jar"

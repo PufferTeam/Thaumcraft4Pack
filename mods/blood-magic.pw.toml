@@ -1,8 +1,8 @@
 name = "Blood Magic"
-filename = "BloodMagic-1.7.40.jar"
+filename = "BloodMagic-1.8.1-pre.jar"
 side = "both"
 
 [download]
 hash-format = "sha256"
-hash = "ea014deed7582ef176acbdfc4e5f8f544bcf94756e02d0e2015f3dec6967611a"
-url = "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.7.40/BloodMagic-1.7.40.jar"
+hash = "2068bfacd2112abefe9c70e812e1b5a1295f23be322c89ddad6d7fa8ebe020d1"
+url = "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.8.1-pre/BloodMagic-1.8.1-pre.jar"

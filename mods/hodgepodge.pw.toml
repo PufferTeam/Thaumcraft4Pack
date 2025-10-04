@@ -1,13 +1,8 @@
 name = "Hodgepodge"
-filename = "hodgepodge-2.7.0.jar"
+filename = "hodgepodge-2.7.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha256"
-hash = "1a04efb19e08fd33c7bb0a2c4fcbcb40cc6414381b378ae16519d60dbd4ed411"
-url = "https://cdn.modrinth.com/data/6QQe8Ldy/versions/7zYT6HV8/hodgepodge-2.7.0.jar"
-
-[update]
-[update.modrinth]
-mod-id = "6QQe8Ldy"
-version = "7zYT6HV8"
+hash = "c2a4664586a231044324072582922cc366f4564268329d2dd1769c0f9d50d69d"
+url = "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.1/hodgepodge-2.7.1.jar"

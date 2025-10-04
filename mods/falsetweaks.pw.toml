@@ -5,9 +5,9 @@ side = "both"
 [download]
 hash-format = "sha256"
 hash = "7af06004c8ae2c06a55a0b250df48e93867b3a10581055a6ece038e23311c43a"
-url = "https://cdn.modrinth.com/data/VTGi3upD/versions/Bwam6Eoc/falsetweaks-mc1.7.10-4.1.1.jar"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "VTGi3upD"
-version = "Bwam6Eoc"
+[update.curseforge]
+file-id = 7043347
+project-id = 665744

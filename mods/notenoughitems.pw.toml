@@ -1,13 +1,13 @@
 name = "NotEnoughItems Unofficial"
-filename = "NotEnoughItems-2.7.91-GTNH.jar"
+filename = "NotEnoughItems-2.8.4-GTNH.jar"
 side = "both"
 
 [download]
 hash-format = "sha256"
-hash = "809b92054043635eb1da05a25faa1f3c11c3fb67624339c580642680e25162ee"
-url = "https://cdn.modrinth.com/data/iNPc3Onu/versions/hOnia99R/NotEnoughItems-2.7.91-GTNH.jar"
+hash = "af9b7fee5e46aabe84a76af99f54ef77a6038dc9e6f786e5b5814f4dea781de2"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "iNPc3Onu"
-version = "hOnia99R"
+[update.curseforge]
+file-id = 7057875
+project-id = 358228
