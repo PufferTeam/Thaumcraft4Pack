@@ -148,7 +148,7 @@
         "bugtorch": {
             "name": "BugTorch",
             "type": "github",
-            "link": "https://github.com/PufferTeam-ModArchive/BugTorch/releases/download/1.2.17-JB/bugtorch-1.2.17-JB.jar"
+            "link": "https://github.com/PufferTeam-ModArchive/BugTorch/releases/download/1.2.18-JB/bugtorch-1.2.18-JB.jar"
         },
         "campfire-backport": {
             "name": "Campfire Backport",
@@ -482,7 +482,7 @@
         "lwjgl3ify": {
             "name": "lwjgl3ify",
             "type": "github",
-            "link": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.15/lwjgl3ify-2.1.15.jar"
+            "link": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.16/lwjgl3ify-2.1.16.jar"
         },
         "mantle": {
             "name": "Mantle",

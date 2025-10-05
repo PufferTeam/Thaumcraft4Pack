@@ -1230,7 +1230,7 @@ hash = "e837dc092b502c353910c2ca44befe0965cdb8af28edc15bfe7e5ff8bef6f19c"
 
 [[files]]
 file = "config/mod-director/mods.bundle.json"
-hash = "2fc414721cd73886fcecaf93ce37be2d5faba6a67401c26df5d3641a77f0cd29"
+hash = "1d309472ba1cc9368bbe97b5c62241b7478988657be169b444734d09538d32f6"
 
 [[files]]
 file = "config/multipart.cfg"
@@ -1398,7 +1398,7 @@ hash = "8b049e21f82c2c6cf271baacfe8e9b6e1d0a1dcb269b35a6f6436a1c8c2b3058"
 
 [[files]]
 file = "config/swansong.cfg"
-hash = "38f91d258f0ec4460926e1c612f2b3c56f90db0a06d5028b32b89bc63ffe2b7d"
+hash = "0397b6009b06f10118e3613ba827b537bc720c341003e29f2d9174245f4b1b08"
 
 [[files]]
 file = "config/tabfaces.cfg"
@@ -1672,12 +1672,12 @@ metafile = true
 
 [[files]]
 file = "lwjgl3ify-forgepatches.pw.toml"
-hash = "423d65dce8a5d86e2fb7d343fe4d0214c04440fb710a7804a1dac537bd200d20"
+hash = "5206ab7a12af138eb1f96657f91bc827ac67e9ed70e748e6c8837872fec659d5"
 metafile = true
 
 [[files]]
 file = "mods.json"
-hash = "ad600f2a73ca897f3b1a38835653eeb5be14abd93dfbca3f2f2f9570e8ac60a5"
+hash = "c8029a2ac9ba5be23d288b3f797c9e273104bfe4b484789dd55cc2d11ab24c4d"
 
 [[files]]
 file = "mods/adjachests.pw.toml"
@@ -1796,7 +1796,7 @@ metafile = true
 
 [[files]]
 file = "mods/bugtorch.pw.toml"
-hash = "1737f2f0fd3e78dec8cea96b85ca49331eba945b006c5708b6d0bfd1bf8cd0c7"
+hash = "b2705a38d3561d1c94558e4d5e3c7f724edb58e7f5b1536494bab0907328dd9c"
 metafile = true
 
 [[files]]
@@ -2091,7 +2091,7 @@ metafile = true
 
 [[files]]
 file = "mods/lwjgl3ify.pw.toml"
-hash = "48b362484f48fc1129306f90c9b6e814d377f423718fddd3ec5eaacb46514118"
+hash = "690bf1f539475a61a5af73c7a8448a65730b6d8282d959edc5d83e3271308b99"
 metafile = true
 
 [[files]]

@@ -1,8 +1,8 @@
 name = "lwjgl3ify"
-filename = "lwjgl3ify-2.1.15.jar"
+filename = "lwjgl3ify-2.1.16.jar"
 side = "both"
 
 [download]
 hash-format = "sha256"
-hash = "9e543032e99079eefc0b9f480089aca8bb140739e7c3b5afa2626c19668fd98a"
-url = "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.15/lwjgl3ify-2.1.15.jar"
+hash = "3df3bd460bc142340388e81e50f8aa702155c8e0be0cc8347a39c28cefb82bf5"
+url = "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.16/lwjgl3ify-2.1.16.jar"

@@ -184,8 +184,8 @@
       }
     },
     {
-      "fileName": "bugtorch-1.2.17-JB.jar",
-      "url": "https://github.com/PufferTeam-ModArchive/BugTorch/releases/download/1.2.17-JB/bugtorch-1.2.17-JB.jar",
+      "fileName": "bugtorch-1.2.18-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/BugTorch/releases/download/1.2.18-JB/bugtorch-1.2.18-JB.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -193,8 +193,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "644929f58fed96ae0931137d9387c367",
-          "SHA-256": "8416f456b2b4872750b961c094c5b316d74dc49568f32ff15882c335de6a4698"
+          "MD5": "7a362ba5b0a92f56bb5e7dc30fe81ece",
+          "SHA-256": "7970853410e729911025ac30252251f53e08105bbc4040c310f816451c1c3134"
         }
       },
       "options": {
@@ -638,8 +638,8 @@
       }
     },
     {
-      "fileName": "lwjgl3ify-2.1.15.jar",
-      "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.15/lwjgl3ify-2.1.15.jar",
+      "fileName": "lwjgl3ify-2.1.16.jar",
+      "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.16/lwjgl3ify-2.1.16.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -647,8 +647,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "d9725ddf093b68c292eacdeac6f7d1aa",
-          "SHA-256": "9e543032e99079eefc0b9f480089aca8bb140739e7c3b5afa2626c19668fd98a"
+          "MD5": "63420b8159c35385eb876be97ab5d313",
+          "SHA-256": "3df3bd460bc142340388e81e50f8aa702155c8e0be0cc8347a39c28cefb82bf5"
         }
       },
       "options": {
