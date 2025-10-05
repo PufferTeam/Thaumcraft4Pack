@@ -7,7 +7,7 @@ renderDistance:12
 guiScale:3
 particles:0
 bobView:true
-anaglyph3d:false
+anaglyph3d:0.0
 advancedOpengl:false
 maxFps:260
 fboEnable:true
@@ -86,7 +86,7 @@ key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_dh.key.broom:0
-key_key.openCompendium:25
+key_key.openCompendium:0
 key_key.discordRing:0
 key_navigator.key.action:211
 key_key.serverutilities.nbt:0
@@ -99,21 +99,18 @@ key_botaniamisc.toggleLoki:0
 key_botaniamisc.ringOfLokiClear:0
 key_botaniamisc.ringOfLokiMirror:0
 key_key.aether.accessory_menu:0
-key_Reload Shaders:0
-key_Toggle Shaders:0
-key_Shaderpack Selection Screen:0
-key_Print GLSM Debug:0
-key_Zoom:46
 key_waila.keybind.wailaconfig:0
 key_waila.keybind.wailadisplay:0
 key_waila.keybind.liquid:0
 key_waila.keybind.recipe:0
 key_waila.keybind.usage:0
-key_waila.keybind.details:42
+key_waila.keybind.details:0
 key_Automagy.key.focusCrafting:37
 key_ttmisc.toggleArmor:21
 key_Mekanism Item Mode Switch:0
 key_Mekanism Armor Mode Switch:0
+key_key.plonk.place.desc:25
+key_View Screenshots:64
 key_key.aspectMenu:23
 key_tcnodetracker.key.togglenode:0
 key_Change Arcane Lens:47
@@ -122,11 +119,9 @@ key_Toggle Spider Climb:0
 key_Toggle Chameleon Skin:45
 key_Choose Shard for Shard Mill:36
 key_Toggle Pontifex Robe:0
-key_TG.keybind.openInv:0
-key_TG.keybind.activeaAbilities:0
-key_TG.keybind.activeAbility1:0
-key_TG.keybind.activeAbility2:0
-key_TG.keybind.activeAbility3:0
+key_key.radialmenu:0
+key_key.useRing:0
+key_key.openPouch:0
 key_wg.config.activateKey:38
 key_gui.xaero_switch_waypoint_set:0
 key_gui.xaero_instant_waypoint:78
@@ -148,12 +143,14 @@ key_gui.xaero_open_settings:0
 key_gui.xaero_map_zoom_in:0
 key_gui.xaero_map_zoom_out:0
 key_gui.xaero_quick_confirm:0
-key_key.fastBlockPlacing.desc:0
 key_key.cofh.empower:0
 key_key.cofh.multimode:0
 key_key.control:0
 key_key.carbon_config.key:0
 key_key.entityculling.toggle:0
+key_key.fastBlockPlacing.desc:0
+key_key.swansong.zoom:46
+key_key.craftpresence.config_keycode.name:0
 soundCategory_master:1.0
 soundCategory_music:0.5
 soundCategory_record:1.0

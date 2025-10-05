@@ -338,7 +338,7 @@ hash = "7fb132078d78461a9dde309797c85302c48eb378e6c8b8dc1030e1505d2248b4"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "d6bd0309d68f8439002791922ff380ad768ef62303d88260b672415e57581f18"
+hash = "a5145d4e8bf626c5ba3f19efe4f253bb1d2335386dc3380a9ea7619ad986c5b9"
 
 [[files]]
 file = "config/NEI/catalysts.csv"
@@ -686,7 +686,7 @@ hash = "24805679cba685c74d9eb7756098d00e91ed0775967bf4b3f71dcfc1c36bb5d9"
 
 [[files]]
 file = "config/ThaumicConcilium.cfg"
-hash = "572c62f21a6068974024126243555d116589f10206a9ba69c8017aebf0fdff62"
+hash = "15ac6db0a3ef04ceccf99a2f9187d66b4c132d588b054e9d3374a04617e9e360"
 
 [[files]]
 file = "config/ThaumicExploration.cfg"
@@ -1126,7 +1126,7 @@ hash = "775d3032ece97ed66a72ee9457d0fa602fcb1b99e897327aea6631ecb287e8fb"
 
 [[files]]
 file = "config/gtnhlibEarly.properties"
-hash = "5e5b0ea2bc4ac611fc9ffd44b64604e1086d02aea9ffceff62c4b1801dd71aaa"
+hash = "64e46ec0f74f4167e0d5d9b2e9627440ebb11d2ed7946d577d63aa85ebec79e3"
 
 [[files]]
 file = "config/hardcorewither.cfg"
@@ -1138,7 +1138,7 @@ hash = "e52bf749d37c480443b164522810eef1711a81f8d41d74f392f250f06547b2c9"
 
 [[files]]
 file = "config/hodgepodgeEarly.properties"
-hash = "dc0a5090b652114804ad8601a4f9b81795fae9e0cc38e90e66d59dd5f2d8fd75"
+hash = "c49346e26830218c8387cca0c53a02b57bf38984799359167065375e6937cc2a"
 
 [[files]]
 file = "config/immersiveintegration.cfg"
@@ -1163,6 +1163,10 @@ hash = "bc2a4f333afcad46c4a4217f32ab34a083b95fe0877a20710525ffc641381e41"
 [[files]]
 file = "config/lwjgl3ify-early.json"
 hash = "fd7eb1951a7d282b45c66ad7d9d6ce5a0af8010cc7a3a01a94b65a4e5b039e88"
+
+[[files]]
+file = "config/lwjgl3ify-relauncher.json"
+hash = "2bee5cc75bb84fd0b8d2a6b5c1a693d2c71a2b7ee3c5ca58770304ab4b68656a"
 
 [[files]]
 file = "config/lwjgl3ify.cfg"
@@ -1222,7 +1226,7 @@ hash = "e837dc092b502c353910c2ca44befe0965cdb8af28edc15bfe7e5ff8bef6f19c"
 
 [[files]]
 file = "config/mod-director/mods.bundle.json"
-hash = "ecc1edb287d2cc71cb7da5d838a94f190d5a5b2710fb9bb1280ea29b39711f63"
+hash = "541bf78f4101d9453d0bea8c4c6d0cc1f322fd9e443903fbd8d91e1b27ffc8d6"
 
 [[files]]
 file = "config/multipart.cfg"
@@ -1274,7 +1278,7 @@ hash = "03b611b7b06a5571b8f2d306be5a9921f829e9480cf960157da2ad27cd3483e8"
 
 [[files]]
 file = "config/rple/custom_colors.json"
-hash = "f8b76802d91f052bb5ca1ebffe6d5a962c4251955e48273be984bc29f858dd06"
+hash = "8824ae5341a2d0b949763ee6d2d578f92a966096375614d4c025795cf2670023"
 
 [[files]]
 file = "config/rple/generated_colors.json"
@@ -1386,7 +1390,7 @@ hash = "e5e3f6dfb7deebbe932f03735a407fa87e967c85bf92dcaa23371f0a4e039719"
 
 [[files]]
 file = "config/splash.properties"
-hash = "29008fa69ef6909a1a020a74d4be38027a70e59091582aa8cf03761df5c5eb47"
+hash = "8b049e21f82c2c6cf271baacfe8e9b6e1d0a1dcb269b35a6f6436a1c8c2b3058"
 
 [[files]]
 file = "config/swansong.cfg"
@@ -1622,7 +1626,7 @@ hash = "e07b7eb1c51e1b7fe992def2553240649f63511e3ba4757990c7bc92e0fb6a2a"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "cce74097ddad5d833d4abe9e50ee5cda870faa97a478e276648a4691c7026113"
+hash = "b77ca1be9953e4066bcd4a04817a0169c18f8a8f07d13edb99cd401a32ecd019"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
@@ -1669,7 +1673,7 @@ metafile = true
 
 [[files]]
 file = "mods.json"
-hash = "6154c03c2643b412ccbdb48c6bf4641015e912df7d5f804a55b6c766cad2a3f4"
+hash = "47a9ac1ff5f15e4bd656b8537982d28b08c8bd84d0cc5fb6176ad9302395b641"
 
 [[files]]
 file = "mods/adjachests.pw.toml"
@@ -2013,7 +2017,7 @@ metafile = true
 
 [[files]]
 file = "mods/hodgepodge.pw.toml"
-hash = "3ef2e73025b41942b4e26e0aed94ba5da4f629d02a6680d79a71b9c6a40ca187"
+hash = "6fcf7d3ddaced09433b842188d285040bcbec1f6ca89135abbc2d86a0b253e21"
 metafile = true
 
 [[files]]
@@ -2098,12 +2102,12 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "6ac52997d8664413f6ff60542163b9aa0ab4ca10dca2388babc014489c589add"
+hash = "437335130cd0f93d09651002fe32510ebd15972d30742ad7079c5fd31e114094"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "5bc63ab38c59bf520c11d501333d1a6120b7d80736eda3fc701e592dfa5acb83"
+hash = "162aa55f4a4c3dd6dddfe0c7436fc8293a12a4725b8608fe477825c873e68633"
 metafile = true
 
 [[files]]
@@ -2373,7 +2377,7 @@ metafile = true
 
 [[files]]
 file = "mods/village-names.pw.toml"
-hash = "c7fcaf8f663a64cccc2e2dabf1b6e1de9160889cf0802d1f97f48ca308b57c8f"
+hash = "2ab9cc4ff78d8043d5524ce4f57aa758c1d589b55066c64b29480367a5afeffc"
 metafile = true
 
 [[files]]
@@ -2433,7 +2437,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c5c5a1825b42a0eddd4a0cfc7e417b7c3b953f8518a08172a5167cd6a4ad22d8"
+hash = "3d62f07a8df2ba5c3d918541372edfa3112f01f6c07b0dcdba4f780f5a246025"
 
 [[files]]
 file = "options_shaders.cfg"

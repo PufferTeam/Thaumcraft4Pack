@@ -1,8 +1,8 @@
 name = "Mekanism"
-filename = "Mekanism-Community-Edition-1.7.10-9.10.43-Core.jar"
+filename = "Mekanism-Community-Edition-1.7.10-9.10.46-Core.jar"
 side = "both"
 
 [download]
 hash-format = "sha256"
-hash = "66d1cd94e46bd2b87c3f7a526187bbb2c04a691ad4f5c5b31a8790fbfcfe1b03"
-url = "https://github.com/Thorfusion/Mekanism-Community-Edition/releases/download/9.10.43/Mekanism-Community-Edition-1.7.10-9.10.43-Core.jar"
+hash = "eeb43c1db1003678a9a3a5f67905ea327e93a9c8eb1c5e13fe519bcedd792090"
+url = "https://github.com/Thorfusion/Mekanism-Community-Edition/releases/download/9.10.46/Mekanism-Community-Edition-1.7.10-9.10.46-Core.jar"

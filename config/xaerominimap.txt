@@ -11,12 +11,12 @@ minimap:true
 caveMaps:2
 caveZoom:1
 showPlayers:true
-showHostile:true
-showMobs:true
+showHostile:false
+showMobs:false
 showItems:false
 showOther:false
 showOtherTeam:true
-showTamed:true
+showTamed:false
 showWaypoints:true
 showIngameWaypoints:true
 displayRedstone:true
@@ -117,7 +117,7 @@ compassColor:9
 itemFramesOnRadar:false
 showDimensionName:false
 enlargedMinimapAToggle:false
-interface:dummy:0:50:true:false:false:false
+interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
 interface:dummy:0:36:true:false:false:false

@@ -402,7 +402,7 @@
         "hodgepodge": {
             "name": "Hodgepodge",
             "type": "github",
-            "link": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.1/hodgepodge-2.7.1.jar"
+            "link": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.2/hodgepodge-2.7.2.jar"
         },
         "hopper-ducts": {
             "name": "Hopper Ducts",
@@ -494,12 +494,12 @@
         "mekanism": {
             "name": "Mekanism",
             "type": "github",
-            "link": "https://github.com/Thorfusion/Mekanism-Community-Edition/releases/download/9.10.43/Mekanism-Community-Edition-1.7.10-9.10.43-Core.jar"
+            "link": "https://github.com/Thorfusion/Mekanism-Community-Edition/releases/download/9.10.46/Mekanism-Community-Edition-1.7.10-9.10.46-Core.jar"
         },
         "mekanism-generators": {
             "name": "Mekanism: Generators",
             "type": "github",
-            "link": "https://github.com/Thorfusion/Mekanism-Community-Edition/releases/download/9.10.43/Mekanism-Community-Edition-1.7.10-9.10.43-Generators.jar"
+            "link": "https://github.com/Thorfusion/Mekanism-Community-Edition/releases/download/9.10.46/Mekanism-Community-Edition-1.7.10-9.10.46-Generators.jar"
         },
         "modernkeybinding": {
             "name": "Modern KeyBinding",
@@ -806,9 +806,9 @@
         },
         "village-names": {
             "name": "Village Names",
-            "type": "modrinth",
-            "project-id": "ea7aacaC",
-            "file-id": "kkKXh6H7"
+            "type": "curseforge",
+            "project-id": 259230,
+            "file-id": 5886875
         },
         "waila-plugins": {
             "name": "Waila Plugins",

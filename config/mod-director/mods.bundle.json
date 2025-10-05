@@ -548,8 +548,8 @@
       }
     },
     {
-      "fileName": "hodgepodge-2.7.1.jar",
-      "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.1/hodgepodge-2.7.1.jar",
+      "fileName": "hodgepodge-2.7.2.jar",
+      "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.2/hodgepodge-2.7.2.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -557,8 +557,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "dbe771e83de691c34e12e5a190ece56d",
-          "SHA-256": "c2a4664586a231044324072582922cc366f4564268329d2dd1769c0f9d50d69d"
+          "MD5": "08a439ca73282717496d1892e2083e1e",
+          "SHA-256": "5a90698528e509e953c69d6d771d96636b2f85eff7b0315875cff74c47fe6578"
         }
       },
       "options": {
@@ -656,8 +656,8 @@
       }
     },
     {
-      "fileName": "Mekanism-Community-Edition-1.7.10-9.10.43-Core.jar",
-      "url": "https://github.com/Thorfusion/Mekanism-Community-Edition/releases/download/9.10.43/Mekanism-Community-Edition-1.7.10-9.10.43-Core.jar",
+      "fileName": "Mekanism-Community-Edition-1.7.10-9.10.46-Core.jar",
+      "url": "https://github.com/Thorfusion/Mekanism-Community-Edition/releases/download/9.10.46/Mekanism-Community-Edition-1.7.10-9.10.46-Core.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -665,8 +665,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "632187720dea3ec0acc4e9a3f68280a2",
-          "SHA-256": "66d1cd94e46bd2b87c3f7a526187bbb2c04a691ad4f5c5b31a8790fbfcfe1b03"
+          "MD5": "7b1795bf81bae833cf0a4da5b3728d42",
+          "SHA-256": "eeb43c1db1003678a9a3a5f67905ea327e93a9c8eb1c5e13fe519bcedd792090"
         }
       },
       "options": {
@@ -674,8 +674,8 @@
       }
     },
     {
-      "fileName": "Mekanism-Community-Edition-1.7.10-9.10.43-Generators.jar",
-      "url": "https://github.com/Thorfusion/Mekanism-Community-Edition/releases/download/9.10.43/Mekanism-Community-Edition-1.7.10-9.10.43-Generators.jar",
+      "fileName": "Mekanism-Community-Edition-1.7.10-9.10.46-Generators.jar",
+      "url": "https://github.com/Thorfusion/Mekanism-Community-Edition/releases/download/9.10.46/Mekanism-Community-Edition-1.7.10-9.10.46-Generators.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -683,8 +683,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "2f3019fab712ba973ec089c09e6f991f",
-          "SHA-256": "72b58406126567b05d125ac35b1cd8c0f95b0eeb261c41e1b4db58cbff114968"
+          "MD5": "a29b10abc929c5acd6b1d6e5f2c6080f",
+          "SHA-256": "ac19b24b762c2d6180286e92bbfbd3ff40b997d88b1f2a9387ff8e8b1708c6ec"
         }
       },
       "options": {
@@ -2406,6 +2406,25 @@
       }
     },
     {
+      "fileName": "VillageNames-1.7.10-4.4.13.jar",
+      "addonId": 259230,
+      "fileId": 5886875,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Village Names"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "42cd4501aeadfc6db61643d94494b1f2",
+          "SHA-256": "b90244ebf0b902fcfd98f7c7daaab90b803ed034aa584bbe1e54fcd72a4c197b"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
       "fileName": "witchery-1.7.10-0.24.1.jar",
       "addonId": 69673,
       "fileId": 2234410,
@@ -2825,25 +2844,6 @@
           "SHA-256": "76f70291c2f02f8ec49fe25e46439d58eedf29637bc55a4f82f6a2ba9f2b260a"
         },
         "side": "CLIENT"
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
-      "fileName": "VillageNames-1.12.2-4.4.13.jar",
-      "addonId": "ea7aacaC",
-      "fileId": "kkKXh6H7",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "Village Names"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "063c562a1206f202aeca1eff47085ae0",
-          "SHA-256": "77d6ef0e64bde530cf59b87229c85bd257336340c45db94a011c600994f19a27"
-        }
       },
       "options": {
         "launchwrapperTweakerForceNext": true
