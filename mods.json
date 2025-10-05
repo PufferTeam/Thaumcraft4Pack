@@ -310,6 +310,11 @@
             "type": "github",
             "link": "https://github.com/PufferTeam-ModArchive/ex-nihilo/releases/download/1.50.1/exnihilo-1.50.1.jar"
         },
+        "extrabiomesxl": {
+            "name": "ExtrabiomesXL",
+            "type": "github",
+            "link": "https://github.com/jss2a98aj/ExtrabiomesXL/releases/download/3.16.10/ExtrabiomesXL-3.16.10.jar"
+        },
         "falsetweaks": {
             "name": "FalseTweaks",
             "type": "curseforge",
@@ -627,7 +632,7 @@
         "saltymod-expanded": {
             "name": "SaltyMod Expanded",
             "type": "github",
-            "link": "https://github.com/PufferTeam-ModArchive/SaltyMod-Expanded/releases/download/2.0.15.4-JB/saltymod-2.0.15.4-JB.jar"
+            "link": "https://github.com/PufferTeam-ModArchive/SaltyMod-Expanded/releases/download/2.0.15.7-JB/saltymod-2.0.15.7-JB.jar"
         },
         "salutation": {
             "name": "Salutation",

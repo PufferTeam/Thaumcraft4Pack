@@ -403,6 +403,24 @@
       }
     },
     {
+      "fileName": "ExtrabiomesXL-3.16.10.jar",
+      "url": "https://github.com/jss2a98aj/ExtrabiomesXL/releases/download/3.16.10/ExtrabiomesXL-3.16.10.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "ExtrabiomesXL"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "3f62be9eda0b7f7fe21c779abcb139b5",
+          "SHA-256": "17f1fcb4f2a95bac31a5fcb253b0d39c2214a06fa4717eaddc764937e4f896c6"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
       "fileName": "fentlib-0.0.34.jar",
       "url": "https://github.com/JackOfNoneTrades/FentLib/releases/download/0.0.34/fentlib-0.0.34.jar",
       "installationPolicy": {
@@ -801,8 +819,8 @@
       }
     },
     {
-      "fileName": "saltymod-2.0.15.4-JB.jar",
-      "url": "https://github.com/PufferTeam-ModArchive/SaltyMod-Expanded/releases/download/2.0.15.4-JB/saltymod-2.0.15.4-JB.jar",
+      "fileName": "saltymod-2.0.15.7-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/SaltyMod-Expanded/releases/download/2.0.15.7-JB/saltymod-2.0.15.7-JB.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -810,8 +828,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "c6261eef976832259ab24cca6c98746a",
-          "SHA-256": "5e467f3c1ab28a337df6b65d6f54a571d97f509c4474e23266d9684f2ade88ee"
+          "MD5": "0b1d874315115cdbb79b8cb787faa239",
+          "SHA-256": "9703ee15d8acfe9e7a38eb26646a824b31c3337c0a725ed61b04eab0871107ba"
         }
       },
       "options": {

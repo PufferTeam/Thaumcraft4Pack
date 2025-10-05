@@ -1073,6 +1073,10 @@ file = "config/exnihilo.cfg"
 hash = "3e00dd5ad72b4dba7ed0dc0ba56d9b21c7ff2fae789708982488772fdafe8b61"
 
 [[files]]
+file = "config/extrabiomes.cfg"
+hash = "56e287d9be258e6cfe44b6baddcc41b6687daa2bb6689a2a0a384b6480f6db7e"
+
+[[files]]
 file = "config/falsepatternlib-early.json"
 hash = "319e81be94da37114b477797a88f0b9998ccaca3ca22b80eb31d39c0a5d25a22"
 
@@ -1226,7 +1230,7 @@ hash = "e837dc092b502c353910c2ca44befe0965cdb8af28edc15bfe7e5ff8bef6f19c"
 
 [[files]]
 file = "config/mod-director/mods.bundle.json"
-hash = "541bf78f4101d9453d0bea8c4c6d0cc1f322fd9e443903fbd8d91e1b27ffc8d6"
+hash = "2fc414721cd73886fcecaf93ce37be2d5faba6a67401c26df5d3641a77f0cd29"
 
 [[files]]
 file = "config/multipart.cfg"
@@ -1270,7 +1274,7 @@ hash = "e1de18ae4b61be9bd335abc9d6e1e0dc5cf9de7699cc00eee291813956145565"
 
 [[files]]
 file = "config/rple.cfg"
-hash = "597f11537908b36f936408687c812b258d0349be83648023707498b7699487da"
+hash = "bc555cc8bfbddb9b75df5f6986a3a822ce43a30b67fb1421b0d2a9016d1c8296"
 
 [[files]]
 file = "config/rple/README.txt"
@@ -1394,7 +1398,7 @@ hash = "8b049e21f82c2c6cf271baacfe8e9b6e1d0a1dcb269b35a6f6436a1c8c2b3058"
 
 [[files]]
 file = "config/swansong.cfg"
-hash = "f54e686c9c4d8b55102cd8e12fc4ab796fc7328ee6a1ac777b82684fbdf36f7c"
+hash = "38f91d258f0ec4460926e1c612f2b3c56f90db0a06d5028b32b89bc63ffe2b7d"
 
 [[files]]
 file = "config/tabfaces.cfg"
@@ -1673,7 +1677,7 @@ metafile = true
 
 [[files]]
 file = "mods.json"
-hash = "47a9ac1ff5f15e4bd656b8537982d28b08c8bd84d0cc5fb6176ad9302395b641"
+hash = "ad600f2a73ca897f3b1a38835653eeb5be14abd93dfbca3f2f2f9570e8ac60a5"
 
 [[files]]
 file = "mods/adjachests.pw.toml"
@@ -1933,6 +1937,11 @@ metafile = true
 [[files]]
 file = "mods/ex-nihilo.pw.toml"
 hash = "ec835cce8a88da1e7ce4c06d9be665859f1d4b99360f2d9212273d5ed542c8be"
+metafile = true
+
+[[files]]
+file = "mods/extrabiomesxl.pw.toml"
+hash = "38d4e92093d62903251c2a9a36031ad23fe728b6930dcb8759226788a98819ed"
 metafile = true
 
 [[files]]
@@ -2212,7 +2221,7 @@ metafile = true
 
 [[files]]
 file = "mods/saltymod-expanded.pw.toml"
-hash = "2b1af73913d33349cd613aae9e3dbde4ce2b4d44d1c58eb52872c0e84cc16495"
+hash = "798682812606c4c134a1a590d0361d9520bce0ff96c66aa01638542b5029a5d2"
 metafile = true
 
 [[files]]
