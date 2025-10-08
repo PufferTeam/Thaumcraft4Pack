@@ -1,0 +1,8 @@
+name = "LittleTiles"
+filename = "littletiles-1.6.1-pre.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "6ee9ed2d4017663adb4c6b86121deeeb8511933630cfee921717486e8ba453fd"
+url = "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.1-pre/littletiles-1.6.1-pre.jar"

@@ -1,6 +1,6 @@
 name = "Beddium"
 filename = "beddium-mc1.7.10-1.0.4-j21.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha256"

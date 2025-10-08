@@ -638,6 +638,24 @@
       }
     },
     {
+      "fileName": "littletiles-1.6.1-pre.jar",
+      "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.1-pre/littletiles-1.6.1-pre.jar",
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "LittleTiles"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "e5e7bb2063af76103993a81acab50531",
+          "SHA-256": "6ee9ed2d4017663adb4c6b86121deeeb8511933630cfee921717486e8ba453fd"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
       "fileName": "lwjgl3ify-2.1.16.jar",
       "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.16/lwjgl3ify-2.1.16.jar",
       "installationPolicy": {
@@ -1416,7 +1434,8 @@
         "hash": {
           "MD5": "fcb8a62a3875f8410ff302a071a3c3dc",
           "SHA-256": "87f9dcb3d98ffec64a2aa19e926a6de78c5bfd5ede0e067e5873331ce79f7548"
-        }
+        },
+        "side": "CLIENT"
       },
       "options": {
         "launchwrapperTweakerForceNext": true
@@ -1782,6 +1801,25 @@
         "hash": {
           "MD5": "96404c6169bd47e011ca8f484969a8b4",
           "SHA-256": "17cf47a96cd31da7bd13f72d1afe97f35df601297446b21e30e051e9ae2107e2"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "fastcraft-1.25.jar",
+      "addonId": 242677,
+      "fileId": 2522249,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "FastCraft"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "44c7c6828ac38026f443804827955345",
+          "SHA-256": "11e974ac0a0bbe1ed63eb4d0f8ecce5245e77dde8aefd78ee3c95f49b3c3c31d"
         }
       },
       "options": {

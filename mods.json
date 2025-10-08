@@ -75,6 +75,7 @@
             "link": "https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.2.0-GTNH/BaublesExpanded-2.2.0-GTNH.jar"
         },
         "beddium": {
+            "client": true,
             "name": "Beddium",
             "type": "curseforge",
             "project-id": 1065808,
@@ -333,6 +334,12 @@
             "project-id": 230976,
             "file-id": 2272838
         },
+                "fastcraft": {
+            "name": "FastCraft",
+            "type": "curseforge",
+            "project-id": 242677,
+            "file-id": 2522249
+        },
         "fentlib": {
             "name": "FentLib",
             "type": "github",
@@ -472,6 +479,11 @@
             "type": "curseforge",
             "project-id": 364836,
             "file-id": 3920698
+        },
+        "littletiles": {
+            "name": "LittleTiles",
+            "type": "github",
+            "link": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.1-pre/littletiles-1.6.1-pre.jar"
         },
         "lumi-light-engine": {
             "name": "Lumi Light Engine",

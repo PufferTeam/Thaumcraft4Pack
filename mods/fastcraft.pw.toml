@@ -1,0 +1,13 @@
+name = "FastCraft"
+filename = "fastcraft-1.25.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "11e974ac0a0bbe1ed63eb4d0f8ecce5245e77dde8aefd78ee3c95f49b3c3c31d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2522249
+project-id = 242677

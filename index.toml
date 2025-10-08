@@ -478,7 +478,7 @@ hash = "bf484391294740fa5a7957940b6bdc25e8eb6e2ec0378e9bfcef4143926c0928"
 
 [[files]]
 file = "config/Thaumcraft.cfg"
-hash = "a29441cb137d75e96acf05be431fc3b16f25eefd0e90adb221ee3eefd96b9840"
+hash = "c482aa50fdee0376820453f26bcab29d9395fb2502844ca1f07a03a2c789b588"
 
 [[files]]
 file = "config/ThaumcraftMobAspects/AWWayofTime.cfg"
@@ -1106,7 +1106,7 @@ hash = "fa4279b4142f0fd24e78d2f6e7c607b99626d359730d0c41051a31fe8249b1f6"
 
 [[files]]
 file = "config/foamfix.cfg"
-hash = "fd55573c2b5d0dea0b05bbcd942e0e4275895611deb07d7d0d07b13f5d309d0c"
+hash = "453cb47824de026f41fa5a70ebeca0057c5b0e43f8b4ed61a7fe029bc2162f2e"
 
 [[files]]
 file = "config/forge.cfg"
@@ -1230,7 +1230,7 @@ hash = "e837dc092b502c353910c2ca44befe0965cdb8af28edc15bfe7e5ff8bef6f19c"
 
 [[files]]
 file = "config/mod-director/mods.bundle.json"
-hash = "1d309472ba1cc9368bbe97b5c62241b7478988657be169b444734d09538d32f6"
+hash = "22fb0be761b3a772f1a21c1fe585434f54d606c215fac1a557cc0d38dcc573b2"
 
 [[files]]
 file = "config/multipart.cfg"
@@ -1677,7 +1677,7 @@ metafile = true
 
 [[files]]
 file = "mods.json"
-hash = "c8029a2ac9ba5be23d288b3f797c9e273104bfe4b484789dd55cc2d11ab24c4d"
+hash = "c6bf6d14181cc10c0615275f5affb63a25e8314f1ebda66ac18b9c1d344a6331"
 
 [[files]]
 file = "mods/adjachests.pw.toml"
@@ -1736,7 +1736,7 @@ metafile = true
 
 [[files]]
 file = "mods/beddium.pw.toml"
-hash = "3a7e53d47130f8176d6b1e6476f9da55b86309e15cbe2bcb2c4ac856ed1d7e90"
+hash = "3f0dad11279ac7c3d6e9657a1f0dd36635cfc5ada28adf6ed42771aca2048b28"
 metafile = true
 
 [[files]]
@@ -1960,6 +1960,11 @@ hash = "c09a0670c2404e62df5b54ede77bea857e58485ec29fccdfa8ead375b24b3139"
 metafile = true
 
 [[files]]
+file = "mods/fastcraft.pw.toml"
+hash = "0f395fa39070d4e91379fad0d38a484a7a169586495c9db874455d8475101e19"
+metafile = true
+
+[[files]]
 file = "mods/fentlib.pw.toml"
 hash = "78ef57edf0dd61e55d5b459ddc4f7a81d70ed730c1d497ece1067fb813b6c7b5"
 metafile = true
@@ -2082,6 +2087,11 @@ metafile = true
 [[files]]
 file = "mods/lan-host-skin-re-fix-ed.pw.toml"
 hash = "e6fadbeaaadcb9b3ef388bd1f730d1ce038ffa577578ae7adf095ad36080f367"
+metafile = true
+
+[[files]]
+file = "mods/littletiles.pw.toml"
+hash = "4230abce817fdd3e42dcdc30f8cf3ef406d5f3c1bbc9f0c3fd4253de4653366d"
 metafile = true
 
 [[files]]
@@ -2454,7 +2464,7 @@ hash = "6a4c359997182ecc793b1de89378b4b75c8dab68e0a23bb0e439149452e49c89"
 
 [[files]]
 file = "optionsnf.txt"
-hash = "158521f25130b46211ea41cdc2712871da540fbc7ae4763fe5c1daf6e2726c51"
+hash = "7847f4834ad376889946e93d64fd81df6cbb588b95708fd8e4f0720b0167d522"
 
 [[files]]
 file = "optionsof.txt"
