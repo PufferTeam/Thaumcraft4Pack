@@ -488,6 +488,7 @@
         "Thaumcraft:blockArcaneFurnace": "0xF90",
         "Thaumcraft:blockHole": "0xAAA",
         "Thaumcraft:blockEldritchNothing": "0x333",
+        "Thaumcraft:blockEldritch": "0x333",
         "Thaumcraft:blockAiry": "0xAAA",
         "Thaumcraft:blockCustomPlant:5": "0x403",
         "Thaumcraft:blockTaintFibres:0": "default:dim_purple",

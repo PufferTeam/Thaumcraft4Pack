@@ -6,7 +6,7 @@ hash = "dfb08a73a50f0ddd2e78300ae5159962b3d416dfbf4caf464f7190726f5fc3f2"
 
 [[files]]
 file = "config/AWWayofTime.cfg"
-hash = "41b6f704f55a98a757169de5e8c2d6060c9966f2af0d5ae17885ba92964878fd"
+hash = "4aca95ade88a9ee84210387655434a2cc7cbf7ea567db90b9d37b9c2fc34ea78"
 
 [[files]]
 file = "config/AdvancedBotany.cfg"
@@ -166,7 +166,7 @@ hash = "2a534c7cf8b3e9344da62acd8fc2664a75a682dcbfe37897f21977ef9b1aa63d"
 
 [[files]]
 file = "config/Botania.cfg"
-hash = "745f280f1dfb8d6ea46da3e476531be59b85311f008d569a8ef3b4b68c5e41a0"
+hash = "406978922942f9fa92fe44cd0619be1440933f6088b87d1c6b074b5efcffa193"
 
 [[files]]
 file = "config/CarpentersBlocks.cfg"
@@ -338,7 +338,7 @@ hash = "7fb132078d78461a9dde309797c85302c48eb378e6c8b8dc1030e1505d2248b4"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "a5145d4e8bf626c5ba3f19efe4f253bb1d2335386dc3380a9ea7619ad986c5b9"
+hash = "46d7626bd2efcde9b5126754a852c97c254ac913c367b49c6510d87276d135c3"
 
 [[files]]
 file = "config/NEI/catalysts.csv"
@@ -458,7 +458,7 @@ hash = "5398805edaa37184a5a2c0f9d7079f90e2b83fe1b39f1439908d4f9344734256"
 
 [[files]]
 file = "config/SpecialAI.cfg"
-hash = "7a30c204a168042272a01445a45761791cdf61c9c67fb9d1d5dae364491aac1c"
+hash = "cbb54eb73a85c0b36acc6dabcbb793c9aaa8ff42b07eb1b2c4dee0cc36e511c1"
 
 [[files]]
 file = "config/SpecialMobs.cfg"
@@ -478,7 +478,7 @@ hash = "bf484391294740fa5a7957940b6bdc25e8eb6e2ec0378e9bfcef4143926c0928"
 
 [[files]]
 file = "config/Thaumcraft.cfg"
-hash = "c482aa50fdee0376820453f26bcab29d9395fb2502844ca1f07a03a2c789b588"
+hash = "a29441cb137d75e96acf05be431fc3b16f25eefd0e90adb221ee3eefd96b9840"
 
 [[files]]
 file = "config/ThaumcraftMobAspects/AWWayofTime.cfg"
@@ -507,6 +507,10 @@ hash = "b5283ea025415f7b8195db9220def229af512bf23d22aa2951801ae024af29c9"
 [[files]]
 file = "config/ThaumcraftMobAspects/CarpentersBlocks.cfg"
 hash = "ea603645dafdce6d6ac9ab0f54b7623790d281f3d8e3f4124626d49fc6e4eff0"
+
+[[files]]
+file = "config/ThaumcraftMobAspects/ExtrabiomesXL.cfg"
+hash = "9c0d79609c76d455cc42987750291cd81c5f8470d43f4f0e22b3841603d3fdc3"
 
 [[files]]
 file = "config/ThaumcraftMobAspects/ForgottenRelics.cfg"
@@ -582,7 +586,7 @@ hash = "7e42f4b9f02ce69e4ab0da3c9f2ef379037b9f78b6f7e633f5895171537c35e6"
 
 [[files]]
 file = "config/ThaumcraftMobAspects/aetherlegacy.cfg"
-hash = "69d738ecc5ae2e33d69e32a5c3264fb2b03e916683543aced40bc8a0180e01c6"
+hash = "77464b111779ec6260065fd9ab6b7b7e5f0a4ce45c4ddc02ea1ce85631c0fa9e"
 
 [[files]]
 file = "config/ThaumcraftMobAspects/antiquities.cfg"
@@ -599,6 +603,10 @@ hash = "dd9dc310749e771da6b1ac86cc62ebff11f94b402ea51ccfbabfe831d6fe93e0"
 [[files]]
 file = "config/ThaumcraftMobAspects/com.cfg"
 hash = "3cc7d903767a2296922ae943b9c067c2cb55034301f1620bc20e2d289ac4234e"
+
+[[files]]
+file = "config/ThaumcraftMobAspects/creativecore.cfg"
+hash = "571d2aca8f8fc5adbf54b815e8fcbe3ed5124007c2d47309e2a9ec61d345422e"
 
 [[files]]
 file = "config/ThaumcraftMobAspects/cuchaz.cfg"
@@ -829,12 +837,16 @@ file = "config/WitchingGadgets.cfg"
 hash = "1fbb01d27ae8478a15a750a59361dcae766d073debe20425234d1df462122c99"
 
 [[files]]
+file = "config/WorldSelectionAdvanced.cfg"
+hash = "628e91f83ee24ca9f9d0f60b40e7ac4b2df8aebd9b13b1119d1330833a2b5b98"
+
+[[files]]
 file = "config/adjachest.cfg"
 hash = "e5210fec2cccee51d4f72099fa23e5b98f95204306a71286716243aa3d457ca2"
 
 [[files]]
 file = "config/aether/AetherI.cfg"
-hash = "ae15820eac27dd309e61c609527e9da1507bb476020444f6e4793ffe29e4e9a4"
+hash = "abf94cf47e33c99df0c045cef284fb2fb3f0eb02003b002e2c2e0af9dc91c536"
 
 [[files]]
 file = "config/antiquities.cfg"
@@ -1093,6 +1105,10 @@ file = "config/falsetweaks_userspecific.cfg"
 hash = "20b903e572498e0a30fac195c44bec1f9e7fbf8896adb92d4ee210df606d3a6f"
 
 [[files]]
+file = "config/fastcraft.ini"
+hash = "3103af8951cf59a892eceab409fdd6b0c1bf37354a36b877e406ae3de0a87b38"
+
+[[files]]
 file = "config/fastleafdecay.cfg"
 hash = "5a8c5caee6f90244b51ae5d56d7fa9fbdd98506cb04804092e1536c6b341535b"
 
@@ -1130,7 +1146,7 @@ hash = "775d3032ece97ed66a72ee9457d0fa602fcb1b99e897327aea6631ecb287e8fb"
 
 [[files]]
 file = "config/gtnhlibEarly.properties"
-hash = "64e46ec0f74f4167e0d5d9b2e9627440ebb11d2ed7946d577d63aa85ebec79e3"
+hash = "cac944350d7301be05139d3f8038122e447514f89fb66772a0f7b3f6fd46d6a8"
 
 [[files]]
 file = "config/hardcorewither.cfg"
@@ -1138,11 +1154,11 @@ hash = "2a15c46326733ad444cf530dd1db33b5084a0aee9a4e2eaa45e9b0d81b205d07"
 
 [[files]]
 file = "config/hodgepodge.cfg"
-hash = "e52bf749d37c480443b164522810eef1711a81f8d41d74f392f250f06547b2c9"
+hash = "5967ecd5d309a9edba9b791c4b5b09546d4497d06633601cfcef2dd094e3586c"
 
 [[files]]
 file = "config/hodgepodgeEarly.properties"
-hash = "c49346e26830218c8387cca0c53a02b57bf38984799359167065375e6937cc2a"
+hash = "635975b961c1214b6f0e2940170ead3639dfae557983637e8cf00a21f69e0d7e"
 
 [[files]]
 file = "config/immersiveintegration.cfg"
@@ -1190,11 +1206,11 @@ hash = "55ea5ab7a311539d017ea2395d6dffb28376c2371402d5f714ba51ba022f7bcc"
 
 [[files]]
 file = "config/mekanism/Mekanism.cfg"
-hash = "dd9e93e0f85f05b60a645c57c288723a3fd1558da638862a7bd8b69fea778b47"
+hash = "99bc020722c45b10cc20a4c1ba8847f41ab87e1318f81a8f02d030331c6b6e37"
 
 [[files]]
 file = "config/mekanism/MekanismCE.cfg"
-hash = "83beb7df0a4e5c7da3a91b61fc1f4bca78177d9773bd27ec1c6680a1eb49bb03"
+hash = "848edef5070587f98460b1b629c14c22b3c9a45c7bc0f33297387bff329f405a"
 
 [[files]]
 file = "config/mekanism/MekanismCardboardBoxBlacklist.txt"
@@ -1230,7 +1246,7 @@ hash = "e837dc092b502c353910c2ca44befe0965cdb8af28edc15bfe7e5ff8bef6f19c"
 
 [[files]]
 file = "config/mod-director/mods.bundle.json"
-hash = "22fb0be761b3a772f1a21c1fe585434f54d606c215fac1a557cc0d38dcc573b2"
+hash = "8c45dba4a095d07a9b464a7658b25093ef73a35f5cfb37bc99bcdb339bf2d9f1"
 
 [[files]]
 file = "config/multipart.cfg"
@@ -1274,7 +1290,7 @@ hash = "e1de18ae4b61be9bd335abc9d6e1e0dc5cf9de7699cc00eee291813956145565"
 
 [[files]]
 file = "config/rple.cfg"
-hash = "bc555cc8bfbddb9b75df5f6986a3a822ce43a30b67fb1421b0d2a9016d1c8296"
+hash = "40d9f994f11a8c0d439cef0c388dd23f2f3ffa0b4c522a7ba714b5ccceee13e0"
 
 [[files]]
 file = "config/rple/README.txt"
@@ -1282,7 +1298,7 @@ hash = "03b611b7b06a5571b8f2d306be5a9921f829e9480cf960157da2ad27cd3483e8"
 
 [[files]]
 file = "config/rple/custom_colors.json"
-hash = "8824ae5341a2d0b949763ee6d2d578f92a966096375614d4c025795cf2670023"
+hash = "e52a263278800bb7406706ea046756c3daf5845721b5d330f72a39799b31c911"
 
 [[files]]
 file = "config/rple/generated_colors.json"
@@ -1394,11 +1410,11 @@ hash = "e5e3f6dfb7deebbe932f03735a407fa87e967c85bf92dcaa23371f0a4e039719"
 
 [[files]]
 file = "config/splash.properties"
-hash = "8b049e21f82c2c6cf271baacfe8e9b6e1d0a1dcb269b35a6f6436a1c8c2b3058"
+hash = "0838716b4503dba4167ef417b878a9e388d9b86d7d9041013bdad6cda7743ab0"
 
 [[files]]
 file = "config/swansong.cfg"
-hash = "0397b6009b06f10118e3613ba827b537bc720c341003e29f2d9174245f4b1b08"
+hash = "3f34a3eff7635100e26baace94405a73c4a7aeaae205f6316d2e5ae4c5feda57"
 
 [[files]]
 file = "config/tabfaces.cfg"
@@ -1677,7 +1693,7 @@ metafile = true
 
 [[files]]
 file = "mods.json"
-hash = "c6bf6d14181cc10c0615275f5affb63a25e8314f1ebda66ac18b9c1d344a6331"
+hash = "dc62b6802aef83c79caffeff7e2c14bffc9d2a4e9e53c77e77b601f46fce861b"
 
 [[files]]
 file = "mods/adjachests.pw.toml"
@@ -1691,7 +1707,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "b65f307fdb3834a56da382c6550908f0cdcd526fd4eff466b7edda083e2e0270"
+hash = "6d73de85d322ae1ade431a5dc96c5af816076f97a72d326591c15f97cf468066"
 metafile = true
 
 [[files]]
@@ -1851,7 +1867,7 @@ metafile = true
 
 [[files]]
 file = "mods/colored-lights.pw.toml"
-hash = "4fc3c8e5330bd0672f894582a67592ce6a02f489489204b3e87f98b0a5f043d8"
+hash = "c045d9c7825fcbfb3831ecabbb1c1db2c5c7eecdca6313c267a2ef6907afb55f"
 metafile = true
 
 [[files]]
@@ -2464,7 +2480,7 @@ hash = "6a4c359997182ecc793b1de89378b4b75c8dab68e0a23bb0e439149452e49c89"
 
 [[files]]
 file = "optionsnf.txt"
-hash = "7847f4834ad376889946e93d64fd81df6cbb588b95708fd8e4f0720b0167d522"
+hash = "c7546af6f3a93316893decf3d39be5ea2da708f88bebc21b61aec6fc2fae6797"
 
 [[files]]
 file = "optionsof.txt"
@@ -2476,7 +2492,7 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/Essential-Textures.zip"
-hash = "fff094725b1546678fb8e1b2231a1d242bbf7e184c23df70a8fa36373eb049ba"
+hash = "5648ec20d2102c09e3762ec56a5424cb972598fe689d1f06e3fe3c98dfb6f49e"
 
 [[files]]
 file = "server-icon.pw.toml"
@@ -2512,33 +2528,17 @@ file = "serverutilities/serverutilities.cfg"
 hash = "4b1472db4b901bff266d4a80cd2bd6b0b1c2088d6d909c14f2aa963bde405726"
 
 [[files]]
-file = "shaderpacks/Complementary-Shaders.zip"
-hash = "09dc17b32b624fd4f7385197456a0509b535515d3682437189e512e2351bdc2e"
+file = "shaderpacks/Chocapic13 V6 Lite.zip"
+hash = "f90e804e2319f8663c1f1667625e30886692d62680aecde29fea45a0eb21422c"
 
 [[files]]
-file = "shaderpacks/Complementary-Shaders.zip.txt"
-hash = "b149db29d853323b425b4fc7d52de7897a7d7edceaf1d8baa1fdc6eb2573bea5"
+file = "shaderpacks/Chocapic13 V6 Low.zip"
+hash = "d2b3ad0faf4660f4c888d8f474d4b4e8b27e903cee1251b618065edf3dc05ff6"
 
 [[files]]
-file = "shaderpacks/MEGA_BSL_8.2-Medium.zip"
-hash = "02ecedd77375b88eb66628f4a0abc1ccdf446ec7e051104ad7153bd38f2dbe93"
+file = "shaderpacks/Chocapic13 V6 Medium.zip"
+hash = "3ba353404bfbc4c787ef9e8059f2b859d5937bf580b3cd663f9814a15ecee009"
 
 [[files]]
-file = "shaderpacks/MEGA_BSL_8.2-Medium.zip.txt"
-hash = "f729da614c40f0a6e513aeb0f12e50c8065ffa63f195a7813fbc2831a5895919"
-
-[[files]]
-file = "shaderpacks/MEGA_BSL_8.2.zip"
-hash = "484bd2b594b64c1e717b3c8fcdaacd87569240a890838b89cb48dd15964c746b"
-
-[[files]]
-file = "shaderpacks/MEGA_BSL_8.2.zip.txt"
-hash = "cc1de0a145b88a096e98d8b155a480d4d3bad461e3ebbebf2b2c62afc4e2fac1"
-
-[[files]]
-file = "shaderpacks/MEGA_Inhouse_Shader.zip"
-hash = "9fcafa105fe2165feafa97f9e29bcf711a0843819743136cfd7fea8eacabc322"
-
-[[files]]
-file = "shaderpacks/MEGA_Inhouse_Shader.zip.txt"
-hash = "b41f976d1d6d52248b664b3abf9f2ff0cdc034dd805ed6955c232ddc04623d40"
+file = "shaderpacks/Tea V2 Dev8.zip"
+hash = "04f18552bc043540af67a914a8f1269a61651b2adc87ee8ba1b4a253941ee37d"

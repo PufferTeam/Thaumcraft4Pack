@@ -17,10 +17,9 @@
             "file-id": 3862595
         },
         "aether": {
-            "name": "Aether Legacy",
-            "type": "modrinth",
-            "project-id": "YhmgMVyu",
-            "file-id": "sDnmimXy"
+            "name": "Aether Legacy Departure",
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/AetherLegacyDeparture/releases/download/1.1.1/aether-departure-1.1.1.jar"
         },
         "alchemy-grate": {
             "name": "Alchemy Grate",
@@ -334,7 +333,7 @@
             "project-id": 230976,
             "file-id": 2272838
         },
-                "fastcraft": {
+        "fastcraft": {
             "name": "FastCraft",
             "type": "curseforge",
             "project-id": 242677,
@@ -631,9 +630,8 @@
         },
         "colored-lights": {
             "name": "Right Proper Colored Lights",
-            "type": "curseforge",
-            "project-id": 1050511,
-            "file-id": 7050850
+            "type": "github",
+            "link": "https://github.com/PufferTeam-ModArchive/RPLE/releases/download/2.1.4/rple-mc1.7.10-2.1.4-JB.jar"
         },
         "salis-arcana": {
             "name": "Salis Arcana",
