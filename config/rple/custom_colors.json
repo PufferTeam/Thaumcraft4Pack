@@ -840,7 +840,12 @@
         "campfirebackport:foxfire_campfire": "default:foxfire_light",
         "campfirebackport:soul_campfire": "default:soul_light",
         "campfirebackport:shadow_campfire": "default:shadow_light",
-        "netherlicious:ShroomLight": "0xCC7"
+        "netherlicious:ShroomLight": "0xCC7",
+        "aether_legacy:ambrosium_torch": "default:yellow",
+        "aether_legacy:ethereal_torch": "default:light_blue",
+        "aether_legacy:hellfire_torch": "default:red",
+        "aether_legacy:coldfire": "default:light_blue",
+        "aether_legacy:hellfire": "default:red"
     },
     "translucency": {
         "minecraft:air": "light_value:15",

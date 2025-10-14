@@ -1,8 +1,8 @@
 name = "Materialis"
-filename = "materialis-1.2.15.jar"
+filename = "materialis-1.2.16.jar"
 side = "both"
 
 [download]
 hash-format = "sha256"
-hash = "c21fe5ffc6a2c002f5059f42e9aa5740ac16c262730704631e472eaec877c859"
-url = "https://github.com/PufferTeam-ModArchive/Materialis/releases/download/1.2.15/materialis-1.2.15.jar"
+hash = "18be7b549decacc560c772caa169afea3a948460c416efe7068081f137b45722"
+url = "https://github.com/PufferTeam-ModArchive/Materialis/releases/download/1.2.16/materialis-1.2.16.jar"

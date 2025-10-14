@@ -1,8 +1,8 @@
 {
   "url": [
     {
-      "fileName": "materialis-1.2.15.jar",
-      "url": "https://github.com/PufferTeam-ModArchive/Materialis/releases/download/1.2.15/materialis-1.2.15.jar",
+      "fileName": "materialis-1.2.16.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/Materialis/releases/download/1.2.16/materialis-1.2.16.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -10,8 +10,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "946342382dbce2feaa55f7c8f590a076",
-          "SHA-256": "c21fe5ffc6a2c002f5059f42e9aa5740ac16c262730704631e472eaec877c859"
+          "MD5": "e6d1df7ba44fe6165e6b908d9643e77d",
+          "SHA-256": "18be7b549decacc560c772caa169afea3a948460c416efe7068081f137b45722"
         }
       },
       "options": {
@@ -1089,8 +1089,8 @@
       }
     },
     {
-      "fileName": "ThaumicHorizons-1.8.0.jar",
-      "url": "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.0/ThaumicHorizons-1.8.0.jar",
+      "fileName": "ThaumicHorizons-1.8.3-pre.jar",
+      "url": "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.3-pre/ThaumicHorizons-1.8.3-pre.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -1098,8 +1098,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "724ee2e21d4834f55cb22bb01341755c",
-          "SHA-256": "76a857678e19175e35b5b72059d0d75c685a437b6f0329c4890696a8dc9b61c9"
+          "MD5": "9eed866183616753b201ff0243ac0dc0",
+          "SHA-256": "73d7380fa3b95d2977b8efb2d400b4d7ca1e7274087afaa97b99cfaba49a5810"
         }
       },
       "options": {
@@ -1107,8 +1107,8 @@
       }
     },
     {
-      "fileName": "ThaumicTinkerer-2.12.1-pre.jar",
-      "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.1-pre/ThaumicTinkerer-2.12.1-pre.jar",
+      "fileName": "ThaumicTinkerer-2.12.2.jar",
+      "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.2/ThaumicTinkerer-2.12.2.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -1116,8 +1116,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "cda96c0d9dbc07d740969cb89f1c0ef2",
-          "SHA-256": "f9b228fcc50f8d0d74a03530202c8deadb9faea17f25b8074503f299fdc11f29"
+          "MD5": "20f1f191f28912768400a12defde4b80",
+          "SHA-256": "b1bc13cb2d2cd5e7cec60bb3868f03a1b0ec77c124379800500db73769f63a08"
         }
       },
       "options": {
@@ -1161,8 +1161,8 @@
       }
     },
     {
-      "fileName": "ultimatecavesmod-1.0.4.jar",
-      "url": "https://github.com/kotmatross28729/UltimateCavesMod/releases/download/1.0.4/ultimatecavesmod-1.0.4.jar",
+      "fileName": "ultimatecavesmod-1.0.6.jar",
+      "url": "https://github.com/kotmatross28729/UltimateCavesMod/releases/download/1.0.6/ultimatecavesmod-1.0.6.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -1170,8 +1170,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "960fb735c1959f3e1cb7893748b76fce",
-          "SHA-256": "ef3de372912aec48031ef1a8156933e40136898b8c5dc4905996877c033bcc47"
+          "MD5": "18a98d29a802f9adb875dbe5a818c8b9",
+          "SHA-256": "0bf55db4b1a96979bd06ff4bc772cb0474d9ed5f8a00e0ca8b6279d0fc5cbe39"
         }
       },
       "options": {

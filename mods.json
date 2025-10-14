@@ -3,7 +3,7 @@
         "materialis": {
             "name": "Materialis",
             "type": "github",
-            "link": "https://github.com/PufferTeam-ModArchive/Materialis/releases/download/1.2.15/materialis-1.2.15.jar"
+            "link": "https://github.com/PufferTeam-ModArchive/Materialis/releases/download/1.2.16/materialis-1.2.16.jar"
         },
         "adjachests": {
             "name": "AdjaChests",
@@ -773,12 +773,12 @@
         "thaumic-horizons": {
             "name": "Thaumic Horizons",
             "type": "github",
-            "link": "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.0/ThaumicHorizons-1.8.0.jar"
+            "link": "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.3-pre/ThaumicHorizons-1.8.3-pre.jar"
         },
         "thaumic-tinkerer": {
             "name": "Thaumic Tinkerer",
             "type": "github",
-            "link": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.1-pre/ThaumicTinkerer-2.12.1-pre.jar"
+            "link": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.2/ThaumicTinkerer-2.12.2.jar"
         },
         "tileentity-reset-fix": {
             "name": "TileEntity Reset Fix",
@@ -805,7 +805,7 @@
         "ultimate-caves-mod": {
             "name": "Ultimate Caves Mod",
             "type": "github",
-            "link": "https://github.com/kotmatross28729/UltimateCavesMod/releases/download/1.0.4/ultimatecavesmod-1.0.4.jar"
+            "link": "https://github.com/kotmatross28729/UltimateCavesMod/releases/download/1.0.6/ultimatecavesmod-1.0.6.jar"
         },
         "unilib": {
             "client": true,
