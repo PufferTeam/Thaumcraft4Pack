@@ -1,8 +1,8 @@
 name = "Right Proper Colored Lights"
-filename = "rple-mc1.7.10-2.1.4-JB.jar"
+filename = "rple-mc1.7.10-2.1.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha256"
-hash = "df3d00b97b5cf6a8b89e21ded0d7f4128751a760f4138c513f83b1fc1e111e7c"
-url = "https://github.com/PufferTeam-ModArchive/RPLE/releases/download/2.1.4/rple-mc1.7.10-2.1.4-JB.jar"
+hash = "5aa77e3fbbd3db7fb4d9ff37f30d1ddbb1cb1220168fd8ce57823a8c18abb3ba"
+url = "https://github.com/GTMEGA/RPLE/releases/download/2.1.7/rple-mc1.7.10-2.1.7.jar"

@@ -1,8 +1,8 @@
 {
   "url": [
     {
-      "fileName": "materialis-1.2.16.jar",
-      "url": "https://github.com/PufferTeam-ModArchive/Materialis/releases/download/1.2.16/materialis-1.2.16.jar",
+      "fileName": "materialis-1.2.21.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/Materialis/releases/download/1.2.21/materialis-1.2.21.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -10,8 +10,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "e6d1df7ba44fe6165e6b908d9643e77d",
-          "SHA-256": "18be7b549decacc560c772caa169afea3a948460c416efe7068081f137b45722"
+          "MD5": "a0dde74286ce3945c9dbdb52210774de",
+          "SHA-256": "bdf5de1a2a9f384211a7ea31f348463d8a6412d556a1b21a4ce0eb6bf625d530"
         }
       },
       "options": {
@@ -421,8 +421,8 @@
       }
     },
     {
-      "fileName": "ExtrabiomesXL-3.16.10.jar",
-      "url": "https://github.com/jss2a98aj/ExtrabiomesXL/releases/download/3.16.10/ExtrabiomesXL-3.16.10.jar",
+      "fileName": "ExtrabiomesXL-3.16.12-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/ExtrabiomesXL/releases/download/3.16.12-JB/ExtrabiomesXL-3.16.12-JB.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -430,8 +430,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "3f62be9eda0b7f7fe21c779abcb139b5",
-          "SHA-256": "17f1fcb4f2a95bac31a5fcb253b0d39c2214a06fa4717eaddc764937e4f896c6"
+          "MD5": "7a5630272de256447c5e839c12ebca50",
+          "SHA-256": "6936661894ef199cccc26ef9dd22cd028d725d1b23b755b6a1c26b0e02d945a8"
         }
       },
       "options": {
@@ -855,8 +855,8 @@
       }
     },
     {
-      "fileName": "rple-mc1.7.10-2.1.4-JB.jar",
-      "url": "https://github.com/PufferTeam-ModArchive/RPLE/releases/download/2.1.4/rple-mc1.7.10-2.1.4-JB.jar",
+      "fileName": "rple-mc1.7.10-2.1.7.jar",
+      "url": "https://github.com/GTMEGA/RPLE/releases/download/2.1.7/rple-mc1.7.10-2.1.7.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -864,8 +864,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "c356d1c7886c3dade9f2889a28e52957",
-          "SHA-256": "df3d00b97b5cf6a8b89e21ded0d7f4128751a760f4138c513f83b1fc1e111e7c"
+          "MD5": "c9e597d899852cf8ab62d0aed7c6613d",
+          "SHA-256": "5aa77e3fbbd3db7fb4d9ff37f30d1ddbb1cb1220168fd8ce57823a8c18abb3ba"
         }
       },
       "options": {
@@ -873,8 +873,8 @@
       }
     },
     {
-      "fileName": "saltymod-2.0.15.7-JB.jar",
-      "url": "https://github.com/PufferTeam-ModArchive/SaltyMod-Expanded/releases/download/2.0.15.7-JB/saltymod-2.0.15.7-JB.jar",
+      "fileName": "saltymod-2.0.15.9-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/SaltyMod-Expanded/releases/download/2.0.15.9-JB/saltymod-2.0.15.9-JB.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -882,8 +882,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "0b1d874315115cdbb79b8cb787faa239",
-          "SHA-256": "9703ee15d8acfe9e7a38eb26646a824b31c3337c0a725ed61b04eab0871107ba"
+          "MD5": "e9ecc41f35cce1bed3c5d3b0b959e83a",
+          "SHA-256": "fde35504a75a01e69ec1dfb392cac813849af2fd17613c95047b6100af2ea268"
         }
       },
       "options": {
@@ -891,8 +891,8 @@
       }
     },
     {
-      "fileName": "ServerUtilities-2.1.54.jar",
-      "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.54/ServerUtilities-2.1.54.jar",
+      "fileName": "ServerUtilities-2.2.2.jar",
+      "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.2.2/ServerUtilities-2.2.2.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -900,8 +900,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "9283b066f6719993737bcb30a1429357",
-          "SHA-256": "878534830d62f5a238a44b7c9b734618dca6bd1118cbeebd736b0ec3de73dce0"
+          "MD5": "eb078d4a437c9d1d7205afd49d5d6eb2",
+          "SHA-256": "3eb14d65e560e65cc14f5a7cc658ea2e33ca11239ce59505db67a3091581a004"
         }
       },
       "options": {
@@ -1089,8 +1089,8 @@
       }
     },
     {
-      "fileName": "ThaumicHorizons-1.8.3-pre.jar",
-      "url": "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.3-pre/ThaumicHorizons-1.8.3-pre.jar",
+      "fileName": "ThaumicHorizons-1.8.5-pre.jar",
+      "url": "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.5-pre/ThaumicHorizons-1.8.5-pre.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -1098,8 +1098,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "9eed866183616753b201ff0243ac0dc0",
-          "SHA-256": "73d7380fa3b95d2977b8efb2d400b4d7ca1e7274087afaa97b99cfaba49a5810"
+          "MD5": "6052cc65ac6ed573358fbeeae3e23b75",
+          "SHA-256": "b6d74e7a97b36a0ddaca3f592681d5c09b66b61d1038ba0f0b961a1ad82e2c71"
         }
       },
       "options": {
@@ -1575,9 +1575,9 @@
       }
     },
     {
-      "fileName": "campfirebackport-1.7.10-1.11.3.jar",
+      "fileName": "campfirebackport-1.7.10-1.11.3+nomixin.jar",
       "addonId": 387444,
-      "fileId": 5940198,
+      "fileId": 5940203,
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -1585,8 +1585,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "3d06092d2ac97a92d4aab18fd634e709",
-          "SHA-256": "4cfed5e942f9afec0af201b30c3a0c2590f144d555d703f4ab043ef94b5817de"
+          "MD5": "18e84db7ace6b506c6c4af1b6905dc25",
+          "SHA-256": "45c4d009ba198367ba9ce0b530fe69cf091d0a9ad83fb129131f0b6d4781df2b"
         }
       },
       "options": {
@@ -1632,9 +1632,9 @@
       }
     },
     {
-      "fileName": "chunkapi-mc1.7.10-0.6.4.jar",
+      "fileName": "chunkapi-mc1.7.10-0.7.0.jar",
       "addonId": 844484,
-      "fileId": 6692807,
+      "fileId": 7113330,
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -1642,8 +1642,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "145f42e95f667ee50df27e9dee8b7571",
-          "SHA-256": "23887dd55e244052de86065e7c2cfe68ec9e4280e80aeb54b707093c58e713ad"
+          "MD5": "a4c5d74e41c97d5142a5b10c05e06143",
+          "SHA-256": "58be0d4890958bad95634685a080ca9aa1e05030afb29b080819b807fc4512c0"
         }
       },
       "options": {
@@ -1689,7 +1689,7 @@
       }
     },
     {
-      "fileName": "CoFHCore-%5b1.7.10%5d3.1.4-329.jar",
+      "fileName": "CoFHCore-[1.7.10]3.1.4-329.jar",
       "addonId": 69162,
       "fileId": 2388750,
       "installationPolicy": {
@@ -1787,9 +1787,9 @@
       }
     },
     {
-      "fileName": "falsetweaks-mc1.7.10-4.1.1.jar",
+      "fileName": "falsetweaks-mc1.7.10-4.1.2.jar",
       "addonId": 665744,
-      "fileId": 7043347,
+      "fileId": 7106984,
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -1797,8 +1797,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "c4e4644b37548232f5bba781a55012ce",
-          "SHA-256": "7af06004c8ae2c06a55a0b250df48e93867b3a10581055a6ece038e23311c43a"
+          "MD5": "a07cf6ddc580070fe4445255abee5ba9",
+          "SHA-256": "36a3f172e0d9945323912ff0e4594aab6fb6bf0b9080c2f44ca48a3eee69caa2"
         }
       },
       "options": {
@@ -2382,9 +2382,9 @@
       }
     },
     {
-      "fileName": "swansong-mc1.7.10-1.2.1.jar",
+      "fileName": "swansong-mc1.7.10-1.2.2.jar",
       "addonId": 1349982,
-      "fileId": 7043050,
+      "fileId": 7113984,
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -2392,8 +2392,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "e79f632d6b1cf8f6b093b9d59fefd863",
-          "SHA-256": "a7cd1e705063eea4f5ef9dab7876f29493a8c5a6ae48cb02e3d2541ae0caa048"
+          "MD5": "9ac4f633b4bf1e89326b6b55fffa22af",
+          "SHA-256": "4dfbc7c896c81c47a853424f02cfc22df8d4766813651b9862ea08e2301b7e89"
         },
         "side": "CLIENT"
       },
@@ -2575,25 +2575,6 @@
     }
   ],
   "modrinth": [
-    {
-      "fileName": "blockreplace-mc1.7.10-v1.3.jar",
-      "addonId": "u97M0r8k",
-      "fileId": "eNqeK22b",
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "Block Replacement"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "9062f4c0b2afc68d8f120ffab0193d15",
-          "SHA-256": "e165e70660d5eab0c0c4864b7027ddbca50687a8e5097de9e7b3ee4c3e89dbf8"
-        }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
     {
       "fileName": "cartload-mc1.7.10-1.0.2.jar",
       "addonId": "25cIpBfY",

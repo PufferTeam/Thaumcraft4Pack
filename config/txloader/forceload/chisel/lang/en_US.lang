@@ -1,0 +1,20 @@
+tile.chisel.dark_planks.name=Umbran Planks
+tile.chisel.dark_planks_slab.name=Umbran Slab
+tile.chisel.dark_planks_stairs.name=Umbran Stairs
+
+#Umbran
+tile.dark.planks.1.desc=Smooth Umbran Wood Planks
+tile.dark.planks.2.desc=Short Umbran Wood Planks
+tile.dark.planks.6.desc=Fancy Umbran Wood Plank Arrangement
+tile.dark.planks.8.desc=Umbran Wood Panel
+tile.dark.planks.9.desc=Umbran Wood Double Slab
+tile.dark.planks.10.desc=Umbran Wood Crate
+tile.dark.planks.11.desc=Fancy Umbran Wood Crate
+tile.dark.planks.13.desc=Large Long Umbran Wood Planks
+tile.dark.planks.3.desc=Vertical Umbran Wood Planks
+tile.dark.planks.4.desc=Vertical Uneven Umbran Wood Planks
+tile.dark.planks.5.desc=Umbran Wood Parquet
+tile.dark.planks.7.desc=Umbran Wood Plank Blinds
+tile.dark.planks.12.desc=Umbran Wood Scaffold
+tile.dark.planks.14.desc=Umbran Wood Planks in Disarray
+tile.dark.planks.15.desc=Vertical Umbran Wood Planks in Disarray

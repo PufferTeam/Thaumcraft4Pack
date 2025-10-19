@@ -9,7 +9,8 @@ console.log("Running pack.js..");
 
 const text = fs.readFileSync('./cf-key.txt', 'utf8');
 const client = new cf.CurseForgeClient(text);
-
+var mavenURL = "https://maven.fentanylsolutions.org/PufferTeam/mods/";
+var useMaven = false;
 const file = JSON.parse(fs.readFileSync('./mods.json', 'utf8'));
 var mods = [];
 const cachePath = path.join(__dirname, "cache.json");
@@ -33,8 +34,11 @@ const fileDirectorFolder = "./config/mod-director"
 
 function sanitizeFileName(name) {
   return name
-    .replace(/%20/g, " ")     // turn %20 into actual spaces
-    .replace(/%[A-F0-9]{2}/g, "+") // replace any other %xx with "+"
+    .replace(/%20/g, " ")           // turn %20 into spaces
+    .replace(/%5B/gi, "[")          // %5B [
+    .replace(/%2b/gi, "+")          // %2b +
+    .replace(/%5D/gi, "]")          // %5D ]
+    .replace(/%[A-F0-9]{2}/gi, "+") // replace all other %xx with +
     .trim();
 }
 
@@ -156,7 +160,9 @@ async function getFileHashFromUrl(hashText, fileUrl) {
       response.on("data", (chunk) => hash.update(chunk));
       response.on("end", () => resolve(hash.digest("hex")));
       response.on("error", reject);
-    }).on("error", reject);
+    }).on("error", (err) => {
+      fs.unlink(dest, () => reject(err));
+    });
   });
 }
 
@@ -200,7 +206,7 @@ async function generateData() {
 
   for (let i = 0; i < mods.length; i++) {
     const mod = mods[i];
-    if (!mod) continue; // skip undefined entries
+    if (!mod) continue;
 
     let url = "";
     if (mod.type === "github") {
@@ -210,6 +216,7 @@ async function generateData() {
     } else {
       url = await getModrinthDownloadLink(mod.fID);
     }
+    console.log(url);
 
     const fileName = await getFileNameFromUrl(url);
     var hash = undefined;
@@ -226,6 +233,9 @@ async function generateData() {
       cache[fileName] = { hash: hash, hash2: hash2 };
     }
 
+    if (useMaven) {
+      url = mavenURL + sanitizeFileName(fileName);
+    }
     mods[i]["fileName"] = sanitizeFileName(fileName);
     mods[i]["hash"] = hash;
     mods[i]["hash2"] = hash2;
@@ -245,6 +255,10 @@ async function generatePackwiz() {
     }
 
     fileC.push(`name = "${mod.name}"`);
+
+    if (useMaven) {
+      mod.type = "github";
+    }
 
     let prefix = "";
     if (mod.folder != undefined) {
@@ -286,6 +300,10 @@ async function generateFileDirector() {
   };
   for (const mod of mods) {
     let modEntry = {};
+    let type = mod.type;
+    if (useMaven) {
+      type = "github";
+    }
     let installation = {
       continueOnFailedDownload: true,
       selectedByDefault: true,
@@ -304,9 +322,9 @@ async function generateFileDirector() {
       meta.side = "CLIENT";
     }
     modEntry.fileName = mod.fileName;
-    if (mod.type == "github") {
+    if (type == "github") {
       modEntry.url = mod.url;
-    } else if (mod.type == "curseforge" || mod.type == "modrinth") {
+    } else if (type == "curseforge" || type == "modrinth") {
       modEntry.addonId = mod.pID;
       modEntry.fileId = mod.fID;
     }
@@ -316,11 +334,11 @@ async function generateFileDirector() {
     modEntry.installationPolicy = installation;
     modEntry.metadata = meta;
     modEntry.options = options;
-    if (mod.type === "github") {
+    if (type === "github") {
       modBundle.url.push(modEntry);
-    } else if (mod.type === "curseforge") {
+    } else if (type === "curseforge") {
       modBundle.curse.push(modEntry);
-    } else if (mod.type === "modrinth") {
+    } else if (type === "modrinth") {
       modBundle.modrinth.push(modEntry);
     }
   }
@@ -340,6 +358,11 @@ async function download() {
   await downloadAll();
 }
 
+async function maven() {
+  useMaven = true;
+  await main();
+}
+
 async function downloadAll() {
   for (const mod of mods) {
     downloadFile(mod.url, downloadFolder + "/" + mod.fileName);
@@ -351,6 +374,7 @@ function none() {
 }
 const commands = {
   download: download,
+  maven: maven,
   gen: none
 };
 

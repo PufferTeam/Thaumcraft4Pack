@@ -1,8 +1,8 @@
 name = "Thaumic Horizons"
-filename = "ThaumicHorizons-1.8.3-pre.jar"
+filename = "ThaumicHorizons-1.8.5-pre.jar"
 side = "both"
 
 [download]
 hash-format = "sha256"
-hash = "73d7380fa3b95d2977b8efb2d400b4d7ca1e7274087afaa97b99cfaba49a5810"
-url = "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.3-pre/ThaumicHorizons-1.8.3-pre.jar"
+hash = "b6d74e7a97b36a0ddaca3f592681d5c09b66b61d1038ba0f0b961a1ad82e2c71"
+url = "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.5-pre/ThaumicHorizons-1.8.5-pre.jar"

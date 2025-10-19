@@ -306,7 +306,7 @@ hash = "902d126efa43200b955b56611223a70d8b790daffbb1a1c05f7084f1c5b41d03"
 
 [[files]]
 file = "config/InfernalMobs.cfg"
-hash = "e31b542d139dc7bed4bfd7b1cc5ff27bdb1cf5d6d9a85d2b1e70f51eaa670304"
+hash = "12c3fde5da39d61e029ce0ca055094deb95fcf4839814545485fa2bc9bbaf934"
 
 [[files]]
 file = "config/LegibleNei/LegibleNei.cfg"
@@ -338,7 +338,7 @@ hash = "7fb132078d78461a9dde309797c85302c48eb378e6c8b8dc1030e1505d2248b4"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "79e7f0c6cd4d94848e51261cf05cc7857c8327ca882f99bc199bf92a8fe30d13"
+hash = "63f99022d82f482a3b1e1fd7639bd0f23947bedab0cc2ad4cb7978911a48f80d"
 
 [[files]]
 file = "config/NEI/catalysts.csv"
@@ -850,7 +850,7 @@ hash = "abf94cf47e33c99df0c045cef284fb2fb3f0eb02003b002e2c2e0af9dc91c536"
 
 [[files]]
 file = "config/antiquities.cfg"
-hash = "4354f06521e414405d6e5a7e9169872cbf966722c784eb5f900c27fd8df22960"
+hash = "79fef45092b11b5222adb2ae44b7e1f98f55b84b53e8205dd3cd08412d72fee9"
 
 [[files]]
 file = "config/archaicfix.cfg"
@@ -907,10 +907,6 @@ hash = "1964497321f895669cf8a18a76a1549b871ed082ad7dff8b3cd8fbe90045b00d"
 [[files]]
 file = "config/biomesoplenty/terraingen.cfg"
 hash = "ca85e0cdbeeff14922730ad1e4840ffcfedf9b33f4393e7aa34c6d1860429d55"
-
-[[files]]
-file = "config/blockreplace.cfg"
-hash = "b985123d2c3632860b3a2dff4f6469593969e0886ea6a09560ca56ac605e6247"
 
 [[files]]
 file = "config/bswk.cfg"
@@ -1106,7 +1102,7 @@ hash = "20b903e572498e0a30fac195c44bec1f9e7fbf8896adb92d4ee210df606d3a6f"
 
 [[files]]
 file = "config/fastcraft.ini"
-hash = "48e7875f756e0495b747312440ba86521fb8602cb3e0416ff75f55b8f1c7ed93"
+hash = "d410b8b62769e1850d38edf2823dae266254e13441735012601fe8ef601be2e5"
 
 [[files]]
 file = "config/fastleafdecay.cfg"
@@ -1146,7 +1142,7 @@ hash = "775d3032ece97ed66a72ee9457d0fa602fcb1b99e897327aea6631ecb287e8fb"
 
 [[files]]
 file = "config/gtnhlibEarly.properties"
-hash = "b6967233588da9e3410bba5ae9abcd1fd5193205ecffdc00169c7af2425b7535"
+hash = "a6899612d190c7904a0c7bea77351693891d5400269d2626d8c1bde962be094e"
 
 [[files]]
 file = "config/hardcorewither.cfg"
@@ -1158,7 +1154,7 @@ hash = "5967ecd5d309a9edba9b791c4b5b09546d4497d06633601cfcef2dd094e3586c"
 
 [[files]]
 file = "config/hodgepodgeEarly.properties"
-hash = "000b8f8cd0de3fddb9f366ea2d0e38554c967c76c1bb5431a1361e41b5d07080"
+hash = "a2984f74ffde8d3e894ec430614474b19dd447d32ebd4f692b183c258a6950c0"
 
 [[files]]
 file = "config/immersiveintegration.cfg"
@@ -1246,7 +1242,7 @@ hash = "e837dc092b502c353910c2ca44befe0965cdb8af28edc15bfe7e5ff8bef6f19c"
 
 [[files]]
 file = "config/mod-director/mods.bundle.json"
-hash = "351a066e99c428f192bd6a630dda000761ca45618a08e3d219217fa3a84dcd01"
+hash = "a9a725fe256e10041c5be8f3614298e8d0c7ca8e080981d67e08b641e1ee5b17"
 
 [[files]]
 file = "config/multipart.cfg"
@@ -1410,7 +1406,7 @@ hash = "e5e3f6dfb7deebbe932f03735a407fa87e967c85bf92dcaa23371f0a4e039719"
 
 [[files]]
 file = "config/splash.properties"
-hash = "c1da1830783d1c2383d3d136c978b8e28bccc23336786c30e873aceb3f2a44f3"
+hash = "68a07eb679e32c7c0a1027b0b698cfaf70b8d124ddbcc13acd5a26c318a4c57f"
 
 [[files]]
 file = "config/swansong.cfg"
@@ -1477,12 +1473,8 @@ file = "config/txloader/forceload/carpentersblocks/lang/en_US.lang"
 hash = "ce40ac38356119cb01931d7d3258b9a9816727a22bfb7293844a42eda05bb169"
 
 [[files]]
-file = "config/txloader/forceload/customitems/textures/blocks/blockArcaneWood.png"
-hash = "b42f067227c1317aba7b211a1c7e07ae72cdeb04274ad6deef1a4ff5f246cce4"
-
-[[files]]
-file = "config/txloader/forceload/customitems/textures/items/heartofthesea.png"
-hash = "caef1485c06952d5842fead2d707d97f6b5eeb8a1a0e420d8a8de10b44cf1290"
+file = "config/txloader/forceload/chisel/lang/en_US.lang"
+hash = "486bdda07b4a8aae26b3afe204942568db9aaff2bcf2c4b64f4afd50d2a2bd19"
 
 [[files]]
 file = "config/txloader/forceload/custommainmenu/textures/backgrounds/01.png"
@@ -1523,6 +1515,10 @@ hash = "1c1e8bfe92c83da4f0eda9e0e230930fe2daef3cecff658cb938f0bae665d24b"
 [[files]]
 file = "config/txloader/forceload/etfuturum/lang/en_US.lang"
 hash = "86e0175ec9f5398c1fe756fbb85ec9fe5ea6fd36fd016b8614f918240f957a15"
+
+[[files]]
+file = "config/txloader/forceload/gardencore/lang/en_US.lang"
+hash = "caf07951077523bfe06cec89f6f6755672354f9cb318f05a8ece6445c62f3b34"
 
 [[files]]
 file = "config/txloader/forceload/immersiveengineering/lang/en_US.lang"
@@ -1693,7 +1689,7 @@ metafile = true
 
 [[files]]
 file = "mods.json"
-hash = "612d469d0ce9ea048e19a34590c241a9fa19089fe5ddbcd27963dafc39c1c679"
+hash = "8d70e1d9b5eecaecfaa7f04878a69873bc522683ea38da4088d5b915542d42f5"
 
 [[files]]
 file = "mods/adjachests.pw.toml"
@@ -1786,11 +1782,6 @@ hash = "1e44836f0dddb158d479dcf7e4d90e178ab285a868ed3f9e07f41c41b01eafef"
 metafile = true
 
 [[files]]
-file = "mods/block-replacement.pw.toml"
-hash = "6d42ac3dfc569b1efed7ed6e731957798b29907279df8fd054866061248a4b34"
-metafile = true
-
-[[files]]
 file = "mods/blood-arsenal.pw.toml"
 hash = "9990042074a5e82e6a153384333e2dcc0d93bcd5fe8541e4cffe0d0b207fbda0"
 metafile = true
@@ -1817,7 +1808,7 @@ metafile = true
 
 [[files]]
 file = "mods/campfire-backport.pw.toml"
-hash = "455494689fa83376102162b5f95456c544b3c15d205947795d5e7bea39bea128"
+hash = "135fa407e4908291f8bd37788315b246638f6a655120576d7c085208c7d8631b"
 metafile = true
 
 [[files]]
@@ -1847,7 +1838,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-api.pw.toml"
-hash = "9be1c16624f4166ed3106e3b07bcb1d4b51c56ab28db5a3836373d644dd12459"
+hash = "dd8aa3f7deddf8db483cf14e45d390da00e0bd526f7d8db301e44dd102e53e29"
 metafile = true
 
 [[files]]
@@ -1862,12 +1853,12 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
-hash = "ac591a37c706be9a8245be1ff277b4e9cc3386e3db827b9166b69e138f1d76a9"
+hash = "f97086516bb372d97ec5cb21e07a4218a94a5bcf20202076a663bd3988ef8f4b"
 metafile = true
 
 [[files]]
 file = "mods/colored-lights.pw.toml"
-hash = "c045d9c7825fcbfb3831ecabbb1c1db2c5c7eecdca6313c267a2ef6907afb55f"
+hash = "ab4df764cd93650d4d194cce714fa008e70f79f58ddbd8b636655288f98c19a2"
 metafile = true
 
 [[files]]
@@ -1957,7 +1948,7 @@ metafile = true
 
 [[files]]
 file = "mods/extrabiomesxl.pw.toml"
-hash = "38d4e92093d62903251c2a9a36031ad23fe728b6930dcb8759226788a98819ed"
+hash = "c7969f185e74869bf4f6914365c055421e51170e668f080c0279692b2bafe773"
 metafile = true
 
 [[files]]
@@ -1967,7 +1958,7 @@ metafile = true
 
 [[files]]
 file = "mods/falsetweaks.pw.toml"
-hash = "e8a3646f7b1a683c5f04bb387ff84067e93f083da02fbb7d974e57338f26a729"
+hash = "c0561c98572610ab518ac46be672077fdfc2ef71b671ab8bb01ac66a8868d555"
 metafile = true
 
 [[files]]
@@ -2127,7 +2118,7 @@ metafile = true
 
 [[files]]
 file = "mods/materialis.pw.toml"
-hash = "b4058e3a354c8ce12d28dfd47942cd165bf183abf29f6ecf5c3f8ceebfba320a"
+hash = "81559c565fadede7ec07b4eeb4b5677b57d7d88ac5e54a2b44096530877fcdc4"
 metafile = true
 
 [[files]]
@@ -2247,7 +2238,7 @@ metafile = true
 
 [[files]]
 file = "mods/saltymod-expanded.pw.toml"
-hash = "798682812606c4c134a1a590d0361d9520bce0ff96c66aa01638542b5029a5d2"
+hash = "5439843102dde1b7e8fc994f1f1a70c2a5e8c37049d29885517d593dcc31b7b8"
 metafile = true
 
 [[files]]
@@ -2262,7 +2253,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-utilities.pw.toml"
-hash = "12a7c6f955d2fd6709172951c603f03c9cb6fe70d3faa06c5f4e5d6e55329638"
+hash = "e4532c3116e81f513abf5cd65cb20c4199bfb6b9d566fab064241bfa0fa04a0c"
 metafile = true
 
 [[files]]
@@ -2297,7 +2288,7 @@ metafile = true
 
 [[files]]
 file = "mods/swansong-shaders.pw.toml"
-hash = "55f0d3236ce6abd343f73b1bf7110f2e67217486a6de0e7189831abc0ffd2b93"
+hash = "1b9fb44dc76e1b36741b9f0d6688438550f84dd546893c7b185e01f0dd4450a2"
 metafile = true
 
 [[files]]
@@ -2362,7 +2353,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-horizons.pw.toml"
-hash = "cadf4094992ff139821325beb6a653e4ccd5596bd56b02775529d4647e3fa922"
+hash = "3fc1b613fbe8bf52d790f3a539de81e443cdcfee5602f4ccbdd061b7b6447d1e"
 metafile = true
 
 [[files]]

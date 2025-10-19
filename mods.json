@@ -3,7 +3,7 @@
         "materialis": {
             "name": "Materialis",
             "type": "github",
-            "link": "https://github.com/PufferTeam-ModArchive/Materialis/releases/download/1.2.16/materialis-1.2.16.jar"
+            "link": "https://github.com/PufferTeam-ModArchive/Materialis/releases/download/1.2.21/materialis-1.2.21.jar"
         },
         "adjachests": {
             "name": "AdjaChests",
@@ -118,12 +118,6 @@
             "project-id": 220318,
             "file-id": 2499612
         },
-        "block-replacement": {
-            "name": "Block Replacement",
-            "type": "modrinth",
-            "project-id": "u97M0r8k",
-            "file-id": "eNqeK22b"
-        },
         "blood-arsenal": {
             "name": "Blood Arsenal",
             "type": "github",
@@ -154,7 +148,7 @@
             "name": "Campfire Backport",
             "type": "curseforge",
             "project-id": 387444,
-            "file-id": 5940198
+            "file-id": 5940203
         },
         "carbon-config": {
             "name": "Carbon Config",
@@ -188,7 +182,7 @@
             "name": "ChunkAPI",
             "type": "curseforge",
             "project-id": 844484,
-            "file-id": 6692807
+            "file-id": 7113330
         },
         "clay-bucket": {
             "name": "Clay Bucket",
@@ -313,13 +307,13 @@
         "extrabiomesxl": {
             "name": "ExtrabiomesXL",
             "type": "github",
-            "link": "https://github.com/jss2a98aj/ExtrabiomesXL/releases/download/3.16.10/ExtrabiomesXL-3.16.10.jar"
+            "link": "https://github.com/PufferTeam-ModArchive/ExtrabiomesXL/releases/download/3.16.12-JB/ExtrabiomesXL-3.16.12-JB.jar"
         },
         "falsetweaks": {
             "name": "FalseTweaks",
             "type": "curseforge",
             "project-id": 665744,
-            "file-id": 7043347
+            "file-id": 7106984
         },
         "falsepatternlib": {
             "name": "FalsePatternLib",
@@ -631,7 +625,7 @@
         "colored-lights": {
             "name": "Right Proper Colored Lights",
             "type": "github",
-            "link": "https://github.com/PufferTeam-ModArchive/RPLE/releases/download/2.1.4/rple-mc1.7.10-2.1.4-JB.jar"
+            "link": "https://github.com/GTMEGA/RPLE/releases/download/2.1.7/rple-mc1.7.10-2.1.7.jar"
         },
         "salis-arcana": {
             "name": "Salis Arcana",
@@ -642,7 +636,7 @@
         "saltymod-expanded": {
             "name": "SaltyMod Expanded",
             "type": "github",
-            "link": "https://github.com/PufferTeam-ModArchive/SaltyMod-Expanded/releases/download/2.0.15.7-JB/saltymod-2.0.15.7-JB.jar"
+            "link": "https://github.com/PufferTeam-ModArchive/SaltyMod-Expanded/releases/download/2.0.15.9-JB/saltymod-2.0.15.9-JB.jar"
         },
         "salutation": {
             "name": "Salutation",
@@ -660,7 +654,7 @@
         "server-utilities": {
             "name": "Server Utilities",
             "type": "github",
-            "link": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.54/ServerUtilities-2.1.54.jar"
+            "link": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.2.2/ServerUtilities-2.2.2.jar"
         },
         "simple-skin-backport": {
             "name": "Simple Skin Backport",
@@ -701,7 +695,7 @@
             "name": "SwanSong Shaders",
             "type": "curseforge",
             "project-id": 1349982,
-            "file-id": 7043050
+            "file-id": 7113984
         },
         "tabfaces": {
             "client": true,
@@ -773,7 +767,7 @@
         "thaumic-horizons": {
             "name": "Thaumic Horizons",
             "type": "github",
-            "link": "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.3-pre/ThaumicHorizons-1.8.3-pre.jar"
+            "link": "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.5-pre/ThaumicHorizons-1.8.5-pre.jar"
         },
         "thaumic-tinkerer": {
             "name": "Thaumic Tinkerer",

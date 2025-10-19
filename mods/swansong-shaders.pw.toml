@@ -1,13 +1,13 @@
 name = "SwanSong Shaders"
-filename = "swansong-mc1.7.10-1.2.1.jar"
+filename = "swansong-mc1.7.10-1.2.2.jar"
 side = "client"
 
 [download]
 hash-format = "sha256"
-hash = "a7cd1e705063eea4f5ef9dab7876f29493a8c5a6ae48cb02e3d2541ae0caa048"
+hash = "4dfbc7c896c81c47a853424f02cfc22df8d4766813651b9862ea08e2301b7e89"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7043050
+file-id = 7113984
 project-id = 1349982
