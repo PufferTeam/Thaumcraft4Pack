@@ -1,8 +1,8 @@
 {
   "url": [
     {
-      "fileName": "materialis-1.2.21.jar",
-      "url": "https://github.com/PufferTeam-ModArchive/Materialis/releases/download/1.2.21/materialis-1.2.21.jar",
+      "fileName": "materialis-1.2.26.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/Materialis/releases/download/1.2.26/materialis-1.2.26.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -10,8 +10,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "a0dde74286ce3945c9dbdb52210774de",
-          "SHA-256": "bdf5de1a2a9f384211a7ea31f348463d8a6412d556a1b21a4ce0eb6bf625d530"
+          "MD5": "4c7c5c635106ef7295afeb0b61146b7b",
+          "SHA-256": "1c8472e06e27ea555fd553b5e6ce193f83f70bfa7d289e7f4061630c557ba1df"
         }
       },
       "options": {
@@ -37,8 +37,8 @@
       }
     },
     {
-      "fileName": "aether-departure-1.1.1.jar",
-      "url": "https://github.com/PufferTeam-ModArchive/AetherLegacyDeparture/releases/download/1.1.1/aether-departure-1.1.1.jar",
+      "fileName": "aether-departure-1.1.2-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/AetherLegacyDeparture/releases/download/1.1.2-JB/aether-departure-1.1.2-JB.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -46,8 +46,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "b7cd312f653ad992305e96b7c0110b81",
-          "SHA-256": "a8533a7218d4a07e3aedb17ca2d933f25e0a8974717d190946165d18dde42b5b"
+          "MD5": "5c64d3e4369b59b5f241ef75e0b01ad8",
+          "SHA-256": "91e8180e15b62aa6ee0844426ab2913518cdf7aa158c11dfbf6e1418fc0be344"
         }
       },
       "options": {
@@ -421,8 +421,8 @@
       }
     },
     {
-      "fileName": "ExtrabiomesXL-3.16.12-JB.jar",
-      "url": "https://github.com/PufferTeam-ModArchive/ExtrabiomesXL/releases/download/3.16.12-JB/ExtrabiomesXL-3.16.12-JB.jar",
+      "fileName": "ExtrabiomesXL-3.16.16-JB.jar",
+      "url": "https://github.com/PufferTeam-ModArchive/ExtrabiomesXL/releases/download/3.16.16-JB/ExtrabiomesXL-3.16.16-JB.jar",
       "installationPolicy": {
         "continueOnFailedDownload": true,
         "selectedByDefault": true,
@@ -430,8 +430,8 @@
       },
       "metadata": {
         "hash": {
-          "MD5": "7a5630272de256447c5e839c12ebca50",
-          "SHA-256": "6936661894ef199cccc26ef9dd22cd028d725d1b23b755b6a1c26b0e02d945a8"
+          "MD5": "026e8957498c355e7d2aea58742689df",
+          "SHA-256": "6298fc1dc3f8eed741ab321587ffd6e43380f9d4832e689f3df51586e3f326f8"
         }
       },
       "options": {
@@ -1651,25 +1651,6 @@
       }
     },
     {
-      "fileName": "ClayBucket-1.7.10-1.2.jar",
-      "addonId": 242568,
-      "fileId": 2293402,
-      "installationPolicy": {
-        "continueOnFailedDownload": true,
-        "selectedByDefault": true,
-        "name": "Clay Bucket"
-      },
-      "metadata": {
-        "hash": {
-          "MD5": "0082af5b053c6107c67249ad571a35fc",
-          "SHA-256": "8e472f7b774ddaf4f339f6c6b9e26a084b760999b84640c9c10303302b54ddb2"
-        }
-      },
-      "options": {
-        "launchwrapperTweakerForceNext": true
-      }
-    },
-    {
       "fileName": "CodeChickenCore-1.4.7.jar",
       "addonId": 746279,
       "fileId": 6875232,
@@ -2073,6 +2054,25 @@
       }
     },
     {
+      "fileName": "Loading-Progress-Bar-v1.0-mc1.7.10.jar",
+      "addonId": 602731,
+      "fileId": 3734569,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Loading Screen Bar"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "9d235fd6adacd295f225e62d13b627fd",
+          "SHA-256": "e7c7265fc4210b87a09423e03724273742edd7f2d338c250377960882b8d0721"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
       "fileName": "lumi-mc1.7.10-1.2.0.jar",
       "addonId": 1050470,
       "fileId": 6543345,
@@ -2453,6 +2453,25 @@
         "hash": {
           "MD5": "f71559fa64c1996b03e796b660914637",
           "SHA-256": "d39e6c8fc27709b04d58ec4c1b625648776dbf01cdf7af2d51388ee215d5d4e8"
+        }
+      },
+      "options": {
+        "launchwrapperTweakerForceNext": true
+      }
+    },
+    {
+      "fileName": "MmmMmmMmmMmm-1.7.10-1.9.jar",
+      "addonId": 225738,
+      "fileId": 2265493,
+      "installationPolicy": {
+        "continueOnFailedDownload": true,
+        "selectedByDefault": true,
+        "name": "Test Dummy"
+      },
+      "metadata": {
+        "hash": {
+          "MD5": "e7672892b5b2387b59b7e0fe3a603d1e",
+          "SHA-256": "525c4154e4c355d64ff8bc7faa535030c343d4531beaf9e4b1ded9cd318e955e"
         }
       },
       "options": {

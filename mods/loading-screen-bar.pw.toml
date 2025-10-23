@@ -1,0 +1,13 @@
+name = "Loading Screen Bar"
+filename = "Loading-Progress-Bar-v1.0-mc1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "e7c7265fc4210b87a09423e03724273742edd7f2d338c250377960882b8d0721"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3734569
+project-id = 602731

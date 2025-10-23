@@ -1,8 +1,8 @@
 name = "Aether Legacy Departure"
-filename = "aether-departure-1.1.1.jar"
+filename = "aether-departure-1.1.2-JB.jar"
 side = "both"
 
 [download]
 hash-format = "sha256"
-hash = "a8533a7218d4a07e3aedb17ca2d933f25e0a8974717d190946165d18dde42b5b"
-url = "https://github.com/PufferTeam-ModArchive/AetherLegacyDeparture/releases/download/1.1.1/aether-departure-1.1.1.jar"
+hash = "91e8180e15b62aa6ee0844426ab2913518cdf7aa158c11dfbf6e1418fc0be344"
+url = "https://github.com/PufferTeam-ModArchive/AetherLegacyDeparture/releases/download/1.1.2-JB/aether-departure-1.1.2-JB.jar"

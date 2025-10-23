@@ -846,7 +846,7 @@ hash = "e5210fec2cccee51d4f72099fa23e5b98f95204306a71286716243aa3d457ca2"
 
 [[files]]
 file = "config/aether/AetherI.cfg"
-hash = "abf94cf47e33c99df0c045cef284fb2fb3f0eb02003b002e2c2e0af9dc91c536"
+hash = "b65ab2a8106d7055f675fe4dcf60642b9d3c3fd93353b8c5bd9f01715a81e80a"
 
 [[files]]
 file = "config/antiquities.cfg"
@@ -874,7 +874,7 @@ hash = "342cd8f89666b2f6174bf8fde70ab19d42cbf50d817da397a0748c046e83cd84"
 
 [[files]]
 file = "config/beddium.cfg"
-hash = "70ee388ac33db013ef63890c4fbd9c9561c750fe11c6b596b9197adfc9cedce4"
+hash = "d0f5be9fb8e18890cc0710bd3ca6f31dcc08658b3cd5db3eb8739253978a1d2a"
 
 [[files]]
 file = "config/biomesoplenty/biomegen.cfg"
@@ -918,7 +918,7 @@ hash = "8fff8dd56686ce22a90e466b3aed5fb985abcca49aa6d416b70d2c139691b10f"
 
 [[files]]
 file = "config/bugtorch/mixins.cfg"
-hash = "6d3bee31d613c185aec10cb57c4b2c241bf78cd5099ec337e184e6326dcfbde9"
+hash = "34a40f6f65fc5bb8f193b64680da055f348e6661de970581bdae6c45cd8bce6f"
 
 [[files]]
 file = "config/bugtorch/mixinsModSupport.cfg"
@@ -1242,7 +1242,7 @@ hash = "e837dc092b502c353910c2ca44befe0965cdb8af28edc15bfe7e5ff8bef6f19c"
 
 [[files]]
 file = "config/mod-director/mods.bundle.json"
-hash = "a9a725fe256e10041c5be8f3614298e8d0c7ca8e080981d67e08b641e1ee5b17"
+hash = "fca8833deacf915dfe987772dab3dc6759554f6c0c9cf51170764e7cf23c7c9f"
 
 [[files]]
 file = "config/multipart.cfg"
@@ -1689,7 +1689,7 @@ metafile = true
 
 [[files]]
 file = "mods.json"
-hash = "8d70e1d9b5eecaecfaa7f04878a69873bc522683ea38da4088d5b915542d42f5"
+hash = "d7f4765ef0589c98ae4b6a07711bf41f6db7022dc1a0eac2055872846711c766"
 
 [[files]]
 file = "mods/adjachests.pw.toml"
@@ -1703,7 +1703,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "6d73de85d322ae1ade431a5dc96c5af816076f97a72d326591c15f97cf468066"
+hash = "a2631b998802a9a628c4dffbac8965dbfe33c7a8f42b00e9c5b1ae234dcac545"
 metafile = true
 
 [[files]]
@@ -1842,11 +1842,6 @@ hash = "dd8aa3f7deddf8db483cf14e45d390da00e0bd526f7d8db301e44dd102e53e29"
 metafile = true
 
 [[files]]
-file = "mods/clay-bucket.pw.toml"
-hash = "50b8da0f2a8a4f96412d8c278364910b02653701fef2bf4808236f1ba687d011"
-metafile = true
-
-[[files]]
 file = "mods/codechickencore.pw.toml"
 hash = "8d40574ad2180f60dd814d8d718c088da1119b781134881467aeeb302913749c"
 metafile = true
@@ -1948,7 +1943,7 @@ metafile = true
 
 [[files]]
 file = "mods/extrabiomesxl.pw.toml"
-hash = "c7969f185e74869bf4f6914365c055421e51170e668f080c0279692b2bafe773"
+hash = "70fe43c1b41bed4af8d67932819ef10e8d4e4d3bd03e2888a21ba8661fc68a5f"
 metafile = true
 
 [[files]]
@@ -2102,6 +2097,11 @@ hash = "4230abce817fdd3e42dcdc30f8cf3ef406d5f3c1bbc9f0c3fd4253de4653366d"
 metafile = true
 
 [[files]]
+file = "mods/loading-screen-bar.pw.toml"
+hash = "7054f2811ea4779b7e620aef2f5ae6d41f3837c902ee222af300c32df221d391"
+metafile = true
+
+[[files]]
 file = "mods/lumi-light-engine.pw.toml"
 hash = "13958169bb0b7ba24ddf0c35656268dcfc1374fa7fbcc8a8689efd18c76357ba"
 metafile = true
@@ -2118,7 +2118,7 @@ metafile = true
 
 [[files]]
 file = "mods/materialis.pw.toml"
-hash = "81559c565fadede7ec07b4eeb4b5677b57d7d88ac5e54a2b44096530877fcdc4"
+hash = "56ee6219b501f6f46fae710abec1ebcb3be2bd5e20ea5f853be9078e492cec63"
 metafile = true
 
 [[files]]
@@ -2312,6 +2312,11 @@ hash = "828e86d57c4ebc2155550b46a03070e4f827181cb7ddb0e2855e5ccbf2c67874"
 metafile = true
 
 [[files]]
+file = "mods/test-dummy.pw.toml"
+hash = "53412edb8c6e7410fee6b6b6e118073e691c8c230194ff8154fa340ce9db71a6"
+metafile = true
+
+[[files]]
 file = "mods/thaumcraft-altar-cull.pw.toml"
 hash = "b511839513f8a2bf06492171db8a837d8dc96de494622dfc369067834630b0ca"
 metafile = true
@@ -2483,7 +2488,7 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/Essential-Textures.zip"
-hash = "4d75dd382ad775072b4cea7baab6608f6ed2cabfe4f89bb1ce0bed62a0d9102c"
+hash = "c7672bdcff28377e8af8ebd60dd85df0c29559b5807569d4f036a27072d1ea83"
 
 [[files]]
 file = "server-icon.pw.toml"

@@ -3,7 +3,7 @@
         "materialis": {
             "name": "Materialis",
             "type": "github",
-            "link": "https://github.com/PufferTeam-ModArchive/Materialis/releases/download/1.2.21/materialis-1.2.21.jar"
+            "link": "https://github.com/PufferTeam-ModArchive/Materialis/releases/download/1.2.26/materialis-1.2.26.jar"
         },
         "adjachests": {
             "name": "AdjaChests",
@@ -19,7 +19,7 @@
         "aether": {
             "name": "Aether Legacy Departure",
             "type": "github",
-            "link": "https://github.com/PufferTeam-ModArchive/AetherLegacyDeparture/releases/download/1.1.1/aether-departure-1.1.1.jar"
+            "link": "https://github.com/PufferTeam-ModArchive/AetherLegacyDeparture/releases/download/1.1.2-JB/aether-departure-1.1.2-JB.jar"
         },
         "alchemy-grate": {
             "name": "Alchemy Grate",
@@ -184,12 +184,6 @@
             "project-id": 844484,
             "file-id": 7113330
         },
-        "clay-bucket": {
-            "name": "Clay Bucket",
-            "type": "curseforge",
-            "project-id": 242568,
-            "file-id": 2293402
-        },
         "codechickencore": {
             "name": "CodeChickenCore Unofficial",
             "type": "curseforge",
@@ -307,7 +301,7 @@
         "extrabiomesxl": {
             "name": "ExtrabiomesXL",
             "type": "github",
-            "link": "https://github.com/PufferTeam-ModArchive/ExtrabiomesXL/releases/download/3.16.12-JB/ExtrabiomesXL-3.16.12-JB.jar"
+            "link": "https://github.com/PufferTeam-ModArchive/ExtrabiomesXL/releases/download/3.16.16-JB/ExtrabiomesXL-3.16.16-JB.jar"
         },
         "falsetweaks": {
             "name": "FalseTweaks",
@@ -477,6 +471,12 @@
             "name": "LittleTiles",
             "type": "github",
             "link": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.1-pre/littletiles-1.6.1-pre.jar"
+        },
+        "loading-screen-bar": {
+            "name": "Loading Screen Bar",
+            "type": "curseforge",
+            "project-id": 602731,
+            "file-id": 3734569
         },
         "lumi-light-engine": {
             "name": "Lumi Light Engine",
@@ -730,6 +730,12 @@
             "type": "curseforge",
             "project-id": 225095,
             "file-id": 2241913
+        },
+        "test-dummy": {
+            "name": "Test Dummy",
+            "type": "curseforge",
+            "project-id": 225738,
+            "file-id": 2265493
         },
         "thaumcraft": {
             "name": "Thaumcraft",

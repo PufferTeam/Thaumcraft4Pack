@@ -1,8 +1,8 @@
 name = "ExtrabiomesXL"
-filename = "ExtrabiomesXL-3.16.12-JB.jar"
+filename = "ExtrabiomesXL-3.16.16-JB.jar"
 side = "both"
 
 [download]
 hash-format = "sha256"
-hash = "6936661894ef199cccc26ef9dd22cd028d725d1b23b755b6a1c26b0e02d945a8"
-url = "https://github.com/PufferTeam-ModArchive/ExtrabiomesXL/releases/download/3.16.12-JB/ExtrabiomesXL-3.16.12-JB.jar"
+hash = "6298fc1dc3f8eed741ab321587ffd6e43380f9d4832e689f3df51586e3f326f8"
+url = "https://github.com/PufferTeam-ModArchive/ExtrabiomesXL/releases/download/3.16.16-JB/ExtrabiomesXL-3.16.16-JB.jar"
