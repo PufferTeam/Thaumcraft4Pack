@@ -1902,6 +1902,10 @@ hash = "b2a116343c4fdaca33e8314a8be7ade8dc1e8b07fc31ff166879ea25d0aec864"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons-alpha11.jar"
+hash = "a1320efe5a59429d3d841f98ab135947ea01f30ff5ca6288e8893550d558e1df"
+
+[[files]]
 file = "mods/dmod.pw.toml"
 hash = "f91314485b454bc0197be0f530227a7da7d621d4b1f1e6a94416c1181b3e2056"
 metafile = true
